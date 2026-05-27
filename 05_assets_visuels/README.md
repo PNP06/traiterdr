@@ -163,3 +163,25 @@ Les tableaux textuels et encadrés sont convertis ou décrits en Markdown. Seuls
 | `p265_figure_01_interactions_melanges.png` | 265 | 266 | Visuel extrait pour le bloc 19 `interactions/melanges` ; dimensions 1167x465. | Source canonique et index visuels. |
 | `p265_figure_02_interactions_melanges.png` | 265 | 266 | Visuel extrait pour le bloc 19 `interactions/melanges` ; dimensions 1211x1183. | Source canonique et index visuels. |
 | `p266_figure_01_interactions_melanges.png` | 266 | 267 | Visuel extrait pour le bloc 19 `interactions/melanges` ; dimensions 943x841. | Source canonique et index visuels. |
+
+## Assets ajoutes - bloc 20
+
+| Fichier | Page imprimee | Page PDF | Description | Utilisation |
+|---|---:|---:|---|---|
+| `p269_figure_01_testing_analyses_produits_biologie.png` | 269 | 270 | Visuel extrait pour le bloc 20 `testing/analyses produits/biologie` ; dimensions 1173x605. | Source canonique et index visuels. |
+| `p275_figure_01_testing_analyses_produits_biologie.png` | 275 | 276 | Visuel extrait pour le bloc 20 `testing/analyses produits/biologie` ; dimensions 971x526. | Source canonique et index visuels. |
+| `p277_figure_01_testing_analyses_produits_biologie.png` | 277 | 278 | Visuel extrait pour le bloc 20 `testing/analyses produits/biologie` ; dimensions 1060x687. | Source canonique et index visuels. |
+| `p278_figure_01_testing_analyses_produits_biologie.png` | 278 | 279 | Visuel extrait pour le bloc 20 `testing/analyses produits/biologie` ; dimensions 1381x595. | Source canonique et index visuels. |
+| `p280_figure_01_testing_analyses_produits_biologie.png` | 280 | 281 | Visuel extrait pour le bloc 20 `testing/analyses produits/biologie` ; dimensions 1097x731. | Source canonique et index visuels. |
+| `p282_figure_01_testing_analyses_produits_biologie.png` | 282 | 283 | Visuel extrait pour le bloc 20 `testing/analyses produits/biologie` ; dimensions 1334x735. | Source canonique et index visuels. |
+| `p282_figure_02_testing_analyses_produits_biologie.png` | 282 | 283 | Visuel extrait pour le bloc 20 `testing/analyses produits/biologie` ; dimensions 938x317. | Source canonique et index visuels. |
+| `p284_figure_01_testing_analyses_produits_biologie.png` | 284 | 285 | Visuel extrait pour le bloc 20 `testing/analyses produits/biologie` ; dimensions 727x937. | Source canonique et index visuels. |
+| `p285_figure_01_testing_analyses_produits_biologie.png` | 285 | 286 | Visuel extrait pour le bloc 20 `testing/analyses produits/biologie` ; dimensions 872x430. | Source canonique et index visuels. |
+| `p286_figure_01_testing_analyses_produits_biologie.png` | 286 | 287 | Visuel extrait pour le bloc 20 `testing/analyses produits/biologie` ; dimensions 1034x610. | Source canonique et index visuels. |
+| `p286_figure_02_testing_analyses_produits_biologie.png` | 286 | 287 | Visuel extrait pour le bloc 20 `testing/analyses produits/biologie` ; dimensions 1402x756. | Source canonique et index visuels. |
+| `p287_figure_01_testing_analyses_produits_biologie.png` | 287 | 288 | Visuel extrait pour le bloc 20 `testing/analyses produits/biologie` ; dimensions 938x669. | Source canonique et index visuels. |
+| `p288_figure_01_testing_analyses_produits_biologie.png` | 288 | 289 | Visuel extrait pour le bloc 20 `testing/analyses produits/biologie` ; dimensions 949x496. | Source canonique et index visuels. |
+| `p289_figure_01_testing_analyses_produits_biologie.png` | 289 | 290 | Visuel extrait pour le bloc 20 `testing/analyses produits/biologie` ; dimensions 765x594. | Source canonique et index visuels. |
+| `p290_figure_01_testing_analyses_produits_biologie.png` | 290 | 291 | Visuel extrait pour le bloc 20 `testing/analyses produits/biologie` ; dimensions 1325x883. | Source canonique et index visuels. |
+| `p290_figure_02_testing_analyses_produits_biologie.png` | 290 | 291 | Visuel extrait pour le bloc 20 `testing/analyses produits/biologie` ; dimensions 641x616. | Source canonique et index visuels. |
+| `p292_figure_01_testing_analyses_produits_biologie.png` | 292 | 293 | Visuel extrait pour le bloc 20 `testing/analyses produits/biologie` ; dimensions 1457x911. | Source canonique et index visuels. |

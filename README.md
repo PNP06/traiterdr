@@ -45,10 +45,11 @@ Exemple : page imprimee 45 = page PDF 46 ; page imprimee 51 = page PDF 52.
 | Phase 1 | bloc 17 - allergie/convulsions/hydratation/thermie | 198-222 | 199-223 | extrait provisoire |
 | Phase 1 | bloc 18 - badtrip/overdose | 223-247 | 224-248 | extrait provisoire |
 | Phase 1 | bloc 19 - interactions/melanges | 248-267 | 249-268 | extrait provisoire |
+| Phase 1 | bloc 20 - testing/analyses produits/biologie | 268-293 | 269-294 | extrait provisoire |
 
 ## Prochaine etape
 
-Bloc 20 : `01_source_canonique/19_testing_analyses_produits_biologie.md`, pages imprimees 268-293 / pages PDF 269-294.
+Bloc 21 : `01_source_canonique/20_descente_sevrage_addiction_dependance.md`, pages imprimees 294-332 / pages PDF 295-333.
 
 ## Indexation ChatGPT / IA
 

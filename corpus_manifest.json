@@ -6,35 +6,35 @@
   "files": [
     {
       "path": "00_pilotage/00_index_global.md",
-      "size_bytes": 4591
+      "size_bytes": 4830
     },
     {
       "path": "00_pilotage/01_matrice_couverture.md",
-      "size_bytes": 140051
+      "size_bytes": 155547
     },
     {
       "path": "00_pilotage/02_index_visuels_tableaux_figures.md",
-      "size_bytes": 25743
+      "size_bytes": 30671
     },
     {
       "path": "00_pilotage/03_index_notions.md",
-      "size_bytes": 151187
+      "size_bytes": 158956
     },
     {
       "path": "00_pilotage/04_glossaire.md",
-      "size_bytes": 46312
+      "size_bytes": 49433
     },
     {
       "path": "00_pilotage/05_journal_extraction.md",
-      "size_bytes": 13278
+      "size_bytes": 13839
     },
     {
       "path": "00_pilotage/06_pages_a_relire.md",
-      "size_bytes": 17660
+      "size_bytes": 20869
     },
     {
       "path": "00_pilotage/07_decisions_documentaires.md",
-      "size_bytes": 8917
+      "size_bytes": 9127
     },
     {
       "path": "01_source_canonique/00_front_matter_suivi_remerciements.md",
@@ -114,7 +114,7 @@
     },
     {
       "path": "01_source_canonique/19_testing_analyses_produits_biologie.md",
-      "size_bytes": 1007
+      "size_bytes": 96673
     },
     {
       "path": "01_source_canonique/20_descente_sevrage_addiction_dependance.md",
@@ -282,7 +282,7 @@
     },
     {
       "path": "04_substances_mentions/00_index_substances.md",
-      "size_bytes": 22880
+      "size_bytes": 24283
     },
     {
       "path": "04_substances_mentions/3mmc_chemsex.md",
@@ -593,12 +593,80 @@
       "size_bytes": 170583
     },
     {
+      "path": "05_assets_visuels/p269_figure_01_testing_analyses_produits_biologie.png",
+      "size_bytes": 455989
+    },
+    {
+      "path": "05_assets_visuels/p275_figure_01_testing_analyses_produits_biologie.png",
+      "size_bytes": 173839
+    },
+    {
+      "path": "05_assets_visuels/p277_figure_01_testing_analyses_produits_biologie.png",
+      "size_bytes": 513603
+    },
+    {
+      "path": "05_assets_visuels/p278_figure_01_testing_analyses_produits_biologie.png",
+      "size_bytes": 496602
+    },
+    {
+      "path": "05_assets_visuels/p280_figure_01_testing_analyses_produits_biologie.png",
+      "size_bytes": 585001
+    },
+    {
+      "path": "05_assets_visuels/p282_figure_01_testing_analyses_produits_biologie.png",
+      "size_bytes": 805738
+    },
+    {
+      "path": "05_assets_visuels/p282_figure_02_testing_analyses_produits_biologie.png",
+      "size_bytes": 55415
+    },
+    {
+      "path": "05_assets_visuels/p284_figure_01_testing_analyses_produits_biologie.png",
+      "size_bytes": 930055
+    },
+    {
+      "path": "05_assets_visuels/p285_figure_01_testing_analyses_produits_biologie.png",
+      "size_bytes": 200192
+    },
+    {
+      "path": "05_assets_visuels/p286_figure_01_testing_analyses_produits_biologie.png",
+      "size_bytes": 474503
+    },
+    {
+      "path": "05_assets_visuels/p286_figure_02_testing_analyses_produits_biologie.png",
+      "size_bytes": 44932
+    },
+    {
+      "path": "05_assets_visuels/p287_figure_01_testing_analyses_produits_biologie.png",
+      "size_bytes": 232605
+    },
+    {
+      "path": "05_assets_visuels/p288_figure_01_testing_analyses_produits_biologie.png",
+      "size_bytes": 232388
+    },
+    {
+      "path": "05_assets_visuels/p289_figure_01_testing_analyses_produits_biologie.png",
+      "size_bytes": 50387
+    },
+    {
+      "path": "05_assets_visuels/p290_figure_01_testing_analyses_produits_biologie.png",
+      "size_bytes": 644996
+    },
+    {
+      "path": "05_assets_visuels/p290_figure_02_testing_analyses_produits_biologie.png",
+      "size_bytes": 55535
+    },
+    {
+      "path": "05_assets_visuels/p292_figure_01_testing_analyses_produits_biologie.png",
+      "size_bytes": 872221
+    },
+    {
       "path": "05_assets_visuels/README.md",
-      "size_bytes": 14464
+      "size_bytes": 18011
     },
     {
       "path": "INDEX.md",
-      "size_bytes": 10636
+      "size_bytes": 11225
     },
     {
       "path": "llms.txt",
@@ -606,7 +674,7 @@
     },
     {
       "path": "README.md",
-      "size_bytes": 3673
+      "size_bytes": 3776
     },
     {
       "path": "sources/traite/manifest_html_clean.json",

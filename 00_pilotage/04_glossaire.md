@@ -396,3 +396,29 @@
 | Le site Drugs.com | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 19, p. 248-267. | provisoire |
 | Le site Medscape interaction checker | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 19, p. 248-267. | provisoire |
 | Analyser des interactions | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 19, p. 248-267. | provisoire |
+
+## Bloc 20 - testing/analyses produits/biologie
+
+| Terme | Definition courte | Source | Statut |
+|---|---|---|---|
+| Analyses des produits et analyses biologiques | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 20, p. 268-293. | provisoire |
+| Ou faire tester ses produits ? | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 20, p. 268-293. | provisoire |
+| État des lieux du marché | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 20, p. 268-293. | provisoire |
+| Approche globale OFDT | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 20, p. 268-293. | provisoire |
+| Analyse européenne | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 20, p. 268-293. | provisoire |
+| Zoom sur la 3-MMC | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 20, p. 268-293. | provisoire |
+| Zoom sur la MDMA en comprimé (Taz/ ecstasy) | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 20, p. 268-293. | provisoire |
+| Relation dose-effet | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 20, p. 268-293. | provisoire |
+| Retour des études cliniques | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 20, p. 268-293. | provisoire |
+| Cristaux Versus Taz | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 20, p. 268-293. | provisoire |
+| Evolution de la quantité de MDMA par comprimé | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 20, p. 268-293. | provisoire |
+| Justification de l’évolution de la teneur en MDMA | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 20, p. 268-293. | provisoire |
+| Les différents types de tests | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 20, p. 268-293. | provisoire |
+| Les tests colorimétriques | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 20, p. 268-293. | provisoire |
+| Principe de fonctionnement | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 20, p. 268-293. | provisoire |
+| Limites | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 20, p. 268-293. | provisoire |
+| La chromatographie sur couche mince | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 20, p. 268-293. | provisoire |
+| L’infrarouge | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 20, p. 268-293. | provisoire |
+| L’HPLC | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 20, p. 268-293. | provisoire |
+| La spectrométrie de masse | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 20, p. 268-293. | provisoire |
+| Résonance Magnétique Nucléaire et Imagerie par Résonance Magnétique | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 20, p. 268-293. | provisoire |

@@ -163,3 +163,25 @@
 | 265 | Verifier lisibilite, titre visible et cadrage de `p265_figure_01_interactions_melanges.png`. | visuel | moyenne | Ouvrir l'asset et comparer au PDF page 266. |
 | 265 | Verifier lisibilite, titre visible et cadrage de `p265_figure_02_interactions_melanges.png`. | visuel | moyenne | Ouvrir l'asset et comparer au PDF page 266. |
 | 266 | Verifier lisibilite, titre visible et cadrage de `p266_figure_01_interactions_melanges.png`. | visuel | moyenne | Ouvrir l'asset et comparer au PDF page 267. |
+
+## Bloc 20 - testing/analyses produits/biologie
+
+| Page | Probleme | Type | Priorite | Action recommandee |
+|---:|---|---|---|---|
+| 269 | Verifier lisibilite, titre visible et cadrage de `p269_figure_01_testing_analyses_produits_biologie.png`. | visuel | moyenne | Ouvrir l'asset et comparer au PDF page 270. |
+| 275 | Verifier lisibilite, titre visible et cadrage de `p275_figure_01_testing_analyses_produits_biologie.png`. | visuel | moyenne | Ouvrir l'asset et comparer au PDF page 276. |
+| 277 | Verifier lisibilite, titre visible et cadrage de `p277_figure_01_testing_analyses_produits_biologie.png`. | visuel | moyenne | Ouvrir l'asset et comparer au PDF page 278. |
+| 278 | Verifier lisibilite, titre visible et cadrage de `p278_figure_01_testing_analyses_produits_biologie.png`. | visuel | moyenne | Ouvrir l'asset et comparer au PDF page 279. |
+| 280 | Verifier lisibilite, titre visible et cadrage de `p280_figure_01_testing_analyses_produits_biologie.png`. | visuel | moyenne | Ouvrir l'asset et comparer au PDF page 281. |
+| 282 | Verifier lisibilite, titre visible et cadrage de `p282_figure_01_testing_analyses_produits_biologie.png`. | visuel | moyenne | Ouvrir l'asset et comparer au PDF page 283. |
+| 282 | Verifier lisibilite, titre visible et cadrage de `p282_figure_02_testing_analyses_produits_biologie.png`. | visuel | moyenne | Ouvrir l'asset et comparer au PDF page 283. |
+| 284 | Verifier lisibilite, titre visible et cadrage de `p284_figure_01_testing_analyses_produits_biologie.png`. | visuel | moyenne | Ouvrir l'asset et comparer au PDF page 285. |
+| 285 | Verifier lisibilite, titre visible et cadrage de `p285_figure_01_testing_analyses_produits_biologie.png`. | visuel | moyenne | Ouvrir l'asset et comparer au PDF page 286. |
+| 286 | Verifier lisibilite, titre visible et cadrage de `p286_figure_01_testing_analyses_produits_biologie.png`. | visuel | moyenne | Ouvrir l'asset et comparer au PDF page 287. |
+| 286 | Verifier lisibilite, titre visible et cadrage de `p286_figure_02_testing_analyses_produits_biologie.png`. | visuel | moyenne | Ouvrir l'asset et comparer au PDF page 287. |
+| 287 | Verifier lisibilite, titre visible et cadrage de `p287_figure_01_testing_analyses_produits_biologie.png`. | visuel | moyenne | Ouvrir l'asset et comparer au PDF page 288. |
+| 288 | Verifier lisibilite, titre visible et cadrage de `p288_figure_01_testing_analyses_produits_biologie.png`. | visuel | moyenne | Ouvrir l'asset et comparer au PDF page 289. |
+| 289 | Verifier lisibilite, titre visible et cadrage de `p289_figure_01_testing_analyses_produits_biologie.png`. | visuel | moyenne | Ouvrir l'asset et comparer au PDF page 290. |
+| 290 | Verifier lisibilite, titre visible et cadrage de `p290_figure_01_testing_analyses_produits_biologie.png`. | visuel | moyenne | Ouvrir l'asset et comparer au PDF page 291. |
+| 290 | Verifier lisibilite, titre visible et cadrage de `p290_figure_02_testing_analyses_produits_biologie.png`. | visuel | moyenne | Ouvrir l'asset et comparer au PDF page 291. |
+| 292 | Verifier lisibilite, titre visible et cadrage de `p292_figure_01_testing_analyses_produits_biologie.png`. | visuel | moyenne | Ouvrir l'asset et comparer au PDF page 293. |

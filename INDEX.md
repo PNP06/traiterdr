@@ -6,14 +6,14 @@ Index racine du corpus documentaire `traiterdr`.
 
 | Chemin | Taille octets |
 |---|---:|
-| `00_pilotage/00_index_global.md` | 4591 |
-| `00_pilotage/01_matrice_couverture.md` | 140051 |
-| `00_pilotage/02_index_visuels_tableaux_figures.md` | 25743 |
-| `00_pilotage/03_index_notions.md` | 151187 |
-| `00_pilotage/04_glossaire.md` | 46312 |
-| `00_pilotage/05_journal_extraction.md` | 13278 |
-| `00_pilotage/06_pages_a_relire.md` | 17660 |
-| `00_pilotage/07_decisions_documentaires.md` | 8917 |
+| `00_pilotage/00_index_global.md` | 4830 |
+| `00_pilotage/01_matrice_couverture.md` | 155547 |
+| `00_pilotage/02_index_visuels_tableaux_figures.md` | 30671 |
+| `00_pilotage/03_index_notions.md` | 158956 |
+| `00_pilotage/04_glossaire.md` | 49433 |
+| `00_pilotage/05_journal_extraction.md` | 13839 |
+| `00_pilotage/06_pages_a_relire.md` | 20869 |
+| `00_pilotage/07_decisions_documentaires.md` | 9127 |
 | `01_source_canonique/00_front_matter_suivi_remerciements.md` | 32018 |
 | `01_source_canonique/01_introduction_cadre_objectif_sources.md` | 39807 |
 | `01_source_canonique/02_mythes_croyances_heuristiques_biais_sophismes.md` | 39545 |
@@ -33,7 +33,7 @@ Index racine du corpus documentaire `traiterdr`.
 | `01_source_canonique/16_allergie_convulsions_hydratation_thermie.md` | 93031 |
 | `01_source_canonique/17_badtrip_overdose.md` | 93805 |
 | `01_source_canonique/18_interactions_melanges.md` | 70312 |
-| `01_source_canonique/19_testing_analyses_produits_biologie.md` | 1007 |
+| `01_source_canonique/19_testing_analyses_produits_biologie.md` | 96673 |
 | `01_source_canonique/20_descente_sevrage_addiction_dependance.md` | 1010 |
 | `01_source_canonique/21_cancer.md` | 979 |
 | `02_themes_transversaux/00_index_themes.md` | 125 |
@@ -75,7 +75,7 @@ Index racine du corpus documentaire `traiterdr`.
 | `03_derives_culturerdr/08_no_go_automation.md` | 4970 |
 | `03_derives_culturerdr/09_alertes_et_signaux_candidates.md` | 240 |
 | `03_derives_culturerdr/10_priorisation_future_academie.md` | 239 |
-| `04_substances_mentions/00_index_substances.md` | 22880 |
+| `04_substances_mentions/00_index_substances.md` | 24283 |
 | `04_substances_mentions/3mmc_chemsex.md` | 347 |
 | `04_substances_mentions/alcool.md` | 341 |
 | `04_substances_mentions/autres_substances.md` | 352 |
@@ -153,10 +153,27 @@ Index racine du corpus documentaire `traiterdr`.
 | `05_assets_visuels/p265_figure_01_interactions_melanges.png` | 56766 |
 | `05_assets_visuels/p265_figure_02_interactions_melanges.png` | 160535 |
 | `05_assets_visuels/p266_figure_01_interactions_melanges.png` | 170583 |
-| `05_assets_visuels/README.md` | 14464 |
-| `INDEX.md` | 10636 |
+| `05_assets_visuels/p269_figure_01_testing_analyses_produits_biologie.png` | 455989 |
+| `05_assets_visuels/p275_figure_01_testing_analyses_produits_biologie.png` | 173839 |
+| `05_assets_visuels/p277_figure_01_testing_analyses_produits_biologie.png` | 513603 |
+| `05_assets_visuels/p278_figure_01_testing_analyses_produits_biologie.png` | 496602 |
+| `05_assets_visuels/p280_figure_01_testing_analyses_produits_biologie.png` | 585001 |
+| `05_assets_visuels/p282_figure_01_testing_analyses_produits_biologie.png` | 805738 |
+| `05_assets_visuels/p282_figure_02_testing_analyses_produits_biologie.png` | 55415 |
+| `05_assets_visuels/p284_figure_01_testing_analyses_produits_biologie.png` | 930055 |
+| `05_assets_visuels/p285_figure_01_testing_analyses_produits_biologie.png` | 200192 |
+| `05_assets_visuels/p286_figure_01_testing_analyses_produits_biologie.png` | 474503 |
+| `05_assets_visuels/p286_figure_02_testing_analyses_produits_biologie.png` | 44932 |
+| `05_assets_visuels/p287_figure_01_testing_analyses_produits_biologie.png` | 232605 |
+| `05_assets_visuels/p288_figure_01_testing_analyses_produits_biologie.png` | 232388 |
+| `05_assets_visuels/p289_figure_01_testing_analyses_produits_biologie.png` | 50387 |
+| `05_assets_visuels/p290_figure_01_testing_analyses_produits_biologie.png` | 644996 |
+| `05_assets_visuels/p290_figure_02_testing_analyses_produits_biologie.png` | 55535 |
+| `05_assets_visuels/p292_figure_01_testing_analyses_produits_biologie.png` | 872221 |
+| `05_assets_visuels/README.md` | 18011 |
+| `INDEX.md` | 11225 |
 | `llms.txt` | 2817 |
-| `README.md` | 3673 |
+| `README.md` | 3776 |
 | `sources/traite/manifest_html_clean.json` | 22750 |
 | `sources/traite/rapport_nettoyage_html.md` | 4856 |
 | `sources/traite/traite_rdr_version_html_clean.md` | 941632 |

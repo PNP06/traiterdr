@@ -93,3 +93,9 @@
 | Date | Bloc traite | Pages | Fichiers modifies | Problemes rencontres | Decisions prises | Prochaine etape |
 |---|---|---|---|---|---|---|
 | 2026-05-27 | Phase 1 bloc 19 - interactions/melanges | imprimees 248-267 / PDF 249-268 | `01_source_canonique/18_interactions_melanges.md`, pilotage, assets, index racine, manifeste | Extraction automatique a relire ; visuels a controler | Conserver contenu source complet dans le fichier canonique ; ne pas creer de module final | Bloc 20 |
+
+## Bloc 20 - testing/analyses produits/biologie
+
+| Date | Bloc traite | Pages | Fichiers modifies | Problemes rencontres | Decisions prises | Prochaine etape |
+|---|---|---|---|---|---|---|
+| 2026-05-27 | Phase 1 bloc 20 - testing/analyses produits/biologie | imprimees 268-293 / PDF 269-294 | `01_source_canonique/19_testing_analyses_produits_biologie.md`, pilotage, assets, index racine, manifeste | Extraction automatique a relire ; visuels a controler | Conserver contenu source complet dans le fichier canonique ; ne pas creer de module final | Bloc 21 |
