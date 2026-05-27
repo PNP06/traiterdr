@@ -105,3 +105,10 @@
 | Date | Bloc traite | Pages | Fichiers modifies | Problemes rencontres | Decisions prises | Prochaine etape |
 |---|---|---|---|---|---|---|
 | 2026-05-27 | Phase 1 bloc 21 - descente/sevrage/addiction/dependance/cancer | imprimees 294-332 / PDF 295-333 | `01_source_canonique/20_descente_sevrage_addiction_dependance.md`; `01_source_canonique/21_cancer.md`, pilotage, assets, index racine, manifeste | Extraction automatique a relire ; visuels a controler | Conserver contenu source complet dans le fichier canonique ; ne pas creer de module final | Controle final Phase 1 puis Phase 2 proposee |
+
+
+## Phase 2 themes transversaux
+
+| Date | Bloc traite | Pages | Fichiers modifies | Problemes rencontres | Decisions prises | Prochaine etape |
+|---|---|---|---|---|---|---|
+| 2026-05-27 | Phase 2 - 27 themes transversaux | sources 0-332 | `02_themes_transversaux/` ; index | assemblage automatique a relire | sources canoniques seules, statut provisoire | Phase 3 derives candidats |

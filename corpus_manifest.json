@@ -6,7 +6,7 @@
   "files": [
     {
       "path": "00_pilotage/00_index_global.md",
-      "size_bytes": 5296
+      "size_bytes": 5405
     },
     {
       "path": "00_pilotage/01_matrice_couverture.md",
@@ -26,7 +26,7 @@
     },
     {
       "path": "00_pilotage/05_journal_extraction.md",
-      "size_bytes": 14496
+      "size_bytes": 14882
     },
     {
       "path": "00_pilotage/06_pages_a_relire.md",
@@ -134,115 +134,115 @@
     },
     {
       "path": "02_themes_transversaux/00_index_themes.md",
-      "size_bytes": 125
+      "size_bytes": 9029
     },
     {
       "path": "02_themes_transversaux/01_posture_rdr_cadre_legal_ethique.md",
-      "size_bytes": 670
+      "size_bytes": 10969
     },
     {
       "path": "02_themes_transversaux/02_publics_prevention_secondaire_non_stigmatisation.md",
-      "size_bytes": 687
+      "size_bytes": 9192
     },
     {
       "path": "02_themes_transversaux/03_croyances_biais_sophismes_decision.md",
-      "size_bytes": 673
+      "size_bytes": 11554
     },
     {
       "path": "02_themes_transversaux/04_mythes_specifiques_et_recits_sociaux.md",
-      "size_bytes": 675
+      "size_bytes": 11172
     },
     {
       "path": "02_themes_transversaux/05_methode_scientifique_preuves_causalite_incertitude.md",
-      "size_bytes": 689
+      "size_bytes": 10736
     },
     {
       "path": "02_themes_transversaux/06_gestion_des_risques_gravite_probabilite_barrieres.md",
-      "size_bytes": 688
+      "size_bytes": 7538
     },
     {
       "path": "02_themes_transversaux/07_neurobiologie_synapses_neurotransmetteurs_circuits.md",
-      "size_bytes": 689
+      "size_bytes": 7992
     },
     {
       "path": "02_themes_transversaux/08_pk_pd_absorption_distribution_metabolisme_elimination.md",
-      "size_bytes": 692
+      "size_bytes": 9653
     },
     {
       "path": "02_themes_transversaux/09_tolerance_accoutumance_tachyphylaxie_developpement_15_25.md",
-      "size_bytes": 695
+      "size_bytes": 7453
     },
     {
       "path": "02_themes_transversaux/10_psychologie_placebo_nocebo_troubles_psychologiques.md",
-      "size_bytes": 689
+      "size_bytes": 8242
     },
     {
       "path": "02_themes_transversaux/11_classifications_dangerosite_dommages_toxicite.md",
-      "size_bytes": 684
+      "size_bytes": 9863
     },
     {
       "path": "02_themes_transversaux/12_juridique_classifications_risques_et_limites.md",
-      "size_bytes": 683
+      "size_bytes": 10775
     },
     {
       "path": "02_themes_transversaux/13_produit_marche_testing_analyses_biologiques_alertes.md",
-      "size_bytes": 690
+      "size_bytes": 9537
     },
     {
       "path": "02_themes_transversaux/14_rc_nps_darknet_marche_illicite_incertitude.md",
-      "size_bytes": 681
+      "size_bytes": 9717
     },
     {
       "path": "02_themes_transversaux/15_dose_exposition_frequence_conversion_seuils_limites.md",
-      "size_bytes": 690
+      "size_bytes": 7955
     },
     {
       "path": "02_themes_transversaux/16_polyconsommations_interactions_methodes_analyse.md",
-      "size_bytes": 686
+      "size_bytes": 9537
     },
     {
       "path": "02_themes_transversaux/17_contexte_set_setting_preparation_sommeil_fatigue.md",
-      "size_bytes": 687
+      "size_bytes": 8939
     },
     {
       "path": "02_themes_transversaux/18_thermie_hydratation_convulsions_allergies.md",
-      "size_bytes": 680
+      "size_bytes": 9950
     },
     {
       "path": "02_themes_transversaux/19_sexualite_consentement_soumission_vulnerabilite.md",
-      "size_bytes": 686
+      "size_bytes": 8594
     },
     {
       "path": "02_themes_transversaux/20_badtrip_crise_mal_etre_accompagnement.md",
-      "size_bytes": 676
+      "size_bytes": 7025
     },
     {
       "path": "02_themes_transversaux/21_overdose_intoxication_signaux_secours.md",
-      "size_bytes": 676
+      "size_bytes": 8182
     },
     {
       "path": "02_themes_transversaux/22_descente_recuperation_sevrage.md",
-      "size_bytes": 668
+      "size_bytes": 8218
     },
     {
       "path": "02_themes_transversaux/23_addiction_dependance_craving_usages_problematiques.md",
-      "size_bytes": 689
+      "size_bytes": 10548
     },
     {
       "path": "02_themes_transversaux/24_risques_chroniques_cancer.md",
-      "size_bytes": 664
+      "size_bytes": 9128
     },
     {
       "path": "02_themes_transversaux/25_sante_publique_economie_prix_politiques.md",
-      "size_bytes": 678
+      "size_bytes": 10317
     },
     {
       "path": "02_themes_transversaux/26_communication_pairs_entourage_professionnels.md",
-      "size_bytes": 683
+      "size_bytes": 11010
     },
     {
       "path": "02_themes_transversaux/27_messages_rdr_terrain_ton_operationnel.md",
-      "size_bytes": 676
+      "size_bytes": 9195
     },
     {
       "path": "03_derives_culturerdr/00_index_derives.md",
@@ -738,7 +738,7 @@
     },
     {
       "path": "INDEX.md",
-      "size_bytes": 14187
+      "size_bytes": 14224
     },
     {
       "path": "llms.txt",

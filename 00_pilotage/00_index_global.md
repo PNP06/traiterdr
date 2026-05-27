@@ -47,3 +47,7 @@ Les themes transversaux et derives CultureRDR restent en attente tant que la cou
 ## Controle qualite Phase 1.5
 
 - Controle documentaire automatise : `00_pilotage/09_controle_qualite_phase1.md`.
+
+## Phase 2 - themes transversaux
+
+- Themes 01 a 27 assembles provisoirement dans `02_themes_transversaux/`.
