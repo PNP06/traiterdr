@@ -107,3 +107,13 @@ Les tableaux textuels et encadrés sont convertis ou décrits en Markdown. Seuls
 |---|---:|---:|---|---|
 | `p145_figure_01_psychologie_placebo_nocebo_trouble.png` | 145 | 146 | Visuel extrait pour le bloc 13 `psychologie/placebo/nocebo/troubles psychologiques` ; dimensions 910x568. | Source canonique et index visuels. |
 | `p147_figure_01_psychologie_placebo_nocebo_trouble.png` | 147 | 148 | Visuel extrait pour le bloc 13 `psychologie/placebo/nocebo/troubles psychologiques` ; dimensions 945x883. | Source canonique et index visuels. |
+
+## Assets ajoutes - bloc 14
+
+| Fichier | Page imprimee | Page PDF | Description | Utilisation |
+|---|---:|---:|---|---|
+| `p160_figure_01_classifications_substances.png` | 160 | 161 | Visuel extrait pour le bloc 14 `classifications substances` ; dimensions 1247x1293. | Source canonique et index visuels. |
+| `p162_figure_01_classifications_substances.png` | 162 | 163 | Visuel extrait pour le bloc 14 `classifications substances` ; dimensions 889x875. | Source canonique et index visuels. |
+| `p168_figure_01_classifications_substances.png` | 168 | 169 | Visuel extrait pour le bloc 14 `classifications substances` ; dimensions 1209x986. | Source canonique et index visuels. |
+| `p169_figure_01_classifications_substances.png` | 169 | 170 | Visuel extrait pour le bloc 14 `classifications substances` ; dimensions 1113x862. | Source canonique et index visuels. |
+| `p178_figure_01_classifications_substances.png` | 178 | 179 | Visuel extrait pour le bloc 14 `classifications substances` ; dimensions 784x532. | Source canonique et index visuels. |

@@ -95,3 +95,13 @@
 |---:|---|---|---|---|---|---|---|
 | 145 | image / figure | a confirmer | Visuel extrait depuis le PDF, dimensions 910x568. | Texte visible a controler dans l'image. | Conserve le support visuel du passage source. | `05_assets_visuels/p145_figure_01_psychologie_placebo_nocebo_trouble.png` | extrait ; a relire |
 | 147 | image / figure | a confirmer | Visuel extrait depuis le PDF, dimensions 945x883. | Texte visible a controler dans l'image. | Conserve le support visuel du passage source. | `05_assets_visuels/p147_figure_01_psychologie_placebo_nocebo_trouble.png` | extrait ; a relire |
+
+## Bloc 14 - classifications substances
+
+| Page | Type | Titre visible | Description | Donnees extraites | Importance RDR | Fichier cible | Statut |
+|---:|---|---|---|---|---|---|---|
+| 160 | image / figure | a confirmer | Visuel extrait depuis le PDF, dimensions 1247x1293. | Texte visible a controler dans l'image. | Conserve le support visuel du passage source. | `05_assets_visuels/p160_figure_01_classifications_substances.png` | extrait ; a relire |
+| 162 | image / figure | a confirmer | Visuel extrait depuis le PDF, dimensions 889x875. | Texte visible a controler dans l'image. | Conserve le support visuel du passage source. | `05_assets_visuels/p162_figure_01_classifications_substances.png` | extrait ; a relire |
+| 168 | image / figure | a confirmer | Visuel extrait depuis le PDF, dimensions 1209x986. | Texte visible a controler dans l'image. | Conserve le support visuel du passage source. | `05_assets_visuels/p168_figure_01_classifications_substances.png` | extrait ; a relire |
+| 169 | image / figure | a confirmer | Visuel extrait depuis le PDF, dimensions 1113x862. | Texte visible a controler dans l'image. | Conserve le support visuel du passage source. | `05_assets_visuels/p169_figure_01_classifications_substances.png` | extrait ; a relire |
+| 178 | image / figure | a confirmer | Visuel extrait depuis le PDF, dimensions 784x532. | Texte visible a controler dans l'image. | Conserve le support visuel du passage source. | `05_assets_visuels/p178_figure_01_classifications_substances.png` | extrait ; a relire |

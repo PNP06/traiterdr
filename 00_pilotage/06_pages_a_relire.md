@@ -106,3 +106,13 @@
 | 145 | Verifier lisibilite, titre visible et cadrage de `p145_figure_01_psychologie_placebo_nocebo_trouble.png`. | visuel | moyenne | Ouvrir l'asset et comparer au PDF page 146. |
 | 147 | Verifier lisibilite, titre visible et cadrage de `p147_figure_01_psychologie_placebo_nocebo_trouble.png`. | visuel | moyenne | Ouvrir l'asset et comparer au PDF page 148. |
 | 140-156 | Note auteur ou TODO possible dans le passage. | statut documentaire | moyenne | Conserver comme statut, ne pas traiter comme fait definitif. |
+
+## Bloc 14 - classifications substances
+
+| Page | Probleme | Type | Priorite | Action recommandee |
+|---:|---|---|---|---|
+| 160 | Verifier lisibilite, titre visible et cadrage de `p160_figure_01_classifications_substances.png`. | visuel | moyenne | Ouvrir l'asset et comparer au PDF page 161. |
+| 162 | Verifier lisibilite, titre visible et cadrage de `p162_figure_01_classifications_substances.png`. | visuel | moyenne | Ouvrir l'asset et comparer au PDF page 163. |
+| 168 | Verifier lisibilite, titre visible et cadrage de `p168_figure_01_classifications_substances.png`. | visuel | moyenne | Ouvrir l'asset et comparer au PDF page 169. |
+| 169 | Verifier lisibilite, titre visible et cadrage de `p169_figure_01_classifications_substances.png`. | visuel | moyenne | Ouvrir l'asset et comparer au PDF page 170. |
+| 178 | Verifier lisibilite, titre visible et cadrage de `p178_figure_01_classifications_substances.png`. | visuel | moyenne | Ouvrir l'asset et comparer au PDF page 179. |

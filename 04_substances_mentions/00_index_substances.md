@@ -101,3 +101,16 @@ Décision : les mentions du bloc 3 restent des exemples argumentatifs utilisés 
 | Substance ou famille | Type de mention | Pages | Fichier source actuel | Fichier source futur | Statut |
 |---|---|---:|---|---|---|
 | aucune substance specifique nouvelle | Bloc transversal sans monographie substance. | - | - | - | aucune action |
+
+## Mentions ajoutees par le bloc 14
+
+| Substance ou famille | Type de mention | Pages | Fichier source actuel | Fichier source futur | Statut |
+|---|---|---:|---|---|---|
+| alcool | Mention ou traitement dans le bloc 14 `classifications substances`. | 157-181 | `01_source_canonique/13_classifications_substances.md` | A evaluer apres Phase 1 avant creation ou remplissage d'une monographie substance. | mention indexee ; monographie non creee automatiquement |
+| tabac / nicotine | Mention ou traitement dans le bloc 14 `classifications substances`. | 157-181 | `01_source_canonique/13_classifications_substances.md` | A evaluer apres Phase 1 avant creation ou remplissage d'une monographie substance. | mention indexee ; monographie non creee automatiquement |
+| cannabis | Mention ou traitement dans le bloc 14 `classifications substances`. | 157-181 | `01_source_canonique/13_classifications_substances.md` | A evaluer apres Phase 1 avant creation ou remplissage d'une monographie substance. | mention indexee ; monographie non creee automatiquement |
+| MDMA | Mention ou traitement dans le bloc 14 `classifications substances`. | 157-181 | `01_source_canonique/13_classifications_substances.md` | A evaluer apres Phase 1 avant creation ou remplissage d'une monographie substance. | mention indexee ; monographie non creee automatiquement |
+| ketamine | Mention ou traitement dans le bloc 14 `classifications substances`. | 157-181 | `01_source_canonique/13_classifications_substances.md` | A evaluer apres Phase 1 avant creation ou remplissage d'une monographie substance. | mention indexee ; monographie non creee automatiquement |
+| cocaine | Mention ou traitement dans le bloc 14 `classifications substances`. | 157-181 | `01_source_canonique/13_classifications_substances.md` | A evaluer apres Phase 1 avant creation ou remplissage d'une monographie substance. | mention indexee ; monographie non creee automatiquement |
+| opioides | Mention ou traitement dans le bloc 14 `classifications substances`. | 157-181 | `01_source_canonique/13_classifications_substances.md` | A evaluer apres Phase 1 avant creation ou remplissage d'une monographie substance. | mention indexee ; monographie non creee automatiquement |
+| benzodiazepines | Mention ou traitement dans le bloc 14 `classifications substances`. | 157-181 | `01_source_canonique/13_classifications_substances.md` | A evaluer apres Phase 1 avant creation ou remplissage d'une monographie substance. | mention indexee ; monographie non creee automatiquement |

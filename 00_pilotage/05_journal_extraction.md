@@ -57,3 +57,9 @@
 | Date | Bloc traite | Pages | Fichiers modifies | Problemes rencontres | Decisions prises | Prochaine etape |
 |---|---|---|---|---|---|---|
 | 2026-05-27 | Phase 1 bloc 13 - psychologie/placebo/nocebo/troubles psychologiques | imprimees 140-156 / PDF 141-157 | `01_source_canonique/12_psychologie_placebo_nocebo_troubles_psychologiques.md`, pilotage, assets, index racine, manifeste | Extraction automatique a relire ; visuels a controler | Conserver contenu source complet dans le fichier canonique ; ne pas creer de module final | Bloc 14 |
+
+## Bloc 14 - classifications substances
+
+| Date | Bloc traite | Pages | Fichiers modifies | Problemes rencontres | Decisions prises | Prochaine etape |
+|---|---|---|---|---|---|---|
+| 2026-05-27 | Phase 1 bloc 14 - classifications substances | imprimees 157-181 / PDF 158-182 | `01_source_canonique/13_classifications_substances.md`, pilotage, assets, index racine, manifeste | Extraction automatique a relire ; visuels a controler | Conserver contenu source complet dans le fichier canonique ; ne pas creer de module final | Bloc 15 |

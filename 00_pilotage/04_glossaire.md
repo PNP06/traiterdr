@@ -236,3 +236,33 @@
 | L’influence du médecin | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 13, p. 140-156. | provisoire |
 | Quel placebo en médecine de ville ? | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 13, p. 140-156. | provisoire |
 | Utilisation à l’hôpital | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 13, p. 140-156. | provisoire |
+
+## Bloc 14 - classifications substances
+
+| Terme | Definition courte | Source | Statut |
+|---|---|---|---|
+| Classification des substances | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 14, p. 157-181. | provisoire |
+| Classification selon les types d’effets | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 14, p. 157-181. | provisoire |
+| Les quatre grandes catégories | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 14, p. 157-181. | provisoire |
+| Hallucination= Éléphants roses dans mon salon ? | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 14, p. 157-181. | provisoire |
+| Classification générale de Derek Snider | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 14, p. 157-181. | provisoire |
+| Limite s | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 14, p. 157-181. | provisoire |
+| Notion d’antagoniste | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 14, p. 157-181. | provisoire |
+| Les mélanges | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 14, p. 157-181. | provisoire |
+| Cas particulier de l’alcool | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 14, p. 157-181. | provisoire |
+| Cas particulier du cannabis [241] | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 14, p. 157-181. | provisoire |
+| Les sous-familles | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 14, p. 157-181. | provisoire |
+| Les dissociatifs | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 14, p. 157-181. | provisoire |
+| Les sédatifs hypnotiques | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 14, p. 157-181. | provisoire |
+| Les analgésiques narcotiques | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 14, p. 157-181. | provisoire |
+| Les psychédéliques | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 14, p. 157-181. | provisoire |
+| Les délirants | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 14, p. 157-181. | provisoire |
+| Classification selon les dommages causés à soi et | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 14, p. 157-181. | provisoire |
+| QQOQCCP | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 14, p. 157-181. | provisoire |
+| Validation et limites | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 14, p. 157-181. | provisoire |
+| « ça dépend de la | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 14, p. 157-181. | provisoire |
+| Le baccalauréat TNIC « Techniques de Nuisances | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 14, p. 157-181. | provisoire |
+| Les critères et pondérations | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 14, p. 157-181. | provisoire |
+| Résultats globaux | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 14, p. 157-181. | provisoire |
+| Résultats pour le consommateur | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 14, p. 157-181. | provisoire |
+| Classifications diverses | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 14, p. 157-181. | provisoire |
