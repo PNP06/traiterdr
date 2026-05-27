@@ -6,14 +6,14 @@ Index racine du corpus documentaire `traiterdr`.
 
 | Chemin | Taille octets |
 |---|---:|
-| `00_pilotage/00_index_global.md` | 3587 |
-| `00_pilotage/01_matrice_couverture.md` | 94647 |
-| `00_pilotage/02_index_visuels_tableaux_figures.md` | 19466 |
-| `00_pilotage/03_index_notions.md` | 107434 |
-| `00_pilotage/04_glossaire.md` | 31305 |
-| `00_pilotage/05_journal_extraction.md` | 10536 |
-| `00_pilotage/06_pages_a_relire.md` | 13391 |
-| `00_pilotage/07_decisions_documentaires.md` | 7867 |
+| `00_pilotage/00_index_global.md` | 3765 |
+| `00_pilotage/01_matrice_couverture.md` | 96548 |
+| `00_pilotage/02_index_visuels_tableaux_figures.md` | 19775 |
+| `00_pilotage/03_index_notions.md` | 110107 |
+| `00_pilotage/04_glossaire.md` | 32240 |
+| `00_pilotage/05_journal_extraction.md` | 11103 |
+| `00_pilotage/06_pages_a_relire.md` | 13640 |
+| `00_pilotage/07_decisions_documentaires.md` | 8077 |
 | `01_source_canonique/00_front_matter_suivi_remerciements.md` | 32018 |
 | `01_source_canonique/01_introduction_cadre_objectif_sources.md` | 39807 |
 | `01_source_canonique/02_mythes_croyances_heuristiques_biais_sophismes.md` | 39545 |
@@ -28,7 +28,7 @@ Index racine du corpus documentaire `traiterdr`.
 | `01_source_canonique/11_pk_pd_absorption_distribution_metabolisme_elimination.md` | 63357 |
 | `01_source_canonique/12_psychologie_placebo_nocebo_troubles_psychologiques.md` | 77524 |
 | `01_source_canonique/13_classifications_substances.md` | 90853 |
-| `01_source_canonique/14_risques_generiques_sommeil_juridique.md` | 1009 |
+| `01_source_canonique/14_risques_generiques_sommeil_juridique.md` | 18721 |
 | `01_source_canonique/15_sexualite_vulnerabilite_consentement.md` | 1009 |
 | `01_source_canonique/16_allergie_convulsions_hydratation_thermie.md` | 1013 |
 | `01_source_canonique/17_badtrip_overdose.md` | 989 |
@@ -75,7 +75,7 @@ Index racine du corpus documentaire `traiterdr`.
 | `03_derives_culturerdr/08_no_go_automation.md` | 4970 |
 | `03_derives_culturerdr/09_alertes_et_signaux_candidates.md` | 240 |
 | `03_derives_culturerdr/10_priorisation_future_academie.md` | 239 |
-| `04_substances_mentions/00_index_substances.md` | 17254 |
+| `04_substances_mentions/00_index_substances.md` | 17542 |
 | `04_substances_mentions/3mmc_chemsex.md` | 347 |
 | `04_substances_mentions/alcool.md` | 341 |
 | `04_substances_mentions/autres_substances.md` | 352 |
@@ -134,10 +134,10 @@ Index racine du corpus documentaire `traiterdr`.
 | `05_assets_visuels/p168_figure_01_classifications_substances.png` | 142783 |
 | `05_assets_visuels/p169_figure_01_classifications_substances.png` | 19144 |
 | `05_assets_visuels/p178_figure_01_classifications_substances.png` | 31459 |
-| `05_assets_visuels/README.md` | 10197 |
-| `INDEX.md` | 9369 |
+| `05_assets_visuels/README.md` | 10407 |
+| `INDEX.md` | 9767 |
 | `llms.txt` | 2817 |
-| `README.md` | 3196 |
+| `README.md` | 3298 |
 | `sources/traite/manifest_html_clean.json` | 22750 |
 | `sources/traite/rapport_nettoyage_html.md` | 4856 |
 | `sources/traite/traite_rdr_version_html_clean.md` | 941632 |

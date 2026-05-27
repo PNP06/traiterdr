@@ -117,3 +117,9 @@ Les tableaux textuels et encadrés sont convertis ou décrits en Markdown. Seuls
 | `p168_figure_01_classifications_substances.png` | 168 | 169 | Visuel extrait pour le bloc 14 `classifications substances` ; dimensions 1209x986. | Source canonique et index visuels. |
 | `p169_figure_01_classifications_substances.png` | 169 | 170 | Visuel extrait pour le bloc 14 `classifications substances` ; dimensions 1113x862. | Source canonique et index visuels. |
 | `p178_figure_01_classifications_substances.png` | 178 | 179 | Visuel extrait pour le bloc 14 `classifications substances` ; dimensions 784x532. | Source canonique et index visuels. |
+
+## Assets ajoutes - bloc 15
+
+| Fichier | Page imprimee | Page PDF | Description | Utilisation |
+|---|---:|---:|---|---|
+| aucun asset nouveau | - | - | Aucun visuel raster utile extrait automatiquement. | - |

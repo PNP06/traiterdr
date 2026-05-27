@@ -105,3 +105,9 @@
 | 168 | image / figure | a confirmer | Visuel extrait depuis le PDF, dimensions 1209x986. | Texte visible a controler dans l'image. | Conserve le support visuel du passage source. | `05_assets_visuels/p168_figure_01_classifications_substances.png` | extrait ; a relire |
 | 169 | image / figure | a confirmer | Visuel extrait depuis le PDF, dimensions 1113x862. | Texte visible a controler dans l'image. | Conserve le support visuel du passage source. | `05_assets_visuels/p169_figure_01_classifications_substances.png` | extrait ; a relire |
 | 178 | image / figure | a confirmer | Visuel extrait depuis le PDF, dimensions 784x532. | Texte visible a controler dans l'image. | Conserve le support visuel du passage source. | `05_assets_visuels/p178_figure_01_classifications_substances.png` | extrait ; a relire |
+
+## Bloc 15 - risques generiques sommeil/juridique
+
+| Page | Type | Titre visible | Description | Donnees extraites | Importance RDR | Fichier cible | Statut |
+|---:|---|---|---|---|---|---|---|
+| - | - | - | Aucun visuel raster utile extrait automatiquement dans ce bloc. | - | - | - | aucun asset extrait |

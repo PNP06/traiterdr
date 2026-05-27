@@ -266,3 +266,14 @@
 | Résultats globaux | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 14, p. 157-181. | provisoire |
 | Résultats pour le consommateur | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 14, p. 157-181. | provisoire |
 | Classifications diverses | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 14, p. 157-181. | provisoire |
+
+## Bloc 15 - risques generiques sommeil/juridique
+
+| Terme | Definition courte | Source | Statut |
+|---|---|---|---|
+| Risques | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 15, p. 182-184. | provisoire |
+| Trouble du sommeil | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 15, p. 182-184. | provisoire |
+| Risques juridiques | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 15, p. 182-184. | provisoire |
+| L’amende forfaitaire délictuelle | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 15, p. 182-184. | provisoire |
+| Contestation de l’amende | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 15, p. 182-184. | provisoire |
+| Distinction entre les drogues | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 15, p. 182-184. | provisoire |

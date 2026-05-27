@@ -63,3 +63,9 @@
 | Date | Bloc traite | Pages | Fichiers modifies | Problemes rencontres | Decisions prises | Prochaine etape |
 |---|---|---|---|---|---|---|
 | 2026-05-27 | Phase 1 bloc 14 - classifications substances | imprimees 157-181 / PDF 158-182 | `01_source_canonique/13_classifications_substances.md`, pilotage, assets, index racine, manifeste | Extraction automatique a relire ; visuels a controler | Conserver contenu source complet dans le fichier canonique ; ne pas creer de module final | Bloc 15 |
+
+## Bloc 15 - risques generiques sommeil/juridique
+
+| Date | Bloc traite | Pages | Fichiers modifies | Problemes rencontres | Decisions prises | Prochaine etape |
+|---|---|---|---|---|---|---|
+| 2026-05-27 | Phase 1 bloc 15 - risques generiques sommeil/juridique | imprimees 182-184 / PDF 183-185 | `01_source_canonique/14_risques_generiques_sommeil_juridique.md`, pilotage, assets, index racine, manifeste | Extraction automatique a relire ; visuels a controler | Conserver contenu source complet dans le fichier canonique ; ne pas creer de module final | Bloc 16 |

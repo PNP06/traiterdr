@@ -58,3 +58,7 @@
 ## Bloc 14
 
 - Bloc 14 : extraction source canonique conservee au plus pres du Markdown nettoye ; les assets raster nouveaux sont nommes de facon stable ; les fichiers PDF/DOCX restent locaux via `.gitignore`.
+
+## Bloc 15
+
+- Bloc 15 : extraction source canonique conservee au plus pres du Markdown nettoye ; les assets raster nouveaux sont nommes de facon stable ; les fichiers PDF/DOCX restent locaux via `.gitignore`.

@@ -116,3 +116,9 @@
 | 168 | Verifier lisibilite, titre visible et cadrage de `p168_figure_01_classifications_substances.png`. | visuel | moyenne | Ouvrir l'asset et comparer au PDF page 169. |
 | 169 | Verifier lisibilite, titre visible et cadrage de `p169_figure_01_classifications_substances.png`. | visuel | moyenne | Ouvrir l'asset et comparer au PDF page 170. |
 | 178 | Verifier lisibilite, titre visible et cadrage de `p178_figure_01_classifications_substances.png`. | visuel | moyenne | Ouvrir l'asset et comparer au PDF page 179. |
+
+## Bloc 15 - risques generiques sommeil/juridique
+
+| Page | Probleme | Type | Priorite | Action recommandee |
+|---:|---|---|---|---|
+| 182-184 | Controle humain de coherence apres extraction automatique. | qualite | basse | Relire avant Phase 2. |

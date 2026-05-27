@@ -2,7 +2,7 @@
 
 ## Statut
 - phase 1 en cours
-- blocs 1 a 14 extraits provisoirement
+- blocs 1 a 15 extraits provisoirement
 
 ## Source
 - Document source local : `sources/traite/traite_rdr_version_html_clean.md`
@@ -28,6 +28,7 @@
 | 12 | `01_source_canonique/11_pk_pd_absorption_distribution_metabolisme_elimination.md` | 126-139 | 127-140 | extrait provisoire | devenir des drogues dans le corps, pharmacocinetique, pharmacodynamie, absorption, distribution, metabolisme, elimination |
 | 13 | `01_source_canonique/12_psychologie_placebo_nocebo_troubles_psychologiques.md` | 140-156 | 141-157 | extrait provisoire | placebo, nocebo, attentes, contexte, et troubles psychologiques dans la lecture des risques |
 | 14 | `01_source_canonique/13_classifications_substances.md` | 157-181 | 158-182 | extrait provisoire | classifications legales, pharmacologiques, effets, dangerosite, dommages et limites de classement |
+| 15 | `01_source_canonique/14_risques_generiques_sommeil_juridique.md` | 182-184 | 183-185 | extrait provisoire | risques generiques transversaux, sommeil et risque juridique |
 
 ## Notes
 
