@@ -2,7 +2,7 @@
 
 ## Statut
 - glossaire documentaire initial
-- termes ajoutés pendant les blocs 1, 2 et 3
+- termes ajoutés pendant les blocs 1, 2, 3, 4 et 5
 
 | Terme | Définition | Source / portée | Statut |
 |---|---|---|---|
@@ -42,3 +42,13 @@
 | Normalisation de la déviance | Interprétation répétée de l'absence d'incident comme preuve de sécurité. | Bloc 3, p. 22. | utilisé |
 | Whataboutism | Relativisation d'un risque par invocation d'un risque supposé plus grave ailleurs. | Bloc 3, p. 26. | utilisé |
 | Ad hominem | Attaque de la personne utilisée comme substitut à la réfutation de l'argument. | Bloc 3, p. 27-28. | utilisé |
+| Dissonance cognitive | Inconfort psychologique produit par un conflit entre comportement, information, valeur ou image de soi. | Bloc 4, p. 29-31. | utilisé |
+| Raisonnement motivé | Raisonnement mobilisé pour défendre une conclusion psychologiquement acceptable. | Bloc 4, p. 30-31. | utilisé |
+| Protection de l'identité | Défense d'une croyance ou conduite parce qu'elle soutient une appartenance ou une image de soi. | Bloc 4, p. 31-32. | utilisé |
+| Réactance psychologique | Opposition déclenchée par un message vécu comme menace pour l'autonomie. | Bloc 4, p. 32-33. | utilisé |
+| BUT-CADRE-FOND-SORTIE | Protocole de discussion d'une croyance actionnelle : finalité, recevabilité, faits, sortie actionnable. | Bloc 4, p. 34-44. | utilisé |
+| Science | Corpus de connaissances établies, testées et stabilisées à ce jour. | Bloc 5, p. 45-46. | utilisé |
+| Recherche | Processus de production de nouvelles connaissances sur des questions ouvertes. | Bloc 5, p. 45-46. | utilisé |
+| Convergence des preuves | Stabilisation d'une conclusion par reproductibilité, robustesse, traque des biais et cohérence. | Bloc 5, p. 46-48. | utilisé |
+| Facteur de confusion | Variable qui peut expliquer une association observée sans que la relation apparente soit causale. | Bloc 5, p. 46-51. | utilisé |
+| Causalité | Lien de cause à effet qui ne se déduit pas d'une association isolée sans méthode adaptée. | Bloc 5, p. 49-51. | utilisé |

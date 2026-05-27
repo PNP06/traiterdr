@@ -418,8 +418,8 @@ La méthode scientifique fournit alors des repères concrets pour ajuster les co
 
 | Page | Type | Titre visible | Description | Information transmise | Données extraites | Importance RDR | Statut |
 |---|---|---|---|---|---|---|---|
-| p. 46 | infographie | `Science ≠ Recherche` | Deux colonnes opposant connaissances établies et processus de production. | Science = corpus solide ; recherche = questions en cours ; les confondre brouille le message. | Exemples : Terre ronde, atome, espèces ; antimatière, énergie noire ; formule d'Étienne Klein. | Élevée : évite l'argument `on trouve tout et son contraire`. | image extraite localement ; à pousser si upload binaire disponible |
-| p. 49 | schéma | `Figure 2. Étapes génériques de la méthode scientifique` | Suite verticale de six étapes. | Une hypothèse doit être testée, définie, mesurée, confrontée et corrigée collectivement. | Question testable, concepts définis, plan d'étude adaptée, mesure de l'effet, résultats confrontés, correction collective. | Élevée : structure de lecture des preuves. | image extraite localement ; à pousser si upload binaire disponible |
+| p. 46 | infographie | `Science ≠ Recherche` | Deux colonnes opposant connaissances établies et processus de production. | Science = corpus solide ; recherche = questions en cours ; les confondre brouille le message. | Exemples : Terre ronde, atome, espèces ; antimatière, énergie noire ; formule d'Étienne Klein. | Élevée : évite l'argument `on trouve tout et son contraire`. | extrait : `05_assets_visuels/p046_figure_01_science_vs_recherche.png` |
+| p. 49 | schéma | `Figure 2. Étapes génériques de la méthode scientifique` | Suite verticale de six étapes. | Une hypothèse doit être testée, définie, mesurée, confrontée et corrigée collectivement. | Question testable, concepts définis, plan d'étude adaptée, mesure de l'effet, résultats confrontés, correction collective. | Élevée : structure de lecture des preuves. | extrait : `05_assets_visuels/p049_figure_01_etapes_methode_scientifique.png` |
 
 ## Implications CultureRDR
 

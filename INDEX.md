@@ -1,6 +1,6 @@
 # Index du corpus traiterdr
 
-Derniere generation : 2026-05-27 16:36:21 +02:00
+Derniere generation : 2026-05-27 19:50:51 +02:00
 
 Cet index racine sert de carte de lecture pour GitHub, ChatGPT et tout outil de recherche documentaire. Les fichiers Markdown restent les sources de reference ; les images sont listees comme assets associes.
 
@@ -21,56 +21,56 @@ Cet index racine sert de carte de lecture pour GitHub, ChatGPT et tout outil de 
 
 - Chemin : `00_pilotage/00_index_global.md`
 - Format : `md`
-- Taille : 1661 octets
+- Taille : 1798 octets
 - Rubriques : Statut; Source; Couverture actuelle; Notes
 
 ### [Matrice de couverture](00_pilotage/01_matrice_couverture.md)
 
 - Chemin : `00_pilotage/01_matrice_couverture.md`
 - Format : `md`
-- Taille : 12618 octets
+- Taille : 16244 octets
 - Rubriques : Statut
 
 ### [Index des visuels, tableaux et figures](00_pilotage/02_index_visuels_tableaux_figures.md)
 
 - Chemin : `00_pilotage/02_index_visuels_tableaux_figures.md`
 - Format : `md`
-- Taille : 6246 octets
+- Taille : 8253 octets
 - Rubriques : Statut
 
 ### [Index des notions](00_pilotage/03_index_notions.md)
 
 - Chemin : `00_pilotage/03_index_notions.md`
 - Format : `md`
-- Taille : 21017 octets
+- Taille : 24153 octets
 - Rubriques : Statut
 
 ### [Glossaire](00_pilotage/04_glossaire.md)
 
 - Chemin : `00_pilotage/04_glossaire.md`
 - Format : `md`
-- Taille : 4963 octets
+- Taille : 6437 octets
 - Rubriques : Statut
 
 ### [Journal d'extraction](00_pilotage/05_journal_extraction.md)
 
 - Chemin : `00_pilotage/05_journal_extraction.md`
 - Format : `md`
-- Taille : 4496 octets
+- Taille : 5455 octets
 - Rubriques : Statut
 
 ### [Pages à relire](00_pilotage/06_pages_a_relire.md)
 
 - Chemin : `00_pilotage/06_pages_a_relire.md`
 - Format : `md`
-- Taille : 5257 octets
+- Taille : 5688 octets
 - Rubriques : Statut
 
 ### [Décisions documentaires](00_pilotage/07_decisions_documentaires.md)
 
 - Chemin : `00_pilotage/07_decisions_documentaires.md`
 - Format : `md`
-- Taille : 5076 octets
+- Taille : 5985 octets
 - Rubriques : Statut
 
 ### [Front matter, suivi, table des matières et remerciements](01_source_canonique/00_front_matter_suivi_remerciements.md)
@@ -94,19 +94,19 @@ Cet index racine sert de carte de lecture pour GitHub, ChatGPT et tout outil de 
 - Taille : 39545 octets
 - Rubriques : Statut; Pages sources; Fonction du chapitre dans le traité; Contenu source fidèle; Page imprimée 16 / PDF 17 — Ouverture du chapitre `Mythes`; Page imprimée 17 / PDF 18 — Pourquoi déconstruire les mythes; Page imprimée 18 / PDF 19 — Croyances et risques; Pages imprimées 18-20 / PDF 19-21 — Heuristiques
 
-### [Mecanismes Protection Approche Rdr](01_source_canonique/03_mecanismes_protection_approche_rdr.md)
+### [Mécanismes de protection psychologique et approche RDR](01_source_canonique/03_mecanismes_protection_approche_rdr.md)
 
 - Chemin : `01_source_canonique/03_mecanismes_protection_approche_rdr.md`
 - Format : `md`
-- Taille : 1007 octets
-- Rubriques : Statut; Pages sources; Fonction du chapitre dans le traite; Contenu source fidele; Notions a conserver; Recommandations RDR presentes dans le traite; Donnees, reperes et categories; Images, tableaux, figures, encadres
+- Taille : 29817 octets
+- Rubriques : Statut; Pages sources; Fonction du chapitre dans le traité; Contenu source fidèle; 1. Pourquoi la logique ne suffit pas; 2. Dissonance cognitive; 3. Raisonnement motivé; 4. Protection de l'identité
 
-### [Comprendre Science Preuves Causalite](01_source_canonique/04_comprendre_science_preuves_causalite.md)
+### [Comprendre la science, preuves, causalité et méthode scientifique](01_source_canonique/04_comprendre_science_preuves_causalite.md)
 
 - Chemin : `01_source_canonique/04_comprendre_science_preuves_causalite.md`
 - Format : `md`
-- Taille : 1009 octets
-- Rubriques : Statut; Pages sources; Fonction du chapitre dans le traite; Contenu source fidele; Notions a conserver; Recommandations RDR presentes dans le traite; Donnees, reperes et categories; Images, tableaux, figures, encadres
+- Taille : 33126 octets
+- Rubriques : Statut; Pages sources; Fonction du chapitre dans le traité; Contenu source fidèle; 1. Ouverture : comprendre ce qu'est un argument scientifique; 2. Science et recherche; 3. Comment une conclusion entre dans le corpus scientifique; 4. Infographie p. 46 — `Science ≠ Recherche`
 
 ### [Mythes Alcool Tabac Prix Sante Publique](01_source_canonique/05_mythes_alcool_tabac_prix_sante_publique.md)
 
@@ -634,11 +634,35 @@ Cet index racine sert de carte de lecture pour GitHub, ChatGPT et tout outil de 
 - Format : `png`
 - Taille : 481598 octets
 
+### [p034_figure_01_mecanismes_protection_psychologique](05_assets_visuels/p034_figure_01_mecanismes_protection_psychologique.png)
+
+- Chemin : `05_assets_visuels/p034_figure_01_mecanismes_protection_psychologique.png`
+- Format : `png`
+- Taille : 712620 octets
+
+### [p044_figure_01_corriger_croyance_situation](05_assets_visuels/p044_figure_01_corriger_croyance_situation.png)
+
+- Chemin : `05_assets_visuels/p044_figure_01_corriger_croyance_situation.png`
+- Format : `png`
+- Taille : 816181 octets
+
+### [p046_figure_01_science_vs_recherche](05_assets_visuels/p046_figure_01_science_vs_recherche.png)
+
+- Chemin : `05_assets_visuels/p046_figure_01_science_vs_recherche.png`
+- Format : `png`
+- Taille : 357650 octets
+
+### [p049_figure_01_etapes_methode_scientifique](05_assets_visuels/p049_figure_01_etapes_methode_scientifique.png)
+
+- Chemin : `05_assets_visuels/p049_figure_01_etapes_methode_scientifique.png`
+- Format : `png`
+- Taille : 58151 octets
+
 ### [Assets visuels](05_assets_visuels/README.md)
 
 - Chemin : `05_assets_visuels/README.md`
 - Format : `md`
-- Taille : 1888 octets
+- Taille : 2449 octets
 - Rubriques : Statut; Convention de nommage; Assets présents; Remarque; Assets ajoutés - bloc 3
 
 ### [traiterdr](llms.txt)
@@ -652,7 +676,7 @@ Cet index racine sert de carte de lecture pour GitHub, ChatGPT et tout outil de 
 
 - Chemin : `README.md`
 - Format : `md`
-- Taille : 2103 octets
+- Taille : 2515 octets
 - Rubriques : Statut; Convention de pagination; État d'extraction; Prochaine étape; Indexation ChatGPT / IA
 
 ### [manifest_html_clean](sources/traite/manifest_html_clean.json)

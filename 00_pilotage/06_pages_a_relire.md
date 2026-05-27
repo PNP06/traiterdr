@@ -2,7 +2,7 @@
 
 ## Statut
 - phase 1 en cours
-- entrées des blocs 1, 2 et 3
+- entrées des blocs 1, 2, 3, 4 et 5
 
 | Page | Problème | Type | Priorité | Action recommandée |
 |---:|---|---|---|---|
@@ -31,3 +31,5 @@
 | 23-28 | Les notes de logique informelle et philosophie de l'argumentation sont nombreuses ; certaines URLs doivent être vérifiées. | sources / bibliographie | moyenne | Vérifier Aristotle, Walton/Stanford, Toulmin, logical consequence, argument, defeasible reasoning. |
 | 28 | Infographie sophismes ; pagination exacte à confirmer. | pagination visuel | basse | Contrôler au rendu PDF final avant publication. |
 | 27-28 | Exemples d'appel à l'autorité et ad hominem : risque de ton accusatoire si automatisé. | UX / communication | élevée pour app | Toute reformulation utilisateur doit éviter d'étiqueter directement la personne comme biaisée ou sophistique. |
+| 44 | Bas de l'infographie `CORRIGER UNE CROYANCE EN SITUATION` à contrôler. | visuel à relire | moyenne | Vérifier le rendu PDF/HTML pour s'assurer qu'aucune ligne utile n'est tronquée. |
+| 51 | Page partagée entre fin du chapitre science et début du mythe mois sans alcool/sans tabac. | frontière de bloc | élevée | Au bloc 6, reprendre seulement la partie mythe et éviter de dupliquer la conclusion science. |

@@ -1,6 +1,6 @@
 {
     "repository":  "PNP06/traiterdr",
-    "generated_at":  "2026-05-27T14:36:21.8119764Z",
+    "generated_at":  "2026-05-27T17:50:51.1831487Z",
     "purpose":  "Machine-readable corpus manifest for ChatGPT, GitHub search, and document indexing.",
     "entrypoints":  [
                         "llms.txt",
@@ -21,7 +21,7 @@
                       "path":  "00_pilotage/00_index_global.md",
                       "title":  "Index global",
                       "extension":  "md",
-                      "size_bytes":  1661,
+                      "size_bytes":  1798,
                       "headings":  [
                                        "Statut",
                                        "Source",
@@ -33,7 +33,7 @@
                       "path":  "00_pilotage/01_matrice_couverture.md",
                       "title":  "Matrice de couverture",
                       "extension":  "md",
-                      "size_bytes":  12618,
+                      "size_bytes":  16244,
                       "headings":  [
                                        "Statut"
                                    ]
@@ -42,7 +42,7 @@
                       "path":  "00_pilotage/02_index_visuels_tableaux_figures.md",
                       "title":  "Index des visuels, tableaux et figures",
                       "extension":  "md",
-                      "size_bytes":  6246,
+                      "size_bytes":  8253,
                       "headings":  [
                                        "Statut"
                                    ]
@@ -51,7 +51,7 @@
                       "path":  "00_pilotage/03_index_notions.md",
                       "title":  "Index des notions",
                       "extension":  "md",
-                      "size_bytes":  21017,
+                      "size_bytes":  24153,
                       "headings":  [
                                        "Statut"
                                    ]
@@ -60,7 +60,7 @@
                       "path":  "00_pilotage/04_glossaire.md",
                       "title":  "Glossaire",
                       "extension":  "md",
-                      "size_bytes":  4963,
+                      "size_bytes":  6437,
                       "headings":  [
                                        "Statut"
                                    ]
@@ -69,7 +69,7 @@
                       "path":  "00_pilotage/05_journal_extraction.md",
                       "title":  "Journal d\u0027extraction",
                       "extension":  "md",
-                      "size_bytes":  4496,
+                      "size_bytes":  5455,
                       "headings":  [
                                        "Statut"
                                    ]
@@ -78,7 +78,7 @@
                       "path":  "00_pilotage/06_pages_a_relire.md",
                       "title":  "Pages à relire",
                       "extension":  "md",
-                      "size_bytes":  5257,
+                      "size_bytes":  5688,
                       "headings":  [
                                        "Statut"
                                    ]
@@ -87,7 +87,7 @@
                       "path":  "00_pilotage/07_decisions_documentaires.md",
                       "title":  "Décisions documentaires",
                       "extension":  "md",
-                      "size_bytes":  5076,
+                      "size_bytes":  5985,
                       "headings":  [
                                        "Statut"
                                    ]
@@ -142,34 +142,34 @@
                   },
                   {
                       "path":  "01_source_canonique/03_mecanismes_protection_approche_rdr.md",
-                      "title":  "Mecanismes Protection Approche Rdr",
+                      "title":  "Mécanismes de protection psychologique et approche RDR",
                       "extension":  "md",
-                      "size_bytes":  1007,
+                      "size_bytes":  29817,
                       "headings":  [
                                        "Statut",
                                        "Pages sources",
-                                       "Fonction du chapitre dans le traite",
-                                       "Contenu source fidele",
-                                       "Notions a conserver",
-                                       "Recommandations RDR presentes dans le traite",
-                                       "Donnees, reperes et categories",
-                                       "Images, tableaux, figures, encadres"
+                                       "Fonction du chapitre dans le traité",
+                                       "Contenu source fidèle",
+                                       "1. Pourquoi la logique ne suffit pas",
+                                       "2. Dissonance cognitive",
+                                       "3. Raisonnement motivé",
+                                       "4. Protection de l\u0027identité"
                                    ]
                   },
                   {
                       "path":  "01_source_canonique/04_comprendre_science_preuves_causalite.md",
-                      "title":  "Comprendre Science Preuves Causalite",
+                      "title":  "Comprendre la science, preuves, causalité et méthode scientifique",
                       "extension":  "md",
-                      "size_bytes":  1009,
+                      "size_bytes":  33126,
                       "headings":  [
                                        "Statut",
                                        "Pages sources",
-                                       "Fonction du chapitre dans le traite",
-                                       "Contenu source fidele",
-                                       "Notions a conserver",
-                                       "Recommandations RDR presentes dans le traite",
-                                       "Donnees, reperes et categories",
-                                       "Images, tableaux, figures, encadres"
+                                       "Fonction du chapitre dans le traité",
+                                       "Contenu source fidèle",
+                                       "1. Ouverture : comprendre ce qu\u0027est un argument scientifique",
+                                       "2. Science et recherche",
+                                       "3. Comment une conclusion entre dans le corpus scientifique",
+                                       "4. Infographie p. 46 — `Science ≠ Recherche`"
                                    ]
                   },
                   {
@@ -1241,10 +1241,46 @@
                                    ]
                   },
                   {
+                      "path":  "05_assets_visuels/p034_figure_01_mecanismes_protection_psychologique.png",
+                      "title":  "p034_figure_01_mecanismes_protection_psychologique",
+                      "extension":  "png",
+                      "size_bytes":  712620,
+                      "headings":  [
+
+                                   ]
+                  },
+                  {
+                      "path":  "05_assets_visuels/p044_figure_01_corriger_croyance_situation.png",
+                      "title":  "p044_figure_01_corriger_croyance_situation",
+                      "extension":  "png",
+                      "size_bytes":  816181,
+                      "headings":  [
+
+                                   ]
+                  },
+                  {
+                      "path":  "05_assets_visuels/p046_figure_01_science_vs_recherche.png",
+                      "title":  "p046_figure_01_science_vs_recherche",
+                      "extension":  "png",
+                      "size_bytes":  357650,
+                      "headings":  [
+
+                                   ]
+                  },
+                  {
+                      "path":  "05_assets_visuels/p049_figure_01_etapes_methode_scientifique.png",
+                      "title":  "p049_figure_01_etapes_methode_scientifique",
+                      "extension":  "png",
+                      "size_bytes":  58151,
+                      "headings":  [
+
+                                   ]
+                  },
+                  {
                       "path":  "05_assets_visuels/README.md",
                       "title":  "Assets visuels",
                       "extension":  "md",
-                      "size_bytes":  1888,
+                      "size_bytes":  2449,
                       "headings":  [
                                        "Statut",
                                        "Convention de nommage",
@@ -1269,7 +1305,7 @@
                       "path":  "README.md",
                       "title":  "traiterdr",
                       "extension":  "md",
-                      "size_bytes":  2103,
+                      "size_bytes":  2515,
                       "headings":  [
                                        "Statut",
                                        "Convention de pagination",

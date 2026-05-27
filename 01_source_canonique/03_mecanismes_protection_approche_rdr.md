@@ -324,7 +324,7 @@ L'infographie `CORRIGER UNE CROYANCE EN SITUATION : PROTOCOLE BUT – CADRE – 
 - les quatre étapes : BUT, CADRE, FOND, SORTIE ;
 - la règle de sortie `SI... ALORS...`.
 
-Le bas de l'image extraite localement est partiellement altéré ; la formulation textuelle du chapitre doit servir de référence.
+Le bas de l'image extraite dans `05_assets_visuels/p044_figure_01_corriger_croyance_situation.png` est partiellement altéré ; la formulation textuelle du chapitre doit servir de référence.
 
 ### 11. Exemples d'application
 
@@ -474,8 +474,8 @@ Le protocole `BUT – CADRE – FOND – SORTIE` sert à rendre la mise à jour 
 | Page | Type | Titre visible | Description | Information transmise | Données extraites | Importance RDR | Statut |
 |---|---|---|---|---|---|---|---|
 | p. 29 | infographie résiduelle | `SOPHISMES : quand le "donc" dérape` | Fin visuelle du chapitre sophismes. | Le pont logique peut être invalide. | Déjà traité dans le bloc 3. | Moyenne. | frontière à relire |
-| p. 34 | infographie | `MÉCANISMES DE PROTECTION PSYCHOLOGIQUE` | Synthèse des quatre mécanismes, signaux de défense et leviers. | Un message vrai peut être rejeté pour protéger cohérence, identité ou liberté. | Dissonance, raisonnement motivé, identité, réactance, leviers. | Très élevée. | image extraite localement ; à pousser si upload binaire disponible |
-| p. 44 | infographie | `CORRIGER UNE CROYANCE EN SITUATION` | Synthèse du protocole `BUT – CADRE – FOND – SORTIE`. | Corriger une croyance exige logique, preuves, tolérance psychologique et sortie actionnable. | BUT, CADRE, FOND, SORTIE ; règle `SI... ALORS...`. | Très élevée. | image extraite localement ; bas de figure à relire |
+| p. 34 | infographie | `MÉCANISMES DE PROTECTION PSYCHOLOGIQUE` | Synthèse des quatre mécanismes, signaux de défense et leviers. | Un message vrai peut être rejeté pour protéger cohérence, identité ou liberté. | Dissonance, raisonnement motivé, identité, réactance, leviers. | Très élevée. | extrait : `05_assets_visuels/p034_figure_01_mecanismes_protection_psychologique.png` |
+| p. 44 | infographie | `CORRIGER UNE CROYANCE EN SITUATION` | Synthèse du protocole `BUT – CADRE – FOND – SORTIE`. | Corriger une croyance exige logique, preuves, tolérance psychologique et sortie actionnable. | BUT, CADRE, FOND, SORTIE ; règle `SI... ALORS...`. | Très élevée. | extrait : `05_assets_visuels/p044_figure_01_corriger_croyance_situation.png` ; bas de figure à relire |
 
 ## Implications CultureRDR
 

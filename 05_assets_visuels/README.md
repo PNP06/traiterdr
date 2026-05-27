@@ -2,7 +2,7 @@
 
 ## Statut
 - répertoire d'assets visuels extrait du traité
-- blocs 1, 2 et 3 alimentés
+- blocs 1, 2, 3, 4 et 5 alimentés
 
 ## Convention de nommage
 
@@ -33,3 +33,7 @@ Les tableaux textuels et encadrés sont convertis ou décrits en Markdown. Seuls
 | `p020_figure_01_heuristiques.png` | 20 | bloc 3 | Infographie `HEURISTIQUES : règles rapides... utiles, mais parfois trompeuses`. | extrait |
 | `p022_figure_01_biais_cognitifs.png` | 22 | bloc 3 | Infographie `BIAIS COGNITIFS : distorsions systématiques du jugement`. | extrait ; pagination à confirmer |
 | `p028_figure_01_sophismes.png` | 28 | bloc 3 | Infographie `SOPHISMES : quand le "donc" dérape`. | extrait ; pagination à confirmer |
+| `p034_figure_01_mecanismes_protection_psychologique.png` | 34 | bloc 4 | Infographie `MÉCANISMES DE PROTECTION PSYCHOLOGIQUE`. | extrait |
+| `p044_figure_01_corriger_croyance_situation.png` | 44 | bloc 4 | Infographie `CORRIGER UNE CROYANCE EN SITUATION`. | extrait ; bas de figure à relire |
+| `p046_figure_01_science_vs_recherche.png` | 46 | bloc 5 | Infographie `Science ≠ Recherche`. | extrait |
+| `p049_figure_01_etapes_methode_scientifique.png` | 49 | bloc 5 | Schéma `Figure 2. Étapes génériques de la méthode scientifique`. | extrait |
