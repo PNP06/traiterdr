@@ -2,7 +2,7 @@
 
 ## Statut
 - phase 1 en cours
-- blocs 1 a 9 extraits provisoirement
+- blocs 1 a 10 extraits provisoirement
 
 ## Source
 - Document source local : `sources/traite/traite_rdr_version_html_clean.md`
@@ -23,6 +23,7 @@
 | 7 | `01_source_canonique/06_mythes_sucre_naturel_reste_perche_contact_addiction.md` | 70-90 | 71-91 | extrait provisoire | addiction au sucre, appel au naturel, rester perche, contamination par contact, premiere prise et taux de conversion |
 | 8 | `01_source_canonique/07_ghb_drogue_du_viol_chemsex_3mmc_rc_nps.md` | 91-98 | 92-99 | extrait provisoire | drogue du zombie, GHB, drogue du viol, chemsex, 3-MMC, research chemicals, nouveaux produits de synthese |
 | 9 | `01_source_canonique/08_gestion_des_risques.md` | 99-102 | 100-103 | extrait provisoire | definition du risque, gravite, probabilite, exposition, vulnerabilite et barrieres |
+| 10 | `01_source_canonique/09_cerveau_synapses_neurotransmetteurs_circuits.md` | 103-114 | 104-115 | extrait provisoire | neurones, synapses, neurotransmetteurs, receptors, circuits, systemes dopaminergique, serotonergique, endocannabinoide et opioide |
 
 ## Notes
 

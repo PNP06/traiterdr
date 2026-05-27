@@ -35,10 +35,11 @@ Exemple : page imprimee 45 = page PDF 46 ; page imprimee 51 = page PDF 52.
 | Phase 1 | bloc 7 - sucre/naturel/reste perche/contact/addiction | 70-90 | 71-91 | extrait provisoire |
 | Phase 1 | bloc 8 - GHB/drogue du viol/chemsex/3-MMC/RC-NPS | 91-98 | 92-99 | extrait provisoire |
 | Phase 1 | bloc 9 - gestion des risques | 99-102 | 100-103 | extrait provisoire |
+| Phase 1 | bloc 10 - cerveau/synapses/neurotransmetteurs/circuits | 103-114 | 104-115 | extrait provisoire |
 
 ## Prochaine etape
 
-Bloc 10 : `01_source_canonique/09_cerveau_synapses_neurotransmetteurs_circuits.md`, pages imprimees 103-114 / pages PDF 104-115.
+Bloc 11 : `01_source_canonique/10_tolerance_developpement_15_25_corps_humain.md`, pages imprimees 115-125 / pages PDF 116-126.
 
 ## Indexation ChatGPT / IA
 

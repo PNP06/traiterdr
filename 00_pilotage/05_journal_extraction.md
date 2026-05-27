@@ -33,3 +33,9 @@
 | Date | Bloc traite | Pages | Fichiers modifies | Problemes rencontres | Decisions prises | Prochaine etape |
 |---|---|---|---|---|---|---|
 | 2026-05-27 | Phase 1 bloc 9 - gestion des risques | imprimees 99-102 / PDF 100-103 | `01_source_canonique/08_gestion_des_risques.md`, pilotage, assets, index racine, manifeste | Extraction automatique a relire ; visuels a controler | Conserver contenu source complet dans le fichier canonique ; ne pas creer de module final | Bloc 10 |
+
+## Bloc 10 - cerveau/synapses/neurotransmetteurs/circuits
+
+| Date | Bloc traite | Pages | Fichiers modifies | Problemes rencontres | Decisions prises | Prochaine etape |
+|---|---|---|---|---|---|---|
+| 2026-05-27 | Phase 1 bloc 10 - cerveau/synapses/neurotransmetteurs/circuits | imprimees 103-114 / PDF 104-115 | `01_source_canonique/09_cerveau_synapses_neurotransmetteurs_circuits.md`, pilotage, assets, index racine, manifeste | Extraction automatique a relire ; visuels a controler | Conserver contenu source complet dans le fichier canonique ; ne pas creer de module final | Bloc 11 |

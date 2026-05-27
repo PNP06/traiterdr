@@ -68,3 +68,14 @@ Les tableaux textuels et encadrés sont convertis ou décrits en Markdown. Seuls
 | Fichier | Page imprimee | Page PDF | Description | Utilisation |
 |---|---:|---:|---|---|
 | `p101_figure_01_gestion_des_risques.png` | 101 | 102 | Visuel extrait pour le bloc 9 `gestion des risques` ; dimensions 1134x848. | Source canonique et index visuels. |
+
+## Assets ajoutes - bloc 10
+
+| Fichier | Page imprimee | Page PDF | Description | Utilisation |
+|---|---:|---:|---|---|
+| `p105_figure_01_cerveau_synapses_neurotransmetteur.png` | 105 | 106 | Visuel extrait pour le bloc 10 `cerveau/synapses/neurotransmetteurs/circuits` ; dimensions 1164x1124. | Source canonique et index visuels. |
+| `p106_figure_01_cerveau_synapses_neurotransmetteur.png` | 106 | 107 | Visuel extrait pour le bloc 10 `cerveau/synapses/neurotransmetteurs/circuits` ; dimensions 811x537. | Source canonique et index visuels. |
+| `p106_figure_02_cerveau_synapses_neurotransmetteur.png` | 106 | 107 | Visuel extrait pour le bloc 10 `cerveau/synapses/neurotransmetteurs/circuits` ; dimensions 627x632. | Source canonique et index visuels. |
+| `p107_figure_01_cerveau_synapses_neurotransmetteur.png` | 107 | 108 | Visuel extrait pour le bloc 10 `cerveau/synapses/neurotransmetteurs/circuits` ; dimensions 754x527. | Source canonique et index visuels. |
+| `p113_figure_01_cerveau_synapses_neurotransmetteur.png` | 113 | 114 | Visuel extrait pour le bloc 10 `cerveau/synapses/neurotransmetteurs/circuits` ; dimensions 1007x459. | Source canonique et index visuels. |
+| `p114_figure_01_cerveau_synapses_neurotransmetteur.png` | 114 | 115 | Visuel extrait pour le bloc 10 `cerveau/synapses/neurotransmetteurs/circuits` ; dimensions 1073x527. | Source canonique et index visuels. |

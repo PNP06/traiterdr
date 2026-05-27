@@ -56,3 +56,14 @@
 | Page | Type | Titre visible | Description | Donnees extraites | Importance RDR | Fichier cible | Statut |
 |---:|---|---|---|---|---|---|---|
 | 101 | image / figure | a confirmer | Visuel extrait depuis le PDF, dimensions 1134x848. | Texte visible a controler dans l'image. | Conserve le support visuel du passage source. | `05_assets_visuels/p101_figure_01_gestion_des_risques.png` | extrait ; a relire |
+
+## Bloc 10 - cerveau/synapses/neurotransmetteurs/circuits
+
+| Page | Type | Titre visible | Description | Donnees extraites | Importance RDR | Fichier cible | Statut |
+|---:|---|---|---|---|---|---|---|
+| 105 | image / figure | a confirmer | Visuel extrait depuis le PDF, dimensions 1164x1124. | Texte visible a controler dans l'image. | Conserve le support visuel du passage source. | `05_assets_visuels/p105_figure_01_cerveau_synapses_neurotransmetteur.png` | extrait ; a relire |
+| 106 | image / figure | a confirmer | Visuel extrait depuis le PDF, dimensions 811x537. | Texte visible a controler dans l'image. | Conserve le support visuel du passage source. | `05_assets_visuels/p106_figure_01_cerveau_synapses_neurotransmetteur.png` | extrait ; a relire |
+| 106 | image / figure | a confirmer | Visuel extrait depuis le PDF, dimensions 627x632. | Texte visible a controler dans l'image. | Conserve le support visuel du passage source. | `05_assets_visuels/p106_figure_02_cerveau_synapses_neurotransmetteur.png` | extrait ; a relire |
+| 107 | image / figure | a confirmer | Visuel extrait depuis le PDF, dimensions 754x527. | Texte visible a controler dans l'image. | Conserve le support visuel du passage source. | `05_assets_visuels/p107_figure_01_cerveau_synapses_neurotransmetteur.png` | extrait ; a relire |
+| 113 | image / figure | a confirmer | Visuel extrait depuis le PDF, dimensions 1007x459. | Texte visible a controler dans l'image. | Conserve le support visuel du passage source. | `05_assets_visuels/p113_figure_01_cerveau_synapses_neurotransmetteur.png` | extrait ; a relire |
+| 114 | image / figure | a confirmer | Visuel extrait depuis le PDF, dimensions 1073x527. | Texte visible a controler dans l'image. | Conserve le support visuel du passage source. | `05_assets_visuels/p114_figure_01_cerveau_synapses_neurotransmetteur.png` | extrait ; a relire |

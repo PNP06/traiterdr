@@ -6,35 +6,35 @@
   "files": [
     {
       "path": "00_pilotage/00_index_global.md",
-      "size_bytes": 2422
+      "size_bytes": 2678
     },
     {
       "path": "00_pilotage/01_matrice_couverture.md",
-      "size_bytes": 47607
+      "size_bytes": 54411
     },
     {
       "path": "00_pilotage/02_index_visuels_tableaux_figures.md",
-      "size_bytes": 12046
+      "size_bytes": 13921
     },
     {
       "path": "00_pilotage/03_index_notions.md",
-      "size_bytes": 54454
+      "size_bytes": 60152
     },
     {
       "path": "00_pilotage/04_glossaire.md",
-      "size_bytes": 15938
+      "size_bytes": 18161
     },
     {
       "path": "00_pilotage/05_journal_extraction.md",
-      "size_bytes": 7682
+      "size_bytes": 8273
     },
     {
       "path": "00_pilotage/06_pages_a_relire.md",
-      "size_bytes": 8462
+      "size_bytes": 9690
     },
     {
       "path": "00_pilotage/07_decisions_documentaires.md",
-      "size_bytes": 6817
+      "size_bytes": 7027
     },
     {
       "path": "01_source_canonique/00_front_matter_suivi_remerciements.md",
@@ -74,7 +74,7 @@
     },
     {
       "path": "01_source_canonique/09_cerveau_synapses_neurotransmetteurs_circuits.md",
-      "size_bytes": 1017
+      "size_bytes": 48800
     },
     {
       "path": "01_source_canonique/10_tolerance_developpement_15_25_corps_humain.md",
@@ -282,7 +282,7 @@
     },
     {
       "path": "04_substances_mentions/00_index_substances.md",
-      "size_bytes": 13031
+      "size_bytes": 13866
     },
     {
       "path": "04_substances_mentions/3mmc_chemsex.md",
@@ -421,12 +421,36 @@
       "size_bytes": 42622
     },
     {
+      "path": "05_assets_visuels/p105_figure_01_cerveau_synapses_neurotransmetteur.png",
+      "size_bytes": 257282
+    },
+    {
+      "path": "05_assets_visuels/p106_figure_01_cerveau_synapses_neurotransmetteur.png",
+      "size_bytes": 79775
+    },
+    {
+      "path": "05_assets_visuels/p106_figure_02_cerveau_synapses_neurotransmetteur.png",
+      "size_bytes": 418819
+    },
+    {
+      "path": "05_assets_visuels/p107_figure_01_cerveau_synapses_neurotransmetteur.png",
+      "size_bytes": 114653
+    },
+    {
+      "path": "05_assets_visuels/p113_figure_01_cerveau_synapses_neurotransmetteur.png",
+      "size_bytes": 361692
+    },
+    {
+      "path": "05_assets_visuels/p114_figure_01_cerveau_synapses_neurotransmetteur.png",
+      "size_bytes": 446062
+    },
+    {
       "path": "05_assets_visuels/README.md",
-      "size_bytes": 5103
+      "size_bytes": 6494
     },
     {
       "path": "INDEX.md",
-      "size_bytes": 7840
+      "size_bytes": 7913
     },
     {
       "path": "llms.txt",
@@ -434,7 +458,7 @@
     },
     {
       "path": "README.md",
-      "size_bytes": 2702
+      "size_bytes": 2810
     },
     {
       "path": "sources/traite/manifest_html_clean.json",

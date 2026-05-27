@@ -66,3 +66,14 @@
 | Page | Probleme | Type | Priorite | Action recommandee |
 |---:|---|---|---|---|
 | 101 | Verifier lisibilite, titre visible et cadrage de `p101_figure_01_gestion_des_risques.png`. | visuel | moyenne | Ouvrir l'asset et comparer au PDF page 102. |
+
+## Bloc 10 - cerveau/synapses/neurotransmetteurs/circuits
+
+| Page | Probleme | Type | Priorite | Action recommandee |
+|---:|---|---|---|---|
+| 105 | Verifier lisibilite, titre visible et cadrage de `p105_figure_01_cerveau_synapses_neurotransmetteur.png`. | visuel | moyenne | Ouvrir l'asset et comparer au PDF page 106. |
+| 106 | Verifier lisibilite, titre visible et cadrage de `p106_figure_01_cerveau_synapses_neurotransmetteur.png`. | visuel | moyenne | Ouvrir l'asset et comparer au PDF page 107. |
+| 106 | Verifier lisibilite, titre visible et cadrage de `p106_figure_02_cerveau_synapses_neurotransmetteur.png`. | visuel | moyenne | Ouvrir l'asset et comparer au PDF page 107. |
+| 107 | Verifier lisibilite, titre visible et cadrage de `p107_figure_01_cerveau_synapses_neurotransmetteur.png`. | visuel | moyenne | Ouvrir l'asset et comparer au PDF page 108. |
+| 113 | Verifier lisibilite, titre visible et cadrage de `p113_figure_01_cerveau_synapses_neurotransmetteur.png`. | visuel | moyenne | Ouvrir l'asset et comparer au PDF page 114. |
+| 114 | Verifier lisibilite, titre visible et cadrage de `p114_figure_01_cerveau_synapses_neurotransmetteur.png`. | visuel | moyenne | Ouvrir l'asset et comparer au PDF page 115. |

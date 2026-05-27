@@ -137,3 +137,23 @@
 | La gestion des risques | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 9, p. 99-102. | provisoire |
 | Risques majeurs, risques mineurs | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 9, p. 99-102. | provisoire |
 | Diminuer les risques | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 9, p. 99-102. | provisoire |
+
+## Bloc 10 - cerveau/synapses/neurotransmetteurs/circuits
+
+| Terme | Definition courte | Source | Statut |
+|---|---|---|---|
+| Le cerveau et le corps | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 10, p. 103-114. | provisoire |
+| Le cerveau | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 10, p. 103-114. | provisoire |
+| Le fonctionnement des synapses | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 10, p. 103-114. | provisoire |
+| Hacker le système : mécanisme d’action de base des drogues | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 10, p. 103-114. | provisoire |
+| Différents récepteurs | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 10, p. 103-114. | provisoire |
+| Point sur les interactions | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 10, p. 103-114. | provisoire |
+| Les neurotransmetteurs | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 10, p. 103-114. | provisoire |
+| Les messagers | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 10, p. 103-114. | provisoire |
+| L’action des drogues | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 10, p. 103-114. | provisoire |
+| Exemple de l’alcool | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 10, p. 103-114. | provisoire |
+| Gaba et glutamate | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 10, p. 103-114. | provisoire |
+| Acétylcholine : pourquoi l’alcool | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 10, p. 103-114. | provisoire |
+| Les circuits cérébraux | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 10, p. 103-114. | provisoire |
+| Le circuit de la récompense | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 10, p. 103-114. | provisoire |
+| Les autres circuits cérébraux | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 10, p. 103-114. | provisoire |
