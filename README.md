@@ -32,3 +32,17 @@ Exemple : page imprimée 8 = page PDF 9 ; page imprimée 15 = page PDF 16.
 ## Prochaine étape
 
 Bloc 3 : `01_source_canonique/02_mythes_croyances_heuristiques_biais_sophismes.md`, pages imprimées 16-28 / pages PDF 17-29.
+
+## Indexation ChatGPT / IA
+
+Point d'entrée recommandé pour les assistants IA : `llms.txt`.
+
+Ordre de lecture conseillé :
+
+1. `README.md`
+2. `llms.txt`
+3. `00_pilotage/00_index_global.md`
+4. `00_pilotage/03_index_notions.md`
+5. `04_substances_mentions/00_index_substances.md`
+
+Pour ChatGPT, connecter ou ajouter le dépôt GitHub `PNP06/traiterdr`, puis demander explicitement d'utiliser `llms.txt` comme carte du corpus avant de lire les fichiers spécialisés.

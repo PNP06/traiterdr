@@ -1,0 +1,38 @@
+# traiterdr
+
+Base documentaire Markdown issue du traite "Traite de reduction des risques lies aux drogues - Tome 1".
+
+Ce depot est organise pour etre lisible par humains et par assistants IA. Les fichiers Markdown sont la source principale a indexer.
+
+## Priorite de lecture pour ChatGPT
+
+1. `README.md` - statut du depot, conventions et prochaine etape.
+2. `00_pilotage/00_index_global.md` - couverture documentaire globale.
+3. `00_pilotage/01_matrice_couverture.md` - suivi des pages et blocs couverts.
+4. `00_pilotage/03_index_notions.md` - notions, definitions courtes, pages et fichiers sources.
+5. `04_substances_mentions/00_index_substances.md` - substances ou familles mentionnees et statut.
+6. `02_themes_transversaux/00_index_themes.md` - carte des themes transversaux.
+7. `03_derives_culturerdr/00_index_derives.md` - derives CultureRDR candidats.
+
+## Structure du corpus
+
+- `00_pilotage/` : indexes, glossaire, couverture, decisions documentaires, pages a relire.
+- `01_source_canonique/` : extraction canonique du traite, par blocs de pages.
+- `02_themes_transversaux/` : regroupements thematiques transversaux a assembler ou consolider.
+- `03_derives_culturerdr/` : candidats pour regles, variables, modules, messages et checklists CultureRDR ; non valides par defaut.
+- `04_substances_mentions/` : mentions et futures monographies substances.
+- `05_assets_visuels/` : figures, images et index des assets visuels.
+
+## Regles d'interpretation
+
+- Ne pas traiter un fichier candidat comme valide sans verifier son statut.
+- Conserver la distinction entre source canonique, themes transversaux et derives applicatifs.
+- Respecter la convention de pagination du depot : page PDF = page imprimee + 1.
+- Les contenus juridiques, medicaux ou de reduction des risques doivent etre consideres comme documentaires et a valider avant usage public operationnel.
+
+## Requetes utiles
+
+- Pour retrouver une notion : consulter `00_pilotage/03_index_notions.md`, puis ouvrir les fichiers sources cites.
+- Pour verifier une substance : consulter `04_substances_mentions/00_index_substances.md`, puis les fichiers source futurs ou actuels indiques.
+- Pour connaitre l'etat d'extraction : consulter `00_pilotage/00_index_global.md` et `00_pilotage/01_matrice_couverture.md`.
+- Pour reutiliser dans CultureRDR : partir de `03_derives_culturerdr/00_index_derives.md`, puis verifier les fichiers sources canoniques.
