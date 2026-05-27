@@ -53,3 +53,10 @@
 | 81 | Verifier lisibilite, titre visible et cadrage de `p081_figure_01_sucre_naturel_reste_perche_contact.png`. | visuel | moyenne | Ouvrir l'asset et comparer au PDF page 82. |
 | 89 | Verifier lisibilite, titre visible et cadrage de `p089_figure_01_sucre_naturel_reste_perche_contact.png`. | visuel | moyenne | Ouvrir l'asset et comparer au PDF page 90. |
 | 70-90 | Note auteur ou TODO possible dans le passage. | statut documentaire | moyenne | Conserver comme statut, ne pas traiter comme fait definitif. |
+
+## Bloc 8 - GHB/drogue du viol/chemsex/3-MMC/RC-NPS
+
+| Page | Probleme | Type | Priorite | Action recommandee |
+|---:|---|---|---|---|
+| 97 | Verifier lisibilite, titre visible et cadrage de `p097_figure_01_ghb_drogue_du_viol_chemsex_3_mmc_r.png`. | visuel | moyenne | Ouvrir l'asset et comparer au PDF page 98. |
+| 97 | Verifier lisibilite, titre visible et cadrage de `p097_figure_02_ghb_drogue_du_viol_chemsex_3_mmc_r.png`. | visuel | moyenne | Ouvrir l'asset et comparer au PDF page 98. |

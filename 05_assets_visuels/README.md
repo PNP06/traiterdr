@@ -55,3 +55,10 @@ Les tableaux textuels et encadrés sont convertis ou décrits en Markdown. Seuls
 | `p078_figure_01_sucre_naturel_reste_perche_contact.png` | 78 | 79 | Visuel extrait pour le bloc 7 `sucre/naturel/reste perche/contact/addiction` ; dimensions 745x185. | Source canonique et index visuels. |
 | `p081_figure_01_sucre_naturel_reste_perche_contact.png` | 81 | 82 | Visuel extrait pour le bloc 7 `sucre/naturel/reste perche/contact/addiction` ; dimensions 256x559. | Source canonique et index visuels. |
 | `p089_figure_01_sucre_naturel_reste_perche_contact.png` | 89 | 90 | Visuel extrait pour le bloc 7 `sucre/naturel/reste perche/contact/addiction` ; dimensions 1015x643. | Source canonique et index visuels. |
+
+## Assets ajoutes - bloc 8
+
+| Fichier | Page imprimee | Page PDF | Description | Utilisation |
+|---|---:|---:|---|---|
+| `p097_figure_01_ghb_drogue_du_viol_chemsex_3_mmc_r.png` | 97 | 98 | Visuel extrait pour le bloc 8 `GHB/drogue du viol/chemsex/3-MMC/RC-NPS` ; dimensions 521x305. | Source canonique et index visuels. |
+| `p097_figure_02_ghb_drogue_du_viol_chemsex_3_mmc_r.png` | 97 | 98 | Visuel extrait pour le bloc 8 `GHB/drogue du viol/chemsex/3-MMC/RC-NPS` ; dimensions 433x323. | Source canonique et index visuels. |

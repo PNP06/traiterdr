@@ -43,3 +43,10 @@
 | 78 | image / figure | a confirmer | Visuel extrait depuis le PDF, dimensions 745x185. | Texte visible a controler dans l'image. | Conserve le support visuel du passage source. | `05_assets_visuels/p078_figure_01_sucre_naturel_reste_perche_contact.png` | extrait ; a relire |
 | 81 | image / figure | a confirmer | Visuel extrait depuis le PDF, dimensions 256x559. | Texte visible a controler dans l'image. | Conserve le support visuel du passage source. | `05_assets_visuels/p081_figure_01_sucre_naturel_reste_perche_contact.png` | extrait ; a relire |
 | 89 | image / figure | a confirmer | Visuel extrait depuis le PDF, dimensions 1015x643. | Texte visible a controler dans l'image. | Conserve le support visuel du passage source. | `05_assets_visuels/p089_figure_01_sucre_naturel_reste_perche_contact.png` | extrait ; a relire |
+
+## Bloc 8 - GHB/drogue du viol/chemsex/3-MMC/RC-NPS
+
+| Page | Type | Titre visible | Description | Donnees extraites | Importance RDR | Fichier cible | Statut |
+|---:|---|---|---|---|---|---|---|
+| 97 | image / figure | a confirmer | Visuel extrait depuis le PDF, dimensions 521x305. | Texte visible a controler dans l'image. | Conserve le support visuel du passage source. | `05_assets_visuels/p097_figure_01_ghb_drogue_du_viol_chemsex_3_mmc_r.png` | extrait ; a relire |
+| 97 | image / figure | a confirmer | Visuel extrait depuis le PDF, dimensions 433x323. | Texte visible a controler dans l'image. | Conserve le support visuel du passage source. | `05_assets_visuels/p097_figure_02_ghb_drogue_du_viol_chemsex_3_mmc_r.png` | extrait ; a relire |

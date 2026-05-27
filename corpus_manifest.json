@@ -6,35 +6,35 @@
   "files": [
     {
       "path": "00_pilotage/00_index_global.md",
-      "size_bytes": 2022
+      "size_bytes": 2241
     },
     {
       "path": "00_pilotage/01_matrice_couverture.md",
-      "size_bytes": 40372
+      "size_bytes": 45405
     },
     {
       "path": "00_pilotage/02_index_visuels_tableaux_figures.md",
-      "size_bytes": 10854
+      "size_bytes": 11605
     },
     {
       "path": "00_pilotage/03_index_notions.md",
-      "size_bytes": 46953
+      "size_bytes": 53271
     },
     {
       "path": "00_pilotage/04_glossaire.md",
-      "size_bytes": 13335
+      "size_bytes": 15428
     },
     {
       "path": "00_pilotage/05_journal_extraction.md",
-      "size_bytes": 6601
+      "size_bytes": 7169
     },
     {
       "path": "00_pilotage/06_pages_a_relire.md",
-      "size_bytes": 7686
+      "size_bytes": 8180
     },
     {
       "path": "00_pilotage/07_decisions_documentaires.md",
-      "size_bytes": 6401
+      "size_bytes": 6609
     },
     {
       "path": "01_source_canonique/00_front_matter_suivi_remerciements.md",
@@ -66,7 +66,7 @@
     },
     {
       "path": "01_source_canonique/07_ghb_drogue_du_viol_chemsex_3mmc_rc_nps.md",
-      "size_bytes": 1011
+      "size_bytes": 46184
     },
     {
       "path": "01_source_canonique/08_gestion_des_risques.md",
@@ -282,7 +282,7 @@
     },
     {
       "path": "04_substances_mentions/00_index_substances.md",
-      "size_bytes": 11630
+      "size_bytes": 12744
     },
     {
       "path": "04_substances_mentions/3mmc_chemsex.md",
@@ -409,12 +409,20 @@
       "size_bytes": 287593
     },
     {
+      "path": "05_assets_visuels/p097_figure_01_ghb_drogue_du_viol_chemsex_3_mmc_r.png",
+      "size_bytes": 1478
+    },
+    {
+      "path": "05_assets_visuels/p097_figure_02_ghb_drogue_du_viol_chemsex_3_mmc_r.png",
+      "size_bytes": 1398
+    },
+    {
       "path": "05_assets_visuels/README.md",
-      "size_bytes": 4286
+      "size_bytes": 4812
     },
     {
       "path": "INDEX.md",
-      "size_bytes": 7407
+      "size_bytes": 7669
     },
     {
       "path": "llms.txt",
@@ -422,7 +430,7 @@
     },
     {
       "path": "README.md",
-      "size_bytes": 2508
+      "size_bytes": 2592
     },
     {
       "path": "sources/traite/manifest_html_clean.json",

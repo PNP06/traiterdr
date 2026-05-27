@@ -109,3 +109,23 @@
 | Contamination par contact | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 7, p. 70-90. | provisoire |
 | Accro à la première prise | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 7, p. 70-90. | provisoire |
 | Le taux de conversion en fonction des substances | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 7, p. 70-90. | provisoire |
+
+## Bloc 8 - GHB/drogue du viol/chemsex/3-MMC/RC-NPS
+
+| Terme | Definition courte | Source | Statut |
+|---|---|---|---|
+| Drogue du zombie | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 8, p. 91-98. | provisoire |
+| Drogue du viol | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 8, p. 91-98. | provisoire |
+| Position des | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 8, p. 91-98. | provisoire |
+| Chemsex, usage sexualisé des drogues et 3-MMC | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 8, p. 91-98. | provisoire |
+| Zoom sur la 3-MMC | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 8, p. 91-98. | provisoire |
+| Les « research | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 8, p. 91-98. | provisoire |
+| La réglementation | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 8, p. 91-98. | provisoire |
+| Cas du LSD (acide lysergique diéthylamide) | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 8, p. 91-98. | provisoire |
+| La synthèse de | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 8, p. 91-98. | provisoire |
+| Exemple : le 1cp-LSD | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 8, p. 91-98. | provisoire |
+| Toxicité des RC | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 8, p. 91-98. | provisoire |
+| Les dosages de RC | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 8, p. 91-98. | provisoire |
+| Le jeu du « chat | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 8, p. 91-98. | provisoire |
+| Les risques juridiques | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 8, p. 91-98. | provisoire |
+| Darknet versus sites | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 8, p. 91-98. | provisoire |

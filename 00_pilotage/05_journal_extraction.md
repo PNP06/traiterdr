@@ -21,3 +21,9 @@
 | Date | Bloc traite | Pages | Fichiers modifies | Problemes rencontres | Decisions prises | Prochaine etape |
 |---|---|---|---|---|---|---|
 | 2026-05-27 | Phase 1 bloc 7 - sucre/naturel/reste perche/contact/addiction | imprimees 70-90 / PDF 71-91 | `01_source_canonique/06_mythes_sucre_naturel_reste_perche_contact_addiction.md`, pilotage, assets, index racine, manifeste | Extraction automatique a relire ; visuels a controler | Conserver contenu source complet dans le fichier canonique ; ne pas creer de module final | Bloc 8 |
+
+## Bloc 8 - GHB/drogue du viol/chemsex/3-MMC/RC-NPS
+
+| Date | Bloc traite | Pages | Fichiers modifies | Problemes rencontres | Decisions prises | Prochaine etape |
+|---|---|---|---|---|---|---|
+| 2026-05-27 | Phase 1 bloc 8 - GHB/drogue du viol/chemsex/3-MMC/RC-NPS | imprimees 91-98 / PDF 92-99 | `01_source_canonique/07_ghb_drogue_du_viol_chemsex_3mmc_rc_nps.md`, pilotage, assets, index racine, manifeste | Extraction automatique a relire ; visuels a controler | Conserver contenu source complet dans le fichier canonique ; ne pas creer de module final | Bloc 9 |
