@@ -26,3 +26,16 @@ Ces éléments sont dérivés du traité et nécessitent une validation humaine 
 | NO-GO-INTRO-006 | scoring | Ne pas créer de score RDR à partir du seul positionnement en prévention secondaire. | pages 9-10 | Le bloc ne fournit ni pondération, ni seuil, ni variables individuelles suffisantes. | actif |
 | NO-GO-INTRO-007 | sources | Ne pas considérer une relecture par professionnels de santé comme une certification médicale formelle. | page 12 | La source mentionne des relectures, sans protocole ni validation formelle. | actif |
 | NO-GO-INTRO-008 | actualité juridique/institutionnelle | Ne pas intégrer les éléments CND/ONU 2024 sans vérification si affichés publiquement. | pages 14-15 | L'extraction conserve la source, mais ne vérifie pas l'actualité ou la formulation institutionnelle. | actif |
+
+
+## Éléments candidats issus du bloc 3
+
+| ID | Domaine | À ne pas automatiser | Source | Justification | Statut |
+|---|---|---|---|---|---|
+| NO-GO-COG-001 | UX / communication | Ne pas dire directement à l'utilisateur `tu es biaisé` ou `c'est un sophisme`. | pages 21-28 | Ces formulations peuvent déclencher défensive et déplacement du débat ; préférer des questions de méthode. | actif |
+| NO-GO-COG-002 | scoring | Ne pas créer un score cognitif ou score de rationalité à partir des heuristiques/biais/sophismes. | pages 18-28 | Le bloc fournit une grille d'analyse, pas une échelle validée. | actif |
+| NO-GO-COG-003 | risque individuel | Ne pas déduire un niveau de risque individuel du seul manque de dose/fréquence/contexte dans une phrase. | pages 19-20 | L'absence de paramétrage signale une information insuffisante, pas un risque quantifié. | actif |
+| NO-GO-COG-004 | preuves | Ne pas figer une hiérarchie de preuves avant extraction du bloc `Comprendre la science`. | pages 21-22 | Le bloc donne des repères, mais la méthodologie science/preuves est prévue ensuite. | actif |
+| NO-GO-COG-005 | naturalité | Ne pas transformer `naturel ≠ sûr` en `naturel = dangereux`. | pages 17, 19, 25 | Le traité dit que l'origine naturelle ne suffit pas ; il ne pose pas l'inverse. | actif |
+| NO-GO-COG-006 | témoignages | Ne pas invalider automatiquement l'expérience vécue au motif qu'elle n'est pas une preuve scientifique. | pages 26-28 | L'expérience peut éclairer les pratiques, mais ne suffit pas à établir une règle générale. | actif |
+| NO-GO-COG-007 | données chiffrées | Ne pas transformer les exemples pédagogiques de risque absolu en seuils ou statistiques génériques. | page 22 | Les chiffres doivent être vérifiés, sourcés et contextualisés. | actif |

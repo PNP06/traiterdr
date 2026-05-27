@@ -2,7 +2,7 @@
 
 ## Statut
 - phase 1 en cours
-- entrées des blocs 1 et 2
+- entrées des blocs 1, 2 et 3
 
 | Page | Problème | Type | Priorité | Action recommandée |
 |---:|---|---|---|---|
@@ -23,3 +23,11 @@
 | 14 | Historique Techno+ et références juridiques 2003/2005. | vérification juridique/historique | élevée avant publication | Vérifier sources Techno+, décret et relaxe si usage public. |
 | 14-15 | Affirmation CND/ONU mars 2024 : reconnaissance de la RDR, vote 70 % des 53 membres, opposants Russie et Chine. | vérification institutionnelle / actualité | élevée avant publication | Vérifier sur le document CND/UNODC cité et sources institutionnelles avant intégration app. |
 | 15 | Encadré légal final. | validation juridique | élevée avant app | Ne pas utiliser comme clause juridique d'application sans relecture spécialisée. |
+| 18 | Note de bas de page sur les cours de science de la décision ; source interne/formation à préciser si publication. | source / traçabilité | moyenne | Clarifier la référence complète ou conserver comme note interne. |
+| 20 | Infographie heuristiques extraite ; vérifier que la page imprimée exacte est p. 20 dans le rendu final. | pagination visuel | basse | Contrôler au rendu PDF final avant publication. |
+| 21-22 | Chiffre de 74 % dans l'expérience d'Asch. | donnée psychologique | moyenne | Vérifier la source et la formulation si reprise dans un module public. |
+| 22 | Exemple pédagogique de risque absolu `3 cancers du foie pour 1 000 personnes par an` vs `1 cas pour 1 000`. | donnée chiffrée / exemple | élevée avant publication | Vérifier si le chiffre est purement illustratif ou sourcé ; ne pas le transformer en seuil. |
+| 22 | Infographie biais cognitifs ; pagination exacte à confirmer. | pagination visuel | basse | Contrôler au rendu PDF final avant publication. |
+| 23-28 | Les notes de logique informelle et philosophie de l'argumentation sont nombreuses ; certaines URLs doivent être vérifiées. | sources / bibliographie | moyenne | Vérifier Aristotle, Walton/Stanford, Toulmin, logical consequence, argument, defeasible reasoning. |
+| 28 | Infographie sophismes ; pagination exacte à confirmer. | pagination visuel | basse | Contrôler au rendu PDF final avant publication. |
+| 27-28 | Exemples d'appel à l'autorité et ad hominem : risque de ton accusatoire si automatisé. | UX / communication | élevée pour app | Toute reformulation utilisateur doit éviter d'étiqueter directement la personne comme biaisée ou sophistique. |

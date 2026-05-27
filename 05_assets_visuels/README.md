@@ -2,7 +2,7 @@
 
 ## Statut
 - répertoire d'assets visuels extrait du traité
-- blocs 1 et 2 alimentés
+- blocs 1, 2 et 3 alimentés
 
 ## Convention de nommage
 
@@ -24,4 +24,12 @@ pXXX_figure_YY_description_courte.ext
 
 ## Remarque
 
-Les tableaux textuels et encadrés des blocs 1 et 2 sont convertis ou décrits en Markdown. Seuls les visuels raster pertinents ou réutilisés ont été stockés comme fichiers image.
+Les tableaux textuels et encadrés sont convertis ou décrits en Markdown. Seuls les visuels raster pertinents ou réutilisés ont été stockés comme fichiers image.
+
+## Assets ajoutés - bloc 3
+
+| Fichier | Page imprimée estimée | Source | Description | Statut |
+|---|---:|---|---|---|
+| `p020_figure_01_heuristiques.png` | 20 | bloc 3 | Infographie `HEURISTIQUES : règles rapides... utiles, mais parfois trompeuses`. | extrait |
+| `p022_figure_01_biais_cognitifs.png` | 22 | bloc 3 | Infographie `BIAIS COGNITIFS : distorsions systématiques du jugement`. | extrait ; pagination à confirmer |
+| `p028_figure_01_sophismes.png` | 28 | bloc 3 | Infographie `SOPHISMES : quand le "donc" dérape`. | extrait ; pagination à confirmer |

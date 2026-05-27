@@ -28,10 +28,11 @@ Exemple : page imprimée 8 = page PDF 9 ; page imprimée 15 = page PDF 16.
 | Phase 0 | cadrage initial | 0-332 | 1-333 | terminé |
 | Phase 1 | bloc 1 - front matter, suivi, table des matières, remerciements | 0-7 | 1-8 | extrait provisoire |
 | Phase 1 | bloc 2 - introduction, objectif, publics, sources, cadre juridique | 8-15 | 9-16 | extrait provisoire |
+| Phase 1 | bloc 3 - mythes, croyances, heuristiques, biais, sophismes | 16-28 | 17-29 | extrait provisoire |
 
 ## Prochaine étape
 
-Bloc 3 : `01_source_canonique/02_mythes_croyances_heuristiques_biais_sophismes.md`, pages imprimées 16-28 / pages PDF 17-29.
+Bloc 4 : `01_source_canonique/03_mecanismes_protection_approche_rdr.md`, pages imprimées 29-44 / pages PDF 30-45.
 
 ## Indexation ChatGPT / IA
 

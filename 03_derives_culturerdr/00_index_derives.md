@@ -2,7 +2,7 @@
 
 ## Statut
 - candidats non validés
-- blocs 1 et 2 intégrés comme cadrage, sans règle métier finale
+- blocs 1, 2 et 3 intégrés comme cadrage, sans règle métier finale
 
 ## Décision phase 1 bloc 1
 
@@ -24,3 +24,19 @@ Ces éléments peuvent alimenter des candidats de métadonnées, modules Académ
 | Modes de lecture | Parcours Académie ou navigation | `01_variables_app_candidates.md` ; `04_modules_academie_candidates.md` | candidat | structure visuelle à normaliser |
 | Cadre légal / avertissement | Message de contexte et limites | `03_messages_rdr_candidates.md` ; `08_no_go_automation.md` | candidat | validation juridique requise |
 | Energy Control | Cadrage RDR non abstinentiel | `04_modules_academie_candidates.md` | candidat | ne pas transformer en justification de consommation |
+
+
+## Décision phase 1 bloc 3
+
+Le bloc 3 fournit une base candidate pour les futurs contenus CultureRDR sur croyances, perception du risque, biais cognitifs et qualité du raisonnement. Les éléments exploitables sont des outils de structuration de l'information : préciser dose/fréquence/contexte, chercher la preuve contraire, comparer les niveaux de preuve, raisonner en risque absolu, tester le pont logique d'un `donc`.
+
+Ces éléments ne doivent pas être transformés en diagnostic cognitif de l'utilisateur ni en correction automatique agressive.
+
+| Élément | Usage possible | Fichier dérivé concerné | Statut | Limite |
+|---|---|---|---|---|
+| Croyance actionnelle | Prioriser les croyances qui modifient dose, fréquence, contexte ou protections | `01_variables_app_candidates.md` ; `04_modules_academie_candidates.md` | candidat | classification humaine/UX requise |
+| Paramétrage dose/fréquence/effet/contexte | Contrôle qualité des affirmations de risque | `01_variables_app_candidates.md` ; `02_regles_metier_candidates.md` | candidat | ne calcule pas le risque individuel |
+| Biais de confirmation | Message de méthode : chercher preuve contraire | `03_messages_rdr_candidates.md` | candidat | ne pas dire `tu es biaisé` |
+| Risque absolu | Littératie du risque | `03_messages_rdr_candidates.md` ; `04_modules_academie_candidates.md` | candidat | chiffres à sourcer |
+| Pont logique / sophismes | Module Académie et outils de reformulation | `02_regles_metier_candidates.md` ; `04_modules_academie_candidates.md` | candidat | ne pas utiliser comme arme rhétorique contre l'utilisateur |
+| Naturalité ≠ innocuité | Message RDR général | `03_messages_rdr_candidates.md` | candidat | ne remplace pas une évaluation substance/dose |

@@ -1,6 +1,6 @@
-﻿{
+{
     "repository":  "PNP06/traiterdr",
-    "generated_at":  "2026-05-27T14:04:07.2270776Z",
+    "generated_at":  "2026-05-27T14:36:21.8119764Z",
     "purpose":  "Machine-readable corpus manifest for ChatGPT, GitHub search, and document indexing.",
     "entrypoints":  [
                         "llms.txt",
@@ -10,7 +10,8 @@
                         "sources/traite/rapport_nettoyage_html.md",
                         "00_pilotage/00_index_global.md",
                         "00_pilotage/03_index_notions.md",
-                        "04_substances_mentions/00_index_substances.md"
+                        "04_substances_mentions/00_index_substances.md",
+                        "05_assets_visuels/README.md"
                     ],
     "ignored_local_sources":  [
                                   "sources/traite/raw_html_export/"
@@ -20,7 +21,7 @@
                       "path":  "00_pilotage/00_index_global.md",
                       "title":  "Index global",
                       "extension":  "md",
-                      "size_bytes":  1596,
+                      "size_bytes":  1661,
                       "headings":  [
                                        "Statut",
                                        "Source",
@@ -32,7 +33,7 @@
                       "path":  "00_pilotage/01_matrice_couverture.md",
                       "title":  "Matrice de couverture",
                       "extension":  "md",
-                      "size_bytes":  6748,
+                      "size_bytes":  12618,
                       "headings":  [
                                        "Statut"
                                    ]
@@ -41,7 +42,7 @@
                       "path":  "00_pilotage/02_index_visuels_tableaux_figures.md",
                       "title":  "Index des visuels, tableaux et figures",
                       "extension":  "md",
-                      "size_bytes":  4286,
+                      "size_bytes":  6246,
                       "headings":  [
                                        "Statut"
                                    ]
@@ -50,7 +51,7 @@
                       "path":  "00_pilotage/03_index_notions.md",
                       "title":  "Index des notions",
                       "extension":  "md",
-                      "size_bytes":  12808,
+                      "size_bytes":  21017,
                       "headings":  [
                                        "Statut"
                                    ]
@@ -59,7 +60,7 @@
                       "path":  "00_pilotage/04_glossaire.md",
                       "title":  "Glossaire",
                       "extension":  "md",
-                      "size_bytes":  3267,
+                      "size_bytes":  4963,
                       "headings":  [
                                        "Statut"
                                    ]
@@ -68,7 +69,7 @@
                       "path":  "00_pilotage/05_journal_extraction.md",
                       "title":  "Journal d\u0027extraction",
                       "extension":  "md",
-                      "size_bytes":  2889,
+                      "size_bytes":  4496,
                       "headings":  [
                                        "Statut"
                                    ]
@@ -77,7 +78,7 @@
                       "path":  "00_pilotage/06_pages_a_relire.md",
                       "title":  "Pages à relire",
                       "extension":  "md",
-                      "size_bytes":  3565,
+                      "size_bytes":  5257,
                       "headings":  [
                                        "Statut"
                                    ]
@@ -86,7 +87,7 @@
                       "path":  "00_pilotage/07_decisions_documentaires.md",
                       "title":  "Décisions documentaires",
                       "extension":  "md",
-                      "size_bytes":  3466,
+                      "size_bytes":  5076,
                       "headings":  [
                                        "Statut"
                                    ]
@@ -127,7 +128,7 @@
                       "path":  "01_source_canonique/02_mythes_croyances_heuristiques_biais_sophismes.md",
                       "title":  "Mythes, croyances, heuristiques, biais et sophismes",
                       "extension":  "md",
-                      "size_bytes":  39606,
+                      "size_bytes":  39545,
                       "headings":  [
                                        "Statut",
                                        "Pages sources",
@@ -888,18 +889,19 @@
                       "path":  "03_derives_culturerdr/00_index_derives.md",
                       "title":  "Index des dérivés CultureRDR",
                       "extension":  "md",
-                      "size_bytes":  2275,
+                      "size_bytes":  4047,
                       "headings":  [
                                        "Statut",
                                        "Décision phase 1 bloc 1",
-                                       "Décision phase 1 bloc 2"
+                                       "Décision phase 1 bloc 2",
+                                       "Décision phase 1 bloc 3"
                                    ]
                   },
                   {
                       "path":  "03_derives_culturerdr/01_variables_app_candidates.md",
                       "title":  "Variables App Candidates",
                       "extension":  "md",
-                      "size_bytes":  2361,
+                      "size_bytes":  4220,
                       "headings":  [
                                        "Statut",
                                        "Méthode",
@@ -910,7 +912,7 @@
                       "path":  "03_derives_culturerdr/02_regles_metier_candidates.md",
                       "title":  "Règles métier candidates",
                       "extension":  "md",
-                      "size_bytes":  2504,
+                      "size_bytes":  4456,
                       "headings":  [
                                        "Statut",
                                        "Méthode"
@@ -920,7 +922,7 @@
                       "path":  "03_derives_culturerdr/03_messages_rdr_candidates.md",
                       "title":  "Messages RDR candidats",
                       "extension":  "md",
-                      "size_bytes":  2344,
+                      "size_bytes":  4375,
                       "headings":  [
                                        "Statut",
                                        "Méthode"
@@ -930,7 +932,7 @@
                       "path":  "03_derives_culturerdr/04_modules_academie_candidates.md",
                       "title":  "Modules Académie candidats",
                       "extension":  "md",
-                      "size_bytes":  2140,
+                      "size_bytes":  3452,
                       "headings":  [
                                        "Statut",
                                        "Méthode"
@@ -973,12 +975,13 @@
                       "path":  "03_derives_culturerdr/08_no_go_automation.md",
                       "title":  "No-go automation",
                       "extension":  "md",
-                      "size_bytes":  3150,
+                      "size_bytes":  4970,
                       "headings":  [
                                        "Statut",
                                        "Méthode",
                                        "Éléments candidats issus du bloc 1",
-                                       "Éléments candidats issus du bloc 2"
+                                       "Éléments candidats issus du bloc 2",
+                                       "Éléments candidats issus du bloc 3"
                                    ]
                   },
                   {
@@ -1007,10 +1010,11 @@
                       "path":  "04_substances_mentions/00_index_substances.md",
                       "title":  "Index des substances mentionnées",
                       "extension":  "md",
-                      "size_bytes":  5081,
+                      "size_bytes":  8328,
                       "headings":  [
                                        "Statut",
-                                       "Décision"
+                                       "Décision",
+                                       "Mentions ajoutées par le bloc 3"
                                    ]
                   },
                   {
@@ -1183,15 +1187,70 @@
                                    ]
                   },
                   {
+                      "path":  "05_assets_visuels/p001_figure_01_dedicace_image_koala.jpeg",
+                      "title":  "p001_figure_01_dedicace_image_koala",
+                      "extension":  "jpeg",
+                      "size_bytes":  23008,
+                      "headings":  [
+
+                                   ]
+                  },
+                  {
+                      "path":  "05_assets_visuels/p009_figure_01_preventions_primaire_secondaire_tertiaire.png",
+                      "title":  "p009_figure_01_preventions_primaire_secondaire_tertiaire",
+                      "extension":  "png",
+                      "size_bytes":  893110,
+                      "headings":  [
+
+                                   ]
+                  },
+                  {
+                      "path":  "05_assets_visuels/p012_figure_01_icone_koala_encadres.jpeg",
+                      "title":  "p012_figure_01_icone_koala_encadres",
+                      "extension":  "jpeg",
+                      "size_bytes":  22552,
+                      "headings":  [
+
+                                   ]
+                  },
+                  {
+                      "path":  "05_assets_visuels/p020_figure_01_heuristiques.png",
+                      "title":  "p020_figure_01_heuristiques",
+                      "extension":  "png",
+                      "size_bytes":  484323,
+                      "headings":  [
+
+                                   ]
+                  },
+                  {
+                      "path":  "05_assets_visuels/p022_figure_01_biais_cognitifs.png",
+                      "title":  "p022_figure_01_biais_cognitifs",
+                      "extension":  "png",
+                      "size_bytes":  444862,
+                      "headings":  [
+
+                                   ]
+                  },
+                  {
+                      "path":  "05_assets_visuels/p028_figure_01_sophismes.png",
+                      "title":  "p028_figure_01_sophismes",
+                      "extension":  "png",
+                      "size_bytes":  481598,
+                      "headings":  [
+
+                                   ]
+                  },
+                  {
                       "path":  "05_assets_visuels/README.md",
                       "title":  "Assets visuels",
                       "extension":  "md",
-                      "size_bytes":  1331,
+                      "size_bytes":  1888,
                       "headings":  [
                                        "Statut",
                                        "Convention de nommage",
                                        "Assets présents",
-                                       "Remarque"
+                                       "Remarque",
+                                       "Assets ajoutés - bloc 3"
                                    ]
                   },
                   {
@@ -1210,7 +1269,7 @@
                       "path":  "README.md",
                       "title":  "traiterdr",
                       "extension":  "md",
-                      "size_bytes":  2012,
+                      "size_bytes":  2103,
                       "headings":  [
                                        "Statut",
                                        "Convention de pagination",

@@ -1,7 +1,7 @@
 # Décisions documentaires
 
 ## Statut
-- décisions initiales, bloc 1 et bloc 2
+- décisions initiales, blocs 1, 2 et 3
 
 | ID | Date | Décision | Justification | Portée | Impact | Statut |
 |---|---|---|---|---|---|---|
@@ -16,3 +16,7 @@
 | DD-009 | 2026-05-27 | Conserver les encadrés de lecture, définition et avertissement comme éléments informatifs. | Ils contiennent des consignes de lecture, une définition de périmètre et des limites juridiques. | Bloc 2 ; index visuels. | Les encadrés sont décrits et intégrés au contenu source. | active |
 | DD-010 | 2026-05-27 | Traiter les références juridiques du bloc 2 comme contenu source, non comme avis juridique. | Le traité cite des articles et événements, mais l'extraction documentaire ne valide pas leur interprétation. | Cadre juridique, dérivés CultureRDR, no-go automation. | Toute exploitation app demande validation juridique ultérieure. | active |
 | DD-011 | 2026-05-27 | Créer seulement des candidats CultureRDR de cadrage, pas des modules finaux. | Les consignes interdisent de produire modules, règles métier ou scores définitifs à ce stade. | `03_derives_culturerdr/`. | Les éléments ajoutés restent explicitement non validés. | active |
+| DD-012 | 2026-05-27 | Utiliser `sources/traite/traite_rdr_version_html_clean.md` comme aide d'extraction, sans remplacer la traçabilité par pages. | Le dépôt contient désormais une version Markdown nettoyée du traité, plus facile à exploiter, mais la pagination imprimée/PDF reste la référence de couverture. | Tous les blocs suivants. | Accélère l'extraction tout en maintenant les pages sources. | active |
+| DD-013 | 2026-05-27 | Arrêter le bloc 3 avant `Mécanisme de protection psychologique`. | La table des matières sépare `Heuristique/Biais/Sophisme` de `Mécanisme de protection psychologique`; le fichier cible du bloc 3 ne doit pas absorber le bloc suivant. | `01_source_canonique/02_mythes_croyances_heuristiques_biais_sophismes.md`. | Le bloc 4 commencera par les mécanismes de protection psychologique. | active |
+| DD-014 | 2026-05-27 | Extraire les trois infographies heuristiques, biais cognitifs et sophismes comme assets. | Elles portent une information pédagogique structurante, non décorative. | `05_assets_visuels/` ; index visuels ; fichier source bloc 3. | Assets créés : `p020_figure_01_heuristiques.png`, `p022_figure_01_biais_cognitifs.png`, `p028_figure_01_sophismes.png`. | active |
+| DD-015 | 2026-05-27 | Ne pas écrire dans GitHub via les actions `create_file`/`update_file` tant que le routage API renvoie `CultureRDR`. | La lecture par URL GitHub accède bien à `traiterdr`, mais les outils repository_full_name restent liés à `CultureRDR`. | Travail GitHub. | Livraison sous forme d'archive de changements et de patch, sans commit direct. | active |

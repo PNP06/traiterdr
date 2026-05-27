@@ -2,10 +2,10 @@
 
 ## Statut
 - phase 1 en cours
-- mentions issues des blocs 1 et 2 uniquement
+- mentions issues des blocs 1, 2 et 3
 - aucune monographie substance créée depuis ces blocs
 
-| Substance ou famille | Type de mention dans les blocs 1-2 | Pages | Fichier source actuel | Fichier source futur | Statut |
+| Substance ou famille | Type de mention dans les blocs 1-3 | Pages | Fichier source actuel | Fichier source futur | Statut |
 |---|---|---:|---|---|---|
 | alcool | table des matières : mois sans alcool, santé publique, finances publiques, verre de vin, alcool et sexualité, application overdose, cas de l'alcool ; introduction : banalisation parentale, croyance du verre de vin bénéfique, exemple Brandolini | 4-7, 8, 10, 13 | `01_source_canonique/00_front_matter_suivi_remerciements.md` ; `01_source_canonique/01_introduction_cadre_objectif_sources.md` | `01_source_canonique/05_mythes_alcool_tabac_prix_sante_publique.md` ; `01_source_canonique/15_sexualite_vulnerabilite_consentement.md` ; `01_source_canonique/17_badtrip_overdose.md` ; `01_source_canonique/20_descente_sevrage_addiction_dependance.md` | mention seulement |
 | tabac / nicotine | table des matières : mois sans tabac, finances publiques ; introduction : comparaison cannabis/tabac ; alcool/tabac hors stupéfiants dans cadre juridique | 4, 8, 13 | `01_source_canonique/00_front_matter_suivi_remerciements.md` ; `01_source_canonique/01_introduction_cadre_objectif_sources.md` | `01_source_canonique/05_mythes_alcool_tabac_prix_sante_publique.md` | mention seulement |
@@ -25,3 +25,21 @@
 ## Décision
 
 Les fichiers substance ne sont pas remplis à partir des blocs 1 et 2. Les mentions restent contextuelles, introductives ou issues de la table des matières. Aucune monographie substance ne doit être créée avant extraction du contenu substantiel correspondant.
+
+
+## Mentions ajoutées par le bloc 3
+
+| Substance ou famille | Type de mention dans le bloc 3 | Pages | Fichier source actuel | Fichier source futur | Statut |
+|---|---|---:|---|---|---|
+| LSD | Exemple de mythe de contamination par contact après consommation et baiser. | 17 | `01_source_canonique/02_mythes_croyances_heuristiques_biais_sophismes.md` | futur bloc sur contamination par contact / psychédéliques | exemple argumentatif ; pas monographie |
+| alcool / vin | Exemple de croyance `un verre de vin par jour est bon pour la santé`, biais de confirmation, fausse causalité, preuve anecdotique, whataboutism alcool/sucre. | 17, 21-28 | `01_source_canonique/02_mythes_croyances_heuristiques_biais_sophismes.md` | `01_source_canonique/05_mythes_alcool_tabac_prix_sante_publique.md` | exemple argumentatif ; à traiter plus tard |
+| cannabis | Exemple de naturalité, de risque routier probabiliste, de fausse causalité cannabis/anxiété, de whataboutism cannabis/héroïne. | 17, 24-26 | `01_source_canonique/02_mythes_croyances_heuristiques_biais_sophismes.md` | à déterminer après extraction du contenu | exemple argumentatif |
+| champignons hallucinogènes | Exemple de substance naturelle pouvant être perçue comme inoffensive du fait de la naturalité. | 17 | `01_source_canonique/02_mythes_croyances_heuristiques_biais_sophismes.md` | `01_source_canonique/06_mythes_sucre_naturel_reste_perche_contact_addiction.md` | exemple argumentatif |
+| GHB | Exemple de réduction au récit `drogue du viol`, avec mention de l'usage médical dans la narcolepsie. | 17 | `01_source_canonique/02_mythes_croyances_heuristiques_biais_sophismes.md` | `01_source_canonique/07_ghb_drogue_du_viol_chemsex_3mmc_rc_nps.md` | exemple argumentatif ; à traiter plus tard |
+| kratom / datura / kava | Exemples dans le sophisme d'appel à la nature : plante ne signifie pas absence de danger. | 25 | `01_source_canonique/02_mythes_croyances_heuristiques_biais_sophismes.md` | `04_substances_mentions/autres_substances.md` éventuellement | exemples argumentatifs ; pas monographie |
+| e-cigarette / vape | Exemple de fausse causalité et de raisonnement valide mais non solide. | 24-26 | `01_source_canonique/02_mythes_croyances_heuristiques_biais_sophismes.md` | `04_substances_mentions/tabac_nicotine.md` éventuellement | exemple argumentatif |
+| MDMA | Exemple de preuve anecdotique : ami consommant sans ennui. | 26 | `01_source_canonique/02_mythes_croyances_heuristiques_biais_sophismes.md` | à déterminer après extraction du contenu | exemple argumentatif |
+| héroïne | Exemple de whataboutism : `l'héroïne est pire`. | 26 | `01_source_canonique/02_mythes_croyances_heuristiques_biais_sophismes.md` | à déterminer après extraction du contenu | exemple argumentatif |
+| microdosage | Exemple d'appel à l'autorité illégitime via médecin/influenceur affirmant que microdoser serait sans danger. | 27 | `01_source_canonique/02_mythes_croyances_heuristiques_biais_sophismes.md` | futur bloc psychédéliques si contenu suffisant | exemple argumentatif |
+
+Décision : les mentions du bloc 3 restent des exemples argumentatifs utilisés pour expliquer croyances, biais ou sophismes. Elles ne justifient pas encore de monographies substance.

@@ -2,7 +2,7 @@
 
 ## Statut
 - phase 1 en cours
-- blocs 1 et 2 indexés provisoirement
+- blocs 1, 2 et 3 indexés provisoirement
 
 | Page | Type | Titre visible | Description | Données extraites | Importance RDR | Fichier cible | Statut |
 |---:|---|---|---|---|---|---|---|
@@ -17,3 +17,7 @@
 | 12 | encadré + icône | `Pour une lecture efficace` | Encadré avec icône koala indiquant de mettre de côté les croyances et signalant des notions difficiles. | Deux consignes de lecture. | Prépare la correction des croyances et le recours aux sources. | `01_source_canonique/01_introduction_cadre_objectif_sources.md` ; icône `05_assets_visuels/p012_figure_01_icone_koala_encadres.jpeg` | extrait |
 | 12 | encadré + icône | non titré | Encadré définissant la drogue comme toute substance psychoactive active sur le cerveau, prise en automédication ou récréativement. | Définition opérationnelle de `drogue` dans le traité. | Important pour la cohérence terminologique. | `01_source_canonique/01_introduction_cadre_objectif_sources.md` | extrait |
 | 15 | encadré légal | non titré | Grand encadré final : objectif informatif, substances illégales, respect de la loi, absence d'encouragement, absence de prescription et absence de garantie. | 5 paragraphes d'avertissement conservés. | Délimite la posture RDR et les limites de responsabilité. | `01_source_canonique/01_introduction_cadre_objectif_sources.md` | extrait ; à valider juridiquement avant usage app |
+
+| 20 | infographie | `HEURISTIQUES : règles rapides... utiles, mais parfois trompeuses` | Synthèse des heuristiques utiles, problématiques, trompeuses et des anti-heuristiques. | Urgence ; quotidien ; confirmation ; optimisme comparatif ; dose ; contexte ; vulnérabilité ; naturel ≠ indicateur de toxicité ; prix/marque ≠ pureté ; effet doux ≠ risque faible ; disponibilité ; affect ; dose/fréquence/contexte. | Très forte : base de messages de correction des croyances et de structuration des risques. | `05_assets_visuels/p020_figure_01_heuristiques.png` ; `01_source_canonique/02_mythes_croyances_heuristiques_biais_sophismes.md` | extrait |
+| 22 | infographie | `BIAIS COGNITIFS : distorsions systématiques du jugement` | Synthèse des biais fonctionnels et problématiques avec exemples et anti-biais. | Conformité ; optimisme modéré ; confirmation ; optimisme comparatif ; normalisation de la déviance ; meilleure preuve contraire ; niveau de preuve ; risque absolu ; facteurs cachés ; croyance dangereuse si elle change l'action. | Très forte : utile pour modules futurs sur biais, preuve et décision. | `05_assets_visuels/p022_figure_01_biais_cognitifs.png` ; `01_source_canonique/02_mythes_croyances_heuristiques_biais_sophismes.md` | extrait ; pagination à confirmer |
+| 28 | infographie | `SOPHISMES : quand le "donc" dérape` | Synthèse du passage prémisses -> pont logique -> conclusion, validité, solidité et réflexes anti-sophismes. | Mots drapeaux rouges ; validité ; solidité ; mettre à plat ; reformuler en probabilité ; contre-exemple ; critères utiles ; appel à la nature ; corrélation ≠ causalité ; preuve anecdotique ; faux dilemme ; whataboutism. | Très forte : outil pédagogique pour éviter les conclusions non justifiées. | `05_assets_visuels/p028_figure_01_sophismes.png` ; `01_source_canonique/02_mythes_croyances_heuristiques_biais_sophismes.md` | extrait ; pagination à confirmer |

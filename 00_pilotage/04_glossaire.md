@@ -2,7 +2,7 @@
 
 ## Statut
 - glossaire documentaire initial
-- termes ajoutés pendant les blocs 1 et 2
+- termes ajoutés pendant les blocs 1, 2 et 3
 
 | Terme | Définition | Source / portée | Statut |
 |---|---|---|---|
@@ -28,3 +28,17 @@
 | CAARUD / CARRUD | La source écrit `CARRUD`; le sigle devra être relu avant publication. | Bloc 2, p. 10. | à relire |
 | CSAPA | Structure citée dans les publics associatifs/professionnels. | Bloc 2, p. 10. | utilisé |
 | CND | Commission de l'ONU sur les stupéfiants, citée pour une résolution de mars 2024. | Bloc 2, p. 14-15. | à vérifier avant usage public |
+
+| Mythe | Idée reçue ou récit social pouvant bloquer une compréhension rigoureuse des risques. | Bloc 3, p. 16-18. | utilisé |
+| Croyance actionnelle | Croyance qui modifie une conduite ou l'adoption de mesures de réduction des risques. | Bloc 3, p. 18. | utilisé |
+| Heuristique | Raccourci mental permettant de décider sans analyse exhaustive. | Bloc 3, p. 18-20. | utilisé |
+| Biais cognitif | Distorsion systématique dans la perception, l'interprétation ou l'évaluation d'une information. | Bloc 3, p. 21-23. | utilisé |
+| Sophisme | Raisonnement fallacieux donnant l'apparence d'une argumentation valide. | Bloc 3, p. 23-28. | utilisé |
+| Pont logique | Règle de passage entre prémisses et conclusion. | Bloc 3, p. 23-24. | utilisé |
+| Validité | Qualité d'un raisonnement dont la conclusion découle des prémisses. | Bloc 3, p. 24. | utilisé |
+| Solidité | Qualité d'un raisonnement dont les prémisses sont exactes et pertinentes. | Bloc 3, p. 24. | utilisé |
+| Raisonnement défaisable | Raisonnement probabiliste qui peut être nuancé ou renversé par une information nouvelle. | Bloc 3, p. 24. | utilisé |
+| Risque absolu | Fréquence ou nombre de cas sur une population donnée, opposé à un pourcentage relatif isolé. | Bloc 3, p. 22. | utilisé |
+| Normalisation de la déviance | Interprétation répétée de l'absence d'incident comme preuve de sécurité. | Bloc 3, p. 22. | utilisé |
+| Whataboutism | Relativisation d'un risque par invocation d'un risque supposé plus grave ailleurs. | Bloc 3, p. 26. | utilisé |
+| Ad hominem | Attaque de la personne utilisée comme substitut à la réfutation de l'argument. | Bloc 3, p. 27-28. | utilisé |

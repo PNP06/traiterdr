@@ -1,8 +1,8 @@
-﻿# Index du corpus traiterdr
+# Index du corpus traiterdr
 
-Derniere generation : 2026-05-27 16:04:07 +02:00
+Derniere generation : 2026-05-27 16:36:21 +02:00
 
-Cet index racine sert de carte de lecture pour GitHub, ChatGPT et tout outil de recherche documentaire. Les fichiers Markdown restent les sources de reference.
+Cet index racine sert de carte de lecture pour GitHub, ChatGPT et tout outil de recherche documentaire. Les fichiers Markdown restent les sources de reference ; les images sont listees comme assets associes.
 
 ## Points d entree
 
@@ -13,63 +13,64 @@ Cet index racine sert de carte de lecture pour GitHub, ChatGPT et tout outil de 
 - `00_pilotage/00_index_global.md` : etat de couverture.
 - `00_pilotage/03_index_notions.md` : index notionnel.
 - `04_substances_mentions/00_index_substances.md` : index substances.
+- `05_assets_visuels/README.md` : index des assets visuels.
 
-## Tous les fichiers indexables
+## Tous les fichiers
 
 ### [Index global](00_pilotage/00_index_global.md)
 
 - Chemin : `00_pilotage/00_index_global.md`
 - Format : `md`
-- Taille : 1596 octets
+- Taille : 1661 octets
 - Rubriques : Statut; Source; Couverture actuelle; Notes
 
 ### [Matrice de couverture](00_pilotage/01_matrice_couverture.md)
 
 - Chemin : `00_pilotage/01_matrice_couverture.md`
 - Format : `md`
-- Taille : 6748 octets
+- Taille : 12618 octets
 - Rubriques : Statut
 
 ### [Index des visuels, tableaux et figures](00_pilotage/02_index_visuels_tableaux_figures.md)
 
 - Chemin : `00_pilotage/02_index_visuels_tableaux_figures.md`
 - Format : `md`
-- Taille : 4286 octets
+- Taille : 6246 octets
 - Rubriques : Statut
 
 ### [Index des notions](00_pilotage/03_index_notions.md)
 
 - Chemin : `00_pilotage/03_index_notions.md`
 - Format : `md`
-- Taille : 12808 octets
+- Taille : 21017 octets
 - Rubriques : Statut
 
 ### [Glossaire](00_pilotage/04_glossaire.md)
 
 - Chemin : `00_pilotage/04_glossaire.md`
 - Format : `md`
-- Taille : 3267 octets
+- Taille : 4963 octets
 - Rubriques : Statut
 
 ### [Journal d'extraction](00_pilotage/05_journal_extraction.md)
 
 - Chemin : `00_pilotage/05_journal_extraction.md`
 - Format : `md`
-- Taille : 2889 octets
+- Taille : 4496 octets
 - Rubriques : Statut
 
 ### [Pages à relire](00_pilotage/06_pages_a_relire.md)
 
 - Chemin : `00_pilotage/06_pages_a_relire.md`
 - Format : `md`
-- Taille : 3565 octets
+- Taille : 5257 octets
 - Rubriques : Statut
 
 ### [Décisions documentaires](00_pilotage/07_decisions_documentaires.md)
 
 - Chemin : `00_pilotage/07_decisions_documentaires.md`
 - Format : `md`
-- Taille : 3466 octets
+- Taille : 5076 octets
 - Rubriques : Statut
 
 ### [Front matter, suivi, table des matières et remerciements](01_source_canonique/00_front_matter_suivi_remerciements.md)
@@ -90,7 +91,7 @@ Cet index racine sert de carte de lecture pour GitHub, ChatGPT et tout outil de 
 
 - Chemin : `01_source_canonique/02_mythes_croyances_heuristiques_biais_sophismes.md`
 - Format : `md`
-- Taille : 39606 octets
+- Taille : 39545 octets
 - Rubriques : Statut; Pages sources; Fonction du chapitre dans le traité; Contenu source fidèle; Page imprimée 16 / PDF 17 — Ouverture du chapitre `Mythes`; Page imprimée 17 / PDF 18 — Pourquoi déconstruire les mythes; Page imprimée 18 / PDF 19 — Croyances et risques; Pages imprimées 18-20 / PDF 19-21 — Heuristiques
 
 ### [Mecanismes Protection Approche Rdr](01_source_canonique/03_mecanismes_protection_approche_rdr.md)
@@ -426,35 +427,35 @@ Cet index racine sert de carte de lecture pour GitHub, ChatGPT et tout outil de 
 
 - Chemin : `03_derives_culturerdr/00_index_derives.md`
 - Format : `md`
-- Taille : 2275 octets
-- Rubriques : Statut; Décision phase 1 bloc 1; Décision phase 1 bloc 2
+- Taille : 4047 octets
+- Rubriques : Statut; Décision phase 1 bloc 1; Décision phase 1 bloc 2; Décision phase 1 bloc 3
 
 ### [Variables App Candidates](03_derives_culturerdr/01_variables_app_candidates.md)
 
 - Chemin : `03_derives_culturerdr/01_variables_app_candidates.md`
 - Format : `md`
-- Taille : 2361 octets
+- Taille : 4220 octets
 - Rubriques : Statut; Méthode; Éléments candidats
 
 ### [Règles métier candidates](03_derives_culturerdr/02_regles_metier_candidates.md)
 
 - Chemin : `03_derives_culturerdr/02_regles_metier_candidates.md`
 - Format : `md`
-- Taille : 2504 octets
+- Taille : 4456 octets
 - Rubriques : Statut; Méthode
 
 ### [Messages RDR candidats](03_derives_culturerdr/03_messages_rdr_candidates.md)
 
 - Chemin : `03_derives_culturerdr/03_messages_rdr_candidates.md`
 - Format : `md`
-- Taille : 2344 octets
+- Taille : 4375 octets
 - Rubriques : Statut; Méthode
 
 ### [Modules Académie candidats](03_derives_culturerdr/04_modules_academie_candidates.md)
 
 - Chemin : `03_derives_culturerdr/04_modules_academie_candidates.md`
 - Format : `md`
-- Taille : 2140 octets
+- Taille : 3452 octets
 - Rubriques : Statut; Méthode
 
 ### [Scoring Implications](03_derives_culturerdr/05_scoring_implications.md)
@@ -482,8 +483,8 @@ Cet index racine sert de carte de lecture pour GitHub, ChatGPT et tout outil de 
 
 - Chemin : `03_derives_culturerdr/08_no_go_automation.md`
 - Format : `md`
-- Taille : 3150 octets
-- Rubriques : Statut; Méthode; Éléments candidats issus du bloc 1; Éléments candidats issus du bloc 2
+- Taille : 4970 octets
+- Rubriques : Statut; Méthode; Éléments candidats issus du bloc 1; Éléments candidats issus du bloc 2; Éléments candidats issus du bloc 3
 
 ### [Alertes Et Signaux Candidates](03_derives_culturerdr/09_alertes_et_signaux_candidates.md)
 
@@ -503,8 +504,8 @@ Cet index racine sert de carte de lecture pour GitHub, ChatGPT et tout outil de 
 
 - Chemin : `04_substances_mentions/00_index_substances.md`
 - Format : `md`
-- Taille : 5081 octets
-- Rubriques : Statut; Décision
+- Taille : 8328 octets
+- Rubriques : Statut; Décision; Mentions ajoutées par le bloc 3
 
 ### [3Mmc Chemsex](04_substances_mentions/3mmc_chemsex.md)
 
@@ -597,12 +598,48 @@ Cet index racine sert de carte de lecture pour GitHub, ChatGPT et tout outil de 
 - Taille : 349 octets
 - Rubriques : Statut; Regle d'alimentation; Mentions source; Notions exploitables; Limites
 
+### [p001_figure_01_dedicace_image_koala](05_assets_visuels/p001_figure_01_dedicace_image_koala.jpeg)
+
+- Chemin : `05_assets_visuels/p001_figure_01_dedicace_image_koala.jpeg`
+- Format : `jpeg`
+- Taille : 23008 octets
+
+### [p009_figure_01_preventions_primaire_secondaire_tertiaire](05_assets_visuels/p009_figure_01_preventions_primaire_secondaire_tertiaire.png)
+
+- Chemin : `05_assets_visuels/p009_figure_01_preventions_primaire_secondaire_tertiaire.png`
+- Format : `png`
+- Taille : 893110 octets
+
+### [p012_figure_01_icone_koala_encadres](05_assets_visuels/p012_figure_01_icone_koala_encadres.jpeg)
+
+- Chemin : `05_assets_visuels/p012_figure_01_icone_koala_encadres.jpeg`
+- Format : `jpeg`
+- Taille : 22552 octets
+
+### [p020_figure_01_heuristiques](05_assets_visuels/p020_figure_01_heuristiques.png)
+
+- Chemin : `05_assets_visuels/p020_figure_01_heuristiques.png`
+- Format : `png`
+- Taille : 484323 octets
+
+### [p022_figure_01_biais_cognitifs](05_assets_visuels/p022_figure_01_biais_cognitifs.png)
+
+- Chemin : `05_assets_visuels/p022_figure_01_biais_cognitifs.png`
+- Format : `png`
+- Taille : 444862 octets
+
+### [p028_figure_01_sophismes](05_assets_visuels/p028_figure_01_sophismes.png)
+
+- Chemin : `05_assets_visuels/p028_figure_01_sophismes.png`
+- Format : `png`
+- Taille : 481598 octets
+
 ### [Assets visuels](05_assets_visuels/README.md)
 
 - Chemin : `05_assets_visuels/README.md`
 - Format : `md`
-- Taille : 1331 octets
-- Rubriques : Statut; Convention de nommage; Assets présents; Remarque
+- Taille : 1888 octets
+- Rubriques : Statut; Convention de nommage; Assets présents; Remarque; Assets ajoutés - bloc 3
 
 ### [traiterdr](llms.txt)
 
@@ -615,7 +652,7 @@ Cet index racine sert de carte de lecture pour GitHub, ChatGPT et tout outil de 
 
 - Chemin : `README.md`
 - Format : `md`
-- Taille : 2012 octets
+- Taille : 2103 octets
 - Rubriques : Statut; Convention de pagination; État d'extraction; Prochaine étape; Indexation ChatGPT / IA
 
 ### [manifest_html_clean](sources/traite/manifest_html_clean.json)
@@ -637,4 +674,3 @@ Cet index racine sert de carte de lecture pour GitHub, ChatGPT et tout outil de 
 - Format : `md`
 - Taille : 941632 octets
 - Rubriques : Création des croyances; Heuristique; Biais; Sophisme; Mécanisme de protection psychologique; Approche en réduction des risques; Conclusion; Comprendre la science
-
