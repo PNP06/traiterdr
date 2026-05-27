@@ -87,3 +87,9 @@
 | Date | Bloc traite | Pages | Fichiers modifies | Problemes rencontres | Decisions prises | Prochaine etape |
 |---|---|---|---|---|---|---|
 | 2026-05-27 | Phase 1 bloc 18 - badtrip/overdose | imprimees 223-247 / PDF 224-248 | `01_source_canonique/17_badtrip_overdose.md`, pilotage, assets, index racine, manifeste | Extraction automatique a relire ; visuels a controler | Conserver contenu source complet dans le fichier canonique ; ne pas creer de module final | Bloc 19 |
+
+## Bloc 19 - interactions/melanges
+
+| Date | Bloc traite | Pages | Fichiers modifies | Problemes rencontres | Decisions prises | Prochaine etape |
+|---|---|---|---|---|---|---|
+| 2026-05-27 | Phase 1 bloc 19 - interactions/melanges | imprimees 248-267 / PDF 249-268 | `01_source_canonique/18_interactions_melanges.md`, pilotage, assets, index racine, manifeste | Extraction automatique a relire ; visuels a controler | Conserver contenu source complet dans le fichier canonique ; ne pas creer de module final | Bloc 20 |

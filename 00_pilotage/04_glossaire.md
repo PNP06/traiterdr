@@ -366,3 +366,33 @@
 | Prévenir les overdoses | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 18, p. 223-247. | provisoire |
 | Fenêtre récréative | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 18, p. 223-247. | provisoire |
 | Reconsommation | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 18, p. 223-247. | provisoire |
+
+## Bloc 19 - interactions/melanges
+
+| Terme | Definition courte | Source | Statut |
+|---|---|---|---|
+| Interactions, mélanges | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 19, p. 248-267. | provisoire |
+| Exemple de l’alcool | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 19, p. 248-267. | provisoire |
+| Modes d’interaction | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 19, p. 248-267. | provisoire |
+| Interactions pharmacodynamiques | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 19, p. 248-267. | provisoire |
+| Le risque d’overdose | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 19, p. 248-267. | provisoire |
+| L’effet rebond | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 19, p. 248-267. | provisoire |
+| Les antidotes | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 19, p. 248-267. | provisoire |
+| Conclusion | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 19, p. 248-267. | provisoire |
+| Interactions pharmacocinétiques | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 19, p. 248-267. | provisoire |
+| Interactions dans l’absorption | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 19, p. 248-267. | provisoire |
+| Interactions dans la distribution | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 19, p. 248-267. | provisoire |
+| Interactions dans le métabolisme | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 19, p. 248-267. | provisoire |
+| Abondance des CYP450 | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 19, p. 248-267. | provisoire |
+| Inhibition enzymatique : exemple du pamplemousse | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 19, p. 248-267. | provisoire |
+| Induction enzymatique | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 19, p. 248-267. | provisoire |
+| Interactions dans l’élimination | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 19, p. 248-267. | provisoire |
+| Rôle des glycoprotéines P dans l’élimination | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 19, p. 248-267. | provisoire |
+| UDP-glucuronosyltransférases (UGT) et conjugaison | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 19, p. 248-267. | provisoire |
+| Interaction rénale | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 19, p. 248-267. | provisoire |
+| Outils d’aide | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 19, p. 248-267. | provisoire |
+| Le site Mixtures.info | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 19, p. 248-267. | provisoire |
+| Le tableau croisé | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 19, p. 248-267. | provisoire |
+| Le site Drugs.com | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 19, p. 248-267. | provisoire |
+| Le site Medscape interaction checker | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 19, p. 248-267. | provisoire |
+| Analyser des interactions | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 19, p. 248-267. | provisoire |

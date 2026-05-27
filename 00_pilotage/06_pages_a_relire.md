@@ -150,3 +150,16 @@
 | 239 | Verifier lisibilite, titre visible et cadrage de `p239_figure_01_badtrip_overdose.png`. | visuel | moyenne | Ouvrir l'asset et comparer au PDF page 240. |
 | 245 | Verifier lisibilite, titre visible et cadrage de `p245_figure_01_badtrip_overdose.png`. | visuel | moyenne | Ouvrir l'asset et comparer au PDF page 246. |
 | 223-247 | Note auteur ou TODO possible dans le passage. | statut documentaire | moyenne | Conserver comme statut, ne pas traiter comme fait definitif. |
+
+## Bloc 19 - interactions/melanges
+
+| Page | Probleme | Type | Priorite | Action recommandee |
+|---:|---|---|---|---|
+| 252 | Verifier lisibilite, titre visible et cadrage de `p252_figure_01_interactions_melanges.png`. | visuel | moyenne | Ouvrir l'asset et comparer au PDF page 253. |
+| 256 | Verifier lisibilite, titre visible et cadrage de `p256_figure_01_interactions_melanges.png`. | visuel | moyenne | Ouvrir l'asset et comparer au PDF page 257. |
+| 261 | Verifier lisibilite, titre visible et cadrage de `p261_figure_01_interactions_melanges.png`. | visuel | moyenne | Ouvrir l'asset et comparer au PDF page 262. |
+| 261 | Verifier lisibilite, titre visible et cadrage de `p261_figure_02_interactions_melanges.png`. | visuel | moyenne | Ouvrir l'asset et comparer au PDF page 262. |
+| 264 | Verifier lisibilite, titre visible et cadrage de `p264_figure_01_interactions_melanges.png`. | visuel | moyenne | Ouvrir l'asset et comparer au PDF page 265. |
+| 265 | Verifier lisibilite, titre visible et cadrage de `p265_figure_01_interactions_melanges.png`. | visuel | moyenne | Ouvrir l'asset et comparer au PDF page 266. |
+| 265 | Verifier lisibilite, titre visible et cadrage de `p265_figure_02_interactions_melanges.png`. | visuel | moyenne | Ouvrir l'asset et comparer au PDF page 266. |
+| 266 | Verifier lisibilite, titre visible et cadrage de `p266_figure_01_interactions_melanges.png`. | visuel | moyenne | Ouvrir l'asset et comparer au PDF page 267. |

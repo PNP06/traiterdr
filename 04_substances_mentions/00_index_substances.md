@@ -144,3 +144,15 @@ Décision : les mentions du bloc 3 restent des exemples argumentatifs utilisés 
 | opioides | Mention ou traitement dans le bloc 18 `badtrip/overdose`. | 223-247 | `01_source_canonique/17_badtrip_overdose.md` | A evaluer apres Phase 1 avant creation ou remplissage d'une monographie substance. | mention indexee ; monographie non creee automatiquement |
 | benzodiazepines | Mention ou traitement dans le bloc 18 `badtrip/overdose`. | 223-247 | `01_source_canonique/17_badtrip_overdose.md` | A evaluer apres Phase 1 avant creation ou remplissage d'une monographie substance. | mention indexee ; monographie non creee automatiquement |
 | GHB / GBL | Mention ou traitement dans le bloc 18 `badtrip/overdose`. | 223-247 | `01_source_canonique/17_badtrip_overdose.md` | A evaluer apres Phase 1 avant creation ou remplissage d'une monographie substance. | mention indexee ; monographie non creee automatiquement |
+
+## Mentions ajoutees par le bloc 19
+
+| Substance ou famille | Type de mention | Pages | Fichier source actuel | Fichier source futur | Statut |
+|---|---|---:|---|---|---|
+| alcool | Mention ou traitement dans le bloc 19 `interactions/melanges`. | 248-267 | `01_source_canonique/18_interactions_melanges.md` | A evaluer apres Phase 1 avant creation ou remplissage d'une monographie substance. | mention indexee ; monographie non creee automatiquement |
+| cannabis | Mention ou traitement dans le bloc 19 `interactions/melanges`. | 248-267 | `01_source_canonique/18_interactions_melanges.md` | A evaluer apres Phase 1 avant creation ou remplissage d'une monographie substance. | mention indexee ; monographie non creee automatiquement |
+| MDMA | Mention ou traitement dans le bloc 19 `interactions/melanges`. | 248-267 | `01_source_canonique/18_interactions_melanges.md` | A evaluer apres Phase 1 avant creation ou remplissage d'une monographie substance. | mention indexee ; monographie non creee automatiquement |
+| cocaine | Mention ou traitement dans le bloc 19 `interactions/melanges`. | 248-267 | `01_source_canonique/18_interactions_melanges.md` | A evaluer apres Phase 1 avant creation ou remplissage d'une monographie substance. | mention indexee ; monographie non creee automatiquement |
+| ketamine | Mention ou traitement dans le bloc 19 `interactions/melanges`. | 248-267 | `01_source_canonique/18_interactions_melanges.md` | A evaluer apres Phase 1 avant creation ou remplissage d'une monographie substance. | mention indexee ; monographie non creee automatiquement |
+| opioides | Mention ou traitement dans le bloc 19 `interactions/melanges`. | 248-267 | `01_source_canonique/18_interactions_melanges.md` | A evaluer apres Phase 1 avant creation ou remplissage d'une monographie substance. | mention indexee ; monographie non creee automatiquement |
+| benzodiazepines | Mention ou traitement dans le bloc 19 `interactions/melanges`. | 248-267 | `01_source_canonique/18_interactions_melanges.md` | A evaluer apres Phase 1 avant creation ou remplissage d'une monographie substance. | mention indexee ; monographie non creee automatiquement |

@@ -6,35 +6,35 @@
   "files": [
     {
       "path": "00_pilotage/00_index_global.md",
-      "size_bytes": 4389
+      "size_bytes": 4591
     },
     {
       "path": "00_pilotage/01_matrice_couverture.md",
-      "size_bytes": 129937
+      "size_bytes": 140051
     },
     {
       "path": "00_pilotage/02_index_visuels_tableaux_figures.md",
-      "size_bytes": 23436
+      "size_bytes": 25743
     },
     {
       "path": "00_pilotage/03_index_notions.md",
-      "size_bytes": 141811
+      "size_bytes": 151187
     },
     {
       "path": "00_pilotage/04_glossaire.md",
-      "size_bytes": 42699
+      "size_bytes": 46312
     },
     {
       "path": "00_pilotage/05_journal_extraction.md",
-      "size_bytes": 12756
+      "size_bytes": 13278
     },
     {
       "path": "00_pilotage/06_pages_a_relire.md",
-      "size_bytes": 16197
+      "size_bytes": 17660
     },
     {
       "path": "00_pilotage/07_decisions_documentaires.md",
-      "size_bytes": 8707
+      "size_bytes": 8917
     },
     {
       "path": "01_source_canonique/00_front_matter_suivi_remerciements.md",
@@ -110,7 +110,7 @@
     },
     {
       "path": "01_source_canonique/18_interactions_melanges.md",
-      "size_bytes": 994
+      "size_bytes": 70312
     },
     {
       "path": "01_source_canonique/19_testing_analyses_produits_biologie.md",
@@ -282,7 +282,7 @@
     },
     {
       "path": "04_substances_mentions/00_index_substances.md",
-      "size_bytes": 20727
+      "size_bytes": 22880
     },
     {
       "path": "04_substances_mentions/3mmc_chemsex.md",
@@ -561,12 +561,44 @@
       "size_bytes": 132005
     },
     {
+      "path": "05_assets_visuels/p252_figure_01_interactions_melanges.png",
+      "size_bytes": 7754
+    },
+    {
+      "path": "05_assets_visuels/p256_figure_01_interactions_melanges.png",
+      "size_bytes": 17959
+    },
+    {
+      "path": "05_assets_visuels/p261_figure_01_interactions_melanges.png",
+      "size_bytes": 63700
+    },
+    {
+      "path": "05_assets_visuels/p261_figure_02_interactions_melanges.png",
+      "size_bytes": 86285
+    },
+    {
+      "path": "05_assets_visuels/p264_figure_01_interactions_melanges.png",
+      "size_bytes": 1382393
+    },
+    {
+      "path": "05_assets_visuels/p265_figure_01_interactions_melanges.png",
+      "size_bytes": 56766
+    },
+    {
+      "path": "05_assets_visuels/p265_figure_02_interactions_melanges.png",
+      "size_bytes": 160535
+    },
+    {
+      "path": "05_assets_visuels/p266_figure_01_interactions_melanges.png",
+      "size_bytes": 170583
+    },
+    {
       "path": "05_assets_visuels/README.md",
-      "size_bytes": 12936
+      "size_bytes": 14464
     },
     {
       "path": "INDEX.md",
-      "size_bytes": 10289
+      "size_bytes": 10636
     },
     {
       "path": "llms.txt",
@@ -574,7 +606,7 @@
     },
     {
       "path": "README.md",
-      "size_bytes": 3573
+      "size_bytes": 3673
     },
     {
       "path": "sources/traite/manifest_html_clean.json",

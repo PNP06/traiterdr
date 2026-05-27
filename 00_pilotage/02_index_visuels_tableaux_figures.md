@@ -138,3 +138,16 @@
 | 236 | image / figure | a confirmer | Visuel extrait depuis le PDF, dimensions 1446x1200. | Texte visible a controler dans l'image. | Conserve le support visuel du passage source. | `05_assets_visuels/p236_figure_01_badtrip_overdose.png` | extrait ; a relire |
 | 239 | image / figure | a confirmer | Visuel extrait depuis le PDF, dimensions 604x276. | Texte visible a controler dans l'image. | Conserve le support visuel du passage source. | `05_assets_visuels/p239_figure_01_badtrip_overdose.png` | extrait ; a relire |
 | 245 | image / figure | a confirmer | Visuel extrait depuis le PDF, dimensions 1283x1299. | Texte visible a controler dans l'image. | Conserve le support visuel du passage source. | `05_assets_visuels/p245_figure_01_badtrip_overdose.png` | extrait ; a relire |
+
+## Bloc 19 - interactions/melanges
+
+| Page | Type | Titre visible | Description | Donnees extraites | Importance RDR | Fichier cible | Statut |
+|---:|---|---|---|---|---|---|---|
+| 252 | image / figure | a confirmer | Visuel extrait depuis le PDF, dimensions 679x460. | Texte visible a controler dans l'image. | Conserve le support visuel du passage source. | `05_assets_visuels/p252_figure_01_interactions_melanges.png` | extrait ; a relire |
+| 256 | image / figure | a confirmer | Visuel extrait depuis le PDF, dimensions 591x206. | Texte visible a controler dans l'image. | Conserve le support visuel du passage source. | `05_assets_visuels/p256_figure_01_interactions_melanges.png` | extrait ; a relire |
+| 261 | image / figure | a confirmer | Visuel extrait depuis le PDF, dimensions 1282x840. | Texte visible a controler dans l'image. | Conserve le support visuel du passage source. | `05_assets_visuels/p261_figure_01_interactions_melanges.png` | extrait ; a relire |
+| 261 | image / figure | a confirmer | Visuel extrait depuis le PDF, dimensions 1003x926. | Texte visible a controler dans l'image. | Conserve le support visuel du passage source. | `05_assets_visuels/p261_figure_02_interactions_melanges.png` | extrait ; a relire |
+| 264 | image / figure | a confirmer | Visuel extrait depuis le PDF, dimensions 2520x1362. | Texte visible a controler dans l'image. | Conserve le support visuel du passage source. | `05_assets_visuels/p264_figure_01_interactions_melanges.png` | extrait ; a relire |
+| 265 | image / figure | a confirmer | Visuel extrait depuis le PDF, dimensions 1167x465. | Texte visible a controler dans l'image. | Conserve le support visuel du passage source. | `05_assets_visuels/p265_figure_01_interactions_melanges.png` | extrait ; a relire |
+| 265 | image / figure | a confirmer | Visuel extrait depuis le PDF, dimensions 1211x1183. | Texte visible a controler dans l'image. | Conserve le support visuel du passage source. | `05_assets_visuels/p265_figure_02_interactions_melanges.png` | extrait ; a relire |
+| 266 | image / figure | a confirmer | Visuel extrait depuis le PDF, dimensions 943x841. | Texte visible a controler dans l'image. | Conserve le support visuel du passage source. | `05_assets_visuels/p266_figure_01_interactions_melanges.png` | extrait ; a relire |

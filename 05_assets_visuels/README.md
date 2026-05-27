@@ -150,3 +150,16 @@ Les tableaux textuels et encadrés sont convertis ou décrits en Markdown. Seuls
 | `p236_figure_01_badtrip_overdose.png` | 236 | 237 | Visuel extrait pour le bloc 18 `badtrip/overdose` ; dimensions 1446x1200. | Source canonique et index visuels. |
 | `p239_figure_01_badtrip_overdose.png` | 239 | 240 | Visuel extrait pour le bloc 18 `badtrip/overdose` ; dimensions 604x276. | Source canonique et index visuels. |
 | `p245_figure_01_badtrip_overdose.png` | 245 | 246 | Visuel extrait pour le bloc 18 `badtrip/overdose` ; dimensions 1283x1299. | Source canonique et index visuels. |
+
+## Assets ajoutes - bloc 19
+
+| Fichier | Page imprimee | Page PDF | Description | Utilisation |
+|---|---:|---:|---|---|
+| `p252_figure_01_interactions_melanges.png` | 252 | 253 | Visuel extrait pour le bloc 19 `interactions/melanges` ; dimensions 679x460. | Source canonique et index visuels. |
+| `p256_figure_01_interactions_melanges.png` | 256 | 257 | Visuel extrait pour le bloc 19 `interactions/melanges` ; dimensions 591x206. | Source canonique et index visuels. |
+| `p261_figure_01_interactions_melanges.png` | 261 | 262 | Visuel extrait pour le bloc 19 `interactions/melanges` ; dimensions 1282x840. | Source canonique et index visuels. |
+| `p261_figure_02_interactions_melanges.png` | 261 | 262 | Visuel extrait pour le bloc 19 `interactions/melanges` ; dimensions 1003x926. | Source canonique et index visuels. |
+| `p264_figure_01_interactions_melanges.png` | 264 | 265 | Visuel extrait pour le bloc 19 `interactions/melanges` ; dimensions 2520x1362. | Source canonique et index visuels. |
+| `p265_figure_01_interactions_melanges.png` | 265 | 266 | Visuel extrait pour le bloc 19 `interactions/melanges` ; dimensions 1167x465. | Source canonique et index visuels. |
+| `p265_figure_02_interactions_melanges.png` | 265 | 266 | Visuel extrait pour le bloc 19 `interactions/melanges` ; dimensions 1211x1183. | Source canonique et index visuels. |
+| `p266_figure_01_interactions_melanges.png` | 266 | 267 | Visuel extrait pour le bloc 19 `interactions/melanges` ; dimensions 943x841. | Source canonique et index visuels. |
