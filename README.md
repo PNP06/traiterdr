@@ -19,7 +19,7 @@ Le document source a été vérifié avec la convention suivante :
 page PDF = page imprimée + 1
 ```
 
-Exemple : page imprimée 8 = page PDF 9 ; page imprimée 15 = page PDF 16.
+Exemple : page imprimée 45 = page PDF 46 ; page imprimée 51 = page PDF 52.
 
 ## État d'extraction
 
@@ -29,10 +29,14 @@ Exemple : page imprimée 8 = page PDF 9 ; page imprimée 15 = page PDF 16.
 | Phase 1 | bloc 1 - front matter, suivi, table des matières, remerciements | 0-7 | 1-8 | extrait provisoire |
 | Phase 1 | bloc 2 - introduction, objectif, publics, sources, cadre juridique | 8-15 | 9-16 | extrait provisoire |
 | Phase 1 | bloc 3 - mythes, croyances, heuristiques, biais, sophismes | 16-28 | 17-29 | extrait provisoire |
+| Phase 1 | bloc 4 - mécanismes de protection psychologique et approche RDR | 29-44 | 30-45 | extrait provisoire |
+| Phase 1 | bloc 5 - comprendre la science, preuves, causalité, méthode scientifique | 45-51 partielle | 46-52 partielle | extrait provisoire |
 
 ## Prochaine étape
 
-Bloc 4 : `01_source_canonique/03_mecanismes_protection_approche_rdr.md`, pages imprimées 29-44 / pages PDF 30-45.
+Bloc 6 : `01_source_canonique/05_mythes_alcool_tabac_prix_sante_publique.md`, pages imprimées 51-69 / pages PDF 52-70.
+
+La page imprimée 51 est partagée : fin du chapitre science, puis début du mythe `Le mois sans alcool/sans tabac est inutile`.
 
 ## Indexation ChatGPT / IA
 
