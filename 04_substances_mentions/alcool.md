@@ -1,16 +1,97 @@
 # Alcool
 
 ## Statut
-- squelette
+- matiere exploitable partielle
+- fichier substance finalise sans connaissance externe
+- validation humaine requise avant toute reutilisation CultureRDR
 
 ## Regle d'alimentation
-Ne remplir que si le traite contient assez d'elements exploitables. Si la substance est seulement mentionnee brievement, l'indexer dans `04_substances_mentions/00_index_substances.md`.
+
+Ce fichier ne constitue pas une monographie substance complete. Il rassemble uniquement les mentions et elements exploitables presents dans le traite. Si la matiere est limitee, le statut reste `mention structuree provisoire` et les informations doivent etre lues avec les sources canoniques.
+
+## Type de matiere disponible
+
+substance largement traitee : sante publique, couts, sexualite, thermie, overdose/intoxication, interactions, addiction, cancer.
+
+## Sources canoniques utilisees
+
+| Fichier source | Pages imprimees | Fonction source | Termes detectes |
+|---|---:|---|---|
+| `01_source_canonique/00_front_matter_suivi_remerciements.md` | a verifier | Front matter, suivi, table des matières et remerciements | alcool, vin |
+| `01_source_canonique/01_introduction_cadre_objectif_sources.md` | a verifier | Introduction, cadre, objectif et sources | alcool, vin |
+| `01_source_canonique/02_mythes_croyances_heuristiques_biais_sophismes.md` | a verifier | Mythes, croyances, heuristiques, biais et sophismes | alcool, vin |
+| `01_source_canonique/03_mecanismes_protection_approche_rdr.md` | a verifier | Mécanismes de protection psychologique et approche RDR | alcool, vin |
+| `01_source_canonique/04_comprendre_science_preuves_causalite.md` | a verifier | Comprendre la science, preuves, causalité et méthode scientifique | alcool, vin |
+| `01_source_canonique/05_mythes_alcool_tabac_prix_sante_publique.md` | 51-69 | Mythes alcool, tabac, sante publique et prix | alcool, boissons alcoolisees, vin |
+| `01_source_canonique/06_mythes_sucre_naturel_reste_perche_contact_addiction.md` | 70-90 | Mythes sucre, naturel, reste perche, contact et addiction | alcool, boissons alcoolisees, vin |
+| `01_source_canonique/07_ghb_drogue_du_viol_chemsex_3mmc_rc_nps.md` | 91-98 | GHB, drogue du viol, chemsex, 3-MMC, RC et NPS | alcool |
+| `01_source_canonique/08_gestion_des_risques.md` | 99-102 | Gestion des risques | alcool |
+| `01_source_canonique/09_cerveau_synapses_neurotransmetteurs_circuits.md` | 103-114 | Cerveau, synapses, neurotransmetteurs et circuits | alcool |
+| `01_source_canonique/10_tolerance_developpement_15_25_corps_humain.md` | 115-125 | Tolerance, developpement 15-25 ans et corps humain | alcool, vin |
+| `01_source_canonique/11_pk_pd_absorption_distribution_metabolisme_elimination.md` | 126-139 | PK, PD, absorption, distribution, metabolisme et elimination | alcool, vin |
+| `01_source_canonique/12_psychologie_placebo_nocebo_troubles_psychologiques.md` | 140-156 | Psychologie, placebo, nocebo et troubles psychologiques | alcool |
+| `01_source_canonique/13_classifications_substances.md` | 157-181 | Classifications des substances | alcool, boissons alcoolisees, vin |
+| `01_source_canonique/14_risques_generiques_sommeil_juridique.md` | 182-184 | Risques generiques, sommeil et juridique | alcool |
+| `01_source_canonique/15_sexualite_vulnerabilite_consentement.md` | 185-197 | Sexualite, vulnerabilite et consentement | alcool, boissons alcoolisees |
+| `01_source_canonique/16_allergie_convulsions_hydratation_thermie.md` | 198-222 | Allergie, convulsions, hydratation et thermie | alcool, boissons alcoolisees |
+| `01_source_canonique/17_badtrip_overdose.md` | 223-247 | Badtrip et overdose | alcool |
+| `01_source_canonique/18_interactions_melanges.md` | 248-267 | Interactions et melanges | alcool, vin |
+| `01_source_canonique/20_descente_sevrage_addiction_dependance.md` | 294-326 | Descente, sevrage, addiction et dependance | alcool, vin |
+| `01_source_canonique/21_cancer.md` | 327-332 | Cancer | alcool, vin |
 
 ## Mentions source
-A renseigner.
+
+- Fonction du chapitre dans le traité (`01_source_canonique/00_front_matter_suivi_remerciements.md`, p. a verifier)
+- Contenu source fidèle (`01_source_canonique/00_front_matter_suivi_remerciements.md`, p. a verifier)
+- Page imprimée 0 / PDF 1 - Suivi éditorial et page titre (`01_source_canonique/00_front_matter_suivi_remerciements.md`, p. a verifier)
+- Page imprimée 8 / PDF 9 — Note auteur, équipe et motivation initiale (`01_source_canonique/01_introduction_cadre_objectif_sources.md`, p. a verifier)
+- Page imprimée 16 / PDF 17 — Ouverture du chapitre `Mythes` (`01_source_canonique/02_mythes_croyances_heuristiques_biais_sophismes.md`, p. a verifier)
+- 1. Pourquoi la logique ne suffit pas (`01_source_canonique/03_mecanismes_protection_approche_rdr.md`, p. a verifier)
+- 11.2 Alcool — conversation en public (`01_source_canonique/03_mecanismes_protection_approche_rdr.md`, p. a verifier)
+- 1. Ouverture : comprendre ce qu'est un argument scientifique (`01_source_canonique/04_comprendre_science_preuves_causalite.md`, p. a verifier)
+- Le mois sans (`01_source_canonique/05_mythes_alcool_tabac_prix_sante_publique.md`, p. 51-69)
+- Effet individuel (`01_source_canonique/05_mythes_alcool_tabac_prix_sante_publique.md`, p. 51-69)
+- L’alcool et le tabac sont rentables pour l’état (`01_source_canonique/05_mythes_alcool_tabac_prix_sante_publique.md`, p. 51-69)
+- Focus sur les finances publiques pour l’alcool (`01_source_canonique/05_mythes_alcool_tabac_prix_sante_publique.md`, p. 51-69)
+- Boire un verre de vin est bon pour la santé (`01_source_canonique/05_mythes_alcool_tabac_prix_sante_publique.md`, p. 51-69)
+- Toxicité comparée des différents alcools (`01_source_canonique/05_mythes_alcool_tabac_prix_sante_publique.md`, p. 51-69)
 
 ## Notions exploitables
-A renseigner.
+
+- Statut documentaire : matiere partielle exploitable, sans validation finale.
+- Les notions doivent rester rattachees aux pages sources et aux themes transversaux.
+- Les donnees ou exemples ne doivent pas etre transformes en dose, seuil, conseil ou score sans validation.
+
+## Recommandations ou points RDR presents dans le traite
+
+| ID | Point documentaire | Source | Limite |
+|---|---|---|---|
+| SUB-RDR-01 | Point documentaire lie a Fonction du chapitre dans le traité. | `01_source_canonique/00_front_matter_suivi_remerciements.md`, p. a verifier | Candidat non valide ; relire source avant transformation en message ou action. |
+| SUB-RDR-02 | Point documentaire lie a Fonction du chapitre dans le traité. | `01_source_canonique/01_introduction_cadre_objectif_sources.md`, p. a verifier | Candidat non valide ; relire source avant transformation en message ou action. |
+| SUB-RDR-03 | Point documentaire lie a Fonction du chapitre dans le traité. | `01_source_canonique/02_mythes_croyances_heuristiques_biais_sophismes.md`, p. a verifier | Candidat non valide ; relire source avant transformation en message ou action. |
+| SUB-RDR-04 | Point documentaire lie a Fonction du chapitre dans le traité. | `01_source_canonique/03_mecanismes_protection_approche_rdr.md`, p. a verifier | Candidat non valide ; relire source avant transformation en message ou action. |
+| SUB-RDR-05 | Point documentaire lie a Fonction du chapitre dans le traité. | `01_source_canonique/04_comprendre_science_preuves_causalite.md`, p. a verifier | Candidat non valide ; relire source avant transformation en message ou action. |
+| SUB-RDR-06 | Point documentaire lie a Fonction du chapitre dans le traite. | `01_source_canonique/05_mythes_alcool_tabac_prix_sante_publique.md`, p. 51-69 | Candidat non valide ; relire source avant transformation en message ou action. |
+| SUB-RDR-07 | Point documentaire lie a Fonction du chapitre dans le traite. | `01_source_canonique/06_mythes_sucre_naturel_reste_perche_contact_addiction.md`, p. 70-90 | Candidat non valide ; relire source avant transformation en message ou action. |
+| SUB-RDR-08 | Point documentaire lie a Fonction du chapitre dans le traite. | `01_source_canonique/07_ghb_drogue_du_viol_chemsex_3mmc_rc_nps.md`, p. 91-98 | Candidat non valide ; relire source avant transformation en message ou action. |
 
 ## Limites
-A renseigner.
+
+- Aucune connaissance externe n'a ete ajoutee.
+- Ce fichier ne valide pas une conduite, un usage, un dosage, un melange, une classification ou un niveau de risque individuel.
+- Les mentions peuvent etre argumentatives, methodologiques ou comparatives plutot que propres a la substance.
+- Les contenus medicaux, juridiques, d'urgence, sexuels ou UX doivent etre valides humainement avant usage public.
+
+## Renvois internes
+
+- Index substances : `04_substances_mentions/00_index_substances.md`.
+- Themes transversaux pertinents :
+- `02_themes_transversaux/02_publics_prevention_secondaire_non_stigmatisation.md` - Publics, prevention secondaire et non-stigmatisation
+- `02_themes_transversaux/04_mythes_specifiques_et_recits_sociaux.md` - Mythes specifiques et recits sociaux
+- `02_themes_transversaux/05_methode_scientifique_preuves_causalite_incertitude.md` - Methode scientifique, preuves, causalite et incertitude
+- `02_themes_transversaux/08_pk_pd_absorption_distribution_metabolisme_elimination.md` - PK/PD, absorption, distribution, metabolisme et elimination
+- `02_themes_transversaux/11_classifications_dangerosite_dommages_toxicite.md` - Classifications, dangerosite, dommages et toxicite
+- `02_themes_transversaux/15_dose_exposition_frequence_conversion_seuils_limites.md` - Dose, exposition, frequence, conversion, seuils et limites
+- `02_themes_transversaux/16_polyconsommations_interactions_methodes_analyse.md` - Polyconsommations, interactions et methodes d analyse
+- `02_themes_transversaux/19_sexualite_consentement_soumission_vulnerabilite.md` - Sexualite, consentement, soumission et vulnerabilite
+- Derives candidats non valides : `03_derives_culturerdr/00_index_derives.md`.

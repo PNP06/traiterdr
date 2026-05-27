@@ -43,7 +43,7 @@
 
 ## Fichiers source restant partiels
 
-- Aucun fichier `01_source_canonique/00-21` ne contient encore `A renseigner` ou un statut de squelette.
+- Aucun fichier `01_source_canonique/00-21` ne contient encore de placeholder documentaire non rempli ou de statut vide.
 
 ## Pages et points a relire encore ouverts
 

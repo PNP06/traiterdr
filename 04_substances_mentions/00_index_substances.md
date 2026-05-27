@@ -176,3 +176,23 @@ Décision : les mentions du bloc 3 restent des exemples argumentatifs utilisés 
 | opioides | Mention ou traitement dans le bloc 21 `descente/sevrage/addiction/dependance/cancer`. | 294-332 | `01_source_canonique/20_descente_sevrage_addiction_dependance.md` ; `01_source_canonique/21_cancer.md` | A evaluer apres Phase 1 avant creation ou remplissage d'une monographie substance. | mention indexee ; monographie non creee automatiquement |
 | benzodiazepines | Mention ou traitement dans le bloc 21 `descente/sevrage/addiction/dependance/cancer`. | 294-332 | `01_source_canonique/20_descente_sevrage_addiction_dependance.md` ; `01_source_canonique/21_cancer.md` | A evaluer apres Phase 1 avant creation ou remplissage d'une monographie substance. | mention indexee ; monographie non creee automatiquement |
 | cocaine | Mention ou traitement dans le bloc 21 `descente/sevrage/addiction/dependance/cancer`. | 294-332 | `01_source_canonique/20_descente_sevrage_addiction_dependance.md` ; `01_source_canonique/21_cancer.md` | A evaluer apres Phase 1 avant creation ou remplissage d'une monographie substance. | mention indexee ; monographie non creee automatiquement |
+
+## Statut final des fichiers substance
+
+| Fichier | Substance ou famille | Statut | Sources canoniques detectees | Commentaire |
+|---|---|---|---:|---|
+| `alcool.md` | Alcool | matiere exploitable partielle | 21 | substance largement traitee : sante publique, couts, sexualite, thermie, overdose/intoxication, interactions, addiction, cancer |
+| `tabac_nicotine.md` | Tabac / nicotine | mention structuree provisoire | 15 | mentions recurrentes et comparatives ; matiere insuffisante pour monographie complete |
+| `cannabis.md` | Cannabis | mention structuree provisoire | 18 | mentions dans mythes, classifications, interactions, addiction/cancer ; matiere partielle |
+| `ghb_gbl.md` | GHB / GBL | matiere exploitable partielle | 12 | substance traitee dans drogue du viol, chemsex, sexualite, overdose/intoxication |
+| `3mmc_chemsex.md` | 3-MMC / chemsex | matiere exploitable partielle | 6 | mentions concentrees autour du chemsex, sexualite, GHB et contexte RC/NPS |
+| `rc_nps.md` | RC / NPS | matiere exploitable partielle | 22 | famille traitee via incertitude produit, marche, testing et classifications |
+| `psychedeliques_lsd_psilocybine.md` | Psychedeliques, LSD, psilocybine | mention structuree provisoire | 15 | mentions dans mythes, contact, naturel, rester perche et psychologie ; pas de monographie complete |
+| `mdma.md` | MDMA | mention structuree provisoire | 19 | mentions dans exemples, thermie/hydratation, interactions, testing, classifications |
+| `ketamine.md` | Ketamine | mention structuree provisoire | 6 | mentions dans classifications, interactions et testing ; pas de monographie complete |
+| `cocaine.md` | Cocaine | mention structuree provisoire | 16 | mentions dans introduction, classifications, interactions, testing, addiction/cancer |
+| `opioides.md` | Opioides | mention structuree provisoire | 14 | mentions systeme opioide, classifications, overdose, interactions, addiction |
+| `benzodiazepines.md` | Benzodiazepines | mention structuree provisoire | 10 | mentions classifications, overdose/intoxication, interactions, addiction |
+| `autres_substances.md` | Autres substances | mention structuree provisoire | 20 | regroupe les mentions insuffisantes pour fichier dedie |
+
+Decision : les fichiers substance sont finalises comme fiches documentaires provisoires. Ils ne sont pas des monographies completes et ne doivent pas etre utilises comme conseil individualise.

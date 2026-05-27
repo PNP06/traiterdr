@@ -50,7 +50,7 @@ Exemple : page imprimee 45 = page PDF 46 ; page imprimee 51 = page PDF 52.
 
 ## Prochaine etape
 
-Corpus documentaire assemble provisoirement. Bilans : `00_pilotage/08_bilan_phase1.md`, `00_pilotage/09_controle_qualite_phase1.md`, `00_pilotage/10_bilan_final_corpus.md`. Prochaine etape proposee : validation humaine et nettoyage qualitatif avant integration CultureRDR.
+Corpus documentaire assemble provisoirement. Bilans : `00_pilotage/08_bilan_phase1.md`, `00_pilotage/09_controle_qualite_phase1.md`, `00_pilotage/10_bilan_final_corpus.md`, `00_pilotage/11_audit_prompt_initial.md`. Prochaine etape proposee : validation humaine et nettoyage qualitatif avant integration CultureRDR.
 
 ## Indexation ChatGPT / IA
 

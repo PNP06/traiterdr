@@ -22,15 +22,15 @@ Le prompt initial demandait de transformer le traite en base documentaire Markdo
 | Ne pas creer de code applicatif, backend, migrations, secrets ou `.env` | respecte | aucun fichier applicatif ajoute ; corpus documentaire uniquement |
 | Ne pas transformer en score, module final ou regle metier validee | respecte | derives marques candidats non valides ; no-go dans `03_derives_culturerdr/08_no_go_automation.md` |
 | Sources lourdes et brutes locales non versionnees | respecte apres cette passe | `.gitignore` ignore PDF/DOCX, HTML Word brut et export prompt initial |
-| Fichiers substances : ne remplir que si matiere suffisante, sinon indexer | ecart detecte puis a corriger | squelettes dans `04_substances_mentions/` avant cloture ; finalisation prevue dans cette passe |
+| Fichiers substances : ne remplir que si matiere suffisante, sinon indexer | ecart detecte puis a corriger | fichiers substance incomplets dans `04_substances_mentions/` avant cloture ; finalisation prevue dans cette passe |
 
 ## Ecarts identifies
 
 | Ecart | Impact | Correction prevue / realisee |
 |---|---|---|
-| `04_substances_mentions/*.md` encore en squelette | Le prompt demandait que les fichiers substances ne restent pas vides si une mention exploitable existe. | Remplacer les squelettes par des fiches provisoires sourcees, sans monographie abusive. |
+| `04_substances_mentions/*.md` encore incomplets | Le prompt demandait que les fichiers substances ne restent pas vides si une mention exploitable existe. | Remplacer les fichiers incomplets par des fiches provisoires sourcees, sans monographie abusive. |
 | `sources/prompt initial.html` et `sources/prompt initial_files/` non suivis mais non ignores | Bruit Git et risque d'indexer un export ChatGPT UI au lieu d'un document utile. | Ajout a `.gitignore`; conservation locale uniquement. |
-| Bilan final ne comptait pas les squelettes substances | Risque de croire le corpus totalement clos alors que la couche substances restait incomplete. | Mettre a jour `00_pilotage/10_bilan_final_corpus.md` apres finalisation substances. |
+| Bilan final ne comptait pas les fiches substances incompletes | Risque de croire le corpus totalement clos alors que la couche substances restait partielle. | Mettre a jour `00_pilotage/10_bilan_final_corpus.md` apres finalisation substances. |
 
 ## Decision documentaire
 

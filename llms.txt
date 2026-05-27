@@ -17,10 +17,11 @@ Base documentaire Markdown issue du traite "Traite de reduction des risques lies
 3. `00_pilotage/08_bilan_phase1.md` - couverture Phase 1 et points a relire.
 4. `00_pilotage/09_controle_qualite_phase1.md` - controle assets et qualite documentaire.
 5. `00_pilotage/10_bilan_final_corpus.md` - bilan final provisoire.
-6. `01_source_canonique/` - source fidele par blocs.
-7. `02_themes_transversaux/00_index_themes.md` - carte des themes.
-8. `03_derives_culturerdr/00_index_derives.md` - candidats CultureRDR non valides.
-9. `04_substances_mentions/00_index_substances.md` - substances et familles mentionnees.
+6. `00_pilotage/11_audit_prompt_initial.md` - verification du prompt initial.
+7. `01_source_canonique/` - source fidele par blocs.
+8. `02_themes_transversaux/00_index_themes.md` - carte des themes.
+9. `03_derives_culturerdr/00_index_derives.md` - candidats CultureRDR non valides.
+10. `04_substances_mentions/00_index_substances.md` - substances et familles mentionnees.
 
 ## Regles d interpretation
 
@@ -29,3 +30,5 @@ Base documentaire Markdown issue du traite "Traite de reduction des risques lies
 - Toujours remonter des derives vers themes, puis sources canoniques et pages.
 - Respecter la convention : page PDF = page imprimee + 1.
 - Les sources lourdes locales `sources/*.pdf` et `sources/*.docx` ne sont pas versionnees.
+
+- Les fiches substances sont des fiches documentaires provisoires, pas des monographies completes.

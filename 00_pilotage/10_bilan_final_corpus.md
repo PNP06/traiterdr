@@ -16,11 +16,14 @@
 | Fichiers derives CultureRDR | 11 | candidats non valides |
 | Assets visuels publies | 97 | controles automatiquement, relire visuellement si usage final |
 | Manifest indexable | 1 | `corpus_manifest.json` regenere |
+| Fichiers substances | 13 + index | finalises en fiches documentaires provisoires, sans monographie abusive |
 
 ## Controle final
 
-- Themes avec squelette ou `A renseigner` : 0.
-- Derives avec `A renseigner` : 0.
+- Themes avec placeholder documentaire non rempli : 0.
+- Derives avec placeholder documentaire non rempli : 0.
+- Substances avec placeholder documentaire non rempli : 0.
+- Audit du prompt initial : `00_pilotage/11_audit_prompt_initial.md`.
 - Sources lourdes PDF/DOCX : conservees localement, ignorees par Git.
 - HTML brut Word : conserve localement dans `sources/traite/raw_html_export/`, ignore par Git.
 
@@ -39,5 +42,6 @@
 ## Limites avant integration CultureRDR
 
 - Relire les assets et les points ouverts de `00_pilotage/06_pages_a_relire.md`.
+- Relire les fiches substances avant toute transformation en contenu CultureRDR final.
 - Valider medicalement, scientifiquement, juridiquement et UX les derives avant usage.
 - Ne pas transformer les candidats en scores, modules ou messages finaux sans revue humaine.
