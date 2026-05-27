@@ -70,3 +70,9 @@ Décision : les mentions du bloc 3 restent des exemples argumentatifs utilisés 
 | GHB / GBL | Mention ou traitement dans le bloc 8 `GHB/drogue du viol/chemsex/3-MMC/RC-NPS`. | 91-98 | `01_source_canonique/07_ghb_drogue_du_viol_chemsex_3mmc_rc_nps.md` | A evaluer apres Phase 1 avant creation ou remplissage d'une monographie substance. | mention indexee ; monographie non creee automatiquement |
 | 3-MMC | Mention ou traitement dans le bloc 8 `GHB/drogue du viol/chemsex/3-MMC/RC-NPS`. | 91-98 | `01_source_canonique/07_ghb_drogue_du_viol_chemsex_3mmc_rc_nps.md` | A evaluer apres Phase 1 avant creation ou remplissage d'une monographie substance. | mention indexee ; monographie non creee automatiquement |
 | RC / NPS | Mention ou traitement dans le bloc 8 `GHB/drogue du viol/chemsex/3-MMC/RC-NPS`. | 91-98 | `01_source_canonique/07_ghb_drogue_du_viol_chemsex_3mmc_rc_nps.md` | A evaluer apres Phase 1 avant creation ou remplissage d'une monographie substance. | mention indexee ; monographie non creee automatiquement |
+
+## Mentions ajoutees par le bloc 9
+
+| Substance ou famille | Type de mention | Pages | Fichier source actuel | Fichier source futur | Statut |
+|---|---|---:|---|---|---|
+| aucune substance specifique nouvelle | Bloc transversal sans monographie substance. | - | - | - | aucune action |

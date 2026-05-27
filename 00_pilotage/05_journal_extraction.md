@@ -27,3 +27,9 @@
 | Date | Bloc traite | Pages | Fichiers modifies | Problemes rencontres | Decisions prises | Prochaine etape |
 |---|---|---|---|---|---|---|
 | 2026-05-27 | Phase 1 bloc 8 - GHB/drogue du viol/chemsex/3-MMC/RC-NPS | imprimees 91-98 / PDF 92-99 | `01_source_canonique/07_ghb_drogue_du_viol_chemsex_3mmc_rc_nps.md`, pilotage, assets, index racine, manifeste | Extraction automatique a relire ; visuels a controler | Conserver contenu source complet dans le fichier canonique ; ne pas creer de module final | Bloc 9 |
+
+## Bloc 9 - gestion des risques
+
+| Date | Bloc traite | Pages | Fichiers modifies | Problemes rencontres | Decisions prises | Prochaine etape |
+|---|---|---|---|---|---|---|
+| 2026-05-27 | Phase 1 bloc 9 - gestion des risques | imprimees 99-102 / PDF 100-103 | `01_source_canonique/08_gestion_des_risques.md`, pilotage, assets, index racine, manifeste | Extraction automatique a relire ; visuels a controler | Conserver contenu source complet dans le fichier canonique ; ne pas creer de module final | Bloc 10 |

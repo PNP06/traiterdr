@@ -129,3 +129,11 @@
 | Le jeu du « chat | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 8, p. 91-98. | provisoire |
 | Les risques juridiques | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 8, p. 91-98. | provisoire |
 | Darknet versus sites | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 8, p. 91-98. | provisoire |
+
+## Bloc 9 - gestion des risques
+
+| Terme | Definition courte | Source | Statut |
+|---|---|---|---|
+| La gestion des risques | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 9, p. 99-102. | provisoire |
+| Risques majeurs, risques mineurs | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 9, p. 99-102. | provisoire |
+| Diminuer les risques | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 9, p. 99-102. | provisoire |

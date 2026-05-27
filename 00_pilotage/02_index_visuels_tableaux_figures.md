@@ -50,3 +50,9 @@
 |---:|---|---|---|---|---|---|---|
 | 97 | image / figure | a confirmer | Visuel extrait depuis le PDF, dimensions 521x305. | Texte visible a controler dans l'image. | Conserve le support visuel du passage source. | `05_assets_visuels/p097_figure_01_ghb_drogue_du_viol_chemsex_3_mmc_r.png` | extrait ; a relire |
 | 97 | image / figure | a confirmer | Visuel extrait depuis le PDF, dimensions 433x323. | Texte visible a controler dans l'image. | Conserve le support visuel du passage source. | `05_assets_visuels/p097_figure_02_ghb_drogue_du_viol_chemsex_3_mmc_r.png` | extrait ; a relire |
+
+## Bloc 9 - gestion des risques
+
+| Page | Type | Titre visible | Description | Donnees extraites | Importance RDR | Fichier cible | Statut |
+|---:|---|---|---|---|---|---|---|
+| 101 | image / figure | a confirmer | Visuel extrait depuis le PDF, dimensions 1134x848. | Texte visible a controler dans l'image. | Conserve le support visuel du passage source. | `05_assets_visuels/p101_figure_01_gestion_des_risques.png` | extrait ; a relire |

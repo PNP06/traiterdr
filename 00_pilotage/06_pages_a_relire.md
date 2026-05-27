@@ -60,3 +60,9 @@
 |---:|---|---|---|---|
 | 97 | Verifier lisibilite, titre visible et cadrage de `p097_figure_01_ghb_drogue_du_viol_chemsex_3_mmc_r.png`. | visuel | moyenne | Ouvrir l'asset et comparer au PDF page 98. |
 | 97 | Verifier lisibilite, titre visible et cadrage de `p097_figure_02_ghb_drogue_du_viol_chemsex_3_mmc_r.png`. | visuel | moyenne | Ouvrir l'asset et comparer au PDF page 98. |
+
+## Bloc 9 - gestion des risques
+
+| Page | Probleme | Type | Priorite | Action recommandee |
+|---:|---|---|---|---|
+| 101 | Verifier lisibilite, titre visible et cadrage de `p101_figure_01_gestion_des_risques.png`. | visuel | moyenne | Ouvrir l'asset et comparer au PDF page 102. |

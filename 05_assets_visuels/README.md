@@ -62,3 +62,9 @@ Les tableaux textuels et encadrés sont convertis ou décrits en Markdown. Seuls
 |---|---:|---:|---|---|
 | `p097_figure_01_ghb_drogue_du_viol_chemsex_3_mmc_r.png` | 97 | 98 | Visuel extrait pour le bloc 8 `GHB/drogue du viol/chemsex/3-MMC/RC-NPS` ; dimensions 521x305. | Source canonique et index visuels. |
 | `p097_figure_02_ghb_drogue_du_viol_chemsex_3_mmc_r.png` | 97 | 98 | Visuel extrait pour le bloc 8 `GHB/drogue du viol/chemsex/3-MMC/RC-NPS` ; dimensions 433x323. | Source canonique et index visuels. |
+
+## Assets ajoutes - bloc 9
+
+| Fichier | Page imprimee | Page PDF | Description | Utilisation |
+|---|---:|---:|---|---|
+| `p101_figure_01_gestion_des_risques.png` | 101 | 102 | Visuel extrait pour le bloc 9 `gestion des risques` ; dimensions 1134x848. | Source canonique et index visuels. |

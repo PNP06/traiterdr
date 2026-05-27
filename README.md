@@ -34,10 +34,11 @@ Exemple : page imprimee 45 = page PDF 46 ; page imprimee 51 = page PDF 52.
 | Phase 1 | bloc 6 - alcool/tabac/sante publique/prix | 51-69 | 52-70 | extrait provisoire |
 | Phase 1 | bloc 7 - sucre/naturel/reste perche/contact/addiction | 70-90 | 71-91 | extrait provisoire |
 | Phase 1 | bloc 8 - GHB/drogue du viol/chemsex/3-MMC/RC-NPS | 91-98 | 92-99 | extrait provisoire |
+| Phase 1 | bloc 9 - gestion des risques | 99-102 | 100-103 | extrait provisoire |
 
 ## Prochaine etape
 
-Bloc 9 : `01_source_canonique/08_gestion_des_risques.md`, pages imprimees 99-102 / pages PDF 100-103.
+Bloc 10 : `01_source_canonique/09_cerveau_synapses_neurotransmetteurs_circuits.md`, pages imprimees 103-114 / pages PDF 104-115.
 
 ## Indexation ChatGPT / IA
 
