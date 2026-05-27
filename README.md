@@ -41,8 +41,14 @@ Ordre de lecture conseillé :
 
 1. `README.md`
 2. `llms.txt`
-3. `00_pilotage/00_index_global.md`
-4. `00_pilotage/03_index_notions.md`
-5. `04_substances_mentions/00_index_substances.md`
+3. `INDEX.md`
+4. `00_pilotage/00_index_global.md`
+5. `00_pilotage/03_index_notions.md`
+6. `04_substances_mentions/00_index_substances.md`
+
+Fichiers d'index disponibles :
+
+- `INDEX.md` : index racine humain avec liens vers tous les fichiers indexables.
+- `corpus_manifest.json` : manifeste machine-readable du corpus.
 
 Pour ChatGPT, connecter ou ajouter le dépôt GitHub `PNP06/traiterdr`, puis demander explicitement d'utiliser `llms.txt` comme carte du corpus avant de lire les fichiers spécialisés.
