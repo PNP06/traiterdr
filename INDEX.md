@@ -17,6 +17,7 @@ Index racine du corpus documentaire `traiterdr`.
 | `00_pilotage/08_bilan_phase1.md` | 10937 |
 | `00_pilotage/09_controle_qualite_phase1.md` | 19072 |
 | `00_pilotage/10_bilan_final_corpus.md` | 1674 |
+| `00_pilotage/11_audit_prompt_initial.md` | 3562 |
 | `01_source_canonique/00_front_matter_suivi_remerciements.md` | 32018 |
 | `01_source_canonique/01_introduction_cadre_objectif_sources.md` | 39807 |
 | `01_source_canonique/02_mythes_croyances_heuristiques_biais_sophismes.md` | 39545 |

@@ -4,3 +4,7 @@ sources/traite/raw_html_export/
 # Heavy source documents kept locally only.
 sources/*.pdf
 sources/*.docx
+
+# Raw ChatGPT prompt export kept locally only.
+sources/prompt initial.html
+sources/prompt initial_files/
