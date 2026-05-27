@@ -51,3 +51,7 @@ Les themes transversaux et derives CultureRDR restent en attente tant que la cou
 ## Phase 2 - themes transversaux
 
 - Themes 01 a 27 assembles provisoirement dans `02_themes_transversaux/`.
+
+## Bilan final corpus
+
+- Bilan final provisoire et ordre de lecture IA : `00_pilotage/10_bilan_final_corpus.md`.

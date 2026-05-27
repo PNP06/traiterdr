@@ -4,10 +4,10 @@
 
 Base documentaire Markdown issue du traite `Traite de reduction des risques lies aux drogues - Tome 1`.
 
-Extraction Phase 1 source canonique terminee provisoirement, avec separation stricte entre :
+Corpus documentaire structure provisoirement jusqu aux themes transversaux et derives candidats, avec separation stricte entre :
 
 - contenu source canonique ;
-- themes transversaux a assembler ulterieurement ;
+- themes transversaux assembles provisoirement ;
 - derives CultureRDR candidats non valides ;
 - substances seulement mentionnees ou traitees.
 
@@ -50,7 +50,7 @@ Exemple : page imprimee 45 = page PDF 46 ; page imprimee 51 = page PDF 52.
 
 ## Prochaine etape
 
-Phase 1 source canonique terminee. Bilan provisoire : `00_pilotage/08_bilan_phase1.md`. Prochaine etape proposee : Phase 2 themes transversaux, sans demarrage automatique.
+Corpus documentaire assemble provisoirement. Bilans : `00_pilotage/08_bilan_phase1.md`, `00_pilotage/09_controle_qualite_phase1.md`, `00_pilotage/10_bilan_final_corpus.md`. Prochaine etape proposee : validation humaine et nettoyage qualitatif avant integration CultureRDR.
 
 ## Indexation ChatGPT / IA
 
@@ -64,7 +64,9 @@ Ordre de lecture conseille :
 4. `00_pilotage/00_index_global.md`
 5. `00_pilotage/03_index_notions.md`
 6. `sources/traite/traite_rdr_version_html_clean.md`
-7. `04_substances_mentions/00_index_substances.md`
+7. `02_themes_transversaux/00_index_themes.md`
+8. `03_derives_culturerdr/00_index_derives.md`
+9. `04_substances_mentions/00_index_substances.md`
 
 Fichiers d'index disponibles :
 
