@@ -89,3 +89,9 @@ Décision : les mentions du bloc 3 restent des exemples argumentatifs utilisés 
 | Substance ou famille | Type de mention | Pages | Fichier source actuel | Fichier source futur | Statut |
 |---|---|---:|---|---|---|
 | aucune substance specifique nouvelle | Bloc transversal sans monographie substance. | - | - | - | aucune action |
+
+## Mentions ajoutees par le bloc 12
+
+| Substance ou famille | Type de mention | Pages | Fichier source actuel | Fichier source futur | Statut |
+|---|---|---:|---|---|---|
+| aucune substance specifique nouvelle | Bloc transversal sans monographie substance. | - | - | - | aucune action |

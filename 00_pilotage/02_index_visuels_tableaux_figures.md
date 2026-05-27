@@ -75,3 +75,16 @@
 | 115 | image / figure | a confirmer | Visuel extrait depuis le PDF, dimensions 1066x617. | Texte visible a controler dans l'image. | Conserve le support visuel du passage source. | `05_assets_visuels/p115_figure_01_tolerance_developpement_15_25_corp.png` | extrait ; a relire |
 | 119 | image / figure | a confirmer | Visuel extrait depuis le PDF, dimensions 882x730. | Texte visible a controler dans l'image. | Conserve le support visuel du passage source. | `05_assets_visuels/p119_figure_01_tolerance_developpement_15_25_corp.png` | extrait ; a relire |
 | 120 | image / figure | a confirmer | Visuel extrait depuis le PDF, dimensions 443x353. | Texte visible a controler dans l'image. | Conserve le support visuel du passage source. | `05_assets_visuels/p120_figure_01_tolerance_developpement_15_25_corp.png` | extrait ; a relire |
+
+## Bloc 12 - PK/PD/ADME
+
+| Page | Type | Titre visible | Description | Donnees extraites | Importance RDR | Fichier cible | Statut |
+|---:|---|---|---|---|---|---|---|
+| 127 | image / figure | a confirmer | Visuel extrait depuis le PDF, dimensions 1223x535. | Texte visible a controler dans l'image. | Conserve le support visuel du passage source. | `05_assets_visuels/p127_figure_01_pk_pd_adme.png` | extrait ; a relire |
+| 127 | image / figure | a confirmer | Visuel extrait depuis le PDF, dimensions 584x509. | Texte visible a controler dans l'image. | Conserve le support visuel du passage source. | `05_assets_visuels/p127_figure_02_pk_pd_adme.png` | extrait ; a relire |
+| 129 | image / figure | a confirmer | Visuel extrait depuis le PDF, dimensions 1024x196. | Texte visible a controler dans l'image. | Conserve le support visuel du passage source. | `05_assets_visuels/p129_figure_01_pk_pd_adme.png` | extrait ; a relire |
+| 131 | image / figure | a confirmer | Visuel extrait depuis le PDF, dimensions 938x747. | Texte visible a controler dans l'image. | Conserve le support visuel du passage source. | `05_assets_visuels/p131_figure_01_pk_pd_adme.png` | extrait ; a relire |
+| 132 | image / figure | a confirmer | Visuel extrait depuis le PDF, dimensions 1143x279. | Texte visible a controler dans l'image. | Conserve le support visuel du passage source. | `05_assets_visuels/p132_figure_01_pk_pd_adme.png` | extrait ; a relire |
+| 133 | image / figure | a confirmer | Visuel extrait depuis le PDF, dimensions 1379x232. | Texte visible a controler dans l'image. | Conserve le support visuel du passage source. | `05_assets_visuels/p133_figure_01_pk_pd_adme.png` | extrait ; a relire |
+| 135 | image / figure | a confirmer | Visuel extrait depuis le PDF, dimensions 946x329. | Texte visible a controler dans l'image. | Conserve le support visuel du passage source. | `05_assets_visuels/p135_figure_01_pk_pd_adme.png` | extrait ; a relire |
+| 137 | image / figure | a confirmer | Visuel extrait depuis le PDF, dimensions 979x722. | Texte visible a controler dans l'image. | Conserve le support visuel du passage source. | `05_assets_visuels/p137_figure_01_pk_pd_adme.png` | extrait ; a relire |

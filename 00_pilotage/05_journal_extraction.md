@@ -45,3 +45,9 @@
 | Date | Bloc traite | Pages | Fichiers modifies | Problemes rencontres | Decisions prises | Prochaine etape |
 |---|---|---|---|---|---|---|
 | 2026-05-27 | Phase 1 bloc 11 - tolerance/developpement 15-25/corps humain | imprimees 115-125 / PDF 116-126 | `01_source_canonique/10_tolerance_developpement_15_25_corps_humain.md`, pilotage, assets, index racine, manifeste | Extraction automatique a relire ; visuels a controler | Conserver contenu source complet dans le fichier canonique ; ne pas creer de module final | Bloc 12 |
+
+## Bloc 12 - PK/PD/ADME
+
+| Date | Bloc traite | Pages | Fichiers modifies | Problemes rencontres | Decisions prises | Prochaine etape |
+|---|---|---|---|---|---|---|
+| 2026-05-27 | Phase 1 bloc 12 - PK/PD/ADME | imprimees 126-139 / PDF 127-140 | `01_source_canonique/11_pk_pd_absorption_distribution_metabolisme_elimination.md`, pilotage, assets, index racine, manifeste | Extraction automatique a relire ; visuels a controler | Conserver contenu source complet dans le fichier canonique ; ne pas creer de module final | Bloc 13 |

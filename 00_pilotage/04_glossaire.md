@@ -180,3 +180,29 @@
 | Système nerveux autonome | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 11, p. 115-125. | provisoire |
 | Le système | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 11, p. 115-125. | provisoire |
 | Le système opioïde endogène | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 11, p. 115-125. | provisoire |
+
+## Bloc 12 - PK/PD/ADME
+
+| Terme | Definition courte | Source | Statut |
+|---|---|---|---|
+| Le devenir des | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 12, p. 126-139. | provisoire |
+| Absorption et distribution | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 12, p. 126-139. | provisoire |
+| Mode d’administration | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 12, p. 126-139. | provisoire |
+| Vitesse d’apparition et durée des effets | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 12, p. 126-139. | provisoire |
+| Biodisponibilité : adaptation des doses | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 12, p. 126-139. | provisoire |
+| Application à la cocaïne | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 12, p. 126-139. | provisoire |
+| Risques en fonction de la voie d’administration | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 12, p. 126-139. | provisoire |
+| Effet du premier passage dans le foie (premier passage hépatique) | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 12, p. 126-139. | provisoire |
+| Le métabolisme : la digestion | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 12, p. 126-139. | provisoire |
+| Exemple de l’alcool | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 12, p. 126-139. | provisoire |
+| Les voies de dégradation principales [182] | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 12, p. 126-139. | provisoire |
+| Les molécules spécialisées | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 12, p. 126-139. | provisoire |
+| Influence de la génétique | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 12, p. 126-139. | provisoire |
+| Les molécules généralistes : les | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 12, p. 126-139. | provisoire |
+| Introduction aux interactions | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 12, p. 126-139. | provisoire |
+| Induction enzymatique | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 12, p. 126-139. | provisoire |
+| Induction enzymatique et interaction médicamenteuse | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 12, p. 126-139. | provisoire |
+| Les voies secondaires : non oxydantes | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 12, p. 126-139. | provisoire |
+| Prodrogue : Exemple de la codéine | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 12, p. 126-139. | provisoire |
+| L’élimination | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 12, p. 126-139. | provisoire |
+| La demi-vie | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 12, p. 126-139. | provisoire |

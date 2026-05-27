@@ -87,3 +87,16 @@ Les tableaux textuels et encadrés sont convertis ou décrits en Markdown. Seuls
 | `p115_figure_01_tolerance_developpement_15_25_corp.png` | 115 | 116 | Visuel extrait pour le bloc 11 `tolerance/developpement 15-25/corps humain` ; dimensions 1066x617. | Source canonique et index visuels. |
 | `p119_figure_01_tolerance_developpement_15_25_corp.png` | 119 | 120 | Visuel extrait pour le bloc 11 `tolerance/developpement 15-25/corps humain` ; dimensions 882x730. | Source canonique et index visuels. |
 | `p120_figure_01_tolerance_developpement_15_25_corp.png` | 120 | 121 | Visuel extrait pour le bloc 11 `tolerance/developpement 15-25/corps humain` ; dimensions 443x353. | Source canonique et index visuels. |
+
+## Assets ajoutes - bloc 12
+
+| Fichier | Page imprimee | Page PDF | Description | Utilisation |
+|---|---:|---:|---|---|
+| `p127_figure_01_pk_pd_adme.png` | 127 | 128 | Visuel extrait pour le bloc 12 `PK/PD/ADME` ; dimensions 1223x535. | Source canonique et index visuels. |
+| `p127_figure_02_pk_pd_adme.png` | 127 | 128 | Visuel extrait pour le bloc 12 `PK/PD/ADME` ; dimensions 584x509. | Source canonique et index visuels. |
+| `p129_figure_01_pk_pd_adme.png` | 129 | 130 | Visuel extrait pour le bloc 12 `PK/PD/ADME` ; dimensions 1024x196. | Source canonique et index visuels. |
+| `p131_figure_01_pk_pd_adme.png` | 131 | 132 | Visuel extrait pour le bloc 12 `PK/PD/ADME` ; dimensions 938x747. | Source canonique et index visuels. |
+| `p132_figure_01_pk_pd_adme.png` | 132 | 133 | Visuel extrait pour le bloc 12 `PK/PD/ADME` ; dimensions 1143x279. | Source canonique et index visuels. |
+| `p133_figure_01_pk_pd_adme.png` | 133 | 134 | Visuel extrait pour le bloc 12 `PK/PD/ADME` ; dimensions 1379x232. | Source canonique et index visuels. |
+| `p135_figure_01_pk_pd_adme.png` | 135 | 136 | Visuel extrait pour le bloc 12 `PK/PD/ADME` ; dimensions 946x329. | Source canonique et index visuels. |
+| `p137_figure_01_pk_pd_adme.png` | 137 | 138 | Visuel extrait pour le bloc 12 `PK/PD/ADME` ; dimensions 979x722. | Source canonique et index visuels. |

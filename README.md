@@ -37,10 +37,11 @@ Exemple : page imprimee 45 = page PDF 46 ; page imprimee 51 = page PDF 52.
 | Phase 1 | bloc 9 - gestion des risques | 99-102 | 100-103 | extrait provisoire |
 | Phase 1 | bloc 10 - cerveau/synapses/neurotransmetteurs/circuits | 103-114 | 104-115 | extrait provisoire |
 | Phase 1 | bloc 11 - tolerance/developpement 15-25/corps humain | 115-125 | 116-126 | extrait provisoire |
+| Phase 1 | bloc 12 - PK/PD/ADME | 126-139 | 127-140 | extrait provisoire |
 
 ## Prochaine etape
 
-Bloc 12 : `01_source_canonique/11_pk_pd_absorption_distribution_metabolisme_elimination.md`, pages imprimees 126-139 / pages PDF 127-140.
+Bloc 13 : `01_source_canonique/12_psychologie_placebo_nocebo_troubles_psychologiques.md`, pages imprimees 140-156 / pages PDF 141-157.
 
 ## Indexation ChatGPT / IA
 

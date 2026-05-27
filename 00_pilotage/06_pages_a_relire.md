@@ -85,3 +85,16 @@
 | 115 | Verifier lisibilite, titre visible et cadrage de `p115_figure_01_tolerance_developpement_15_25_corp.png`. | visuel | moyenne | Ouvrir l'asset et comparer au PDF page 116. |
 | 119 | Verifier lisibilite, titre visible et cadrage de `p119_figure_01_tolerance_developpement_15_25_corp.png`. | visuel | moyenne | Ouvrir l'asset et comparer au PDF page 120. |
 | 120 | Verifier lisibilite, titre visible et cadrage de `p120_figure_01_tolerance_developpement_15_25_corp.png`. | visuel | moyenne | Ouvrir l'asset et comparer au PDF page 121. |
+
+## Bloc 12 - PK/PD/ADME
+
+| Page | Probleme | Type | Priorite | Action recommandee |
+|---:|---|---|---|---|
+| 127 | Verifier lisibilite, titre visible et cadrage de `p127_figure_01_pk_pd_adme.png`. | visuel | moyenne | Ouvrir l'asset et comparer au PDF page 128. |
+| 127 | Verifier lisibilite, titre visible et cadrage de `p127_figure_02_pk_pd_adme.png`. | visuel | moyenne | Ouvrir l'asset et comparer au PDF page 128. |
+| 129 | Verifier lisibilite, titre visible et cadrage de `p129_figure_01_pk_pd_adme.png`. | visuel | moyenne | Ouvrir l'asset et comparer au PDF page 130. |
+| 131 | Verifier lisibilite, titre visible et cadrage de `p131_figure_01_pk_pd_adme.png`. | visuel | moyenne | Ouvrir l'asset et comparer au PDF page 132. |
+| 132 | Verifier lisibilite, titre visible et cadrage de `p132_figure_01_pk_pd_adme.png`. | visuel | moyenne | Ouvrir l'asset et comparer au PDF page 133. |
+| 133 | Verifier lisibilite, titre visible et cadrage de `p133_figure_01_pk_pd_adme.png`. | visuel | moyenne | Ouvrir l'asset et comparer au PDF page 134. |
+| 135 | Verifier lisibilite, titre visible et cadrage de `p135_figure_01_pk_pd_adme.png`. | visuel | moyenne | Ouvrir l'asset et comparer au PDF page 136. |
+| 137 | Verifier lisibilite, titre visible et cadrage de `p137_figure_01_pk_pd_adme.png`. | visuel | moyenne | Ouvrir l'asset et comparer au PDF page 138. |
