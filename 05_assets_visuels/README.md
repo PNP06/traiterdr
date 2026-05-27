@@ -37,3 +37,13 @@ Les tableaux textuels et encadrés sont convertis ou décrits en Markdown. Seuls
 | `p044_figure_01_corriger_croyance_situation.png` | 44 | bloc 4 | Infographie `CORRIGER UNE CROYANCE EN SITUATION`. | extrait ; bas de figure à relire |
 | `p046_figure_01_science_vs_recherche.png` | 46 | bloc 5 | Infographie `Science ≠ Recherche`. | extrait |
 | `p049_figure_01_etapes_methode_scientifique.png` | 49 | bloc 5 | Schéma `Figure 2. Étapes génériques de la méthode scientifique`. | extrait |
+
+## Assets ajoutes - bloc 6
+
+| Fichier | Page imprimee | Page PDF | Description | Utilisation |
+|---|---:|---:|---|---|
+| `p052_figure_01_alcool_tabac_sante_publique_prix.png` | 52 | 53 | Visuel extrait pour le bloc 6 `alcool/tabac/sante publique/prix` ; dimensions 1350x588. | Source canonique et index visuels. |
+| `p062_figure_01_alcool_tabac_sante_publique_prix.png` | 62 | 63 | Visuel extrait pour le bloc 6 `alcool/tabac/sante publique/prix` ; dimensions 1163x568. | Source canonique et index visuels. |
+| `p064_figure_01_alcool_tabac_sante_publique_prix.png` | 64 | 65 | Visuel extrait pour le bloc 6 `alcool/tabac/sante publique/prix` ; dimensions 700x322. | Source canonique et index visuels. |
+| `p065_figure_01_alcool_tabac_sante_publique_prix.png` | 65 | 66 | Visuel extrait pour le bloc 6 `alcool/tabac/sante publique/prix` ; dimensions 915x721. | Source canonique et index visuels. |
+| `p066_figure_01_alcool_tabac_sante_publique_prix.png` | 66 | 67 | Visuel extrait pour le bloc 6 `alcool/tabac/sante publique/prix` ; dimensions 652x564. | Source canonique et index visuels. |

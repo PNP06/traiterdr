@@ -43,3 +43,10 @@ Les fichiers substance ne sont pas remplis à partir des blocs 1 et 2. Les menti
 | microdosage | Exemple d'appel à l'autorité illégitime via médecin/influenceur affirmant que microdoser serait sans danger. | 27 | `01_source_canonique/02_mythes_croyances_heuristiques_biais_sophismes.md` | futur bloc psychédéliques si contenu suffisant | exemple argumentatif |
 
 Décision : les mentions du bloc 3 restent des exemples argumentatifs utilisés pour expliquer croyances, biais ou sophismes. Elles ne justifient pas encore de monographies substance.
+
+## Mentions ajoutees par le bloc 6
+
+| Substance ou famille | Type de mention | Pages | Fichier source actuel | Fichier source futur | Statut |
+|---|---|---:|---|---|---|
+| alcool | Mention ou traitement dans le bloc 6 `alcool/tabac/sante publique/prix`. | 51-69 | `01_source_canonique/05_mythes_alcool_tabac_prix_sante_publique.md` | A evaluer apres Phase 1 avant creation ou remplissage d'une monographie substance. | mention indexee ; monographie non creee automatiquement |
+| tabac / nicotine | Mention ou traitement dans le bloc 6 `alcool/tabac/sante publique/prix`. | 51-69 | `01_source_canonique/05_mythes_alcool_tabac_prix_sante_publique.md` | A evaluer apres Phase 1 avant creation ou remplissage d'une monographie substance. | mention indexee ; monographie non creee automatiquement |

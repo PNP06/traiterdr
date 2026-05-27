@@ -52,3 +52,33 @@
 | Convergence des preuves | Stabilisation d'une conclusion par reproductibilité, robustesse, traque des biais et cohérence. | Bloc 5, p. 46-48. | utilisé |
 | Facteur de confusion | Variable qui peut expliquer une association observée sans que la relation apparente soit causale. | Bloc 5, p. 46-51. | utilisé |
 | Causalité | Lien de cause à effet qui ne se déduit pas d'une association isolée sans méthode adaptée. | Bloc 5, p. 49-51. | utilisé |
+
+## Bloc 6 - alcool/tabac/sante publique/prix
+
+| Terme | Definition courte | Source | Statut |
+|---|---|---|---|
+| Le mois sans | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 6, p. 51-69. | provisoire |
+| Effet individuel | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 6, p. 51-69. | provisoire |
+| Effet sur la santé publique | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 6, p. 51-69. | provisoire |
+| Impact des consommations « modérés » sur l’incidence des cancers | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 6, p. 51-69. | provisoire |
+| Incidence du dry january sur l’apparition de cancer | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 6, p. 51-69. | provisoire |
+| L’alcool et le tabac sont rentables pour l’état | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 6, p. 51-69. | provisoire |
+| Focus sur les finances publiques pour l’alcool | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 6, p. 51-69. | provisoire |
+| Cout social total | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 6, p. 51-69. | provisoire |
+| Valeur économique de la vie humaine | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 6, p. 51-69. | provisoire |
+| L’effet sur le bien être des finances publiques | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 6, p. 51-69. | provisoire |
+| Le cout social | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 6, p. 51-69. | provisoire |
+| Résultats | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 6, p. 51-69. | provisoire |
+| Augmentation des taxes pour l’équilibre | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 6, p. 51-69. | provisoire |
+| Pour l'alcool | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 6, p. 51-69. | provisoire |
+| Pour le tabac | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 6, p. 51-69. | provisoire |
+| Effet du prix sur la consommation | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 6, p. 51-69. | provisoire |
+| Boire un verre de vin est bon pour la santé | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 6, p. 51-69. | provisoire |
+| Le problème | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 6, p. 51-69. | provisoire |
+| Corrélation ou causalité ? | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 6, p. 51-69. | provisoire |
+| Difficulté de la preuve | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 6, p. 51-69. | provisoire |
+| Étudier la population | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 6, p. 51-69. | provisoire |
+| L’origine : Le French | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 6, p. 51-69. | provisoire |
+| Le doute : observation et débats | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 6, p. 51-69. | provisoire |
+| Limite 1 : pas bon pour le reste | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 6, p. 51-69. | provisoire |
+| Limite 2 : pas si bon pour le cœur | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 6, p. 51-69. | provisoire |

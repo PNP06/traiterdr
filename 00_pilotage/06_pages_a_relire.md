@@ -33,3 +33,14 @@
 | 27-28 | Exemples d'appel à l'autorité et ad hominem : risque de ton accusatoire si automatisé. | UX / communication | élevée pour app | Toute reformulation utilisateur doit éviter d'étiqueter directement la personne comme biaisée ou sophistique. |
 | 44 | Bas de l'infographie `CORRIGER UNE CROYANCE EN SITUATION` à contrôler. | visuel à relire | moyenne | Vérifier le rendu PDF/HTML pour s'assurer qu'aucune ligne utile n'est tronquée. |
 | 51 | Page partagée entre fin du chapitre science et début du mythe mois sans alcool/sans tabac. | frontière de bloc | élevée | Au bloc 6, reprendre seulement la partie mythe et éviter de dupliquer la conclusion science. |
+
+## Bloc 6 - alcool/tabac/sante publique/prix
+
+| Page | Probleme | Type | Priorite | Action recommandee |
+|---:|---|---|---|---|
+| 52 | Verifier lisibilite, titre visible et cadrage de `p052_figure_01_alcool_tabac_sante_publique_prix.png`. | visuel | moyenne | Ouvrir l'asset et comparer au PDF page 53. |
+| 62 | Verifier lisibilite, titre visible et cadrage de `p062_figure_01_alcool_tabac_sante_publique_prix.png`. | visuel | moyenne | Ouvrir l'asset et comparer au PDF page 63. |
+| 64 | Verifier lisibilite, titre visible et cadrage de `p064_figure_01_alcool_tabac_sante_publique_prix.png`. | visuel | moyenne | Ouvrir l'asset et comparer au PDF page 65. |
+| 65 | Verifier lisibilite, titre visible et cadrage de `p065_figure_01_alcool_tabac_sante_publique_prix.png`. | visuel | moyenne | Ouvrir l'asset et comparer au PDF page 66. |
+| 66 | Verifier lisibilite, titre visible et cadrage de `p066_figure_01_alcool_tabac_sante_publique_prix.png`. | visuel | moyenne | Ouvrir l'asset et comparer au PDF page 67. |
+| 51-69 | Note auteur ou TODO possible dans le passage. | statut documentaire | moyenne | Conserver comme statut, ne pas traiter comme fait definitif. |

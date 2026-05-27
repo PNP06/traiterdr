@@ -22,3 +22,7 @@
 | DD-015 | 2026-05-27 | Ne pas écrire dans GitHub via les actions `create_file`/`update_file` tant que le routage API renvoie `CultureRDR`. | La lecture par URL GitHub accède bien à `traiterdr`, mais les outils repository_full_name restent liés à `CultureRDR`. | Travail GitHub. | Livraison sous forme d'archive de changements et de patch, sans commit direct. | active |
 | DD-016 | 2026-05-27 | Harmoniser localement les blocs 4 et 5 ajoutés via GitHub avant de poursuivre. | Les sources canoniques avaient été ajoutées sur GitHub, mais les fichiers de pilotage, assets nommés et manifestes devaient être remis en cohérence. | `01_source_canonique/03_mecanismes_protection_approche_rdr.md` ; `01_source_canonique/04_comprendre_science_preuves_causalite.md` ; `00_pilotage/` ; `05_assets_visuels/`. | Le travail futur doit repartir de l'état local harmonisé. | active |
 | DD-017 | 2026-05-27 | Publier uniquement les visuels utiles sous noms stables, pas le dossier HTML brut. | L'export Word HTML contient des noms génériques et des artefacts ; les visuels utiles doivent être sélectionnés et renommés. | `sources/traite/raw_html_export/` ; `05_assets_visuels/`. | Le brut reste ignoré ; les assets publiés sont ceux référencés par les index. | active |
+
+## Bloc 6
+
+- Bloc 6 : extraction source canonique conservee au plus pres du Markdown nettoye ; les assets raster nouveaux sont nommes de facon stable ; les fichiers PDF/DOCX restent locaux via `.gitignore`.

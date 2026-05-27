@@ -1,2 +1,6 @@
 # Raw Microsoft Word HTML export kept locally only.
 sources/traite/raw_html_export/
+
+# Heavy source documents kept locally only.
+sources/*.pdf
+sources/*.docx

@@ -2,47 +2,46 @@
 
 ## Statut
 
-Base documentaire Markdown issue du traité `Traité de réduction des risques liés aux drogues — Tome 1`.
+Base documentaire Markdown issue du traite `Traite de reduction des risques lies aux drogues - Tome 1`.
 
-Extraction en cours, par blocs, avec séparation stricte entre :
+Extraction Phase 1 source canonique en cours, par blocs, avec separation stricte entre :
 
 - contenu source canonique ;
-- thèmes transversaux à assembler ultérieurement ;
-- dérivés CultureRDR candidats non validés ;
-- substances seulement mentionnées ou traitées.
+- themes transversaux a assembler ulterieurement ;
+- derives CultureRDR candidats non valides ;
+- substances seulement mentionnees ou traitees.
 
 ## Convention de pagination
 
-Le document source a été vérifié avec la convention suivante :
+Le document source a ete verifie avec la convention suivante :
 
 ```text
-page PDF = page imprimée + 1
+page PDF = page imprimee + 1
 ```
 
-Exemple : page imprimée 45 = page PDF 46 ; page imprimée 51 = page PDF 52.
+Exemple : page imprimee 45 = page PDF 46 ; page imprimee 51 = page PDF 52.
 
-## État d'extraction
+## Etat d'extraction
 
-| Phase | Bloc | Pages imprimées | Pages PDF | Statut |
+| Phase | Bloc | Pages imprimees | Pages PDF | Statut |
 |---|---|---:|---:|---|
-| Phase 0 | cadrage initial | 0-332 | 1-333 | terminé |
-| Phase 1 | bloc 1 - front matter, suivi, table des matières, remerciements | 0-7 | 1-8 | extrait provisoire |
+| Phase 0 | cadrage initial | 0-332 | 1-333 | termine |
+| Phase 1 | bloc 1 - front matter, suivi, table des matieres, remerciements | 0-7 | 1-8 | extrait provisoire |
 | Phase 1 | bloc 2 - introduction, objectif, publics, sources, cadre juridique | 8-15 | 9-16 | extrait provisoire |
 | Phase 1 | bloc 3 - mythes, croyances, heuristiques, biais, sophismes | 16-28 | 17-29 | extrait provisoire |
-| Phase 1 | bloc 4 - mécanismes de protection psychologique et approche RDR | 29-44 | 30-45 | extrait provisoire |
-| Phase 1 | bloc 5 - comprendre la science, preuves, causalité, méthode scientifique | 45-51 partielle | 46-52 partielle | extrait provisoire |
+| Phase 1 | bloc 4 - mecanismes de protection psychologique et approche RDR | 29-44 | 30-45 | extrait provisoire |
+| Phase 1 | bloc 5 - comprendre la science, preuves, causalite, methode scientifique | 45-51 partielle | 46-52 partielle | extrait provisoire |
+| Phase 1 | bloc 6 - alcool/tabac/sante publique/prix | 51-69 | 52-70 | extrait provisoire |
 
-## Prochaine étape
+## Prochaine etape
 
-Bloc 6 : `01_source_canonique/05_mythes_alcool_tabac_prix_sante_publique.md`, pages imprimées 51-69 / pages PDF 52-70.
-
-La page imprimée 51 est partagée : fin du chapitre science, puis début du mythe `Le mois sans alcool/sans tabac est inutile`.
+Bloc 7 : `01_source_canonique/06_mythes_sucre_naturel_reste_perche_contact_addiction.md`, pages imprimees 70-90 / pages PDF 71-91.
 
 ## Indexation ChatGPT / IA
 
-Point d'entrée recommandé pour les assistants IA : `llms.txt`.
+Point d'entree recommande pour les assistants IA : `llms.txt`.
 
-Ordre de lecture conseillé :
+Ordre de lecture conseille :
 
 1. `README.md`
 2. `llms.txt`
@@ -58,4 +57,4 @@ Fichiers d'index disponibles :
 - `corpus_manifest.json` : manifeste machine-readable du corpus.
 - `sources/traite/rapport_nettoyage_html.md` : diagnostic du HTML Word source et de sa conversion Markdown.
 
-Pour ChatGPT, connecter ou ajouter le dépôt GitHub `PNP06/traiterdr`, puis demander explicitement d'utiliser `llms.txt` comme carte du corpus avant de lire les fichiers spécialisés.
+Pour ChatGPT, connecter ou ajouter le depot GitHub `PNP06/traiterdr`, puis demander explicitement d'utiliser `llms.txt` comme carte du corpus avant de lire les fichiers specialises.
