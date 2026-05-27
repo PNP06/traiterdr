@@ -2,7 +2,7 @@
 
 ## Statut
 - phase 1 en cours
-- blocs 1 a 6 extraits provisoirement
+- blocs 1 a 7 extraits provisoirement
 
 ## Source
 - Document source local : `sources/traite/traite_rdr_version_html_clean.md`
@@ -20,6 +20,7 @@
 | 4 | `01_source_canonique/03_mecanismes_protection_approche_rdr.md` | 29-44 | 30-45 | extrait provisoire | bloc deja extrait et harmonise |
 | 5 | `01_source_canonique/04_comprendre_science_preuves_causalite.md` | 45-51 partielle | 46-52 partielle | extrait provisoire | bloc deja extrait et harmonise |
 | 6 | `01_source_canonique/05_mythes_alcool_tabac_prix_sante_publique.md` | 51-69 | 52-70 | extrait provisoire | mois sans alcool/tabac, effets individuels et sante publique, couts publics, prix, verre de vin, toxicite des alcools |
+| 7 | `01_source_canonique/06_mythes_sucre_naturel_reste_perche_contact_addiction.md` | 70-90 | 71-91 | extrait provisoire | addiction au sucre, appel au naturel, rester perche, contamination par contact, premiere prise et taux de conversion |
 
 ## Notes
 

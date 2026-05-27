@@ -32,10 +32,11 @@ Exemple : page imprimee 45 = page PDF 46 ; page imprimee 51 = page PDF 52.
 | Phase 1 | bloc 4 - mecanismes de protection psychologique et approche RDR | 29-44 | 30-45 | extrait provisoire |
 | Phase 1 | bloc 5 - comprendre la science, preuves, causalite, methode scientifique | 45-51 partielle | 46-52 partielle | extrait provisoire |
 | Phase 1 | bloc 6 - alcool/tabac/sante publique/prix | 51-69 | 52-70 | extrait provisoire |
+| Phase 1 | bloc 7 - sucre/naturel/reste perche/contact/addiction | 70-90 | 71-91 | extrait provisoire |
 
 ## Prochaine etape
 
-Bloc 7 : `01_source_canonique/06_mythes_sucre_naturel_reste_perche_contact_addiction.md`, pages imprimees 70-90 / pages PDF 71-91.
+Bloc 8 : `01_source_canonique/07_ghb_drogue_du_viol_chemsex_3mmc_rc_nps.md`, pages imprimees 91-98 / pages PDF 92-99.
 
 ## Indexation ChatGPT / IA
 

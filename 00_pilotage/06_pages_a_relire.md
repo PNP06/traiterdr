@@ -44,3 +44,12 @@
 | 65 | Verifier lisibilite, titre visible et cadrage de `p065_figure_01_alcool_tabac_sante_publique_prix.png`. | visuel | moyenne | Ouvrir l'asset et comparer au PDF page 66. |
 | 66 | Verifier lisibilite, titre visible et cadrage de `p066_figure_01_alcool_tabac_sante_publique_prix.png`. | visuel | moyenne | Ouvrir l'asset et comparer au PDF page 67. |
 | 51-69 | Note auteur ou TODO possible dans le passage. | statut documentaire | moyenne | Conserver comme statut, ne pas traiter comme fait definitif. |
+
+## Bloc 7 - sucre/naturel/reste perche/contact/addiction
+
+| Page | Probleme | Type | Priorite | Action recommandee |
+|---:|---|---|---|---|
+| 78 | Verifier lisibilite, titre visible et cadrage de `p078_figure_01_sucre_naturel_reste_perche_contact.png`. | visuel | moyenne | Ouvrir l'asset et comparer au PDF page 79. |
+| 81 | Verifier lisibilite, titre visible et cadrage de `p081_figure_01_sucre_naturel_reste_perche_contact.png`. | visuel | moyenne | Ouvrir l'asset et comparer au PDF page 82. |
+| 89 | Verifier lisibilite, titre visible et cadrage de `p089_figure_01_sucre_naturel_reste_perche_contact.png`. | visuel | moyenne | Ouvrir l'asset et comparer au PDF page 90. |
+| 70-90 | Note auteur ou TODO possible dans le passage. | statut documentaire | moyenne | Conserver comme statut, ne pas traiter comme fait definitif. |

@@ -82,3 +82,30 @@
 | Le doute : observation et débats | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 6, p. 51-69. | provisoire |
 | Limite 1 : pas bon pour le reste | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 6, p. 51-69. | provisoire |
 | Limite 2 : pas si bon pour le cœur | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 6, p. 51-69. | provisoire |
+
+## Bloc 7 - sucre/naturel/reste perche/contact/addiction
+
+| Terme | Definition courte | Source | Statut |
+|---|---|---|---|
+| « Addiction » au sucre ? | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 7, p. 70-90. | provisoire |
+| Naturel = plus sûr ? | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 7, p. 70-90. | provisoire |
+| Biais de naturalité | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 7, p. 70-90. | provisoire |
+| Exemple de l’Ayahuasca | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 7, p. 70-90. | provisoire |
+| Antidépresseur naturel VS synthétique | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 7, p. 70-90. | provisoire |
+| Une frontière assez fine | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 7, p. 70-90. | provisoire |
+| Les cannabinoïdes issus du CBD et leurs transformations chimiques | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 7, p. 70-90. | provisoire |
+| Le milieu et la transformation | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 7, p. 70-90. | provisoire |
+| Le problème de la combustion (exemple du tabac) | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 7, p. 70-90. | provisoire |
+| Exemple de la fabrication de l’alcool | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 7, p. 70-90. | provisoire |
+| Fabrication | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 7, p. 70-90. | provisoire |
+| La qualité : l’alcool frelaté | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 7, p. 70-90. | provisoire |
+| La Naturalité n'équivaut pas à la Sécurité | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 7, p. 70-90. | provisoire |
+| Resté perché ? | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 7, p. 70-90. | provisoire |
+| Badtrip traumatisant | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 7, p. 70-90. | provisoire |
+| Trouble sous-jacent | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 7, p. 70-90. | provisoire |
+| Flashbacks et HPPD | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 7, p. 70-90. | provisoire |
+| Atteinte neurologique lié à un usage chronique | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 7, p. 70-90. | provisoire |
+| Problèmes liés à l’addiction | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 7, p. 70-90. | provisoire |
+| Contamination par contact | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 7, p. 70-90. | provisoire |
+| Accro à la première prise | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 7, p. 70-90. | provisoire |
+| Le taux de conversion en fonction des substances | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 7, p. 70-90. | provisoire |

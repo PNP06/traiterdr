@@ -35,3 +35,11 @@
 | 64 | image / figure | a confirmer | Visuel extrait depuis le PDF, dimensions 700x322. | Texte visible a controler dans l'image. | Conserve le support visuel du passage source. | `05_assets_visuels/p064_figure_01_alcool_tabac_sante_publique_prix.png` | extrait ; a relire |
 | 65 | image / figure | a confirmer | Visuel extrait depuis le PDF, dimensions 915x721. | Texte visible a controler dans l'image. | Conserve le support visuel du passage source. | `05_assets_visuels/p065_figure_01_alcool_tabac_sante_publique_prix.png` | extrait ; a relire |
 | 66 | image / figure | a confirmer | Visuel extrait depuis le PDF, dimensions 652x564. | Texte visible a controler dans l'image. | Conserve le support visuel du passage source. | `05_assets_visuels/p066_figure_01_alcool_tabac_sante_publique_prix.png` | extrait ; a relire |
+
+## Bloc 7 - sucre/naturel/reste perche/contact/addiction
+
+| Page | Type | Titre visible | Description | Donnees extraites | Importance RDR | Fichier cible | Statut |
+|---:|---|---|---|---|---|---|---|
+| 78 | image / figure | a confirmer | Visuel extrait depuis le PDF, dimensions 745x185. | Texte visible a controler dans l'image. | Conserve le support visuel du passage source. | `05_assets_visuels/p078_figure_01_sucre_naturel_reste_perche_contact.png` | extrait ; a relire |
+| 81 | image / figure | a confirmer | Visuel extrait depuis le PDF, dimensions 256x559. | Texte visible a controler dans l'image. | Conserve le support visuel du passage source. | `05_assets_visuels/p081_figure_01_sucre_naturel_reste_perche_contact.png` | extrait ; a relire |
+| 89 | image / figure | a confirmer | Visuel extrait depuis le PDF, dimensions 1015x643. | Texte visible a controler dans l'image. | Conserve le support visuel du passage source. | `05_assets_visuels/p089_figure_01_sucre_naturel_reste_perche_contact.png` | extrait ; a relire |

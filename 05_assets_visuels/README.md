@@ -47,3 +47,11 @@ Les tableaux textuels et encadrés sont convertis ou décrits en Markdown. Seuls
 | `p064_figure_01_alcool_tabac_sante_publique_prix.png` | 64 | 65 | Visuel extrait pour le bloc 6 `alcool/tabac/sante publique/prix` ; dimensions 700x322. | Source canonique et index visuels. |
 | `p065_figure_01_alcool_tabac_sante_publique_prix.png` | 65 | 66 | Visuel extrait pour le bloc 6 `alcool/tabac/sante publique/prix` ; dimensions 915x721. | Source canonique et index visuels. |
 | `p066_figure_01_alcool_tabac_sante_publique_prix.png` | 66 | 67 | Visuel extrait pour le bloc 6 `alcool/tabac/sante publique/prix` ; dimensions 652x564. | Source canonique et index visuels. |
+
+## Assets ajoutes - bloc 7
+
+| Fichier | Page imprimee | Page PDF | Description | Utilisation |
+|---|---:|---:|---|---|
+| `p078_figure_01_sucre_naturel_reste_perche_contact.png` | 78 | 79 | Visuel extrait pour le bloc 7 `sucre/naturel/reste perche/contact/addiction` ; dimensions 745x185. | Source canonique et index visuels. |
+| `p081_figure_01_sucre_naturel_reste_perche_contact.png` | 81 | 82 | Visuel extrait pour le bloc 7 `sucre/naturel/reste perche/contact/addiction` ; dimensions 256x559. | Source canonique et index visuels. |
+| `p089_figure_01_sucre_naturel_reste_perche_contact.png` | 89 | 90 | Visuel extrait pour le bloc 7 `sucre/naturel/reste perche/contact/addiction` ; dimensions 1015x643. | Source canonique et index visuels. |

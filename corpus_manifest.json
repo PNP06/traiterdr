@@ -6,35 +6,35 @@
   "files": [
     {
       "path": "00_pilotage/00_index_global.md",
-      "size_bytes": 1778
+      "size_bytes": 2022
     },
     {
       "path": "00_pilotage/01_matrice_couverture.md",
-      "size_bytes": 27608
+      "size_bytes": 40372
     },
     {
       "path": "00_pilotage/02_index_visuels_tableaux_figures.md",
-      "size_bytes": 9820
+      "size_bytes": 10854
     },
     {
       "path": "00_pilotage/03_index_notions.md",
-      "size_bytes": 37319
+      "size_bytes": 46953
     },
     {
       "path": "00_pilotage/04_glossaire.md",
-      "size_bytes": 10085
+      "size_bytes": 13335
     },
     {
       "path": "00_pilotage/05_journal_extraction.md",
-      "size_bytes": 6010
+      "size_bytes": 6601
     },
     {
       "path": "00_pilotage/06_pages_a_relire.md",
-      "size_bytes": 6855
+      "size_bytes": 7686
     },
     {
       "path": "00_pilotage/07_decisions_documentaires.md",
-      "size_bytes": 6193
+      "size_bytes": 6401
     },
     {
       "path": "01_source_canonique/00_front_matter_suivi_remerciements.md",
@@ -62,7 +62,7 @@
     },
     {
       "path": "01_source_canonique/06_mythes_sucre_naturel_reste_perche_contact_addiction.md",
-      "size_bytes": 1024
+      "size_bytes": 94141
     },
     {
       "path": "01_source_canonique/07_ghb_drogue_du_viol_chemsex_3mmc_rc_nps.md",
@@ -282,7 +282,7 @@
     },
     {
       "path": "04_substances_mentions/00_index_substances.md",
-      "size_bytes": 9123
+      "size_bytes": 11630
     },
     {
       "path": "04_substances_mentions/3mmc_chemsex.md",
@@ -397,12 +397,24 @@
       "size_bytes": 8574
     },
     {
+      "path": "05_assets_visuels/p078_figure_01_sucre_naturel_reste_perche_contact.png",
+      "size_bytes": 27695
+    },
+    {
+      "path": "05_assets_visuels/p081_figure_01_sucre_naturel_reste_perche_contact.png",
+      "size_bytes": 29062
+    },
+    {
+      "path": "05_assets_visuels/p089_figure_01_sucre_naturel_reste_perche_contact.png",
+      "size_bytes": 287593
+    },
+    {
       "path": "05_assets_visuels/README.md",
-      "size_bytes": 3541
+      "size_bytes": 4286
     },
     {
       "path": "INDEX.md",
-      "size_bytes": 7408
+      "size_bytes": 7407
     },
     {
       "path": "llms.txt",
@@ -410,7 +422,7 @@
     },
     {
       "path": "README.md",
-      "size_bytes": 2416
+      "size_bytes": 2508
     },
     {
       "path": "sources/traite/manifest_html_clean.json",
