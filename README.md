@@ -36,10 +36,11 @@ Exemple : page imprimee 45 = page PDF 46 ; page imprimee 51 = page PDF 52.
 | Phase 1 | bloc 8 - GHB/drogue du viol/chemsex/3-MMC/RC-NPS | 91-98 | 92-99 | extrait provisoire |
 | Phase 1 | bloc 9 - gestion des risques | 99-102 | 100-103 | extrait provisoire |
 | Phase 1 | bloc 10 - cerveau/synapses/neurotransmetteurs/circuits | 103-114 | 104-115 | extrait provisoire |
+| Phase 1 | bloc 11 - tolerance/developpement 15-25/corps humain | 115-125 | 116-126 | extrait provisoire |
 
 ## Prochaine etape
 
-Bloc 11 : `01_source_canonique/10_tolerance_developpement_15_25_corps_humain.md`, pages imprimees 115-125 / pages PDF 116-126.
+Bloc 12 : `01_source_canonique/11_pk_pd_absorption_distribution_metabolisme_elimination.md`, pages imprimees 126-139 / pages PDF 127-140.
 
 ## Indexation ChatGPT / IA
 

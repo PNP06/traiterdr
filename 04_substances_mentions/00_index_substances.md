@@ -83,3 +83,9 @@ Décision : les mentions du bloc 3 restent des exemples argumentatifs utilisés 
 |---|---|---:|---|---|---|
 | cannabinoides | Mention ou traitement dans le bloc 10 `cerveau/synapses/neurotransmetteurs/circuits`. | 103-114 | `01_source_canonique/09_cerveau_synapses_neurotransmetteurs_circuits.md` | A evaluer apres Phase 1 avant creation ou remplissage d'une monographie substance. | mention indexee ; monographie non creee automatiquement |
 | opioides | Mention ou traitement dans le bloc 10 `cerveau/synapses/neurotransmetteurs/circuits`. | 103-114 | `01_source_canonique/09_cerveau_synapses_neurotransmetteurs_circuits.md` | A evaluer apres Phase 1 avant creation ou remplissage d'une monographie substance. | mention indexee ; monographie non creee automatiquement |
+
+## Mentions ajoutees par le bloc 11
+
+| Substance ou famille | Type de mention | Pages | Fichier source actuel | Fichier source futur | Statut |
+|---|---|---:|---|---|---|
+| aucune substance specifique nouvelle | Bloc transversal sans monographie substance. | - | - | - | aucune action |

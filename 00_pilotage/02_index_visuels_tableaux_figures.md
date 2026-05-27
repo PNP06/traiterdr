@@ -67,3 +67,11 @@
 | 107 | image / figure | a confirmer | Visuel extrait depuis le PDF, dimensions 754x527. | Texte visible a controler dans l'image. | Conserve le support visuel du passage source. | `05_assets_visuels/p107_figure_01_cerveau_synapses_neurotransmetteur.png` | extrait ; a relire |
 | 113 | image / figure | a confirmer | Visuel extrait depuis le PDF, dimensions 1007x459. | Texte visible a controler dans l'image. | Conserve le support visuel du passage source. | `05_assets_visuels/p113_figure_01_cerveau_synapses_neurotransmetteur.png` | extrait ; a relire |
 | 114 | image / figure | a confirmer | Visuel extrait depuis le PDF, dimensions 1073x527. | Texte visible a controler dans l'image. | Conserve le support visuel du passage source. | `05_assets_visuels/p114_figure_01_cerveau_synapses_neurotransmetteur.png` | extrait ; a relire |
+
+## Bloc 11 - tolerance/developpement 15-25/corps humain
+
+| Page | Type | Titre visible | Description | Donnees extraites | Importance RDR | Fichier cible | Statut |
+|---:|---|---|---|---|---|---|---|
+| 115 | image / figure | a confirmer | Visuel extrait depuis le PDF, dimensions 1066x617. | Texte visible a controler dans l'image. | Conserve le support visuel du passage source. | `05_assets_visuels/p115_figure_01_tolerance_developpement_15_25_corp.png` | extrait ; a relire |
+| 119 | image / figure | a confirmer | Visuel extrait depuis le PDF, dimensions 882x730. | Texte visible a controler dans l'image. | Conserve le support visuel du passage source. | `05_assets_visuels/p119_figure_01_tolerance_developpement_15_25_corp.png` | extrait ; a relire |
+| 120 | image / figure | a confirmer | Visuel extrait depuis le PDF, dimensions 443x353. | Texte visible a controler dans l'image. | Conserve le support visuel du passage source. | `05_assets_visuels/p120_figure_01_tolerance_developpement_15_25_corp.png` | extrait ; a relire |

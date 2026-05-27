@@ -157,3 +157,26 @@
 | Les circuits cérébraux | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 10, p. 103-114. | provisoire |
 | Le circuit de la récompense | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 10, p. 103-114. | provisoire |
 | Les autres circuits cérébraux | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 10, p. 103-114. | provisoire |
+
+## Bloc 11 - tolerance/developpement 15-25/corps humain
+
+| Terme | Definition courte | Source | Statut |
+|---|---|---|---|
+| Tolérance, Accoutumance, Tachyphylaxie | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 11, p. 115-125. | provisoire |
+| Les mécanismes de la tolérance | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 11, p. 115-125. | provisoire |
+| Les mécanismes neuronaux | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 11, p. 115-125. | provisoire |
+| Mécanisme métabolique | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 11, p. 115-125. | provisoire |
+| Mécanisme physiologique | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 11, p. 115-125. | provisoire |
+| Mécanisme psychologique | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 11, p. 115-125. | provisoire |
+| Tolérance croisée | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 11, p. 115-125. | provisoire |
+| Les types de tolérances et leurs impacts | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 11, p. 115-125. | provisoire |
+| La tolérance aigue (Tachyphylaxie) | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 11, p. 115-125. | provisoire |
+| L’accoutumance | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 11, p. 115-125. | provisoire |
+| Tolérance inverse | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 11, p. 115-125. | provisoire |
+| Le développement du cerveau de 15 à 25 ans | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 11, p. 115-125. | provisoire |
+| Le corps humain | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 11, p. 115-125. | provisoire |
+| Le système nerveux | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 11, p. 115-125. | provisoire |
+| Système nerveux central | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 11, p. 115-125. | provisoire |
+| Système nerveux autonome | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 11, p. 115-125. | provisoire |
+| Le système | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 11, p. 115-125. | provisoire |
+| Le système opioïde endogène | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 11, p. 115-125. | provisoire |

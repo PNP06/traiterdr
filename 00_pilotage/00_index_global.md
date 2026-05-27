@@ -2,7 +2,7 @@
 
 ## Statut
 - phase 1 en cours
-- blocs 1 a 10 extraits provisoirement
+- blocs 1 a 11 extraits provisoirement
 
 ## Source
 - Document source local : `sources/traite/traite_rdr_version_html_clean.md`
@@ -24,6 +24,7 @@
 | 8 | `01_source_canonique/07_ghb_drogue_du_viol_chemsex_3mmc_rc_nps.md` | 91-98 | 92-99 | extrait provisoire | drogue du zombie, GHB, drogue du viol, chemsex, 3-MMC, research chemicals, nouveaux produits de synthese |
 | 9 | `01_source_canonique/08_gestion_des_risques.md` | 99-102 | 100-103 | extrait provisoire | definition du risque, gravite, probabilite, exposition, vulnerabilite et barrieres |
 | 10 | `01_source_canonique/09_cerveau_synapses_neurotransmetteurs_circuits.md` | 103-114 | 104-115 | extrait provisoire | neurones, synapses, neurotransmetteurs, receptors, circuits, systemes dopaminergique, serotonergique, endocannabinoide et opioide |
+| 11 | `01_source_canonique/10_tolerance_developpement_15_25_corps_humain.md` | 115-125 | 116-126 | extrait provisoire | tolerance, accoutumance, tachyphylaxie, cerveau en developpement, adolescence, organes et homeostasie |
 
 ## Notes
 

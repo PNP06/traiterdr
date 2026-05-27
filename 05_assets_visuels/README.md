@@ -79,3 +79,11 @@ Les tableaux textuels et encadrés sont convertis ou décrits en Markdown. Seuls
 | `p107_figure_01_cerveau_synapses_neurotransmetteur.png` | 107 | 108 | Visuel extrait pour le bloc 10 `cerveau/synapses/neurotransmetteurs/circuits` ; dimensions 754x527. | Source canonique et index visuels. |
 | `p113_figure_01_cerveau_synapses_neurotransmetteur.png` | 113 | 114 | Visuel extrait pour le bloc 10 `cerveau/synapses/neurotransmetteurs/circuits` ; dimensions 1007x459. | Source canonique et index visuels. |
 | `p114_figure_01_cerveau_synapses_neurotransmetteur.png` | 114 | 115 | Visuel extrait pour le bloc 10 `cerveau/synapses/neurotransmetteurs/circuits` ; dimensions 1073x527. | Source canonique et index visuels. |
+
+## Assets ajoutes - bloc 11
+
+| Fichier | Page imprimee | Page PDF | Description | Utilisation |
+|---|---:|---:|---|---|
+| `p115_figure_01_tolerance_developpement_15_25_corp.png` | 115 | 116 | Visuel extrait pour le bloc 11 `tolerance/developpement 15-25/corps humain` ; dimensions 1066x617. | Source canonique et index visuels. |
+| `p119_figure_01_tolerance_developpement_15_25_corp.png` | 119 | 120 | Visuel extrait pour le bloc 11 `tolerance/developpement 15-25/corps humain` ; dimensions 882x730. | Source canonique et index visuels. |
+| `p120_figure_01_tolerance_developpement_15_25_corp.png` | 120 | 121 | Visuel extrait pour le bloc 11 `tolerance/developpement 15-25/corps humain` ; dimensions 443x353. | Source canonique et index visuels. |
