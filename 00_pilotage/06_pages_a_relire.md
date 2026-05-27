@@ -122,3 +122,9 @@
 | Page | Probleme | Type | Priorite | Action recommandee |
 |---:|---|---|---|---|
 | 182-184 | Controle humain de coherence apres extraction automatique. | qualite | basse | Relire avant Phase 2. |
+
+## Bloc 16 - sexualite/vulnerabilite/consentement
+
+| Page | Probleme | Type | Priorite | Action recommandee |
+|---:|---|---|---|---|
+| 185-197 | Controle humain de coherence apres extraction automatique. | qualite | basse | Relire avant Phase 2. |

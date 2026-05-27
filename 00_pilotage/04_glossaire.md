@@ -277,3 +277,32 @@
 | L’amende forfaitaire délictuelle | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 15, p. 182-184. | provisoire |
 | Contestation de l’amende | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 15, p. 182-184. | provisoire |
 | Distinction entre les drogues | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 15, p. 182-184. | provisoire |
+
+## Bloc 16 - sexualite/vulnerabilite/consentement
+
+| Terme | Definition courte | Source | Statut |
+|---|---|---|---|
+| Risques durant la prise | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 16, p. 185-197. | provisoire |
+| La sexualité | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 16, p. 185-197. | provisoire |
+| Soumission et | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 16, p. 185-197. | provisoire |
+| Soumission chimique | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 16, p. 185-197. | provisoire |
+| Femmes, hommes et enfants | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 16, p. 185-197. | provisoire |
+| Les substances utilisées | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 16, p. 185-197. | provisoire |
+| Action des autorités de santé | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 16, p. 185-197. | provisoire |
+| Vulnérabilité chimique | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 16, p. 185-197. | provisoire |
+| Vulnérabilité Proactive | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 16, p. 185-197. | provisoire |
+| Prévenir la soumission et la vulnérabilité chimique | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 16, p. 185-197. | provisoire |
+| Devenir agresseur sous substance : mécanismes et facteurs aggravants | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 16, p. 185-197. | provisoire |
+| Testeurs et protection de verre | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 16, p. 185-197. | provisoire |
+| Vision globale | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 16, p. 185-197. | provisoire |
+| Hypothèse du test parfait | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 16, p. 185-197. | provisoire |
+| Faux sentiment de sécurité | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 16, p. 185-197. | provisoire |
+| Une stratégie de réduction des risques (RDR) | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 16, p. 185-197. | provisoire |
+| Pistes de prévention | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 16, p. 185-197. | provisoire |
+| Zoom sur les piqures sauvages | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 16, p. 185-197. | provisoire |
+| Alcool et sexualité | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 16, p. 185-197. | provisoire |
+| L’effet placebo | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 16, p. 185-197. | provisoire |
+| Relations sexuelles risquées | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 16, p. 185-197. | provisoire |
+| Dysfonctions sexuelles | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 16, p. 185-197. | provisoire |
+| Effet physiologique | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 16, p. 185-197. | provisoire |
+| Fertilité et impact avant grossesse | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 16, p. 185-197. | provisoire |

@@ -2,7 +2,7 @@
 
 ## Statut
 - phase 1 en cours
-- blocs 1 a 15 extraits provisoirement
+- blocs 1 a 16 extraits provisoirement
 
 ## Source
 - Document source local : `sources/traite/traite_rdr_version_html_clean.md`
@@ -29,6 +29,7 @@
 | 13 | `01_source_canonique/12_psychologie_placebo_nocebo_troubles_psychologiques.md` | 140-156 | 141-157 | extrait provisoire | placebo, nocebo, attentes, contexte, et troubles psychologiques dans la lecture des risques |
 | 14 | `01_source_canonique/13_classifications_substances.md` | 157-181 | 158-182 | extrait provisoire | classifications legales, pharmacologiques, effets, dangerosite, dommages et limites de classement |
 | 15 | `01_source_canonique/14_risques_generiques_sommeil_juridique.md` | 182-184 | 183-185 | extrait provisoire | risques generiques transversaux, sommeil et risque juridique |
+| 16 | `01_source_canonique/15_sexualite_vulnerabilite_consentement.md` | 185-197 | 186-198 | extrait provisoire | sexualite sous substances, vulnerabilite, consentement, violences, alcool et autres contextes |
 
 ## Notes
 

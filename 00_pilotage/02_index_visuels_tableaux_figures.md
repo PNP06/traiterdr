@@ -111,3 +111,9 @@
 | Page | Type | Titre visible | Description | Donnees extraites | Importance RDR | Fichier cible | Statut |
 |---:|---|---|---|---|---|---|---|
 | - | - | - | Aucun visuel raster utile extrait automatiquement dans ce bloc. | - | - | - | aucun asset extrait |
+
+## Bloc 16 - sexualite/vulnerabilite/consentement
+
+| Page | Type | Titre visible | Description | Donnees extraites | Importance RDR | Fichier cible | Statut |
+|---:|---|---|---|---|---|---|---|
+| - | - | - | Aucun visuel raster utile extrait automatiquement dans ce bloc. | - | - | - | aucun asset extrait |

@@ -41,10 +41,11 @@ Exemple : page imprimee 45 = page PDF 46 ; page imprimee 51 = page PDF 52.
 | Phase 1 | bloc 13 - psychologie/placebo/nocebo/troubles psychologiques | 140-156 | 141-157 | extrait provisoire |
 | Phase 1 | bloc 14 - classifications substances | 157-181 | 158-182 | extrait provisoire |
 | Phase 1 | bloc 15 - risques generiques sommeil/juridique | 182-184 | 183-185 | extrait provisoire |
+| Phase 1 | bloc 16 - sexualite/vulnerabilite/consentement | 185-197 | 186-198 | extrait provisoire |
 
 ## Prochaine etape
 
-Bloc 16 : `01_source_canonique/15_sexualite_vulnerabilite_consentement.md`, pages imprimees 185-197 / pages PDF 186-198.
+Bloc 17 : `01_source_canonique/16_allergie_convulsions_hydratation_thermie.md`, pages imprimees 198-222 / pages PDF 199-223.
 
 ## Indexation ChatGPT / IA
 

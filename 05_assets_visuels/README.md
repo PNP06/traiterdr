@@ -123,3 +123,9 @@ Les tableaux textuels et encadrés sont convertis ou décrits en Markdown. Seuls
 | Fichier | Page imprimee | Page PDF | Description | Utilisation |
 |---|---:|---:|---|---|
 | aucun asset nouveau | - | - | Aucun visuel raster utile extrait automatiquement. | - |
+
+## Assets ajoutes - bloc 16
+
+| Fichier | Page imprimee | Page PDF | Description | Utilisation |
+|---|---:|---:|---|---|
+| aucun asset nouveau | - | - | Aucun visuel raster utile extrait automatiquement. | - |

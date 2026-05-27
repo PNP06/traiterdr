@@ -120,3 +120,11 @@ Décision : les mentions du bloc 3 restent des exemples argumentatifs utilisés 
 | Substance ou famille | Type de mention | Pages | Fichier source actuel | Fichier source futur | Statut |
 |---|---|---:|---|---|---|
 | aucune substance specifique nouvelle | Bloc transversal sans monographie substance. | - | - | - | aucune action |
+
+## Mentions ajoutees par le bloc 16
+
+| Substance ou famille | Type de mention | Pages | Fichier source actuel | Fichier source futur | Statut |
+|---|---|---:|---|---|---|
+| alcool | Mention ou traitement dans le bloc 16 `sexualite/vulnerabilite/consentement`. | 185-197 | `01_source_canonique/15_sexualite_vulnerabilite_consentement.md` | A evaluer apres Phase 1 avant creation ou remplissage d'une monographie substance. | mention indexee ; monographie non creee automatiquement |
+| GHB / GBL | Mention ou traitement dans le bloc 16 `sexualite/vulnerabilite/consentement`. | 185-197 | `01_source_canonique/15_sexualite_vulnerabilite_consentement.md` | A evaluer apres Phase 1 avant creation ou remplissage d'une monographie substance. | mention indexee ; monographie non creee automatiquement |
+| 3-MMC | Mention ou traitement dans le bloc 16 `sexualite/vulnerabilite/consentement`. | 185-197 | `01_source_canonique/15_sexualite_vulnerabilite_consentement.md` | A evaluer apres Phase 1 avant creation ou remplissage d'une monographie substance. | mention indexee ; monographie non creee automatiquement |
