@@ -39,3 +39,11 @@ Ces éléments sont dérivés du traité et nécessitent une validation humaine 
 | NO-GO-COG-005 | naturalité | Ne pas transformer `naturel ≠ sûr` en `naturel = dangereux`. | pages 17, 19, 25 | Le traité dit que l'origine naturelle ne suffit pas ; il ne pose pas l'inverse. | actif |
 | NO-GO-COG-006 | témoignages | Ne pas invalider automatiquement l'expérience vécue au motif qu'elle n'est pas une preuve scientifique. | pages 26-28 | L'expérience peut éclairer les pratiques, mais ne suffit pas à établir une règle générale. | actif |
 | NO-GO-COG-007 | données chiffrées | Ne pas transformer les exemples pédagogiques de risque absolu en seuils ou statistiques génériques. | page 22 | Les chiffres doivent être vérifiés, sourcés et contextualisés. | actif |
+
+## Complements Phase 3 depuis themes transversaux
+
+| ID | Domaine | No-go | Source | Niveau de confiance | Limite |
+|---|---|---|---|---|---|
+| NOGO-P3-001 | global | Ne pas presenter les themes comme validation scientifique finale. | `02_themes_transversaux/00_index_themes.md` | eleve | validation humaine requise |
+| NOGO-P3-002 | scoring | Ne pas calculer de score RDR global depuis les seuls themes. | `03_derives_culturerdr/05_scoring_implications.md` | eleve | scoring hors phase |
+| NOGO-P3-003 | urgence | Ne pas remplacer secours, avis medical ou cadre legal. | themes 18, 19, 21 | eleve | messages urgence a valider |

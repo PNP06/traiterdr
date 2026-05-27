@@ -112,3 +112,10 @@
 | Date | Bloc traite | Pages | Fichiers modifies | Problemes rencontres | Decisions prises | Prochaine etape |
 |---|---|---|---|---|---|---|
 | 2026-05-27 | Phase 2 - 27 themes transversaux | sources 0-332 | `02_themes_transversaux/` ; index | assemblage automatique a relire | sources canoniques seules, statut provisoire | Phase 3 derives candidats |
+
+
+## Phase 3 derives CultureRDR
+
+| Date | Bloc traite | Pages | Fichiers modifies | Problemes rencontres | Decisions prises | Prochaine etape |
+|---|---|---|---|---|---|---|
+| 2026-05-27 | Phase 3 - derives candidats | themes 01-27 | `03_derives_culturerdr/` | candidats non valides a relire | aucune integration app, aucun score final | Phase 4 indexation IA |

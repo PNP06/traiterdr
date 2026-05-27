@@ -26,7 +26,7 @@
     },
     {
       "path": "00_pilotage/05_journal_extraction.md",
-      "size_bytes": 14882
+      "size_bytes": 15244
     },
     {
       "path": "00_pilotage/06_pages_a_relire.md",
@@ -246,47 +246,47 @@
     },
     {
       "path": "03_derives_culturerdr/00_index_derives.md",
-      "size_bytes": 4047
+      "size_bytes": 2046
     },
     {
       "path": "03_derives_culturerdr/01_variables_app_candidates.md",
-      "size_bytes": 4220
+      "size_bytes": 12085
     },
     {
       "path": "03_derives_culturerdr/02_regles_metier_candidates.md",
-      "size_bytes": 4456
+      "size_bytes": 15008
     },
     {
       "path": "03_derives_culturerdr/03_messages_rdr_candidates.md",
-      "size_bytes": 4375
+      "size_bytes": 16792
     },
     {
       "path": "03_derives_culturerdr/04_modules_academie_candidates.md",
-      "size_bytes": 3452
+      "size_bytes": 14850
     },
     {
       "path": "03_derives_culturerdr/05_scoring_implications.md",
-      "size_bytes": 231
+      "size_bytes": 1387
     },
     {
       "path": "03_derives_culturerdr/06_questions_debrief_candidates.md",
-      "size_bytes": 239
+      "size_bytes": 1175
     },
     {
       "path": "03_derives_culturerdr/07_checklists_session_candidates.md",
-      "size_bytes": 240
+      "size_bytes": 1177
     },
     {
       "path": "03_derives_culturerdr/08_no_go_automation.md",
-      "size_bytes": 4970
+      "size_bytes": 5600
     },
     {
       "path": "03_derives_culturerdr/09_alertes_et_signaux_candidates.md",
-      "size_bytes": 240
+      "size_bytes": 1416
     },
     {
       "path": "03_derives_culturerdr/10_priorisation_future_academie.md",
-      "size_bytes": 239
+      "size_bytes": 1278
     },
     {
       "path": "04_substances_mentions/00_index_substances.md",
@@ -738,7 +738,7 @@
     },
     {
       "path": "INDEX.md",
-      "size_bytes": 14224
+      "size_bytes": 14223
     },
     {
       "path": "llms.txt",
