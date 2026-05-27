@@ -306,3 +306,33 @@
 | Dysfonctions sexuelles | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 16, p. 185-197. | provisoire |
 | Effet physiologique | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 16, p. 185-197. | provisoire |
 | Fertilité et impact avant grossesse | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 16, p. 185-197. | provisoire |
+
+## Bloc 17 - allergie/convulsions/hydratation/thermie
+
+| Terme | Definition courte | Source | Statut |
+|---|---|---|---|
+| Allergie et crise d’anaphylaxie | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 17, p. 198-222. | provisoire |
+| Le mécanisme allergique | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 17, p. 198-222. | provisoire |
+| Faire un test allergique | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 17, p. 198-222. | provisoire |
+| Convulsions | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 17, p. 198-222. | provisoire |
+| L’hydratation | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 17, p. 198-222. | provisoire |
+| Principes physiologiques de l’hydratation | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 17, p. 198-222. | provisoire |
+| La répartition de l’eau dans le corps humain | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 17, p. 198-222. | provisoire |
+| Elimination de l’eau | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 17, p. 198-222. | provisoire |
+| Apport en eau | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 17, p. 198-222. | provisoire |
+| Bilan | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 17, p. 198-222. | provisoire |
+| Troubles de l’hydratation | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 17, p. 198-222. | provisoire |
+| La déshydratation | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 17, p. 198-222. | provisoire |
+| Prévention | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 17, p. 198-222. | provisoire |
+| Protection | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 17, p. 198-222. | provisoire |
+| L’hyperhydratation | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 17, p. 198-222. | provisoire |
+| Hyper et hypothermie | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 17, p. 198-222. | provisoire |
+| Principes physiologiques de régulation de la | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 17, p. 198-222. | provisoire |
+| Création de chaleur | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 17, p. 198-222. | provisoire |
+| Mécanismes de régulation de la température | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 17, p. 198-222. | provisoire |
+| Phénomènes physiques : échanges avec l’extérieur | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 17, p. 198-222. | provisoire |
+| Phénomènes physiologiques : réactions du corps | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 17, p. 198-222. | provisoire |
+| Troubles de la température | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 17, p. 198-222. | provisoire |
+| L’hypothermie | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 17, p. 198-222. | provisoire |
+| L’hypothermie alcoolique | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 17, p. 198-222. | provisoire |
+| Hyperthermie | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 17, p. 198-222. | provisoire |

@@ -75,3 +75,9 @@
 | Date | Bloc traite | Pages | Fichiers modifies | Problemes rencontres | Decisions prises | Prochaine etape |
 |---|---|---|---|---|---|---|
 | 2026-05-27 | Phase 1 bloc 16 - sexualite/vulnerabilite/consentement | imprimees 185-197 / PDF 186-198 | `01_source_canonique/15_sexualite_vulnerabilite_consentement.md`, pilotage, assets, index racine, manifeste | Extraction automatique a relire ; visuels a controler | Conserver contenu source complet dans le fichier canonique ; ne pas creer de module final | Bloc 17 |
+
+## Bloc 17 - allergie/convulsions/hydratation/thermie
+
+| Date | Bloc traite | Pages | Fichiers modifies | Problemes rencontres | Decisions prises | Prochaine etape |
+|---|---|---|---|---|---|---|
+| 2026-05-27 | Phase 1 bloc 17 - allergie/convulsions/hydratation/thermie | imprimees 198-222 / PDF 199-223 | `01_source_canonique/16_allergie_convulsions_hydratation_thermie.md`, pilotage, assets, index racine, manifeste | Extraction automatique a relire ; visuels a controler | Conserver contenu source complet dans le fichier canonique ; ne pas creer de module final | Bloc 18 |

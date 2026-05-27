@@ -129,3 +129,14 @@ Les tableaux textuels et encadrés sont convertis ou décrits en Markdown. Seuls
 | Fichier | Page imprimee | Page PDF | Description | Utilisation |
 |---|---:|---:|---|---|
 | aucun asset nouveau | - | - | Aucun visuel raster utile extrait automatiquement. | - |
+
+## Assets ajoutes - bloc 17
+
+| Fichier | Page imprimee | Page PDF | Description | Utilisation |
+|---|---:|---:|---|---|
+| `p201_figure_01_allergie_convulsions_hydratation_t.png` | 201 | 202 | Visuel extrait pour le bloc 17 `allergie/convulsions/hydratation/thermie` ; dimensions 1064x603. | Source canonique et index visuels. |
+| `p203_figure_01_allergie_convulsions_hydratation_t.png` | 203 | 204 | Visuel extrait pour le bloc 17 `allergie/convulsions/hydratation/thermie` ; dimensions 897x909. | Source canonique et index visuels. |
+| `p209_figure_01_allergie_convulsions_hydratation_t.png` | 209 | 210 | Visuel extrait pour le bloc 17 `allergie/convulsions/hydratation/thermie` ; dimensions 1057x402. | Source canonique et index visuels. |
+| `p210_figure_01_allergie_convulsions_hydratation_t.png` | 210 | 211 | Visuel extrait pour le bloc 17 `allergie/convulsions/hydratation/thermie` ; dimensions 760x1024. | Source canonique et index visuels. |
+| `p213_figure_01_allergie_convulsions_hydratation_t.png` | 213 | 214 | Visuel extrait pour le bloc 17 `allergie/convulsions/hydratation/thermie` ; dimensions 1146x626. | Source canonique et index visuels. |
+| `p216_figure_01_allergie_convulsions_hydratation_t.png` | 216 | 217 | Visuel extrait pour le bloc 17 `allergie/convulsions/hydratation/thermie` ; dimensions 1011x786. | Source canonique et index visuels. |

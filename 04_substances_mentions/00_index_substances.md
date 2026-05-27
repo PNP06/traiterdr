@@ -128,3 +128,10 @@ Décision : les mentions du bloc 3 restent des exemples argumentatifs utilisés 
 | alcool | Mention ou traitement dans le bloc 16 `sexualite/vulnerabilite/consentement`. | 185-197 | `01_source_canonique/15_sexualite_vulnerabilite_consentement.md` | A evaluer apres Phase 1 avant creation ou remplissage d'une monographie substance. | mention indexee ; monographie non creee automatiquement |
 | GHB / GBL | Mention ou traitement dans le bloc 16 `sexualite/vulnerabilite/consentement`. | 185-197 | `01_source_canonique/15_sexualite_vulnerabilite_consentement.md` | A evaluer apres Phase 1 avant creation ou remplissage d'une monographie substance. | mention indexee ; monographie non creee automatiquement |
 | 3-MMC | Mention ou traitement dans le bloc 16 `sexualite/vulnerabilite/consentement`. | 185-197 | `01_source_canonique/15_sexualite_vulnerabilite_consentement.md` | A evaluer apres Phase 1 avant creation ou remplissage d'une monographie substance. | mention indexee ; monographie non creee automatiquement |
+
+## Mentions ajoutees par le bloc 17
+
+| Substance ou famille | Type de mention | Pages | Fichier source actuel | Fichier source futur | Statut |
+|---|---|---:|---|---|---|
+| MDMA | Mention ou traitement dans le bloc 17 `allergie/convulsions/hydratation/thermie`. | 198-222 | `01_source_canonique/16_allergie_convulsions_hydratation_thermie.md` | A evaluer apres Phase 1 avant creation ou remplissage d'une monographie substance. | mention indexee ; monographie non creee automatiquement |
+| alcool | Mention ou traitement dans le bloc 17 `allergie/convulsions/hydratation/thermie`. | 198-222 | `01_source_canonique/16_allergie_convulsions_hydratation_thermie.md` | A evaluer apres Phase 1 avant creation ou remplissage d'une monographie substance. | mention indexee ; monographie non creee automatiquement |

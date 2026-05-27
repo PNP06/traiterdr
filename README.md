@@ -42,10 +42,11 @@ Exemple : page imprimee 45 = page PDF 46 ; page imprimee 51 = page PDF 52.
 | Phase 1 | bloc 14 - classifications substances | 157-181 | 158-182 | extrait provisoire |
 | Phase 1 | bloc 15 - risques generiques sommeil/juridique | 182-184 | 183-185 | extrait provisoire |
 | Phase 1 | bloc 16 - sexualite/vulnerabilite/consentement | 185-197 | 186-198 | extrait provisoire |
+| Phase 1 | bloc 17 - allergie/convulsions/hydratation/thermie | 198-222 | 199-223 | extrait provisoire |
 
 ## Prochaine etape
 
-Bloc 17 : `01_source_canonique/16_allergie_convulsions_hydratation_thermie.md`, pages imprimees 198-222 / pages PDF 199-223.
+Bloc 18 : `01_source_canonique/17_badtrip_overdose.md`, pages imprimees 223-247 / pages PDF 224-248.
 
 ## Indexation ChatGPT / IA
 

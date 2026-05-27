@@ -6,35 +6,35 @@
   "files": [
     {
       "path": "00_pilotage/00_index_global.md",
-      "size_bytes": 3976
+      "size_bytes": 4199
     },
     {
       "path": "00_pilotage/01_matrice_couverture.md",
-      "size_bytes": 103672
+      "size_bytes": 117051
     },
     {
       "path": "00_pilotage/02_index_visuels_tableaux_figures.md",
-      "size_bytes": 20084
+      "size_bytes": 21956
     },
     {
       "path": "00_pilotage/03_index_notions.md",
-      "size_bytes": 118874
+      "size_bytes": 128238
     },
     {
       "path": "00_pilotage/04_glossaire.md",
-      "size_bytes": 35753
+      "size_bytes": 39361
     },
     {
       "path": "00_pilotage/05_journal_extraction.md",
-      "size_bytes": 11670
+      "size_bytes": 12249
     },
     {
       "path": "00_pilotage/06_pages_a_relire.md",
-      "size_bytes": 13889
+      "size_bytes": 15113
     },
     {
       "path": "00_pilotage/07_decisions_documentaires.md",
-      "size_bytes": 8287
+      "size_bytes": 8497
     },
     {
       "path": "01_source_canonique/00_front_matter_suivi_remerciements.md",
@@ -102,7 +102,7 @@
     },
     {
       "path": "01_source_canonique/16_allergie_convulsions_hydratation_thermie.md",
-      "size_bytes": 1013
+      "size_bytes": 93031
     },
     {
       "path": "01_source_canonique/17_badtrip_overdose.md",
@@ -282,7 +282,7 @@
     },
     {
       "path": "04_substances_mentions/00_index_substances.md",
-      "size_bytes": 18649
+      "size_bytes": 19457
     },
     {
       "path": "04_substances_mentions/3mmc_chemsex.md",
@@ -517,12 +517,36 @@
       "size_bytes": 31459
     },
     {
+      "path": "05_assets_visuels/p201_figure_01_allergie_convulsions_hydratation_t.png",
+      "size_bytes": 138923
+    },
+    {
+      "path": "05_assets_visuels/p203_figure_01_allergie_convulsions_hydratation_t.png",
+      "size_bytes": 27429
+    },
+    {
+      "path": "05_assets_visuels/p209_figure_01_allergie_convulsions_hydratation_t.png",
+      "size_bytes": 291792
+    },
+    {
+      "path": "05_assets_visuels/p210_figure_01_allergie_convulsions_hydratation_t.png",
+      "size_bytes": 46888
+    },
+    {
+      "path": "05_assets_visuels/p213_figure_01_allergie_convulsions_hydratation_t.png",
+      "size_bytes": 57463
+    },
+    {
+      "path": "05_assets_visuels/p216_figure_01_allergie_convulsions_hydratation_t.png",
+      "size_bytes": 54865
+    },
+    {
       "path": "05_assets_visuels/README.md",
-      "size_bytes": 10617
+      "size_bytes": 11985
     },
     {
       "path": "INDEX.md",
-      "size_bytes": 9768
+      "size_bytes": 9770
     },
     {
       "path": "llms.txt",
@@ -530,7 +554,7 @@
     },
     {
       "path": "README.md",
-      "size_bytes": 3404
+      "size_bytes": 3486
     },
     {
       "path": "sources/traite/manifest_html_clean.json",

@@ -117,3 +117,14 @@
 | Page | Type | Titre visible | Description | Donnees extraites | Importance RDR | Fichier cible | Statut |
 |---:|---|---|---|---|---|---|---|
 | - | - | - | Aucun visuel raster utile extrait automatiquement dans ce bloc. | - | - | - | aucun asset extrait |
+
+## Bloc 17 - allergie/convulsions/hydratation/thermie
+
+| Page | Type | Titre visible | Description | Donnees extraites | Importance RDR | Fichier cible | Statut |
+|---:|---|---|---|---|---|---|---|
+| 201 | image / figure | a confirmer | Visuel extrait depuis le PDF, dimensions 1064x603. | Texte visible a controler dans l'image. | Conserve le support visuel du passage source. | `05_assets_visuels/p201_figure_01_allergie_convulsions_hydratation_t.png` | extrait ; a relire |
+| 203 | image / figure | a confirmer | Visuel extrait depuis le PDF, dimensions 897x909. | Texte visible a controler dans l'image. | Conserve le support visuel du passage source. | `05_assets_visuels/p203_figure_01_allergie_convulsions_hydratation_t.png` | extrait ; a relire |
+| 209 | image / figure | a confirmer | Visuel extrait depuis le PDF, dimensions 1057x402. | Texte visible a controler dans l'image. | Conserve le support visuel du passage source. | `05_assets_visuels/p209_figure_01_allergie_convulsions_hydratation_t.png` | extrait ; a relire |
+| 210 | image / figure | a confirmer | Visuel extrait depuis le PDF, dimensions 760x1024. | Texte visible a controler dans l'image. | Conserve le support visuel du passage source. | `05_assets_visuels/p210_figure_01_allergie_convulsions_hydratation_t.png` | extrait ; a relire |
+| 213 | image / figure | a confirmer | Visuel extrait depuis le PDF, dimensions 1146x626. | Texte visible a controler dans l'image. | Conserve le support visuel du passage source. | `05_assets_visuels/p213_figure_01_allergie_convulsions_hydratation_t.png` | extrait ; a relire |
+| 216 | image / figure | a confirmer | Visuel extrait depuis le PDF, dimensions 1011x786. | Texte visible a controler dans l'image. | Conserve le support visuel du passage source. | `05_assets_visuels/p216_figure_01_allergie_convulsions_hydratation_t.png` | extrait ; a relire |

@@ -128,3 +128,14 @@
 | Page | Probleme | Type | Priorite | Action recommandee |
 |---:|---|---|---|---|
 | 185-197 | Controle humain de coherence apres extraction automatique. | qualite | basse | Relire avant Phase 2. |
+
+## Bloc 17 - allergie/convulsions/hydratation/thermie
+
+| Page | Probleme | Type | Priorite | Action recommandee |
+|---:|---|---|---|---|
+| 201 | Verifier lisibilite, titre visible et cadrage de `p201_figure_01_allergie_convulsions_hydratation_t.png`. | visuel | moyenne | Ouvrir l'asset et comparer au PDF page 202. |
+| 203 | Verifier lisibilite, titre visible et cadrage de `p203_figure_01_allergie_convulsions_hydratation_t.png`. | visuel | moyenne | Ouvrir l'asset et comparer au PDF page 204. |
+| 209 | Verifier lisibilite, titre visible et cadrage de `p209_figure_01_allergie_convulsions_hydratation_t.png`. | visuel | moyenne | Ouvrir l'asset et comparer au PDF page 210. |
+| 210 | Verifier lisibilite, titre visible et cadrage de `p210_figure_01_allergie_convulsions_hydratation_t.png`. | visuel | moyenne | Ouvrir l'asset et comparer au PDF page 211. |
+| 213 | Verifier lisibilite, titre visible et cadrage de `p213_figure_01_allergie_convulsions_hydratation_t.png`. | visuel | moyenne | Ouvrir l'asset et comparer au PDF page 214. |
+| 216 | Verifier lisibilite, titre visible et cadrage de `p216_figure_01_allergie_convulsions_hydratation_t.png`. | visuel | moyenne | Ouvrir l'asset et comparer au PDF page 217. |
