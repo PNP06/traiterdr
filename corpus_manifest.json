@@ -1,12 +1,12 @@
 {
   "generated_at": "2026-05-27",
   "repository": "PNP06/traiterdr",
-  "phase": "phase_1_source_canonique",
+  "phase": "corpus_documentaire_phase_4_indexation",
   "pagination_convention": "page PDF = page imprimee + 1",
   "files": [
     {
       "path": "00_pilotage/00_index_global.md",
-      "size_bytes": 5182
+      "size_bytes": 5296
     },
     {
       "path": "00_pilotage/01_matrice_couverture.md",
@@ -39,6 +39,10 @@
     {
       "path": "00_pilotage/08_bilan_phase1.md",
       "size_bytes": 10937
+    },
+    {
+      "path": "00_pilotage/09_controle_qualite_phase1.md",
+      "size_bytes": 19072
     },
     {
       "path": "01_source_canonique/00_front_matter_suivi_remerciements.md",
@@ -734,7 +738,7 @@
     },
     {
       "path": "INDEX.md",
-      "size_bytes": 14131
+      "size_bytes": 14187
     },
     {
       "path": "llms.txt",

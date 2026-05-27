@@ -43,3 +43,7 @@ Les themes transversaux et derives CultureRDR restent en attente tant que la cou
 ## Bilan Phase 1
 
 - Bilan et controle final provisoire : `00_pilotage/08_bilan_phase1.md`.
+
+## Controle qualite Phase 1.5
+
+- Controle documentaire automatise : `00_pilotage/09_controle_qualite_phase1.md`.

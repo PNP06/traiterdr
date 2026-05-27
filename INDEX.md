@@ -6,7 +6,7 @@ Index racine du corpus documentaire `traiterdr`.
 
 | Chemin | Taille octets |
 |---|---:|
-| `00_pilotage/00_index_global.md` | 5182 |
+| `00_pilotage/00_index_global.md` | 5296 |
 | `00_pilotage/01_matrice_couverture.md` | 181657 |
 | `00_pilotage/02_index_visuels_tableaux_figures.md` | 35329 |
 | `00_pilotage/03_index_notions.md` | 178633 |
@@ -15,6 +15,7 @@ Index racine du corpus documentaire `traiterdr`.
 | `00_pilotage/06_pages_a_relire.md` | 24062 |
 | `00_pilotage/07_decisions_documentaires.md` | 9337 |
 | `00_pilotage/08_bilan_phase1.md` | 10937 |
+| `00_pilotage/09_controle_qualite_phase1.md` | 19072 |
 | `01_source_canonique/00_front_matter_suivi_remerciements.md` | 32018 |
 | `01_source_canonique/01_introduction_cadre_objectif_sources.md` | 39807 |
 | `01_source_canonique/02_mythes_croyances_heuristiques_biais_sophismes.md` | 39545 |
@@ -188,7 +189,7 @@ Index racine du corpus documentaire `traiterdr`.
 | `05_assets_visuels/p328_figure_01_descente_sevrage_addiction_dependa.png` | 421627 |
 | `05_assets_visuels/p330_figure_01_descente_sevrage_addiction_dependa.png` | 428605 |
 | `05_assets_visuels/README.md` | 21515 |
-| `INDEX.md` | 14131 |
+| `INDEX.md` | 14187 |
 | `llms.txt` | 2817 |
 | `README.md` | 3940 |
 | `sources/traite/manifest_html_clean.json` | 22750 |
