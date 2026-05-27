@@ -422,3 +422,40 @@
 | L’HPLC | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 20, p. 268-293. | provisoire |
 | La spectrométrie de masse | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 20, p. 268-293. | provisoire |
 | Résonance Magnétique Nucléaire et Imagerie par Résonance Magnétique | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 20, p. 268-293. | provisoire |
+
+## Bloc 21 - descente/sevrage/addiction/dependance/cancer
+
+| Terme | Definition courte | Source | Statut |
+|---|---|---|---|
+| Risques APRES | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 21, p. 294-332. | provisoire |
+| La descente | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 21, p. 294-332. | provisoire |
+| - Syndrome | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 21, p. 294-332. | provisoire |
+| Addiction et | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 21, p. 294-332. | provisoire |
+| Généralités sur | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 21, p. 294-332. | provisoire |
+| Introduction : Dépendance Physique et | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 21, p. 294-332. | provisoire |
+| Approche générale et simplifiée | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 21, p. 294-332. | provisoire |
+| Addiction = Maladie ? | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 21, p. 294-332. | provisoire |
+| Addict un jour, addict toujours ? | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 21, p. 294-332. | provisoire |
+| Comment devient-on | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 21, p. 294-332. | provisoire |
+| L’approche PIE : Produit Individu | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 21, p. 294-332. | provisoire |
+| L’approche des 5 facteurs de risque de Karila | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 21, p. 294-332. | provisoire |
+| Se repérer dans | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 21, p. 294-332. | provisoire |
+| L’approche officielle | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 21, p. 294-332. | provisoire |
+| L’approche par plaisir et conséquence | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 21, p. 294-332. | provisoire |
+| L’approche mnémotechnique : les | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 21, p. 294-332. | provisoire |
+| L’approche par phase | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 21, p. 294-332. | provisoire |
+| S’en sortir | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 21, p. 294-332. | provisoire |
+| L’influence du Cycle Menstruel | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 21, p. 294-332. | provisoire |
+| Les professionnelles de santé : à qui s’adresser ? | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 21, p. 294-332. | provisoire |
+| L’intervention brève | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 21, p. 294-332. | provisoire |
+| Les 4 paramètres stratégiques et l’entretien motivationnel | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 21, p. 294-332. | provisoire |
+| Entre sevrage et « extra » (rechutes) | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 21, p. 294-332. | provisoire |
+| Médicament : remplacer une addiction par une | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 21, p. 294-332. | provisoire |
+| Les différentes approches | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 21, p. 294-332. | provisoire |
+| Cancer | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 21, p. 294-332. | provisoire |
+| Fonctionnement des | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 21, p. 294-332. | provisoire |
+| Approche statistique | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 21, p. 294-332. | provisoire |
+| Cas de la combustion | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 21, p. 294-332. | provisoire |
+| Pourquoi le cancer tue ? | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 21, p. 294-332. | provisoire |
+| Cancer malin/Benin | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 21, p. 294-332. | provisoire |
+| Comparaison des risques cancerigène | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 21, p. 294-332. | provisoire |

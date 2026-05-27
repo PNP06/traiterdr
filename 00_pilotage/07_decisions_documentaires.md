@@ -82,3 +82,7 @@
 ## Bloc 20
 
 - Bloc 20 : extraction source canonique conservee au plus pres du Markdown nettoye ; les assets raster nouveaux sont nommes de facon stable ; les fichiers PDF/DOCX restent locaux via `.gitignore`.
+
+## Bloc 21
+
+- Bloc 21 : extraction source canonique conservee au plus pres du Markdown nettoye ; les assets raster nouveaux sont nommes de facon stable ; les fichiers PDF/DOCX restent locaux via `.gitignore`.

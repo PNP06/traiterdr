@@ -1,8 +1,8 @@
 # Index global
 
 ## Statut
-- phase 1 en cours
-- blocs 1 a 20 extraits provisoirement
+- phase 1 source canonique terminee provisoirement
+- blocs 1 a 21 extraits provisoirement
 
 ## Source
 - Document source local : `sources/traite/traite_rdr_version_html_clean.md`
@@ -34,7 +34,12 @@
 | 18 | `01_source_canonique/17_badtrip_overdose.md` | 223-247 | 224-248 | extrait provisoire | badtrip, crise d angoisse, accompagnement, overdose/intoxication, signes d alerte et secours |
 | 19 | `01_source_canonique/18_interactions_melanges.md` | 248-267 | 249-268 | extrait provisoire | polyconsommations, interactions pharmacodynamiques et pharmacocinetiques, synergies et antagonismes |
 | 20 | `01_source_canonique/19_testing_analyses_produits_biologie.md` | 268-293 | 269-294 | extrait provisoire | analyse de produits, tests colorimetriques, chromatographie, spectrometrie, analyses biologiques, limites et interpretation |
+| 21 | `01_source_canonique/20_descente_sevrage_addiction_dependance.md ; 01_source_canonique/21_cancer.md` | 294-332 | 295-333 | extrait provisoire | risques apres, descente, sevrage, addiction, dependance, craving et cancer |
 
 ## Notes
 
 Les themes transversaux et derives CultureRDR restent en attente tant que la couche `01_source_canonique/` n'est pas suffisamment controlee. Les elements ajoutes dans les fichiers source restent des candidats ou implications non valides tant qu'une validation humaine n'a pas ete faite.
+
+## Bilan Phase 1
+
+- Bilan et controle final provisoire : `00_pilotage/08_bilan_phase1.md`.

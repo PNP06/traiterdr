@@ -6,14 +6,15 @@ Index racine du corpus documentaire `traiterdr`.
 
 | Chemin | Taille octets |
 |---|---:|
-| `00_pilotage/00_index_global.md` | 4830 |
-| `00_pilotage/01_matrice_couverture.md` | 155547 |
-| `00_pilotage/02_index_visuels_tableaux_figures.md` | 30671 |
-| `00_pilotage/03_index_notions.md` | 158956 |
-| `00_pilotage/04_glossaire.md` | 49433 |
-| `00_pilotage/05_journal_extraction.md` | 13839 |
-| `00_pilotage/06_pages_a_relire.md` | 20869 |
-| `00_pilotage/07_decisions_documentaires.md` | 9127 |
+| `00_pilotage/00_index_global.md` | 5182 |
+| `00_pilotage/01_matrice_couverture.md` | 181657 |
+| `00_pilotage/02_index_visuels_tableaux_figures.md` | 35329 |
+| `00_pilotage/03_index_notions.md` | 178633 |
+| `00_pilotage/04_glossaire.md` | 54068 |
+| `00_pilotage/05_journal_extraction.md` | 14496 |
+| `00_pilotage/06_pages_a_relire.md` | 24062 |
+| `00_pilotage/07_decisions_documentaires.md` | 9337 |
+| `00_pilotage/08_bilan_phase1.md` | 10937 |
 | `01_source_canonique/00_front_matter_suivi_remerciements.md` | 32018 |
 | `01_source_canonique/01_introduction_cadre_objectif_sources.md` | 39807 |
 | `01_source_canonique/02_mythes_croyances_heuristiques_biais_sophismes.md` | 39545 |
@@ -34,8 +35,8 @@ Index racine du corpus documentaire `traiterdr`.
 | `01_source_canonique/17_badtrip_overdose.md` | 93805 |
 | `01_source_canonique/18_interactions_melanges.md` | 70312 |
 | `01_source_canonique/19_testing_analyses_produits_biologie.md` | 96673 |
-| `01_source_canonique/20_descente_sevrage_addiction_dependance.md` | 1010 |
-| `01_source_canonique/21_cancer.md` | 979 |
+| `01_source_canonique/20_descente_sevrage_addiction_dependance.md` | 115082 |
+| `01_source_canonique/21_cancer.md` | 83953 |
 | `02_themes_transversaux/00_index_themes.md` | 125 |
 | `02_themes_transversaux/01_posture_rdr_cadre_legal_ethique.md` | 670 |
 | `02_themes_transversaux/02_publics_prevention_secondaire_non_stigmatisation.md` | 687 |
@@ -75,7 +76,7 @@ Index racine du corpus documentaire `traiterdr`.
 | `03_derives_culturerdr/08_no_go_automation.md` | 4970 |
 | `03_derives_culturerdr/09_alertes_et_signaux_candidates.md` | 240 |
 | `03_derives_culturerdr/10_priorisation_future_academie.md` | 239 |
-| `04_substances_mentions/00_index_substances.md` | 24283 |
+| `04_substances_mentions/00_index_substances.md` | 26621 |
 | `04_substances_mentions/3mmc_chemsex.md` | 347 |
 | `04_substances_mentions/alcool.md` | 341 |
 | `04_substances_mentions/autres_substances.md` | 352 |
@@ -170,10 +171,26 @@ Index racine du corpus documentaire `traiterdr`.
 | `05_assets_visuels/p290_figure_01_testing_analyses_produits_biologie.png` | 644996 |
 | `05_assets_visuels/p290_figure_02_testing_analyses_produits_biologie.png` | 55535 |
 | `05_assets_visuels/p292_figure_01_testing_analyses_produits_biologie.png` | 872221 |
-| `05_assets_visuels/README.md` | 18011 |
-| `INDEX.md` | 11225 |
+| `05_assets_visuels/p297_figure_01_descente_sevrage_addiction_dependa.png` | 272536 |
+| `05_assets_visuels/p298_figure_01_descente_sevrage_addiction_dependa.png` | 650243 |
+| `05_assets_visuels/p299_figure_01_descente_sevrage_addiction_dependa.png` | 105811 |
+| `05_assets_visuels/p300_figure_01_descente_sevrage_addiction_dependa.png` | 44307 |
+| `05_assets_visuels/p303_figure_01_descente_sevrage_addiction_dependa.png` | 17982 |
+| `05_assets_visuels/p304_figure_01_descente_sevrage_addiction_dependa.png` | 426497 |
+| `05_assets_visuels/p305_figure_01_descente_sevrage_addiction_dependa.png` | 35112 |
+| `05_assets_visuels/p311_figure_01_descente_sevrage_addiction_dependa.png` | 12750 |
+| `05_assets_visuels/p311_figure_02_descente_sevrage_addiction_dependa.png` | 5166 |
+| `05_assets_visuels/p311_figure_03_descente_sevrage_addiction_dependa.png` | 113546 |
+| `05_assets_visuels/p312_figure_01_descente_sevrage_addiction_dependa.png` | 5166 |
+| `05_assets_visuels/p312_figure_02_descente_sevrage_addiction_dependa.png` | 99645 |
+| `05_assets_visuels/p318_figure_01_descente_sevrage_addiction_dependa.png` | 59145 |
+| `05_assets_visuels/p318_figure_02_descente_sevrage_addiction_dependa.png` | 70962 |
+| `05_assets_visuels/p328_figure_01_descente_sevrage_addiction_dependa.png` | 421627 |
+| `05_assets_visuels/p330_figure_01_descente_sevrage_addiction_dependa.png` | 428605 |
+| `05_assets_visuels/README.md` | 21515 |
+| `INDEX.md` | 14131 |
 | `llms.txt` | 2817 |
-| `README.md` | 3776 |
+| `README.md` | 3940 |
 | `sources/traite/manifest_html_clean.json` | 22750 |
 | `sources/traite/rapport_nettoyage_html.md` | 4856 |
 | `sources/traite/traite_rdr_version_html_clean.md` | 941632 |

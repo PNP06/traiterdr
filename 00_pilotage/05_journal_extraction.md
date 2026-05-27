@@ -99,3 +99,9 @@
 | Date | Bloc traite | Pages | Fichiers modifies | Problemes rencontres | Decisions prises | Prochaine etape |
 |---|---|---|---|---|---|---|
 | 2026-05-27 | Phase 1 bloc 20 - testing/analyses produits/biologie | imprimees 268-293 / PDF 269-294 | `01_source_canonique/19_testing_analyses_produits_biologie.md`, pilotage, assets, index racine, manifeste | Extraction automatique a relire ; visuels a controler | Conserver contenu source complet dans le fichier canonique ; ne pas creer de module final | Bloc 21 |
+
+## Bloc 21 - descente/sevrage/addiction/dependance/cancer
+
+| Date | Bloc traite | Pages | Fichiers modifies | Problemes rencontres | Decisions prises | Prochaine etape |
+|---|---|---|---|---|---|---|
+| 2026-05-27 | Phase 1 bloc 21 - descente/sevrage/addiction/dependance/cancer | imprimees 294-332 / PDF 295-333 | `01_source_canonique/20_descente_sevrage_addiction_dependance.md`; `01_source_canonique/21_cancer.md`, pilotage, assets, index racine, manifeste | Extraction automatique a relire ; visuels a controler | Conserver contenu source complet dans le fichier canonique ; ne pas creer de module final | Controle final Phase 1 puis Phase 2 proposee |

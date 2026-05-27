@@ -185,3 +185,25 @@
 | 290 | Verifier lisibilite, titre visible et cadrage de `p290_figure_01_testing_analyses_produits_biologie.png`. | visuel | moyenne | Ouvrir l'asset et comparer au PDF page 291. |
 | 290 | Verifier lisibilite, titre visible et cadrage de `p290_figure_02_testing_analyses_produits_biologie.png`. | visuel | moyenne | Ouvrir l'asset et comparer au PDF page 291. |
 | 292 | Verifier lisibilite, titre visible et cadrage de `p292_figure_01_testing_analyses_produits_biologie.png`. | visuel | moyenne | Ouvrir l'asset et comparer au PDF page 293. |
+
+## Bloc 21 - descente/sevrage/addiction/dependance/cancer
+
+| Page | Probleme | Type | Priorite | Action recommandee |
+|---:|---|---|---|---|
+| 297 | Verifier lisibilite, titre visible et cadrage de `p297_figure_01_descente_sevrage_addiction_dependa.png`. | visuel | moyenne | Ouvrir l'asset et comparer au PDF page 298. |
+| 298 | Verifier lisibilite, titre visible et cadrage de `p298_figure_01_descente_sevrage_addiction_dependa.png`. | visuel | moyenne | Ouvrir l'asset et comparer au PDF page 299. |
+| 299 | Verifier lisibilite, titre visible et cadrage de `p299_figure_01_descente_sevrage_addiction_dependa.png`. | visuel | moyenne | Ouvrir l'asset et comparer au PDF page 300. |
+| 300 | Verifier lisibilite, titre visible et cadrage de `p300_figure_01_descente_sevrage_addiction_dependa.png`. | visuel | moyenne | Ouvrir l'asset et comparer au PDF page 301. |
+| 303 | Verifier lisibilite, titre visible et cadrage de `p303_figure_01_descente_sevrage_addiction_dependa.png`. | visuel | moyenne | Ouvrir l'asset et comparer au PDF page 304. |
+| 304 | Verifier lisibilite, titre visible et cadrage de `p304_figure_01_descente_sevrage_addiction_dependa.png`. | visuel | moyenne | Ouvrir l'asset et comparer au PDF page 305. |
+| 305 | Verifier lisibilite, titre visible et cadrage de `p305_figure_01_descente_sevrage_addiction_dependa.png`. | visuel | moyenne | Ouvrir l'asset et comparer au PDF page 306. |
+| 311 | Verifier lisibilite, titre visible et cadrage de `p311_figure_01_descente_sevrage_addiction_dependa.png`. | visuel | moyenne | Ouvrir l'asset et comparer au PDF page 312. |
+| 311 | Verifier lisibilite, titre visible et cadrage de `p311_figure_02_descente_sevrage_addiction_dependa.png`. | visuel | moyenne | Ouvrir l'asset et comparer au PDF page 312. |
+| 311 | Verifier lisibilite, titre visible et cadrage de `p311_figure_03_descente_sevrage_addiction_dependa.png`. | visuel | moyenne | Ouvrir l'asset et comparer au PDF page 312. |
+| 312 | Verifier lisibilite, titre visible et cadrage de `p312_figure_01_descente_sevrage_addiction_dependa.png`. | visuel | moyenne | Ouvrir l'asset et comparer au PDF page 313. |
+| 312 | Verifier lisibilite, titre visible et cadrage de `p312_figure_02_descente_sevrage_addiction_dependa.png`. | visuel | moyenne | Ouvrir l'asset et comparer au PDF page 313. |
+| 318 | Verifier lisibilite, titre visible et cadrage de `p318_figure_01_descente_sevrage_addiction_dependa.png`. | visuel | moyenne | Ouvrir l'asset et comparer au PDF page 319. |
+| 318 | Verifier lisibilite, titre visible et cadrage de `p318_figure_02_descente_sevrage_addiction_dependa.png`. | visuel | moyenne | Ouvrir l'asset et comparer au PDF page 319. |
+| 328 | Verifier lisibilite, titre visible et cadrage de `p328_figure_01_descente_sevrage_addiction_dependa.png`. | visuel | moyenne | Ouvrir l'asset et comparer au PDF page 329. |
+| 330 | Verifier lisibilite, titre visible et cadrage de `p330_figure_01_descente_sevrage_addiction_dependa.png`. | visuel | moyenne | Ouvrir l'asset et comparer au PDF page 331. |
+| 294-332 | Note auteur ou TODO possible dans le passage. | statut documentaire | moyenne | Conserver comme statut, ne pas traiter comme fait definitif. |

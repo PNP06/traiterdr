@@ -185,3 +185,24 @@ Les tableaux textuels et encadrés sont convertis ou décrits en Markdown. Seuls
 | `p290_figure_01_testing_analyses_produits_biologie.png` | 290 | 291 | Visuel extrait pour le bloc 20 `testing/analyses produits/biologie` ; dimensions 1325x883. | Source canonique et index visuels. |
 | `p290_figure_02_testing_analyses_produits_biologie.png` | 290 | 291 | Visuel extrait pour le bloc 20 `testing/analyses produits/biologie` ; dimensions 641x616. | Source canonique et index visuels. |
 | `p292_figure_01_testing_analyses_produits_biologie.png` | 292 | 293 | Visuel extrait pour le bloc 20 `testing/analyses produits/biologie` ; dimensions 1457x911. | Source canonique et index visuels. |
+
+## Assets ajoutes - bloc 21
+
+| Fichier | Page imprimee | Page PDF | Description | Utilisation |
+|---|---:|---:|---|---|
+| `p297_figure_01_descente_sevrage_addiction_dependa.png` | 297 | 298 | Visuel extrait pour le bloc 21 `descente/sevrage/addiction/dependance/cancer` ; dimensions 388x325. | Source canonique et index visuels. |
+| `p298_figure_01_descente_sevrage_addiction_dependa.png` | 298 | 299 | Visuel extrait pour le bloc 21 `descente/sevrage/addiction/dependance/cancer` ; dimensions 966x444. | Source canonique et index visuels. |
+| `p299_figure_01_descente_sevrage_addiction_dependa.png` | 299 | 300 | Visuel extrait pour le bloc 21 `descente/sevrage/addiction/dependance/cancer` ; dimensions 820x718. | Source canonique et index visuels. |
+| `p300_figure_01_descente_sevrage_addiction_dependa.png` | 300 | 301 | Visuel extrait pour le bloc 21 `descente/sevrage/addiction/dependance/cancer` ; dimensions 1174x598. | Source canonique et index visuels. |
+| `p303_figure_01_descente_sevrage_addiction_dependa.png` | 303 | 304 | Visuel extrait pour le bloc 21 `descente/sevrage/addiction/dependance/cancer` ; dimensions 826x379. | Source canonique et index visuels. |
+| `p304_figure_01_descente_sevrage_addiction_dependa.png` | 304 | 305 | Visuel extrait pour le bloc 21 `descente/sevrage/addiction/dependance/cancer` ; dimensions 891x664. | Source canonique et index visuels. |
+| `p305_figure_01_descente_sevrage_addiction_dependa.png` | 305 | 306 | Visuel extrait pour le bloc 21 `descente/sevrage/addiction/dependance/cancer` ; dimensions 865x447. | Source canonique et index visuels. |
+| `p311_figure_01_descente_sevrage_addiction_dependa.png` | 311 | 312 | Visuel extrait pour le bloc 21 `descente/sevrage/addiction/dependance/cancer` ; dimensions 684x305. | Source canonique et index visuels. |
+| `p311_figure_02_descente_sevrage_addiction_dependa.png` | 311 | 312 | Visuel extrait pour le bloc 21 `descente/sevrage/addiction/dependance/cancer` ; dimensions 1152x736. | Source canonique et index visuels. |
+| `p311_figure_03_descente_sevrage_addiction_dependa.png` | 311 | 312 | Visuel extrait pour le bloc 21 `descente/sevrage/addiction/dependance/cancer` ; dimensions 1068x668. | Source canonique et index visuels. |
+| `p312_figure_01_descente_sevrage_addiction_dependa.png` | 312 | 313 | Visuel extrait pour le bloc 21 `descente/sevrage/addiction/dependance/cancer` ; dimensions 1152x736. | Source canonique et index visuels. |
+| `p312_figure_02_descente_sevrage_addiction_dependa.png` | 312 | 313 | Visuel extrait pour le bloc 21 `descente/sevrage/addiction/dependance/cancer` ; dimensions 1072x671. | Source canonique et index visuels. |
+| `p318_figure_01_descente_sevrage_addiction_dependa.png` | 318 | 319 | Visuel extrait pour le bloc 21 `descente/sevrage/addiction/dependance/cancer` ; dimensions 867x518. | Source canonique et index visuels. |
+| `p318_figure_02_descente_sevrage_addiction_dependa.png` | 318 | 319 | Visuel extrait pour le bloc 21 `descente/sevrage/addiction/dependance/cancer` ; dimensions 938x480. | Source canonique et index visuels. |
+| `p328_figure_01_descente_sevrage_addiction_dependa.png` | 328 | 329 | Visuel extrait pour le bloc 21 `descente/sevrage/addiction/dependance/cancer` ; dimensions 1342x906. | Source canonique et index visuels. |
+| `p330_figure_01_descente_sevrage_addiction_dependa.png` | 330 | 331 | Visuel extrait pour le bloc 21 `descente/sevrage/addiction/dependance/cancer` ; dimensions 1352x817. | Source canonique et index visuels. |

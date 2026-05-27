@@ -4,7 +4,7 @@
 
 Base documentaire Markdown issue du traite `Traite de reduction des risques lies aux drogues - Tome 1`.
 
-Extraction Phase 1 source canonique en cours, par blocs, avec separation stricte entre :
+Extraction Phase 1 source canonique terminee provisoirement, avec separation stricte entre :
 
 - contenu source canonique ;
 - themes transversaux a assembler ulterieurement ;
@@ -46,10 +46,11 @@ Exemple : page imprimee 45 = page PDF 46 ; page imprimee 51 = page PDF 52.
 | Phase 1 | bloc 18 - badtrip/overdose | 223-247 | 224-248 | extrait provisoire |
 | Phase 1 | bloc 19 - interactions/melanges | 248-267 | 249-268 | extrait provisoire |
 | Phase 1 | bloc 20 - testing/analyses produits/biologie | 268-293 | 269-294 | extrait provisoire |
+| Phase 1 | bloc 21 - descente/sevrage/addiction/dependance/cancer | 294-332 | 295-333 | extrait provisoire |
 
 ## Prochaine etape
 
-Bloc 21 : `01_source_canonique/20_descente_sevrage_addiction_dependance.md`, pages imprimees 294-332 / pages PDF 295-333.
+Phase 1 source canonique terminee. Bilan provisoire : `00_pilotage/08_bilan_phase1.md`. Prochaine etape proposee : Phase 2 themes transversaux, sans demarrage automatique.
 
 ## Indexation ChatGPT / IA
 
