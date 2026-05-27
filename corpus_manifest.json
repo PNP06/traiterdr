@@ -1,15 +1,20 @@
 ﻿{
     "repository":  "PNP06/traiterdr",
-    "generated_at":  "2026-05-27T12:31:28.0242888Z",
+    "generated_at":  "2026-05-27T14:04:07.2270776Z",
     "purpose":  "Machine-readable corpus manifest for ChatGPT, GitHub search, and document indexing.",
     "entrypoints":  [
                         "llms.txt",
                         "README.md",
                         "INDEX.md",
+                        "sources/traite/traite_rdr_version_html_clean.md",
+                        "sources/traite/rapport_nettoyage_html.md",
                         "00_pilotage/00_index_global.md",
                         "00_pilotage/03_index_notions.md",
                         "04_substances_mentions/00_index_substances.md"
                     ],
+    "ignored_local_sources":  [
+                                  "sources/traite/raw_html_export/"
+                              ],
     "files":  [
                   {
                       "path":  "00_pilotage/00_index_global.md",
@@ -120,18 +125,18 @@
                   },
                   {
                       "path":  "01_source_canonique/02_mythes_croyances_heuristiques_biais_sophismes.md",
-                      "title":  "Mythes Croyances Heuristiques Biais Sophismes",
+                      "title":  "Mythes, croyances, heuristiques, biais et sophismes",
                       "extension":  "md",
-                      "size_bytes":  1018,
+                      "size_bytes":  39606,
                       "headings":  [
                                        "Statut",
                                        "Pages sources",
-                                       "Fonction du chapitre dans le traite",
-                                       "Contenu source fidele",
-                                       "Notions a conserver",
-                                       "Recommandations RDR presentes dans le traite",
-                                       "Donnees, reperes et categories",
-                                       "Images, tableaux, figures, encadres"
+                                       "Fonction du chapitre dans le traité",
+                                       "Contenu source fidèle",
+                                       "Page imprimée 16 / PDF 17 — Ouverture du chapitre `Mythes`",
+                                       "Page imprimée 17 / PDF 18 — Pourquoi déconstruire les mythes",
+                                       "Page imprimée 18 / PDF 19 — Croyances et risques",
+                                       "Pages imprimées 18-20 / PDF 19-21 — Heuristiques"
                                    ]
                   },
                   {
@@ -1193,7 +1198,7 @@
                       "path":  "llms.txt",
                       "title":  "traiterdr",
                       "extension":  "txt",
-                      "size_bytes":  2406,
+                      "size_bytes":  2817,
                       "headings":  [
                                        "Priorite de lecture pour ChatGPT",
                                        "Structure du corpus",
@@ -1205,13 +1210,51 @@
                       "path":  "README.md",
                       "title":  "traiterdr",
                       "extension":  "md",
-                      "size_bytes":  1602,
+                      "size_bytes":  2012,
                       "headings":  [
                                        "Statut",
                                        "Convention de pagination",
                                        "État d\u0027extraction",
                                        "Prochaine étape",
                                        "Indexation ChatGPT / IA"
+                                   ]
+                  },
+                  {
+                      "path":  "sources/traite/manifest_html_clean.json",
+                      "title":  "manifest_html_clean",
+                      "extension":  "json",
+                      "size_bytes":  22750,
+                      "headings":  [
+
+                                   ]
+                  },
+                  {
+                      "path":  "sources/traite/rapport_nettoyage_html.md",
+                      "title":  "Rapport de nettoyage HTML",
+                      "extension":  "md",
+                      "size_bytes":  4856,
+                      "headings":  [
+                                       "Verdict",
+                                       "Fichiers",
+                                       "Mesures",
+                                       "Points d\u0027attention",
+                                       "Premiers titres"
+                                   ]
+                  },
+                  {
+                      "path":  "sources/traite/traite_rdr_version_html_clean.md",
+                      "title":  "Traite RDR - version HTML nettoyee",
+                      "extension":  "md",
+                      "size_bytes":  941632,
+                      "headings":  [
+                                       "Création des croyances",
+                                       "Heuristique",
+                                       "Biais",
+                                       "Sophisme",
+                                       "Mécanisme de protection psychologique",
+                                       "Approche en réduction des risques",
+                                       "Conclusion",
+                                       "Comprendre la science"
                                    ]
                   }
               ]

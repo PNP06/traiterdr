@@ -1,6 +1,6 @@
 ﻿# Index du corpus traiterdr
 
-Derniere generation : 2026-05-27 14:31:27 +02:00
+Derniere generation : 2026-05-27 16:04:07 +02:00
 
 Cet index racine sert de carte de lecture pour GitHub, ChatGPT et tout outil de recherche documentaire. Les fichiers Markdown restent les sources de reference.
 
@@ -8,6 +8,8 @@ Cet index racine sert de carte de lecture pour GitHub, ChatGPT et tout outil de 
 
 - `llms.txt` : consignes de lecture pour assistants IA.
 - `README.md` : statut general et convention de pagination.
+- `sources/traite/traite_rdr_version_html_clean.md` : version Markdown nettoyee du traite HTML.
+- `sources/traite/rapport_nettoyage_html.md` : diagnostic de conversion HTML vers Markdown.
 - `00_pilotage/00_index_global.md` : etat de couverture.
 - `00_pilotage/03_index_notions.md` : index notionnel.
 - `04_substances_mentions/00_index_substances.md` : index substances.
@@ -84,12 +86,12 @@ Cet index racine sert de carte de lecture pour GitHub, ChatGPT et tout outil de 
 - Taille : 39807 octets
 - Rubriques : Statut; Pages sources; Fonction du chapitre dans le traité; Contenu source fidèle; Page imprimée 8 / PDF 9 — Note auteur, équipe et motivation initiale; Page imprimée 9 / PDF 10 — Publics, évolution des consommations, prévention secondaire; Page imprimée 10 / PDF 11 — Non-moralisation, factualité et publics cibles; Page imprimée 11 / PDF 12 — Scientifiques, journalistes et modes de lecture
 
-### [Mythes Croyances Heuristiques Biais Sophismes](01_source_canonique/02_mythes_croyances_heuristiques_biais_sophismes.md)
+### [Mythes, croyances, heuristiques, biais et sophismes](01_source_canonique/02_mythes_croyances_heuristiques_biais_sophismes.md)
 
 - Chemin : `01_source_canonique/02_mythes_croyances_heuristiques_biais_sophismes.md`
 - Format : `md`
-- Taille : 1018 octets
-- Rubriques : Statut; Pages sources; Fonction du chapitre dans le traite; Contenu source fidele; Notions a conserver; Recommandations RDR presentes dans le traite; Donnees, reperes et categories; Images, tableaux, figures, encadres
+- Taille : 39606 octets
+- Rubriques : Statut; Pages sources; Fonction du chapitre dans le traité; Contenu source fidèle; Page imprimée 16 / PDF 17 — Ouverture du chapitre `Mythes`; Page imprimée 17 / PDF 18 — Pourquoi déconstruire les mythes; Page imprimée 18 / PDF 19 — Croyances et risques; Pages imprimées 18-20 / PDF 19-21 — Heuristiques
 
 ### [Mecanismes Protection Approche Rdr](01_source_canonique/03_mecanismes_protection_approche_rdr.md)
 
@@ -606,13 +608,33 @@ Cet index racine sert de carte de lecture pour GitHub, ChatGPT et tout outil de 
 
 - Chemin : `llms.txt`
 - Format : `txt`
-- Taille : 2406 octets
+- Taille : 2817 octets
 - Rubriques : Priorite de lecture pour ChatGPT; Structure du corpus; Regles d'interpretation; Requetes utiles
 
 ### [traiterdr](README.md)
 
 - Chemin : `README.md`
 - Format : `md`
-- Taille : 1602 octets
+- Taille : 2012 octets
 - Rubriques : Statut; Convention de pagination; État d'extraction; Prochaine étape; Indexation ChatGPT / IA
+
+### [manifest_html_clean](sources/traite/manifest_html_clean.json)
+
+- Chemin : `sources/traite/manifest_html_clean.json`
+- Format : `json`
+- Taille : 22750 octets
+
+### [Rapport de nettoyage HTML](sources/traite/rapport_nettoyage_html.md)
+
+- Chemin : `sources/traite/rapport_nettoyage_html.md`
+- Format : `md`
+- Taille : 4856 octets
+- Rubriques : Verdict; Fichiers; Mesures; Points d'attention; Premiers titres
+
+### [Traite RDR - version HTML nettoyee](sources/traite/traite_rdr_version_html_clean.md)
+
+- Chemin : `sources/traite/traite_rdr_version_html_clean.md`
+- Format : `md`
+- Taille : 941632 octets
+- Rubriques : Création des croyances; Heuristique; Biais; Sophisme; Mécanisme de protection psychologique; Approche en réduction des risques; Conclusion; Comprendre la science
 

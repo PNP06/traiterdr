@@ -1,0 +1,505 @@
+﻿{
+    "source_html":  "sources/traite/raw_html_export/",
+    "clean_markdown":  "sources/traite/traite_rdr_version_html_clean.md",
+    "report":  "sources/traite/rapport_nettoyage_html.md",
+    "source_encoding":  "windows-1252",
+    "recommended_for_chatgpt":  "sources/traite/traite_rdr_version_html_clean.md",
+    "counts":  {
+                   "headings":  442,
+                   "paragraphs":  3820,
+                   "tables":  71,
+                   "images":  232,
+                   "links":  1326,
+                   "html_size_bytes":  2200625,
+                   "markdown_size_bytes":  921681,
+                   "html_image_references":  255,
+                   "unique_image_references":  160,
+                   "missing_images":  0,
+                   "hrefs":  1362
+               },
+    "first_headings":  [
+                           {
+                               "level":  1,
+                               "text":  "SUIVI"
+                           },
+                           {
+                               "level":  1,
+                               "text":  "Remerciements"
+                           },
+                           {
+                               "level":  1,
+                               "text":  "Introduction"
+                           },
+                           {
+                               "level":  1,
+                               "text":  "Mythes"
+                           },
+                           {
+                               "level":  2,
+                               "text":  "Création des croyances"
+                           },
+                           {
+                               "level":  3,
+                               "text":  "Heuristique"
+                           },
+                           {
+                               "level":  4,
+                               "text":  "Heuristiques problématiques : exemples"
+                           },
+                           {
+                               "level":  4,
+                               "text":  "Comment limiter l’erreur"
+                           },
+                           {
+                               "level":  3,
+                               "text":  "Biais"
+                           },
+                           {
+                               "level":  4,
+                               "text":  "Biais parfois “fonctionnels” : exemples"
+                           },
+                           {
+                               "level":  4,
+                               "text":  "Biais parfois problématiques : exemples"
+                           },
+                           {
+                               "level":  4,
+                               "text":  "Comment limiter l’erreur"
+                           },
+                           {
+                               "level":  3,
+                               "text":  "Sophisme"
+                           },
+                           {
+                               "level":  4,
+                               "text":  "Bases de la logique"
+                           },
+                           {
+                               "level":  5,
+                               "text":  "Exemple simple (raisonnement correct vs fallacieux)"
+                           },
+                           {
+                               "level":  5,
+                               "text":  "Validité et solidité : deux façons de se tromper"
+                           },
+                           {
+                               "level":  5,
+                               "text":  "Tester un argument"
+                           },
+                           {
+                               "level":  4,
+                               "text":  "Exemples de sophismes courants"
+                           },
+                           {
+                               "level":  5,
+                               "text":  "a) Appel à la nature (appeal to nature)"
+                           },
+                           {
+                               "level":  5,
+                               "text":  "b) Fausse causalité (corrélation ≠ causalité)"
+                           },
+                           {
+                               "level":  5,
+                               "text":  "c) Généralisation abusive / preuve anecdotique"
+                           },
+                           {
+                               "level":  5,
+                               "text":  "d) Faux dilemme"
+                           },
+                           {
+                               "level":  5,
+                               "text":  "e) Whataboutism / relativisation (“il y a pire”)"
+                           },
+                           {
+                               "level":  5,
+                               "text":  "f) Appel à l’autorité illégitime"
+                           },
+                           {
+                               "level":  5,
+                               "text":  "g) Attaque personnelle (ad hominem)"
+                           },
+                           {
+                               "level":  4,
+                               "text":  "Comment limiter l’erreur"
+                           },
+                           {
+                               "level":  3,
+                               "text":  "Mécanisme de protection psychologique"
+                           },
+                           {
+                               "level":  4,
+                               "text":  "Dissonance cognitive"
+                           },
+                           {
+                               "level":  4,
+                               "text":  "Raisonnement motivé"
+                           },
+                           {
+                               "level":  4,
+                               "text":  "Protection de l’identité"
+                           },
+                           {
+                               "level":  4,
+                               "text":  "Réactance psychologique"
+                           },
+                           {
+                               "level":  4,
+                               "text":  "Lever les freins psychologiques"
+                           },
+                           {
+                               "level":  3,
+                               "text":  "Approche en réduction des risques"
+                           },
+                           {
+                               "level":  5,
+                               "text":  "1) \n BUT : clarifier la finalité (éviter le faux débat)"
+                           },
+                           {
+                               "level":  5,
+                               "text":  "2) CADRE : rendre l’échange recevable (sinon le fond ne passe pas)"
+                           },
+                           {
+                               "level":  5,
+                               "text":  "3) FOND : traiter l’affirmation comme un problème de risque (pas comme une \nopinion)"
+                           },
+                           {
+                               "level":  5,
+                               "text":  "4) SORTIE : transformer l’analyse en décision de réduction des risques"
+                           },
+                           {
+                               "level":  5,
+                               "text":  "Exemples"
+                           },
+                           {
+                               "level":  6,
+                               "text":  "Exemple dans une conversation sur le cannabis entre ami"
+                           },
+                           {
+                               "level":  6,
+                               "text":  "Exemple dans une conversation en public sur l’alcool"
+                           },
+                           {
+                               "level":  6,
+                               "text":  "Exemple dans le cadre d’une prise en charge sur un stand RDR"
+                           },
+                           {
+                               "level":  3,
+                               "text":  "Conclusion"
+                           },
+                           {
+                               "level":  2,
+                               "text":  "Comprendre la science"
+                           },
+                           {
+                               "level":  3,
+                               "text":  "Science et recherche"
+                           },
+                           {
+                               "level":  4,
+                               "text":  "Exemple de la cigarette électronique"
+                           },
+                           {
+                               "level":  4,
+                               "text":  "Exemple de la neurotoxicité de la MDMA"
+                           },
+                           {
+                               "level":  3,
+                               "text":  "La méthode Scientifique"
+                           },
+                           {
+                               "level":  4,
+                               "text":  "1) Question testable"
+                           },
+                           {
+                               "level":  4,
+                               "text":  "2) Définir les concepts"
+                           },
+                           {
+                               "level":  4,
+                               "text":  "3) Choisir un plan d’étude adapté"
+                           },
+                           {
+                               "level":  4,
+                               "text":  "4) Mesurer et quantifier"
+                           },
+                           {
+                               "level":  4,
+                               "text":  "5) Réplication et controverse organisée"
+                           },
+                           {
+                               "level":  4,
+                               "text":  "6) Biais et garde-fous"
+                           },
+                           {
+                               "level":  4,
+                               "text":  "Conclusion"
+                           },
+                           {
+                               "level":  2,
+                               "text":  "Le mois sans \nalcool/sans tabac est inutile"
+                           },
+                           {
+                               "level":  3,
+                               "text":  "Effet individuel"
+                           },
+                           {
+                               "level":  3,
+                               "text":  "Effet sur la santé publique"
+                           },
+                           {
+                               "level":  4,
+                               "text":  "Impact des consommations « modérés » sur l’incidence des cancers"
+                           },
+                           {
+                               "level":  4,
+                               "text":  "Incidence du dry january sur l’apparition de cancer"
+                           },
+                           {
+                               "level":  2,
+                               "text":  "L’alcool et le tabac sont rentables pour l’état"
+                           },
+                           {
+                               "level":  3,
+                               "text":  "Focus sur les finances publiques pour l’alcool"
+                           },
+                           {
+                               "level":  3,
+                               "text":  "Cout social total"
+                           },
+                           {
+                               "level":  4,
+                               "text":  "Valeur économique de la vie humaine"
+                           },
+                           {
+                               "level":  4,
+                               "text":  "L’effet sur le bien être des finances publiques"
+                           },
+                           {
+                               "level":  4,
+                               "text":  "Le cout social"
+                           },
+                           {
+                               "level":  4,
+                               "text":  "Résultats"
+                           },
+                           {
+                               "level":  3,
+                               "text":  "Augmentation des taxes pour l’équilibre"
+                           },
+                           {
+                               "level":  5,
+                               "text":  "Pour l\u0027alcool"
+                           },
+                           {
+                               "level":  5,
+                               "text":  "Pour le tabac"
+                           },
+                           {
+                               "level":  2,
+                               "text":  "Effet du prix sur la consommation"
+                           },
+                           {
+                               "level":  2,
+                               "text":  "Boire un verre de vin est bon pour la santé"
+                           },
+                           {
+                               "level":  3,
+                               "text":  "Le problème \ngénéral : prouver le lien de causalité"
+                           },
+                           {
+                               "level":  4,
+                               "text":  "Corrélation ou causalité ?"
+                           },
+                           {
+                               "level":  4,
+                               "text":  "Difficulté de la preuve"
+                           },
+                           {
+                               "level":  4,
+                               "text":  "Étudier la population"
+                           },
+                           {
+                               "level":  4,
+                               "text":  "L’origine : Le French \nParadox"
+                           },
+                           {
+                               "level":  4,
+                               "text":  "Le doute : observation et débats"
+                           },
+                           {
+                               "level":  5,
+                               "text":  "Limite 1 : pas bon pour le reste"
+                           },
+                           {
+                               "level":  5,
+                               "text":  "Limite 2 : pas si bon pour le cœur"
+                           },
+                           {
+                               "level":  4,
+                               "text":  "La confirmation : l’apport de la génétique"
+                           },
+                           {
+                               "level":  3,
+                               "text":  "Conclusion"
+                           },
+                           {
+                               "level":  4,
+                               "text":  "Résumé"
+                           },
+                           {
+                               "level":  3,
+                               "text":  "Toxicité comparée des différents alcools"
+                           },
+                           {
+                               "level":  4,
+                               "text":  "La présence d’antioxydant (cas du vin)"
+                           },
+                           {
+                               "level":  4,
+                               "text":  "Les congénères"
+                           },
+                           {
+                               "level":  4,
+                               "text":  "Conclusion"
+                           },
+                           {
+                               "level":  2,
+                               "text":  "« Addiction » au sucre ?"
+                           },
+                           {
+                               "level":  2,
+                               "text":  "Naturel = plus sûr ?"
+                           },
+                           {
+                               "level":  3,
+                               "text":  "Biais de naturalité"
+                           },
+                           {
+                               "level":  4,
+                               "text":  "Exemple de l’Ayahuasca"
+                           },
+                           {
+                               "level":  4,
+                               "text":  "Antidépresseur naturel VS synthétique"
+                           },
+                           {
+                               "level":  3,
+                               "text":  "Une frontière assez fine"
+                           },
+                           {
+                               "level":  4,
+                               "text":  "Les cannabinoïdes issus du CBD et leurs transformations chimiques"
+                           },
+                           {
+                               "level":  3,
+                               "text":  "Le milieu et la transformation"
+                           },
+                           {
+                               "level":  4,
+                               "text":  "Le problème de la combustion (exemple du tabac)"
+                           },
+                           {
+                               "level":  4,
+                               "text":  "Exemple de la fabrication de l’alcool"
+                           },
+                           {
+                               "level":  5,
+                               "text":  "Fabrication"
+                           },
+                           {
+                               "level":  5,
+                               "text":  "La qualité : l’alcool frelaté"
+                           },
+                           {
+                               "level":  3,
+                               "text":  "La Naturalité n\u0027équivaut pas à la Sécurité"
+                           },
+                           {
+                               "level":  2,
+                               "text":  "Resté perché ?"
+                           },
+                           {
+                               "level":  3,
+                               "text":  "Badtrip traumatisant"
+                           },
+                           {
+                               "level":  3,
+                               "text":  "Trouble sous-jacent"
+                           },
+                           {
+                               "level":  3,
+                               "text":  "Flashbacks et HPPD"
+                           },
+                           {
+                               "level":  3,
+                               "text":  "Atteinte neurologique lié à un usage chronique"
+                           },
+                           {
+                               "level":  3,
+                               "text":  "Problèmes liés à l’addiction"
+                           },
+                           {
+                               "level":  2,
+                               "text":  "Contamination par contact"
+                           },
+                           {
+                               "level":  2,
+                               "text":  "Accro à la première prise"
+                           },
+                           {
+                               "level":  3,
+                               "text":  "Le taux de conversion en fonction des substances"
+                           },
+                           {
+                               "level":  2,
+                               "text":  "Drogue du zombie"
+                           },
+                           {
+                               "level":  2,
+                               "text":  "Drogue du viol"
+                           },
+                           {
+                               "level":  3,
+                               "text":  "Position des \nassociations de réduction des risques sur le GHB"
+                           },
+                           {
+                               "level":  2,
+                               "text":  "Chemsex, usage sexualisé des drogues et 3-MMC"
+                           },
+                           {
+                               "level":  3,
+                               "text":  "Zoom sur la 3-MMC"
+                           },
+                           {
+                               "level":  2,
+                               "text":  "Les « research \nchemical » ou « Nouveau produits de synthèses »"
+                           },
+                           {
+                               "level":  3,
+                               "text":  "La réglementation \nantidrogue"
+                           },
+                           {
+                               "level":  5,
+                               "text":  "Cas du LSD (acide lysergique diéthylamide)"
+                           },
+                           {
+                               "level":  3,
+                               "text":  "La synthèse de \nprodrogue"
+                           },
+                           {
+                               "level":  5,
+                               "text":  "Exemple : le 1cp-LSD"
+                           },
+                           {
+                               "level":  5,
+                               "text":  "Toxicité des RC"
+                           },
+                           {
+                               "level":  3,
+                               "text":  "Les dosages de RC"
+                           }
+                       ],
+    "missing_images":  [
+
+                       ]
+}

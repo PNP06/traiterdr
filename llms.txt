@@ -11,8 +11,10 @@ Ce depot est organise pour etre lisible par humains et par assistants IA. Les fi
 3. `00_pilotage/01_matrice_couverture.md` - suivi des pages et blocs couverts.
 4. `00_pilotage/03_index_notions.md` - notions, definitions courtes, pages et fichiers sources.
 5. `04_substances_mentions/00_index_substances.md` - substances ou familles mentionnees et statut.
-6. `02_themes_transversaux/00_index_themes.md` - carte des themes transversaux.
-7. `03_derives_culturerdr/00_index_derives.md` - derives CultureRDR candidats.
+6. `sources/traite/traite_rdr_version_html_clean.md` - version Markdown nettoyee du traite HTML, conseillee pour analyse globale.
+7. `sources/traite/rapport_nettoyage_html.md` - rapport qualite du HTML source et de la conversion.
+8. `02_themes_transversaux/00_index_themes.md` - carte des themes transversaux.
+9. `03_derives_culturerdr/00_index_derives.md` - derives CultureRDR candidats.
 
 ## Structure du corpus
 
@@ -22,6 +24,7 @@ Ce depot est organise pour etre lisible par humains et par assistants IA. Les fi
 - `03_derives_culturerdr/` : candidats pour regles, variables, modules, messages et checklists CultureRDR ; non valides par defaut.
 - `04_substances_mentions/` : mentions et futures monographies substances.
 - `05_assets_visuels/` : figures, images et index des assets visuels.
+- `sources/traite/` : sources nettoyees du traite pour ingestion IA ; le sous-dossier brut `raw_html_export/` reste local et non versionne.
 
 ## Regles d'interpretation
 
