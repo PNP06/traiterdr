@@ -336,3 +336,33 @@
 | L’hypothermie | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 17, p. 198-222. | provisoire |
 | L’hypothermie alcoolique | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 17, p. 198-222. | provisoire |
 | Hyperthermie | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 17, p. 198-222. | provisoire |
+
+## Bloc 18 - badtrip/overdose
+
+| Terme | Definition courte | Source | Statut |
+|---|---|---|---|
+| Badtrip | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 18, p. 223-247. | provisoire |
+| Définition | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 18, p. 223-247. | provisoire |
+| Exemples | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 18, p. 223-247. | provisoire |
+| Eviter le badtrip | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 18, p. 223-247. | provisoire |
+| Le conditionnement : set and setting | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 18, p. 223-247. | provisoire |
+| Le débriefing | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 18, p. 223-247. | provisoire |
+| Les phrases clefs | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 18, p. 223-247. | provisoire |
+| Le Trip Killer | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 18, p. 223-247. | provisoire |
+| Gérer un badtrip | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 18, p. 223-247. | provisoire |
+| Le début | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 18, p. 223-247. | provisoire |
+| Accompagner | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 18, p. 223-247. | provisoire |
+| Sécuriser | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 18, p. 223-247. | provisoire |
+| S'informer | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 18, p. 223-247. | provisoire |
+| Informer | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 18, p. 223-247. | provisoire |
+| Revenir aux besoins de base | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 18, p. 223-247. | provisoire |
+| Adapter | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 18, p. 223-247. | provisoire |
+| Débriefer | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 18, p. 223-247. | provisoire |
+| Overdose | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 18, p. 223-247. | provisoire |
+| Dose létale | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 18, p. 223-247. | provisoire |
+| Exemple : La dose létale de la nicotine [351] | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 18, p. 223-247. | provisoire |
+| Échelle de toxicité | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 18, p. 223-247. | provisoire |
+| Étapes d es | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 18, p. 223-247. | provisoire |
+| Prévenir les overdoses | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 18, p. 223-247. | provisoire |
+| Fenêtre récréative | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 18, p. 223-247. | provisoire |
+| Reconsommation | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 18, p. 223-247. | provisoire |

@@ -139,3 +139,14 @@
 | 210 | Verifier lisibilite, titre visible et cadrage de `p210_figure_01_allergie_convulsions_hydratation_t.png`. | visuel | moyenne | Ouvrir l'asset et comparer au PDF page 211. |
 | 213 | Verifier lisibilite, titre visible et cadrage de `p213_figure_01_allergie_convulsions_hydratation_t.png`. | visuel | moyenne | Ouvrir l'asset et comparer au PDF page 214. |
 | 216 | Verifier lisibilite, titre visible et cadrage de `p216_figure_01_allergie_convulsions_hydratation_t.png`. | visuel | moyenne | Ouvrir l'asset et comparer au PDF page 217. |
+
+## Bloc 18 - badtrip/overdose
+
+| Page | Probleme | Type | Priorite | Action recommandee |
+|---:|---|---|---|---|
+| 231 | Verifier lisibilite, titre visible et cadrage de `p231_figure_01_badtrip_overdose.png`. | visuel | moyenne | Ouvrir l'asset et comparer au PDF page 232. |
+| 235 | Verifier lisibilite, titre visible et cadrage de `p235_figure_01_badtrip_overdose.png`. | visuel | moyenne | Ouvrir l'asset et comparer au PDF page 236. |
+| 236 | Verifier lisibilite, titre visible et cadrage de `p236_figure_01_badtrip_overdose.png`. | visuel | moyenne | Ouvrir l'asset et comparer au PDF page 237. |
+| 239 | Verifier lisibilite, titre visible et cadrage de `p239_figure_01_badtrip_overdose.png`. | visuel | moyenne | Ouvrir l'asset et comparer au PDF page 240. |
+| 245 | Verifier lisibilite, titre visible et cadrage de `p245_figure_01_badtrip_overdose.png`. | visuel | moyenne | Ouvrir l'asset et comparer au PDF page 246. |
+| 223-247 | Note auteur ou TODO possible dans le passage. | statut documentaire | moyenne | Conserver comme statut, ne pas traiter comme fait definitif. |

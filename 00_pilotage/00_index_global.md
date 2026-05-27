@@ -2,7 +2,7 @@
 
 ## Statut
 - phase 1 en cours
-- blocs 1 a 17 extraits provisoirement
+- blocs 1 a 18 extraits provisoirement
 
 ## Source
 - Document source local : `sources/traite/traite_rdr_version_html_clean.md`
@@ -31,6 +31,7 @@
 | 15 | `01_source_canonique/14_risques_generiques_sommeil_juridique.md` | 182-184 | 183-185 | extrait provisoire | risques generiques transversaux, sommeil et risque juridique |
 | 16 | `01_source_canonique/15_sexualite_vulnerabilite_consentement.md` | 185-197 | 186-198 | extrait provisoire | sexualite sous substances, vulnerabilite, consentement, violences, alcool et autres contextes |
 | 17 | `01_source_canonique/16_allergie_convulsions_hydratation_thermie.md` | 198-222 | 199-223 | extrait provisoire | anaphylaxie, convulsions, hydratation, hyponatremie, hyperthermie, hypothermie et facteurs aggravants |
+| 18 | `01_source_canonique/17_badtrip_overdose.md` | 223-247 | 224-248 | extrait provisoire | badtrip, crise d angoisse, accompagnement, overdose/intoxication, signes d alerte et secours |
 
 ## Notes
 

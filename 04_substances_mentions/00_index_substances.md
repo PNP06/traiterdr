@@ -135,3 +135,12 @@ Décision : les mentions du bloc 3 restent des exemples argumentatifs utilisés 
 |---|---|---:|---|---|---|
 | MDMA | Mention ou traitement dans le bloc 17 `allergie/convulsions/hydratation/thermie`. | 198-222 | `01_source_canonique/16_allergie_convulsions_hydratation_thermie.md` | A evaluer apres Phase 1 avant creation ou remplissage d'une monographie substance. | mention indexee ; monographie non creee automatiquement |
 | alcool | Mention ou traitement dans le bloc 17 `allergie/convulsions/hydratation/thermie`. | 198-222 | `01_source_canonique/16_allergie_convulsions_hydratation_thermie.md` | A evaluer apres Phase 1 avant creation ou remplissage d'une monographie substance. | mention indexee ; monographie non creee automatiquement |
+
+## Mentions ajoutees par le bloc 18
+
+| Substance ou famille | Type de mention | Pages | Fichier source actuel | Fichier source futur | Statut |
+|---|---|---:|---|---|---|
+| alcool | Mention ou traitement dans le bloc 18 `badtrip/overdose`. | 223-247 | `01_source_canonique/17_badtrip_overdose.md` | A evaluer apres Phase 1 avant creation ou remplissage d'une monographie substance. | mention indexee ; monographie non creee automatiquement |
+| opioides | Mention ou traitement dans le bloc 18 `badtrip/overdose`. | 223-247 | `01_source_canonique/17_badtrip_overdose.md` | A evaluer apres Phase 1 avant creation ou remplissage d'une monographie substance. | mention indexee ; monographie non creee automatiquement |
+| benzodiazepines | Mention ou traitement dans le bloc 18 `badtrip/overdose`. | 223-247 | `01_source_canonique/17_badtrip_overdose.md` | A evaluer apres Phase 1 avant creation ou remplissage d'une monographie substance. | mention indexee ; monographie non creee automatiquement |
+| GHB / GBL | Mention ou traitement dans le bloc 18 `badtrip/overdose`. | 223-247 | `01_source_canonique/17_badtrip_overdose.md` | A evaluer apres Phase 1 avant creation ou remplissage d'une monographie substance. | mention indexee ; monographie non creee automatiquement |

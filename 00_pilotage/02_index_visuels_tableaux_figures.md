@@ -128,3 +128,13 @@
 | 210 | image / figure | a confirmer | Visuel extrait depuis le PDF, dimensions 760x1024. | Texte visible a controler dans l'image. | Conserve le support visuel du passage source. | `05_assets_visuels/p210_figure_01_allergie_convulsions_hydratation_t.png` | extrait ; a relire |
 | 213 | image / figure | a confirmer | Visuel extrait depuis le PDF, dimensions 1146x626. | Texte visible a controler dans l'image. | Conserve le support visuel du passage source. | `05_assets_visuels/p213_figure_01_allergie_convulsions_hydratation_t.png` | extrait ; a relire |
 | 216 | image / figure | a confirmer | Visuel extrait depuis le PDF, dimensions 1011x786. | Texte visible a controler dans l'image. | Conserve le support visuel du passage source. | `05_assets_visuels/p216_figure_01_allergie_convulsions_hydratation_t.png` | extrait ; a relire |
+
+## Bloc 18 - badtrip/overdose
+
+| Page | Type | Titre visible | Description | Donnees extraites | Importance RDR | Fichier cible | Statut |
+|---:|---|---|---|---|---|---|---|
+| 231 | image / figure | a confirmer | Visuel extrait depuis le PDF, dimensions 990x605. | Texte visible a controler dans l'image. | Conserve le support visuel du passage source. | `05_assets_visuels/p231_figure_01_badtrip_overdose.png` | extrait ; a relire |
+| 235 | image / figure | a confirmer | Visuel extrait depuis le PDF, dimensions 1288x746. | Texte visible a controler dans l'image. | Conserve le support visuel du passage source. | `05_assets_visuels/p235_figure_01_badtrip_overdose.png` | extrait ; a relire |
+| 236 | image / figure | a confirmer | Visuel extrait depuis le PDF, dimensions 1446x1200. | Texte visible a controler dans l'image. | Conserve le support visuel du passage source. | `05_assets_visuels/p236_figure_01_badtrip_overdose.png` | extrait ; a relire |
+| 239 | image / figure | a confirmer | Visuel extrait depuis le PDF, dimensions 604x276. | Texte visible a controler dans l'image. | Conserve le support visuel du passage source. | `05_assets_visuels/p239_figure_01_badtrip_overdose.png` | extrait ; a relire |
+| 245 | image / figure | a confirmer | Visuel extrait depuis le PDF, dimensions 1283x1299. | Texte visible a controler dans l'image. | Conserve le support visuel du passage source. | `05_assets_visuels/p245_figure_01_badtrip_overdose.png` | extrait ; a relire |

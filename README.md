@@ -43,10 +43,11 @@ Exemple : page imprimee 45 = page PDF 46 ; page imprimee 51 = page PDF 52.
 | Phase 1 | bloc 15 - risques generiques sommeil/juridique | 182-184 | 183-185 | extrait provisoire |
 | Phase 1 | bloc 16 - sexualite/vulnerabilite/consentement | 185-197 | 186-198 | extrait provisoire |
 | Phase 1 | bloc 17 - allergie/convulsions/hydratation/thermie | 198-222 | 199-223 | extrait provisoire |
+| Phase 1 | bloc 18 - badtrip/overdose | 223-247 | 224-248 | extrait provisoire |
 
 ## Prochaine etape
 
-Bloc 18 : `01_source_canonique/17_badtrip_overdose.md`, pages imprimees 223-247 / pages PDF 224-248.
+Bloc 19 : `01_source_canonique/18_interactions_melanges.md`, pages imprimees 248-267 / pages PDF 249-268.
 
 ## Indexation ChatGPT / IA
 

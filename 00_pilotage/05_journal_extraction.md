@@ -81,3 +81,9 @@
 | Date | Bloc traite | Pages | Fichiers modifies | Problemes rencontres | Decisions prises | Prochaine etape |
 |---|---|---|---|---|---|---|
 | 2026-05-27 | Phase 1 bloc 17 - allergie/convulsions/hydratation/thermie | imprimees 198-222 / PDF 199-223 | `01_source_canonique/16_allergie_convulsions_hydratation_thermie.md`, pilotage, assets, index racine, manifeste | Extraction automatique a relire ; visuels a controler | Conserver contenu source complet dans le fichier canonique ; ne pas creer de module final | Bloc 18 |
+
+## Bloc 18 - badtrip/overdose
+
+| Date | Bloc traite | Pages | Fichiers modifies | Problemes rencontres | Decisions prises | Prochaine etape |
+|---|---|---|---|---|---|---|
+| 2026-05-27 | Phase 1 bloc 18 - badtrip/overdose | imprimees 223-247 / PDF 224-248 | `01_source_canonique/17_badtrip_overdose.md`, pilotage, assets, index racine, manifeste | Extraction automatique a relire ; visuels a controler | Conserver contenu source complet dans le fichier canonique ; ne pas creer de module final | Bloc 19 |

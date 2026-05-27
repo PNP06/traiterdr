@@ -140,3 +140,13 @@ Les tableaux textuels et encadrés sont convertis ou décrits en Markdown. Seuls
 | `p210_figure_01_allergie_convulsions_hydratation_t.png` | 210 | 211 | Visuel extrait pour le bloc 17 `allergie/convulsions/hydratation/thermie` ; dimensions 760x1024. | Source canonique et index visuels. |
 | `p213_figure_01_allergie_convulsions_hydratation_t.png` | 213 | 214 | Visuel extrait pour le bloc 17 `allergie/convulsions/hydratation/thermie` ; dimensions 1146x626. | Source canonique et index visuels. |
 | `p216_figure_01_allergie_convulsions_hydratation_t.png` | 216 | 217 | Visuel extrait pour le bloc 17 `allergie/convulsions/hydratation/thermie` ; dimensions 1011x786. | Source canonique et index visuels. |
+
+## Assets ajoutes - bloc 18
+
+| Fichier | Page imprimee | Page PDF | Description | Utilisation |
+|---|---:|---:|---|---|
+| `p231_figure_01_badtrip_overdose.png` | 231 | 232 | Visuel extrait pour le bloc 18 `badtrip/overdose` ; dimensions 990x605. | Source canonique et index visuels. |
+| `p235_figure_01_badtrip_overdose.png` | 235 | 236 | Visuel extrait pour le bloc 18 `badtrip/overdose` ; dimensions 1288x746. | Source canonique et index visuels. |
+| `p236_figure_01_badtrip_overdose.png` | 236 | 237 | Visuel extrait pour le bloc 18 `badtrip/overdose` ; dimensions 1446x1200. | Source canonique et index visuels. |
+| `p239_figure_01_badtrip_overdose.png` | 239 | 240 | Visuel extrait pour le bloc 18 `badtrip/overdose` ; dimensions 604x276. | Source canonique et index visuels. |
+| `p245_figure_01_badtrip_overdose.png` | 245 | 246 | Visuel extrait pour le bloc 18 `badtrip/overdose` ; dimensions 1283x1299. | Source canonique et index visuels. |

@@ -6,14 +6,14 @@ Index racine du corpus documentaire `traiterdr`.
 
 | Chemin | Taille octets |
 |---|---:|
-| `00_pilotage/00_index_global.md` | 4199 |
-| `00_pilotage/01_matrice_couverture.md` | 117051 |
-| `00_pilotage/02_index_visuels_tableaux_figures.md` | 21956 |
-| `00_pilotage/03_index_notions.md` | 128238 |
-| `00_pilotage/04_glossaire.md` | 39361 |
-| `00_pilotage/05_journal_extraction.md` | 12249 |
-| `00_pilotage/06_pages_a_relire.md` | 15113 |
-| `00_pilotage/07_decisions_documentaires.md` | 8497 |
+| `00_pilotage/00_index_global.md` | 4389 |
+| `00_pilotage/01_matrice_couverture.md` | 129937 |
+| `00_pilotage/02_index_visuels_tableaux_figures.md` | 23436 |
+| `00_pilotage/03_index_notions.md` | 141811 |
+| `00_pilotage/04_glossaire.md` | 42699 |
+| `00_pilotage/05_journal_extraction.md` | 12756 |
+| `00_pilotage/06_pages_a_relire.md` | 16197 |
+| `00_pilotage/07_decisions_documentaires.md` | 8707 |
 | `01_source_canonique/00_front_matter_suivi_remerciements.md` | 32018 |
 | `01_source_canonique/01_introduction_cadre_objectif_sources.md` | 39807 |
 | `01_source_canonique/02_mythes_croyances_heuristiques_biais_sophismes.md` | 39545 |
@@ -31,7 +31,7 @@ Index racine du corpus documentaire `traiterdr`.
 | `01_source_canonique/14_risques_generiques_sommeil_juridique.md` | 18721 |
 | `01_source_canonique/15_sexualite_vulnerabilite_consentement.md` | 59375 |
 | `01_source_canonique/16_allergie_convulsions_hydratation_thermie.md` | 93031 |
-| `01_source_canonique/17_badtrip_overdose.md` | 989 |
+| `01_source_canonique/17_badtrip_overdose.md` | 93805 |
 | `01_source_canonique/18_interactions_melanges.md` | 994 |
 | `01_source_canonique/19_testing_analyses_produits_biologie.md` | 1007 |
 | `01_source_canonique/20_descente_sevrage_addiction_dependance.md` | 1010 |
@@ -75,7 +75,7 @@ Index racine du corpus documentaire `traiterdr`.
 | `03_derives_culturerdr/08_no_go_automation.md` | 4970 |
 | `03_derives_culturerdr/09_alertes_et_signaux_candidates.md` | 240 |
 | `03_derives_culturerdr/10_priorisation_future_academie.md` | 239 |
-| `04_substances_mentions/00_index_substances.md` | 19457 |
+| `04_substances_mentions/00_index_substances.md` | 20727 |
 | `04_substances_mentions/3mmc_chemsex.md` | 347 |
 | `04_substances_mentions/alcool.md` | 341 |
 | `04_substances_mentions/autres_substances.md` | 352 |
@@ -140,10 +140,15 @@ Index racine du corpus documentaire `traiterdr`.
 | `05_assets_visuels/p210_figure_01_allergie_convulsions_hydratation_t.png` | 46888 |
 | `05_assets_visuels/p213_figure_01_allergie_convulsions_hydratation_t.png` | 57463 |
 | `05_assets_visuels/p216_figure_01_allergie_convulsions_hydratation_t.png` | 54865 |
-| `05_assets_visuels/README.md` | 11985 |
-| `INDEX.md` | 9770 |
+| `05_assets_visuels/p231_figure_01_badtrip_overdose.png` | 192549 |
+| `05_assets_visuels/p235_figure_01_badtrip_overdose.png` | 230173 |
+| `05_assets_visuels/p236_figure_01_badtrip_overdose.png` | 50722 |
+| `05_assets_visuels/p239_figure_01_badtrip_overdose.png` | 115652 |
+| `05_assets_visuels/p245_figure_01_badtrip_overdose.png` | 132005 |
+| `05_assets_visuels/README.md` | 12936 |
+| `INDEX.md` | 10289 |
 | `llms.txt` | 2817 |
-| `README.md` | 3486 |
+| `README.md` | 3573 |
 | `sources/traite/manifest_html_clean.json` | 22750 |
 | `sources/traite/rapport_nettoyage_html.md` | 4856 |
 | `sources/traite/traite_rdr_version_html_clean.md` | 941632 |
