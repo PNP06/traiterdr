@@ -6,35 +6,35 @@
   "files": [
     {
       "path": "00_pilotage/00_index_global.md",
-      "size_bytes": 3159
+      "size_bytes": 3382
     },
     {
       "path": "00_pilotage/01_matrice_couverture.md",
-      "size_bytes": 69197
+      "size_bytes": 79856
     },
     {
       "path": "00_pilotage/02_index_visuels_tableaux_figures.md",
-      "size_bytes": 17162
+      "size_bytes": 17927
     },
     {
       "path": "00_pilotage/03_index_notions.md",
-      "size_bytes": 76695
+      "size_bytes": 94324
     },
     {
       "path": "00_pilotage/04_glossaire.md",
-      "size_bytes": 23959
+      "size_bytes": 27681
     },
     {
       "path": "00_pilotage/05_journal_extraction.md",
-      "size_bytes": 9390
+      "size_bytes": 9999
     },
     {
       "path": "00_pilotage/06_pages_a_relire.md",
-      "size_bytes": 11737
+      "size_bytes": 12402
     },
     {
       "path": "00_pilotage/07_decisions_documentaires.md",
-      "size_bytes": 7447
+      "size_bytes": 7657
     },
     {
       "path": "01_source_canonique/00_front_matter_suivi_remerciements.md",
@@ -86,7 +86,7 @@
     },
     {
       "path": "01_source_canonique/12_psychologie_placebo_nocebo_troubles_psychologiques.md",
-      "size_bytes": 1023
+      "size_bytes": 77524
     },
     {
       "path": "01_source_canonique/13_classifications_substances.md",
@@ -282,7 +282,7 @@
     },
     {
       "path": "04_substances_mentions/00_index_substances.md",
-      "size_bytes": 14442
+      "size_bytes": 14730
     },
     {
       "path": "04_substances_mentions/3mmc_chemsex.md",
@@ -489,12 +489,20 @@
       "size_bytes": 16996
     },
     {
+      "path": "05_assets_visuels/p145_figure_01_psychologie_placebo_nocebo_trouble.png",
+      "size_bytes": 27755
+    },
+    {
+      "path": "05_assets_visuels/p147_figure_01_psychologie_placebo_nocebo_trouble.png",
+      "size_bytes": 122057
+    },
+    {
       "path": "05_assets_visuels/README.md",
-      "size_bytes": 8592
+      "size_bytes": 9147
     },
     {
       "path": "INDEX.md",
-      "size_bytes": 8696
+      "size_bytes": 9195
     },
     {
       "path": "llms.txt",
@@ -502,7 +510,7 @@
     },
     {
       "path": "README.md",
-      "size_bytes": 3002
+      "size_bytes": 3094
     },
     {
       "path": "sources/traite/manifest_html_clean.json",

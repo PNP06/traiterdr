@@ -100,3 +100,10 @@ Les tableaux textuels et encadrés sont convertis ou décrits en Markdown. Seuls
 | `p133_figure_01_pk_pd_adme.png` | 133 | 134 | Visuel extrait pour le bloc 12 `PK/PD/ADME` ; dimensions 1379x232. | Source canonique et index visuels. |
 | `p135_figure_01_pk_pd_adme.png` | 135 | 136 | Visuel extrait pour le bloc 12 `PK/PD/ADME` ; dimensions 946x329. | Source canonique et index visuels. |
 | `p137_figure_01_pk_pd_adme.png` | 137 | 138 | Visuel extrait pour le bloc 12 `PK/PD/ADME` ; dimensions 979x722. | Source canonique et index visuels. |
+
+## Assets ajoutes - bloc 13
+
+| Fichier | Page imprimee | Page PDF | Description | Utilisation |
+|---|---:|---:|---|---|
+| `p145_figure_01_psychologie_placebo_nocebo_trouble.png` | 145 | 146 | Visuel extrait pour le bloc 13 `psychologie/placebo/nocebo/troubles psychologiques` ; dimensions 910x568. | Source canonique et index visuels. |
+| `p147_figure_01_psychologie_placebo_nocebo_trouble.png` | 147 | 148 | Visuel extrait pour le bloc 13 `psychologie/placebo/nocebo/troubles psychologiques` ; dimensions 945x883. | Source canonique et index visuels. |

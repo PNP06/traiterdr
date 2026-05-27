@@ -98,3 +98,11 @@
 | 133 | Verifier lisibilite, titre visible et cadrage de `p133_figure_01_pk_pd_adme.png`. | visuel | moyenne | Ouvrir l'asset et comparer au PDF page 134. |
 | 135 | Verifier lisibilite, titre visible et cadrage de `p135_figure_01_pk_pd_adme.png`. | visuel | moyenne | Ouvrir l'asset et comparer au PDF page 136. |
 | 137 | Verifier lisibilite, titre visible et cadrage de `p137_figure_01_pk_pd_adme.png`. | visuel | moyenne | Ouvrir l'asset et comparer au PDF page 138. |
+
+## Bloc 13 - psychologie/placebo/nocebo/troubles psychologiques
+
+| Page | Probleme | Type | Priorite | Action recommandee |
+|---:|---|---|---|---|
+| 145 | Verifier lisibilite, titre visible et cadrage de `p145_figure_01_psychologie_placebo_nocebo_trouble.png`. | visuel | moyenne | Ouvrir l'asset et comparer au PDF page 146. |
+| 147 | Verifier lisibilite, titre visible et cadrage de `p147_figure_01_psychologie_placebo_nocebo_trouble.png`. | visuel | moyenne | Ouvrir l'asset et comparer au PDF page 148. |
+| 140-156 | Note auteur ou TODO possible dans le passage. | statut documentaire | moyenne | Conserver comme statut, ne pas traiter comme fait definitif. |

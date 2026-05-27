@@ -206,3 +206,33 @@
 | Prodrogue : Exemple de la codéine | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 12, p. 126-139. | provisoire |
 | L’élimination | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 12, p. 126-139. | provisoire |
 | La demi-vie | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 12, p. 126-139. | provisoire |
+
+## Bloc 13 - psychologie/placebo/nocebo/troubles psychologiques
+
+| Terme | Definition courte | Source | Statut |
+|---|---|---|---|
+| Psychologie | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 13, p. 140-156. | provisoire |
+| Effets placebo et nocebo | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 13, p. 140-156. | provisoire |
+| Description des effets | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 13, p. 140-156. | provisoire |
+| Définitions | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 13, p. 140-156. | provisoire |
+| Un effet biologique | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 13, p. 140-156. | provisoire |
+| Les mécanismes de l’effet placebo et nocebo | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 13, p. 140-156. | provisoire |
+| Le conditionnement | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 13, p. 140-156. | provisoire |
+| Le conditionnement classique (Pavlovien) | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 13, p. 140-156. | provisoire |
+| Le conditionnement opérant (Skinnerien) | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 13, p. 140-156. | provisoire |
+| Application chez l'humain | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 13, p. 140-156. | provisoire |
+| La suggestion et l'autosuggestion | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 13, p. 140-156. | provisoire |
+| Le pouvoir de suggestion de l'entourage | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 13, p. 140-156. | provisoire |
+| Autosuggestion et influence personnelle : | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 13, p. 140-156. | provisoire |
+| Les attentes de bénéfices | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 13, p. 140-156. | provisoire |
+| L'attente | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 13, p. 140-156. | provisoire |
+| L'effet | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 13, p. 140-156. | provisoire |
+| Modulation de l'anxiété par les attentes | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 13, p. 140-156. | provisoire |
+| L'influence des pairs et du réseau social | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 13, p. 140-156. | provisoire |
+| Résumé | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 13, p. 140-156. | provisoire |
+| Prise en compte en médecine | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 13, p. 140-156. | provisoire |
+| Applications aux études sur les psychédéliques | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 13, p. 140-156. | provisoire |
+| Utilisation en médecine de ville : exemple de la dépression légère | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 13, p. 140-156. | provisoire |
+| L’influence du médecin | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 13, p. 140-156. | provisoire |
+| Quel placebo en médecine de ville ? | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 13, p. 140-156. | provisoire |
+| Utilisation à l’hôpital | Terme ou entree thematique a definir finement en Phase 2 si reutilise. | Bloc 13, p. 140-156. | provisoire |

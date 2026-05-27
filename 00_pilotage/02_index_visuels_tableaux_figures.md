@@ -88,3 +88,10 @@
 | 133 | image / figure | a confirmer | Visuel extrait depuis le PDF, dimensions 1379x232. | Texte visible a controler dans l'image. | Conserve le support visuel du passage source. | `05_assets_visuels/p133_figure_01_pk_pd_adme.png` | extrait ; a relire |
 | 135 | image / figure | a confirmer | Visuel extrait depuis le PDF, dimensions 946x329. | Texte visible a controler dans l'image. | Conserve le support visuel du passage source. | `05_assets_visuels/p135_figure_01_pk_pd_adme.png` | extrait ; a relire |
 | 137 | image / figure | a confirmer | Visuel extrait depuis le PDF, dimensions 979x722. | Texte visible a controler dans l'image. | Conserve le support visuel du passage source. | `05_assets_visuels/p137_figure_01_pk_pd_adme.png` | extrait ; a relire |
+
+## Bloc 13 - psychologie/placebo/nocebo/troubles psychologiques
+
+| Page | Type | Titre visible | Description | Donnees extraites | Importance RDR | Fichier cible | Statut |
+|---:|---|---|---|---|---|---|---|
+| 145 | image / figure | a confirmer | Visuel extrait depuis le PDF, dimensions 910x568. | Texte visible a controler dans l'image. | Conserve le support visuel du passage source. | `05_assets_visuels/p145_figure_01_psychologie_placebo_nocebo_trouble.png` | extrait ; a relire |
+| 147 | image / figure | a confirmer | Visuel extrait depuis le PDF, dimensions 945x883. | Texte visible a controler dans l'image. | Conserve le support visuel du passage source. | `05_assets_visuels/p147_figure_01_psychologie_placebo_nocebo_trouble.png` | extrait ; a relire |
