@@ -5,10 +5,10 @@ Le PDF complet doit rester la version figée, téléchargeable et archivable du 
 ## Télécharger
 
 ::: warning Fichier PDF à ajouter
-Le fichier PDF n’est pas encore versionné dans ce dépôt. Pour activer le bouton ci-dessous, placer le fichier dans `public/traite-rdr.pdf` ou adapter le lien vers l’URL publique réelle du PDF.
+Le fichier PDF n’est pas encore versionné dans ce dépôt. Pour activer le lien ci-dessous, placer le fichier dans `public/traite-rdr.pdf` ou adapter le lien vers l’URL publique réelle du PDF.
 :::
 
-[Ouvrir ou télécharger le PDF](./public/traite-rdr.pdf){.VPButton .medium .brand}
+[Ouvrir ou télécharger le PDF](/traite-rdr.pdf)
 
 ## Usage prévu
 
