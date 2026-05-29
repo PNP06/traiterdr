@@ -191,7 +191,7 @@ Index racine du corpus documentaire `traiterdr`.
 | `05_assets_visuels/p318_figure_02_descente_sevrage_addiction_dependa.png` | 70962 |
 | `05_assets_visuels/p328_figure_01_descente_sevrage_addiction_dependa.png` | 421627 |
 | `05_assets_visuels/p330_figure_01_descente_sevrage_addiction_dependa.png` | 428605 |
-| `INDEX.md` | 14382 |
+| `corpus-index.md` | 14582 |
 | `README.md` | 4211 |
 | `corpus_manifest.json` | 22507 |
 | `llms.txt` | 1684 |

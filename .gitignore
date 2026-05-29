@@ -8,3 +8,8 @@ sources/*.docx
 # Raw ChatGPT prompt export kept locally only.
 sources/prompt initial.html
 sources/prompt initial_files/
+
+# Node / VitePress local artifacts.
+node_modules/
+.vitepress/.temp/
+.vitepress/dist/

@@ -34,7 +34,7 @@ export default defineConfig({
         items: [
           { text: 'Accueil', link: '/' },
           { text: 'Télécharger le PDF', link: '/pdf' },
-          { text: 'Index général', link: '/INDEX' },
+          { text: 'Index général', link: '/corpus-index' },
           { text: 'Glossaire', link: '/00_pilotage/04_glossaire' }
         ]
       },
