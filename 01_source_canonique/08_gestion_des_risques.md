@@ -33,6 +33,11 @@ probabilité de survenir comme un risque.
 
 ## Risques majeurs, risques mineurs
 
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p101_figure_01_gestion_des_risques.png" alt="Gestion des risques">
+  <figcaption>Figure p. 101 : support visuel du chapitre sur la gestion des risques, leurs niveaux et les barrieres de reduction.</figcaption>
+</figure>
+
 Chaque consommation engendre une multitude de risques. Il
 serait irréaliste de chercher à tous les éviter, l'essentiel est plutôt de se
 concentrer sur les risques majeurs.

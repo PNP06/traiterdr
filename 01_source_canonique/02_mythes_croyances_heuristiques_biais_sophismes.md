@@ -73,6 +73,11 @@ Le chapitre annonce une méthode pratique en six questions pour corriger une cro
 
 ### Pages imprimées 18-20 / PDF 19-21 — Heuristiques
 
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p020_figure_01_heuristiques.png" alt="Heuristiques : règles rapides utiles mais parfois trompeuses">
+  <figcaption>Infographie p. 20 : les heuristiques peuvent aider dans des situations simples, mais tromper quand le risque dépend de plusieurs facteurs.</figcaption>
+</figure>
+
 Une heuristique est définie comme une méthode mentale rapide permettant de décider ou résoudre un problème sans examiner toutes les informations disponibles. Elle mobilise des règles pratiques issues de l'expérience. Elle apporte un gain d'efficacité, mais expose à un risque d'erreur lorsqu'elle est appliquée hors de son domaine de validité.
 
 Le traité donne deux exemples d'heuristiques utiles :
@@ -112,6 +117,11 @@ Règle source à conserver : lorsqu'une phrase sur une drogue ne contient ni dos
 
 ### Pages imprimées 21-22 / PDF 22-23 — Biais cognitifs
 
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p022_figure_01_biais_cognitifs.png" alt="Biais cognitifs : distorsions systématiques du jugement">
+  <figcaption>Infographie p. 22 : les biais deviennent problématiques lorsqu'ils influencent une décision de santé ou de réduction des risques.</figcaption>
+</figure>
+
 Un biais cognitif est défini comme une déviation systématique dans la façon dont une information est perçue, interprétée ou évaluée. À la différence des heuristiques, qui sont des stratégies de simplification, les biais décrivent des distorsions récurrentes du jugement, souvent automatiques et non intentionnelles, influencées par les attentes, les croyances préexistantes, les émotions et le contexte social.
 
 La source attribue l'introduction du terme à Daniel Kahneman et Amos Tversky au début des années 1970. Les biais ne sont pas présentés comme un `bug` ou une pathologie du cerveau, mais comme des limites normales du traitement de l'information.
@@ -147,6 +157,11 @@ Le traité propose quatre axes :
 Formule source à conserver : contrer les biais demande de `penser contre soi-même`, en examinant honnêtement la thèse opposée avec le même niveau d'exigence.
 
 ### Pages imprimées 23-28 / PDF 24-29 — Sophismes
+
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p028_figure_01_sophismes.png" alt="Sophismes : quand le donc dérape">
+  <figcaption>Infographie p. 28 : un raisonnement peut sembler logique tout en dépassant ce que les prémisses permettent vraiment de conclure.</figcaption>
+</figure>
 
 Un sophisme est défini comme un raisonnement fallacieux qui donne l'apparence d'une argumentation valide alors qu'il manque un lien logique, qu'un saut implicite est effectué ou qu'un critère non pertinent remplace le critère utile. La source distingue le sophisme des heuristiques et des biais : ici, l'objet principal est l'argumentation.
 

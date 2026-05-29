@@ -1,9 +1,34 @@
 import { defineConfig } from 'vitepress'
 
+const chapters = [
+  { text: 'Avant-propos et table des matieres', link: '/01_source_canonique/00_front_matter_suivi_remerciements' },
+  { text: 'Introduction, cadre et sources', link: '/01_source_canonique/01_introduction_cadre_objectif_sources' },
+  { text: 'Mythes, croyances, biais et sophismes', link: '/01_source_canonique/02_mythes_croyances_heuristiques_biais_sophismes' },
+  { text: 'Mecanismes de protection et approche RDR', link: '/01_source_canonique/03_mecanismes_protection_approche_rdr' },
+  { text: 'Science, preuves et causalite', link: '/01_source_canonique/04_comprendre_science_preuves_causalite' },
+  { text: 'Alcool, tabac, prix et sante publique', link: '/01_source_canonique/05_mythes_alcool_tabac_prix_sante_publique' },
+  { text: 'Sucre, naturel, contact et addiction', link: '/01_source_canonique/06_mythes_sucre_naturel_reste_perche_contact_addiction' },
+  { text: 'GHB, chemsex, 3-MMC, RC et NPS', link: '/01_source_canonique/07_ghb_drogue_du_viol_chemsex_3mmc_rc_nps' },
+  { text: 'Gestion des risques', link: '/01_source_canonique/08_gestion_des_risques' },
+  { text: 'Cerveau, synapses et circuits', link: '/01_source_canonique/09_cerveau_synapses_neurotransmetteurs_circuits' },
+  { text: 'Tolerance et developpement 15-25 ans', link: '/01_source_canonique/10_tolerance_developpement_15_25_corps_humain' },
+  { text: 'PK/PD, absorption et elimination', link: '/01_source_canonique/11_pk_pd_absorption_distribution_metabolisme_elimination' },
+  { text: 'Psychologie, placebo et nocebo', link: '/01_source_canonique/12_psychologie_placebo_nocebo_troubles_psychologiques' },
+  { text: 'Classifications des substances', link: '/01_source_canonique/13_classifications_substances' },
+  { text: 'Risques generiques, sommeil et juridique', link: '/01_source_canonique/14_risques_generiques_sommeil_juridique' },
+  { text: 'Sexualite, vulnerabilite et consentement', link: '/01_source_canonique/15_sexualite_vulnerabilite_consentement' },
+  { text: 'Allergie, convulsions, hydratation et thermie', link: '/01_source_canonique/16_allergie_convulsions_hydratation_thermie' },
+  { text: 'Badtrip et overdose', link: '/01_source_canonique/17_badtrip_overdose' },
+  { text: 'Interactions et melanges', link: '/01_source_canonique/18_interactions_melanges' },
+  { text: 'Testing, analyses et biologie', link: '/01_source_canonique/19_testing_analyses_produits_biologie' },
+  { text: 'Descente, sevrage, addiction et dependance', link: '/01_source_canonique/20_descente_sevrage_addiction_dependance' },
+  { text: 'Cancer', link: '/01_source_canonique/21_cancer' }
+]
+
 export default defineConfig({
   lang: 'fr-FR',
-  title: 'Traité RDR',
-  description: 'Traité de réduction des risques — version web documentaire.',
+  title: 'Traite RDR',
+  description: 'Traite de reduction des risques - version web documentaire.',
   cleanUrls: true,
   srcExclude: [
     'sources/**'
@@ -16,66 +41,67 @@ export default defineConfig({
   ],
   themeConfig: {
     logo: '/logo.svg',
-    siteTitle: 'Traité RDR',
+    siteTitle: 'Traite RDR',
     search: {
       provider: 'local'
     },
     nav: [
       { text: 'Accueil', link: '/' },
-      { text: 'Lire', link: '/01_source_canonique/01_introduction_cadre_objectif_sources' },
-      { text: 'Thèmes', link: '/02_themes_transversaux/00_index_themes' },
-      { text: 'Substances', link: '/04_substances_mentions/00_index_substances' },
-      { text: 'PDF', link: '/pdf' },
-      { text: 'GitHub', link: 'https://github.com/PNP06/traiterdr' }
+      { text: 'Lire', link: '/lire' },
+      { text: 'Essentiels', link: '/essentiels' },
+      { text: 'Sommaire', link: '/sommaire' },
+      { text: 'Figures', link: '/figures' },
+      { text: 'PDF', link: '/pdf' }
     ],
     sidebar: [
       {
-        text: 'Entrée',
-        items: [
-          { text: 'Accueil', link: '/' },
-          { text: 'Télécharger le PDF', link: '/pdf' },
-          { text: 'Index général', link: '/corpus-index' },
-          { text: 'Glossaire', link: '/00_pilotage/04_glossaire' }
-        ]
-      },
-      {
-        text: 'Corpus',
+        text: 'Commencer',
         collapsed: false,
         items: [
-          { text: 'Introduction', link: '/01_source_canonique/01_introduction_cadre_objectif_sources' },
-          { text: 'Index des thèmes', link: '/02_themes_transversaux/00_index_themes' },
-          { text: 'Index substances', link: '/04_substances_mentions/00_index_substances' },
-          { text: 'Index notions', link: '/00_pilotage/03_index_notions' },
-          { text: 'Index visuels', link: '/00_pilotage/02_index_visuels_tableaux_figures' },
-          { text: 'Bilan final corpus', link: '/00_pilotage/10_bilan_final_corpus' }
+          { text: 'Accueil', link: '/' },
+          { text: 'Lire le traite', link: '/lire' },
+          { text: 'Parties importantes', link: '/essentiels' },
+          { text: 'Sommaire complet', link: '/sommaire' },
+          { text: 'Telecharger le PDF', link: '/pdf' }
         ]
       },
       {
-        text: 'Lecture canonique',
+        text: 'Parcours thematiques',
+        collapsed: false,
+        items: [
+          { text: 'Croyances et biais', link: '/01_source_canonique/02_mythes_croyances_heuristiques_biais_sophismes' },
+          { text: 'Science et preuves', link: '/01_source_canonique/04_comprendre_science_preuves_causalite' },
+          { text: 'Gestion des risques', link: '/01_source_canonique/08_gestion_des_risques' },
+          { text: 'Badtrip et overdose', link: '/01_source_canonique/17_badtrip_overdose' },
+          { text: 'Interactions et melanges', link: '/01_source_canonique/18_interactions_melanges' },
+          { text: 'Testing et analyses', link: '/01_source_canonique/19_testing_analyses_produits_biologie' }
+        ]
+      },
+      {
+        text: 'Chapitres du traite',
+        collapsed: true,
+        items: chapters
+      },
+      {
+        text: 'Figures utiles',
         collapsed: true,
         items: [
-          { text: 'Bloc 00', link: '/01_source_canonique/00_front_matter_suivi_remerciements' },
-          { text: 'Bloc 01', link: '/01_source_canonique/01_introduction_cadre_objectif_sources' },
-          { text: 'Bloc 02', link: '/01_source_canonique/02_mythes_croyances_heuristiques_biais_sophismes' },
-          { text: 'Bloc 03', link: '/01_source_canonique/03_mecanismes_protection_approche_rdr' },
-          { text: 'Bloc 04', link: '/01_source_canonique/04_comprendre_science_preuves_causalite' },
-          { text: 'Bloc 05', link: '/01_source_canonique/05_mythes_alcool_tabac_prix_sante_publique' },
-          { text: 'Bloc 06', link: '/01_source_canonique/06_mythes_sucre_naturel_reste_perche_contact_addiction' },
-          { text: 'Bloc 07', link: '/01_source_canonique/07_ghb_drogue_du_viol_chemsex_3mmc_rc_nps' },
-          { text: 'Bloc 08', link: '/01_source_canonique/08_gestion_des_risques' },
-          { text: 'Bloc 09', link: '/01_source_canonique/09_cerveau_synapses_neurotransmetteurs_circuits' },
-          { text: 'Bloc 10', link: '/01_source_canonique/10_tolerance_developpement_15_25_corps_humain' },
-          { text: 'Bloc 11', link: '/01_source_canonique/11_pk_pd_absorption_distribution_metabolisme_elimination' },
-          { text: 'Bloc 12', link: '/01_source_canonique/12_psychologie_placebo_nocebo_troubles_psychologiques' },
-          { text: 'Bloc 13', link: '/01_source_canonique/13_classifications_substances' },
-          { text: 'Bloc 14', link: '/01_source_canonique/14_risques_generiques_sommeil_juridique' },
-          { text: 'Bloc 15', link: '/01_source_canonique/15_sexualite_vulnerabilite_consentement' },
-          { text: 'Bloc 16', link: '/01_source_canonique/16_allergie_convulsions_hydratation_thermie' },
-          { text: 'Bloc 17', link: '/01_source_canonique/17_badtrip_overdose' },
-          { text: 'Bloc 18', link: '/01_source_canonique/18_interactions_melanges' },
-          { text: 'Bloc 19', link: '/01_source_canonique/19_testing_analyses_produits_biologie' },
-          { text: 'Bloc 20', link: '/01_source_canonique/20_descente_sevrage_addiction_dependance' },
-          { text: 'Bloc 21', link: '/01_source_canonique/21_cancer' }
+          { text: 'Galerie des figures', link: '/figures' },
+          { text: 'Index visuels technique', link: '/00_pilotage/02_index_visuels_tableaux_figures' }
+        ]
+      },
+      {
+        text: 'Corpus technique',
+        collapsed: true,
+        items: [
+          { text: 'Index general du corpus', link: '/corpus-index' },
+          { text: 'Glossaire', link: '/00_pilotage/04_glossaire' },
+          { text: 'Matrice de couverture', link: '/00_pilotage/01_matrice_couverture' },
+          { text: 'Index notions', link: '/00_pilotage/03_index_notions' },
+          { text: 'Themes transversaux', link: '/02_themes_transversaux/00_index_themes' },
+          { text: 'Substances mentionnees', link: '/04_substances_mentions/00_index_substances' },
+          { text: 'Derives CultureRDR candidates', link: '/03_derives_culturerdr/00_index_derives' },
+          { text: 'Bilan final corpus', link: '/00_pilotage/10_bilan_final_corpus' }
         ]
       }
     ],
@@ -84,11 +110,11 @@ export default defineConfig({
       label: 'Sur cette page'
     },
     docFooter: {
-      prev: 'Page précédente',
+      prev: 'Page precedente',
       next: 'Page suivante'
     },
     lastUpdated: {
-      text: 'Dernière mise à jour',
+      text: 'Derniere mise a jour',
       formatOptions: {
         dateStyle: 'short',
         timeStyle: 'short'
@@ -99,8 +125,8 @@ export default defineConfig({
       text: 'Modifier cette page sur GitHub'
     },
     footer: {
-      message: 'Ressource documentaire RDR. Information générale, non incitative, non médicale personnalisée.',
-      copyright: 'CultureRDR / Traité RDR'
+      message: 'Ressource documentaire RDR. Information generale, non incitative, non medicale personnalisee.',
+      copyright: 'CultureRDR / Traite RDR'
     }
   }
 })

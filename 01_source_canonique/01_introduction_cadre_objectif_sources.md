@@ -86,6 +86,11 @@ Un visuel illustre les trois niveaux de prévention. Il oppose :
 - prévention secondaire : personnage interrogatif avec point d'interrogation ;
 - prévention tertiaire : personne accompagnée par un soignant.
 
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p009_figure_01_preventions_primaire_secondaire_tertiaire.png" alt="Préventions primaire, secondaire et tertiaire">
+  <figcaption>Figure source p. 9 : distinction entre prévention primaire, prévention secondaire et prévention tertiaire.</figcaption>
+</figure>
+
 ### Page imprimée 10 / PDF 11 — Non-moralisation, factualité et publics cibles
 
 Le texte explique que les usagers relevant d'un usage simple ne se reconnaissent ni dans la prévention primaire centrée sur l'abstinence, ni dans la prévention tertiaire centrée sur une pathologie addictive déjà constituée. Une large proportion de consommateurs serait donc sans cadre structuré d'information, s'appuyant sur des croyances personnelles, des conseils informels entre pairs, ou des messages de réduction des risques transmis de manière fragmentaire par certaines associations.

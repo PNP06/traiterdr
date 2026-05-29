@@ -21,6 +21,11 @@ Ce bloc conserve la partie `cerveau/synapses/neurotransmetteurs/circuits` dans l
 
 # Le cerveau et le corps
 
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p114_figure_01_cerveau_synapses_neurotransmetteur.png" alt="Cerveau, synapses et neurotransmetteurs">
+  <figcaption>Figure p. 114 : un des schemas de synthese du chapitre sur cerveau, synapses, neurotransmetteurs et circuits.</figcaption>
+</figure>
+
 ## Le cerveau
 
 Les drogues ont toutes pour point commun d’agir sur un même

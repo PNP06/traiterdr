@@ -17,6 +17,11 @@ Ce bloc conserve la partie `classifications substances` dans la couche source ca
 
 ## Contenu source fidele
 
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p160_figure_01_classifications_substances.png" alt="Classifications des substances">
+  <figcaption>Figure p. 160 : support visuel du chapitre sur les classifications, les dommages et la dangerosite.</figcaption>
+</figure>
+
 > Note documentaire : le passage ci-dessous reprend le contenu du traite sur le perimetre du bloc. Les titres, listes, exemples, tableaux et formulations importantes sont conserves pour limiter la perte d'information. Les implications CultureRDR sont separees plus bas.
 
 # Classification des substances

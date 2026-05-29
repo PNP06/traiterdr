@@ -17,6 +17,11 @@ Ce bloc conserve la partie `allergie/convulsions/hydratation/thermie` dans la co
 
 ## Contenu source fidele
 
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p209_figure_01_allergie_convulsions_hydratation_t.png" alt="Thermie, hydratation et convulsions">
+  <figcaption>Figure p. 209 : visuel de reference pour les risques physiologiques transversaux du chapitre.</figcaption>
+</figure>
+
 > Note documentaire : le passage ci-dessous reprend le contenu du traite sur le perimetre du bloc. Les titres, listes, exemples, tableaux et formulations importantes sont conserves pour limiter la perte d'information. Les implications CultureRDR sont separees plus bas.
 
 ## Allergie et crise d’anaphylaxie

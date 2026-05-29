@@ -21,6 +21,11 @@ Ce bloc conserve la partie `interactions/melanges` dans la couche source canoniq
 
 ## Interactions, mélanges
 
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p264_figure_01_interactions_melanges.png" alt="Interactions et mélanges">
+  <figcaption>Figure p. 264 : carte visuelle dense des interactions et melanges ; le texte du chapitre reste la reference pour l'interpretation.</figcaption>
+</figure>
+
 Les médias font souvent les gros
 titres avec des décès liés aux drogues en ciblant une substance particulière,
 comme la 3MMC ou le GHB. Cependant, lorsqu'on examine ces cas dans les revues

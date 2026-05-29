@@ -13,3 +13,4 @@ sources/prompt initial_files/
 node_modules/
 .vitepress/.temp/
 .vitepress/dist/
+vitepress-preview*.log

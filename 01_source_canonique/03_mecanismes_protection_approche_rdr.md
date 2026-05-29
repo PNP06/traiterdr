@@ -237,6 +237,11 @@ Ici, l'objectif n'est pas d'avoir raison ou tort : c'est d'aligner ce que tu veu
 
 ### 7. Infographie p. 34 — Mécanismes de protection psychologique
 
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p034_figure_01_mecanismes_protection_psychologique.png" alt="Mécanismes de protection psychologique">
+  <figcaption>Infographie p. 34 : un message factuel peut être rejeté pour protéger cohérence, identité ou liberté perçue.</figcaption>
+</figure>
+
 Le visuel `MÉCANISMES DE PROTECTION PSYCHOLOGIQUE` condense le chapitre. Phrase centrale :
 
 ```text
@@ -317,6 +322,11 @@ Si contexte à risque (fatigue, conduite, isolement, mélange, forte dose), alor
 L'amélioration partielle et stable a plus de valeur qu'une vérité complète sans effet sur la conduite.
 
 ### 10. Infographie p. 44 — Corriger une croyance en situation
+
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p044_figure_01_corriger_croyance_situation.png" alt="Corriger une croyance en situation">
+  <figcaption>Infographie p. 44 : protocole BUT - CADRE - FOND - SORTIE pour rendre une correction plus recevable.</figcaption>
+</figure>
 
 L'infographie `CORRIGER UNE CROYANCE EN SITUATION : PROTOCOLE BUT – CADRE – FOND – SORTIE` reprend :
 

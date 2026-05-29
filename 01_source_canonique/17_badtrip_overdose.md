@@ -21,6 +21,11 @@ Ce bloc conserve la partie `badtrip/overdose` dans la couche source canonique. I
 
 ## Badtrip
 
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p235_figure_01_badtrip_overdose.png" alt="Badtrip et overdose">
+  <figcaption>Figure p. 235 : support visuel du chapitre sur les situations critiques, badtrip et overdose.</figcaption>
+</figure>
+
 ### Définition
 
 Un bad trip (mauvais trip) se

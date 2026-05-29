@@ -2,49 +2,41 @@
 layout: home
 
 hero:
-  name: "Traité de réduction des risques"
-  text: "Version web documentaire"
-  tagline: "Une base de lecture structurée pour comprendre les principes, mécanismes, limites et incertitudes de la réduction des risques liés aux substances psychoactives."
+  name: "Traite RDR"
+  text: "Lire, explorer, retrouver"
+  tagline: "Une version web du traite de reduction des risques, organisee pour naviguer dans les chapitres, reperer les passages importants, consulter les figures et telecharger le PDF."
   actions:
     - theme: brand
-      text: Lire le traité en ligne
-      link: /01_source_canonique/01_introduction_cadre_objectif_sources
+      text: Lire le traite
+      link: /lire
     - theme: alt
-      text: Télécharger le PDF
+      text: Voir les essentiels
+      link: /essentiels
+    - theme: alt
+      text: Telecharger le PDF
       link: /pdf
-    - theme: alt
-      text: Explorer les thèmes
-      link: /02_themes_transversaux/00_index_themes
 
 features:
-  - title: Version web navigable
-    details: Lecture par chapitres, thèmes transversaux, substances mentionnées, glossaire et index notionnel.
-  - title: PDF de référence
-    details: Le PDF complet reste la version figée, imprimable, archivable et partageable.
-  - title: Corpus exploitable
-    details: Le Markdown sert à la lecture web, à l’indexation, à la traçabilité documentaire et aux futurs modules pédagogiques.
+  - title: Parcours de lecture
+    details: Commencer par les bases, aller vers les risques, puis approfondir les situations critiques et les substances.
+  - title: Parties importantes
+    details: Une selection de passages utiles pour comprendre rapidement ce que le traite apporte.
+  - title: Figures integrees
+    details: Les schemas et infographies les plus importants sont accessibles dans une galerie et dans les chapitres.
 ---
 
-## Périmètre
+## Acces rapides
 
-Ce site met à disposition une version web du traité documentaire de réduction des risques. Il ne constitue pas une incitation à consommer, un protocole d’usage, un avis médical personnalisé ou une garantie de sécurité.
+<div class="callout-row">
+  <a href="/lire">Parcours de lecture</a>
+  <a href="/essentiels">Parties importantes</a>
+  <a href="/sommaire">Sommaire complet</a>
+  <a href="/figures">Figures utiles</a>
+  <a href="/pdf">PDF complet</a>
+</div>
 
-La réduction des risques vise à diminuer les dommages lorsque des consommations existent ou sont envisagées, en favorisant l’information, l’anticipation, le testing, l’accès aux soins, l’entraide et la reconnaissance des situations d’urgence.
+## Ce que contient le site
 
-## Accès rapides
+Le site donne acces au traite sous forme navigable. Les chapitres canoniques restent complets, mais la navigation principale privilegie une lecture humaine : commencer, comprendre les notions importantes, retrouver un chapitre, puis revenir au PDF si besoin.
 
-- [Lire l’introduction](./01_source_canonique/01_introduction_cadre_objectif_sources.md)
-- [Explorer les thèmes transversaux](./02_themes_transversaux/00_index_themes.md)
-- [Explorer les substances mentionnées](./04_substances_mentions/00_index_substances.md)
-- [Consulter le glossaire](./00_pilotage/04_glossaire.md)
-- [Télécharger le PDF complet](./pdf.md)
-
-## Structure du site
-
-Le site repose sur trois niveaux :
-
-1. **Source canonique** : chapitres issus du traité découpé.
-2. **Thèmes transversaux** : regroupements conceptuels pour naviguer par sujet.
-3. **Substances mentionnées** : entrées de repérage, non assimilables à des recommandations d’usage.
-
-Les contenus dérivés destinés à CultureRDR restent à valider séparément. Ils ne doivent pas être confondus avec des règles médicales, juridiques ou de sécurité garanties.
+Le contenu reste une ressource documentaire generale. Il ne constitue pas une incitation a consommer, un protocole d'usage, un avis medical personnalise ou une garantie de securite.

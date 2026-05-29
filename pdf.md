@@ -1,35 +1,33 @@
-# Version PDF du traité
+# Version PDF du traite
 
-Le PDF complet doit rester la version figée, téléchargeable et archivable du traité.
+Le PDF complet est la version figee, telechargeable et archivable du traite.
 
-## Télécharger
+<div class="callout-row">
+  <a href="/traite-rdr.pdf">Ouvrir le PDF</a>
+  <a href="/traite-rdr.pdf" download>Telecharger le PDF</a>
+</div>
 
-::: warning Fichier PDF à ajouter
-Le fichier PDF n’est pas encore versionné dans ce dépôt. Pour activer le lien ci-dessous, placer le fichier dans `public/traite-rdr.pdf` ou adapter le lien vers l’URL publique réelle du PDF.
-:::
+## Usage prevu
 
-[Ouvrir ou télécharger le PDF](/traite-rdr.pdf)
-
-## Usage prévu
-
-La version PDF est préférable pour :
+La version PDF est preferable pour :
 
 - lecture continue hors ligne ;
 - impression ou archivage ;
-- partage d’une version datée ;
-- conservation des éléments de mise en page qui se prêtent mal à une navigation web.
+- partage d'une version datee ;
+- conservation des elements de mise en page qui se pretent mal a une navigation web.
 
 ## Usage de la version web
 
-La version web est préférable pour :
+La version web est preferable pour :
 
-- accéder directement à un sujet ;
+- acceder directement a un sujet ;
 - naviguer entre chapitres ;
-- consulter rapidement depuis un téléphone ;
-- relier CultureRDR à une page documentaire précise.
+- consulter rapidement depuis un telephone ;
+- retrouver une figure ou un passage precis ;
+- relier CultureRDR a une page documentaire precise.
 
-## Avertissement de périmètre
+## Avertissement de perimetre
 
-Ce document est une ressource d’information et d’éducation à la réduction des risques. Il ne constitue pas une incitation à consommer, une validation de pratiques illégales, un avis médical personnalisé, une garantie de sécurité ou un protocole d’usage.
+Ce document est une ressource d'information et d'education a la reduction des risques. Il ne constitue pas une incitation a consommer, une validation de pratiques illegales, un avis medical personnalise, une garantie de securite ou un protocole d'usage.
 
-En cas de malaise, perte de conscience, confusion importante, douleur thoracique, difficulté respiratoire, convulsions, hyperthermie, comportement inhabituel inquiétant ou doute médical, il faut demander une aide médicale sans attendre.
+En cas de malaise, perte de conscience, confusion importante, douleur thoracique, difficulte respiratoire, convulsions, hyperthermie, comportement inhabituel inquietant ou doute medical, il faut demander une aide medicale sans attendre.

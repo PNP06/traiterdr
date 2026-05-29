@@ -21,6 +21,11 @@ Ce bloc conserve la partie `testing/analyses produits/biologie` dans la couche s
 
 ## Analyses des produits et analyses biologiques
 
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p284_figure_01_testing_analyses_produits_biologie.png" alt="Testing, analyses de produits et biologie">
+  <figcaption>Figure p. 284 : support visuel du chapitre testing et analyses, a lire avec les limites detaillees dans le texte.</figcaption>
+</figure>
+
 Contrairement aux produits pharmaceutiques, dont la quantité
 et la fabrication sont contrôlées, les produits illicites n’ont pas ce niveau
 de contrôle et engendrent deux incertitudes :

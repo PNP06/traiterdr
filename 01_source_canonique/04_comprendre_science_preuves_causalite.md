@@ -87,6 +87,11 @@ Dans la phase intermédiaire entre recherche et science, des résultats apparemm
 
 ### 4. Infographie p. 46 — `Science ≠ Recherche`
 
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p046_figure_01_science_vs_recherche.png" alt="Science versus recherche">
+  <figcaption>Infographie p. 46 : distinguer le corpus scientifique stabilisé des questions encore travaillées par la recherche.</figcaption>
+</figure>
+
 L'infographie oppose deux colonnes :
 
 - `Science` : connaissances établies, testées, vérifiées, stabilisées à ce jour ; corpus fiable, provisoire mais robuste ; exemples : Terre ronde, atome, évolution des espèces ;
@@ -201,6 +206,11 @@ Le cannabis abîme-t-il la mémoire ?
 Cette question paraît simple, mais elle montre pourquoi la méthode compte plus que les slogans.
 
 ### 8. Figure 2 — Étapes génériques de la méthode scientifique
+
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p049_figure_01_etapes_methode_scientifique.png" alt="Étapes génériques de la méthode scientifique">
+  <figcaption>Figure p. 49 : étapes génériques permettant de transformer une question en hypothèse testable et confrontée aux données.</figcaption>
+</figure>
 
 La figure présente une séquence verticale :
 

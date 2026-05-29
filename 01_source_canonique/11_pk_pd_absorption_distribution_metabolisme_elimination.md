@@ -19,9 +19,11 @@ Ce bloc conserve la partie `PK/PD/ADME` dans la couche source canonique. Il sert
 
 > Note documentaire : le passage ci-dessous reprend le contenu du traite sur le perimetre du bloc. Les titres, listes, exemples, tableaux et formulations importantes sont conserves pour limiter la perte d'information. Les implications CultureRDR sont separees plus bas.
 
-## Le devenir des
-drogues : métabolisme
-
+## Le devenir des drogues : metabolisme
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p127_figure_01_pk_pd_adme.png" alt="PK PD ADME">
+  <figcaption>Figure p. 127 : repere visuel sur le devenir des substances dans l'organisme.</figcaption>
+</figure>
 Précédemment, la partie présentant l’actions des molécules
 sur le cerveau, est une science appelée pharmacodynamie. Toutefois, la façon
 dont le corps agit sur les substances est très importante car elle détermine
