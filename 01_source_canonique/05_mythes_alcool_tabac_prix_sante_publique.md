@@ -54,9 +54,10 @@ temporaire de la consommation d'alcool sont nombreux, notamment une
 amélioration de la santé physique et mentale, une réduction des risques de
 maladies liées à l'alcool, et des économies financières.
 
-[Image reference: Une image contenant texte, capture d’écran, Police, ligne
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image013.png]
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p052_figure_01_alcool_tabac_sante_publique_prix.png" alt="Alcool Tabac Sante Publique Prix">
+  <figcaption>Figure p. 52 : Alcool Tabac Sante Publique Prix.</figcaption>
+</figure>
 
 Tableau 1.Bénéfices rapportés par les participants au Dry
 January d’après des enquêtes en ligne en 2018 (INSERM)
@@ -78,9 +79,10 @@ est un facteur clé de la réussite de ces campagnes et même les participants
 qui ne réussissent pas le défi de l'abstinence pendant un mois peuvent
 présenter des effets bénéfiques à long terme.
 
-[Image reference: Une image contenant fenêtre, mammifère, fixant
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image010.png]
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p062_figure_01_alcool_tabac_sante_publique_prix.png" alt="Alcool Tabac Sante Publique Prix">
+  <figcaption>Figure p. 62 : Alcool Tabac Sante Publique Prix.</figcaption>
+</figure>
 
 Il y a
 donc un intérêt individuel à entreprendre cette démarche, en particulier
@@ -179,7 +181,6 @@ Kopp (2015) et l’analyse de l’OFDT [41]
 (observatoire français des drogues et toxicomanies) qui sont cohérents avec
 l’expertise collective de l’INSERM, les coûts pour les finances publiques en
 2010 sont résumés dans le tableau ci-dessous :
-
 
 | Coût pour les finances <br> publiques | Milliards d’euros |
 | --- | --- |
@@ -365,7 +366,6 @@ la répression, ainsi que les économies réalisées grâce aux pensions de retr
 non versées aux individus décédés prématurément et les recettes issues des
 taxes sur l'alcool et le tabac.
 
-
 | Type de coût | Assignation à un périmètre de coût |
 | --- | --- |
 | Dépenses d'achat des produits | Coût privé ( non pris en compte ) |
@@ -387,7 +387,6 @@ de second ordre, l’impact social vient principalement de la perte des vies
 humaines.
 
 #### Résultats
-
 
 | Catégorie | Alcool (M€) | Tabac (M€) | Drogues illégales (M€) |
 | --- | --- | --- | --- |
@@ -474,7 +473,6 @@ suffisant.
 Il est cependant impossible de fixer un prix par bouteille, car les taxes sur
 l’alcool sont complexes et dépendent du type de boisson.
 
-
 | Objectif | Nouvelles taxes nécessaires (M€) | Augmentation des revenus provenant des taxes (%) |
 | --- | --- | --- |
 | Finances publiques = 0 | 7 332 | 183% |
@@ -494,7 +492,6 @@ Pour atteindre l’équilibre de l’effet sur le bien-être, le prix devrait ê
 d’environ 14 € .
 Enfin, pour couvrir le coût social total, le prix devrait s’élever à 79 €
 par paquet.
-
 
 | Objectif | Taxes nécessaires/paquet (€) | Prix du paquet (€) | Augmentation des taxes (%) |
 | --- | --- | --- | --- |
@@ -569,9 +566,10 @@ contextes économiques.
 
 ## Boire un verre de vin est bon pour la santé
 
-[Image reference: Une image contenant fenêtre, mammifère, fixant
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image010.png]
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p064_figure_01_alcool_tabac_sante_publique_prix.png" alt="Alcool Tabac Sante Publique Prix">
+  <figcaption>Figure p. 64 : Alcool Tabac Sante Publique Prix.</figcaption>
+</figure>
 
 La
 réponse simple est : NON. L’expertise collective de l’INSERM [50] de 2021
@@ -622,9 +620,10 @@ Par exemple, il est possible de corréler le nombre de
 suicides par strangulation et le budget alloué à la science, l’espace et la
 technologie aux USA.
 
-[Image reference: Une image contenant texte, capture d’écran, ligne, Police
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image014.png]
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p065_figure_01_alcool_tabac_sante_publique_prix.png" alt="Alcool Tabac Sante Publique Prix">
+  <figcaption>Figure p. 65 : Alcool Tabac Sante Publique Prix.</figcaption>
+</figure>
 
 Figure 3. Corrélation entre suicide et budget science et technologie des USA [53]
 
@@ -795,9 +794,10 @@ courbe en J
 Il y a bon nombre d’études observationnelles qui montrent
 une courbe en J.
 
-[Image reference: Une image contenant texte, capture d’écran, ligne, Tracé
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image015.png]
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p066_figure_01_alcool_tabac_sante_publique_prix.png" alt="Alcool Tabac Sante Publique Prix">
+  <figcaption>Figure p. 66 : Alcool Tabac Sante Publique Prix.</figcaption>
+</figure>
 
 Figure 4. Risque relatif de la consommation d’alcool
 pour les maladies cardiaques ischémiques [62]
@@ -827,10 +827,6 @@ passe-t-il pour les autres maladies ? Pour savoir, les chercheurs font
 des « meta-analyses », ils analysent des centaines de publications
 pour en faire une globale.
 
-[Image reference: Une image contenant obscurité, noir, nuit, espace
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image016.png]
-
 Figure 5.
 Risque relatif de la consommation d’alcool [63]
 
@@ -842,10 +838,6 @@ Une méta-analyse a été faite en moyennant l’ensemble des
 facteurs de mortalité de l’alcool et en intégrant cette fameuse courbe en J
 pour certains problèmes cardiaques. Cette étude est co-signée par des centaines
 de chercheurs du monde entier.
-
-[Image reference: Une image contenant flèche
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image017.png]
 
 Figure 6.
 Risque relatif de décès lié à l’alcool en fonction de la consommation de verres
@@ -977,10 +969,6 @@ consommation en fonction de ses propres critères d’arbitrage et aux
 professionnels d’offrir une réponse graduée, adaptée au niveau de risque et
 d’accroche de chaque usager. »
 
-[Image reference: Une image contenant fenêtre, mammifère, fixant
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image010.png]
-
 L’état
 des connaissances actuelles, porté notamment par les autorités sanitaires,
 permet d’affirmer qu’il n’existe pas de consommation d’alcool sans
@@ -1075,7 +1063,6 @@ de frappe).
 A titre d’exemple, une étude [72] à comparer les effets
 antioxydant du vin, du jus de raisin et de solution de resvératrol sur des rats
 ayant une alimentation grasse. Cela reproduit le French Paradox.
-
 
 | Jus de raisin | Action anti inflammatoire et anti oxydante. Amélioration <br> de la quantité de « bon » cholestérol. Amélioration des marqueurs <br> du foie. |
 | --- | --- |

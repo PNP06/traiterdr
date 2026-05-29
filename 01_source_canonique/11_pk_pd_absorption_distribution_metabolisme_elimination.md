@@ -1,10 +1,7 @@
 # PK, PD, absorption, distribution, metabolisme et elimination
 
 ## Le devenir des drogues : metabolisme
-<figure class="doc-figure">
-  <img src="../05_assets_visuels/p127_figure_01_pk_pd_adme.png" alt="PK PD ADME">
-  <figcaption>Figure p. 127 : repere visuel sur le devenir des substances dans l'organisme.</figcaption>
-</figure>
+
 Précédemment, la partie présentant l’actions des molécules
 sur le cerveau, est une science appelée pharmacodynamie. Toutefois, la façon
 dont le corps agit sur les substances est très importante car elle détermine
@@ -52,9 +49,10 @@ Deux mécanismes expliquent pourquoi il n’est pas possible de
 « rester perché » : le premier est la tolérance aiguë (tachyphylaxie), et le
 second est la dégradation des principes actifs par l'organisme.
 
-[Image reference: Une image contenant fenêtre, mammifère, fixant
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image010.png]
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p127_figure_01_pk_pd_adme.png" alt="Pk Pd Adme">
+  <figcaption>Figure p. 127 : Pk Pd Adme.</figcaption>
+</figure>
 
 Le
 corps réussit toujours à transformer et à éliminer les substances ; la notion
@@ -83,15 +81,17 @@ sang atteint, la drogue se diffuse dans tout l'organisme, agit rapidement, mais
 est aussi vite éliminée par le corps. À l'inverse, plus il y a d'organes
 intermédiaires, plus l'effet à dose égale sera moins intense mais plus prolongé .
 
-[Image reference: Une image contenant texte, capture d’écran, diagramme
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image066.jpg]
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p127_figure_02_pk_pd_adme.png" alt="Pk Pd Adme">
+  <figcaption>Figure p. 127 : Pk Pd Adme.</figcaption>
+</figure>
 
 Figure 23.Vitesse d'apparition des effets de la cocaïne en fonction de la voie d'administration [174]
 
-[Image reference: Une image contenant ligne, capture d’écran, conception, art
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image067.png]
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p129_figure_01_pk_pd_adme.png" alt="Pk Pd Adme">
+  <figcaption>Figure p. 129 : Pk Pd Adme.</figcaption>
+</figure>
 
 Figure 24.
 Schéma de la concentration dans le sang en fonction de la voie d'administration
@@ -147,7 +147,6 @@ Par exemple, la morphine a une biodisponibilité orale d’environ 30 %, ce qui
 signifie qu’il faut administrer une dose trois fois plus élevée par voie orale
 pour obtenir les mêmes effets qu’une injection.
 
-
 | Substance | Voie d'administration | Biodisponibilité approximative | Dose équivalente approximative |
 | --- | --- | --- | --- |
 | Morphine | Orale | 20-40% | 25-50 mg |
@@ -188,9 +187,10 @@ d’élimination est réduite, prolongeant la présence du diazépam dans
 l’organisme. Cela allonge la durée d’action et augmente les risques de sédation
 prolongée ou d’autres effets indésirables.
 
-[Image reference: Une image contenant fenêtre, mammifère, fixant
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image010.png]
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p131_figure_01_pk_pd_adme.png" alt="Pk Pd Adme">
+  <figcaption>Figure p. 131 : Pk Pd Adme.</figcaption>
+</figure>
 
 L’adaptation des doses en
 fonction de la biodisponibilité est particulièrement importante dans un
@@ -214,7 +214,10 @@ sels ne peuvent se fumer ; pour fumer de la cocaïne, il faut donc la convertir
 en base libre (forme organique). C'est donc une légère différence d'état
 physique qui permet de la fumer, mais qui ne modifie pas le mécanisme d'action.
 
-[Image reference: Solved Given the structure of cocaine (right) and its free | Chegg.com; source export Word: Traité RDR version html_fichiers/image068.png]
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p132_figure_01_pk_pd_adme.png" alt="Pk Pd Adme">
+  <figcaption>Figure p. 132 : Pk Pd Adme.</figcaption>
+</figure>
 
 Figure 25.
 Cocaïne fumée (crack) à gauche, Cocaïne sniffée à droite
@@ -236,9 +239,10 @@ ou d'autres substances anesthésiantes.
 Les modes
 d’administration font varier :
 
-[Image reference: Une image contenant fenêtre, mammifère, fixant
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image010.png]
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p133_figure_01_pk_pd_adme.png" alt="Pk Pd Adme">
+  <figcaption>Figure p. 133 : Pk Pd Adme.</figcaption>
+</figure>
 
 -le
 temps de montée,
@@ -256,7 +260,6 @@ En termes de gestion des risques, l'illégalité des drogues
 et leur qualité variable rendent certains modes d'administration plus ou moins
 risqués [179] .
 
-
 | Voie <br> d'administration | Montée des <br> effets | Risques | Parades |
 | --- | --- | --- | --- |
 | Intraveineuse | Quelques secondes | · Surdosage involontaire <br> · Risques de transmission HIV, hépatite C, <br> etc. <br> · Risques grave lié à l’injection de <br> bactéries et impuretés présentent dans la drogue | · Réduire la poudre, caillou aussi <br> finement que possible <br> · Utiliser une solution propre <br> · Choisir une seringue appropriée <br> · Utiliser un filtre pour remplir la <br> seringue <br> · Désinfecter et changer régulièrement de <br> point d’injection <br> · Utiliser son propre matériel |
@@ -273,9 +276,10 @@ Risques en fonction des modes d'administration
 Le premier passage dans le foie permet de faire un lien
 entre l’absorption et la métabolisation.
 
-[Image reference: Une image contenant texte, capture d’écran, diagramme, Police
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image069.png]
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p135_figure_01_pk_pd_adme.png" alt="Pk Pd Adme">
+  <figcaption>Figure p. 135 : Pk Pd Adme.</figcaption>
+</figure>
 
 Figure 26.Schéma des voies d'administration
 
@@ -339,9 +343,10 @@ transférases, attache un acide glucuronique à la molécule, la rendant beaucou
 plus facile à éliminer par l’urine ou la bile. Ces réactions se déroulent aussi
 principalement dans le foie.
 
-[Image reference: Une image contenant capture d’écran, Graphique, graphisme, Police
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image070.png]
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p137_figure_01_pk_pd_adme.png" alt="Pk Pd Adme">
+  <figcaption>Figure p. 137 : Pk Pd Adme.</figcaption>
+</figure>
 
 Figure 27.
 Schéma simplifié de la métabolisation
@@ -369,19 +374,11 @@ des molécules généralistes (les cytochromes).
 
 ###### Les molécules spécialisées
 
-[Image reference: Une image contenant texte, horloge, périphérique, jauge
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image071.png]
-
 Figure 28 .Métabolisation de l'alcool par l'ADH et l'ALDH
 (C=carbone, O=Oxygène, H=Hydrogène)
 
 Environ 90% de l’alcool consommé est métabolisé par cette
 voie. La phase 1 est réalisée en plusieurs réactions.
-
-[Image reference: Une image contenant fenêtre, mammifère, fixant
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image010.png]
 
 La
 première est réalisée par une molécule active de l‘organisme qui s‘appelle
@@ -422,17 +419,12 @@ dans la boisson alcoolisé) contre 40 calories pour 10 grammes de sucres. Ce
 calcul ne tient pas compte des sucres qui seront stockés durant la
 « digestion » de l’alcool.
 
-
 | Aliment/Boisson | Calories <br> (pour 100 g) |
 | --- | --- |
 | Vin <br> rouge | 83 |
 | Coca | 39 |
 | Hamburger | 250 |
 | Piña <br> colada | 239 |
-
-[Image reference: Une image contenant fenêtre, mammifère, fixant
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image010.png]
 
 1
 verre de vin rouge (environ 15cl) équivaut à 1 canette de coca (33cl).
@@ -446,7 +438,6 @@ Génétiquement, certaines
 personnes vont avoir naturellement plus d’enzymes ADH et peu d’ALDH, causant
 des effets extrêmement désagréables dès le premier verre bu. Ils ont donc
 beaucoup moins de risque de tomber dans l’alcoolisme.
-
 
 | ADH | ALDH | Effets ressentis | Sensibilité à l’alcool |
 | --- | --- | --- | --- |
@@ -492,10 +483,6 @@ fonctionnement de l’organisme.
 Le foie se concentre sur la
 dégradation de l’alcool, engendrant des problèmes de foie gras et d’acidose .
 
-[Image reference: Une image contenant fenêtre, mammifère, fixant
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image010.png]
-
 En
 fonction de la génétique il est possible d’être intolérant à une drogue ,
 cela évite de tomber dans l’addiction mais peu augmenter la toxicité lors des
@@ -523,10 +510,6 @@ différences génétiques (c’est le polymorphisme).
 
 Le principal cytochrome impliqué dans la transformation de
 l’alcool en éthanal est le CYP2E1.
-
-[Image reference: Une image contenant capture d’écran, texte, diagramme, ligne
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image072.png]
 
 Figure 29 . Métabolisation de l'alcool par les cytochrome
 
@@ -578,10 +561,6 @@ Donc, lors d’une consommation régulière d’alcool notamment
 une alcoolisation importante, la quantité de CYP2E1 augmente, en cas de prise
 de paracétamol il y a un risque de nécrose hépatique plus important.
 
-[Image reference: Une image contenant fenêtre, mammifère, fixant
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image010.png]
-
 La
 consommation d’alcool peut rendre toxique la prise de paracétamol et d’autre
 médicaments. Il ne faut pas prendre de paracétamol les lendemains de fêtes.
@@ -626,10 +605,6 @@ La détection de ces produits de dégradation offre des
 informations précieuses pour les professionnels de la santé et la justice.
 
 #### Prodrogue : Exemple de la codéine
-
-[Image reference: Une image contenant texte, capture d’écran, Police, Graphique
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image073.png]
 
 Figure 30.Schéma simplifié de la métabolisation de la codéine
 
@@ -724,7 +699,6 @@ Au bout de 5 périodes [193] ,
 début, car la concentration est élevée et le corps réagit en conséquence ; avec
 le temps, le taux d'élimination diminue.
 
-
 | Temps écoulé <br> (heures) | Nombre de <br> demi-vie | Quantité <br> éliminée |
 | --- | --- | --- |
 | 0 | 0 | 0,0% |
@@ -767,10 +741,6 @@ Attention : La demi-vie indique la durée de
 présence d’une substance dans le corps, mais elle n’est pas toujours corrélée
 aux effets ressentis. Une personne peut avoir une concentration élevée sans
 ressentir d’effet, notamment à cause de la tolérance aiguë.
-
-[Image reference: Une image contenant fenêtre, mammifère, fixant
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image010.png]
 
 La
 concentration dans le corps diminue de moitié à chaque demi-vie.

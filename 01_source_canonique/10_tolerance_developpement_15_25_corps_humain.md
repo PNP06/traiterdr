@@ -19,9 +19,10 @@ car ils ont des implications différentes pour le diagnostic et le traitement.
 Tolérance = diminution de
 l’effet de la substance par l’adaptation de l’organisme
 
-[Image reference: Une image contenant fenêtre, mammifère, fixant
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image010.png]
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p115_figure_01_tolerance_developpement_15_25_corp.png" alt="Tolerance Developpement 15 25 Corp">
+  <figcaption>Figure p. 115 : Tolerance Developpement 15 25 Corp.</figcaption>
+</figure>
 
 Dépendance=
 C’est un besoin vital de reprendre une substance , cette notion est
@@ -44,37 +45,33 @@ neurotransmetteurs sont envoyés par le neurone 1 au neurone 2. En cas de
 surstimulation, une mort cellulaire du neurone 2 peut survenir; plusieurs
 moyens de protection sont donc employés par ce dernier.
 
-[Image reference: Une image contenant Dessin d’enfant, diagramme, clipart
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image055.jpg]
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p119_figure_01_tolerance_developpement_15_25_corp.png" alt="Tolerance Developpement 15 25 Corp">
+  <figcaption>Figure p. 119 : Tolerance Developpement 15 25 Corp.</figcaption>
+</figure>
 
 Figure 18 .Schéma des mécanismes de tolérance
 
 Voici les principaux :
 
-[Image reference: Une image contenant symbole, cercle
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image056.jpg]
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p120_figure_01_tolerance_developpement_15_25_corp.png" alt="Tolerance Developpement 15 25 Corp">
+  <figcaption>Figure p. 120 : Tolerance Developpement 15 25 Corp.</figcaption>
+</figure>
 
 1.
  Cacher(internalisé) –
 Une internalisation temporaire des récepteurs peut être effectuée par le
 neurone 2. Cela permet de diminuer la stimulation du neurone.
 
-[Image reference: image057.jpg; source export Word: Traité RDR version html_fichiers/image057.jpg]
-
 2.
  Downregulation ce
 phénomène est là suite de l’internalisation. Ici le neurone caché est détruit
-
-[Image reference: image058.jpg; source export Word: Traité RDR version html_fichiers/image058.jpg]
 
 3.
  Désactiver – Le neurone 2 peut
 modifier la forme des récepteurs pour qu’ils génèrent moins d’influx
 électriques
-
-[Image reference: image059.jpg; source export Word: Traité RDR version html_fichiers/image059.jpg]
 
 4.
  Les autorécepteurs Les
@@ -83,16 +80,10 @@ Lors d'une surabondance de neurotransmetteurs dans la synapse, ceux-ci se
 fixent sur ces récepteurs, incitant le neurone à réduire la libération de
 neurotransmetteurs
 
-[Image reference: Une image contenant Bleu électrique, bleu
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image060.jpg]
-
 5.
  Déplétion (Plus de stock) L'épuisement
 des stocks de neurotransmetteurs peut se produire avec certaines drogues, comme
 la MDMA. En l'absence de stocks, la drogue n'a plus d'effet.
-
-[Image reference: image061.jpg; source export Word: Traité RDR version html_fichiers/image061.jpg]
 
 6.
  Baisse de production de récepteur Réduction
@@ -191,10 +182,6 @@ L'exemple de l'anesthésie est le plus frappant, mais cela
 peut également s'appliquer à des médicaments cardiaques, des somnifères, et
 bien d'autres.
 
-[Image reference: Une image contenant fenêtre, mammifère, fixant
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image010.png]
-
 La
 consommation (même occasionnelle) de substance peut rendre tolérant aux
 médicaments
@@ -232,10 +219,6 @@ Il existe des calculateurs pour
 ce type de tolérance (pour le LSD et le cannabis notamment [165] ) , mais il est difficile
 d’avoir un résultat fiable.
 
-[Image reference: Une image contenant fenêtre, mammifère, fixant
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image010.png]
-
 La
 tolérance aigue est ressentie à chaque prise et empêche de redoser
 
@@ -271,10 +254,6 @@ Ci-après, un graphique illustrant les deux notions
 (tolérance aiguë et accoutumance). En ordonnée, c'est la quantité à prendre
 pour obtenir les effets équivalents à une première prise d’un gramme
 
-[Image reference: Une image contenant texte, ligne, diagramme, Tracé
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image062.png]
-
 Figure 19.Tachyphylaxie (orange) , accoutumance (noir), pour un médicament X
 
 En résumé, dans le cadre d'une administration unique d'un
@@ -295,10 +274,6 @@ Tolérances :
 - Tolérance Courte
 (Tachyphylaxie) : Apparaît rapidement à chaque prise et est généralement
 constante d'un consommateur à l'autre.
-
-[Image reference: Une image contenant fenêtre, mammifère, fixant
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image010.png]
 
 -
  Tolérance Longue (Accoutumance) : Se développe sur des prises répétées
@@ -350,10 +325,6 @@ part, elle a bien une explication neurologique.
 Tout le cerveau se « refait», c’est ce que l’on appelle
 la maturation cérébrale .
 
-[Image reference: Une image contenant Cerveau
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image063.jpg]
-
 Figure 20.
 Maturation du cerveau
 
@@ -389,10 +360,6 @@ Malheureusement, la période de 15
 risque, y compris la prise de drogue. Pour aggraver la situation, à cet âge, la
 concentration de certains neurones à dopamine est plus élevée et provoque un
 plaisir plus grand qu’une consommation à un âge adulte.
-
-[Image reference: Une image contenant fenêtre, mammifère, fixant
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image064.png]
 
 Notre
 cerveau se construit de 15 à 25ans.
@@ -437,8 +404,6 @@ sont régis en arrière-plan. En somme, le système nerveux orchestre nos pensé
 nos interactions avec le monde extérieur, la coordination de nos muscles, ainsi
 qu'une panoplie de processus biologiques et chimiques internes.
 
-[Image reference: image065.png; source export Word: Traité RDR version html_fichiers/image065.png]
-
 Figure 21.Organisation du système nerveux
 
 #### Système nerveux central
@@ -480,7 +445,6 @@ le contexte médical qui sera développé ici, il prend un sens peut-être plus 
 rapport avec l'idée d'une action indirecte, semblable à l'encre sympathique ou
 à la magie sympathique utilisée dans certaines pratiques vaudou [171] .
 
-
 |  | Système Parasympathique | Système Sympathique |
 | --- | --- | --- |
 | Rôle | Conserver <br> l’énergie durant les périodes de repos | Adaptation au <br> stress ou émotions fortes. Prépare le corps à l’action |
@@ -515,10 +479,6 @@ médicaments apparemment bénins, comme ceux destinés au traitement du rhume. U
 telle combinaison peut entraîner des effets indésirables graves, soulignant
 l'importance d'une approche prudente et bien informée de la consommation
 de médicaments.
-
-[Image reference: Une image contenant fenêtre, mammifère, fixant
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image010.png]
 
 Toutes les drogues ne dilatent
 pas les pupilles.

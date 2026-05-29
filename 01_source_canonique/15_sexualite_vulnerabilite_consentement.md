@@ -34,10 +34,6 @@ A eux seuls, les résultats des analyses toxicologiques ne
 permettent pas donc pas toujours de répondre à cette question et doivent être
 dès lors confrontés aux déclarations des victimes et des témoins [278] .
 
-[Image reference: Une image contenant fenêtre, mammifère, fixant
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image010.png]
-
 En
 aucun cas une vulnérabilité chimique ne justifie une agression . Soumission
 ou vulnérabilité, le problème n’est ni la victime, ni la substance mais
@@ -94,7 +90,6 @@ soumission dans un but d’agression physique, mais plutôt dans le but de les
 faire dormir (alcool dans un biberon, Lexomil dans un yahourt, etc). C’est un
 cas de maltraitance infantile.
 
-
 | Répartition des <br> cas de soumissions chimiques de 2017 à 2019 |  |  |  |
 | --- | --- | --- | --- |
 |  | Femmes | Hommes | Enfants |
@@ -106,7 +101,6 @@ Tableau 29.Répartition par sexe des cas de soumissions chimiques, sur la base d
 
 Les statistiques sur 159 cas
 en 3 ans sont les suivantes :
-
 
 | Soumission chimique |  |  |  |
 | --- | --- | --- | --- |
@@ -138,10 +132,6 @@ les sédatifs et les autres drogues, s e focaliser sur les tests du GHB
 diminue considérablement les chances de prouver l’agression. Si les
 victimes pensent que la drogue utilisée est du GHB et qu’elles croient qu’il
 n’est pas détectable, elles penseront qu’il est inutile de faire des tests.
-
-[Image reference: Une image contenant fenêtre, mammifère, fixant
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image080.png]
 
 è Les résultats sont
 écrasants : les médicaments sont les principaux produits utilisés pour
@@ -191,7 +181,6 @@ difficile et plus détectable.
 
 #### Vulnérabilité chimique
 
-
 | Vulnérabilité chimique de 2017 à 2019 |  |  |  |
 | --- | --- | --- | --- |
 |  | Drogue | Drogue + médicaments | Médicament |
@@ -203,7 +192,6 @@ Tableau 31. Répartition drogues et médicaments dans le cas de vulnérabilité 
 En cas des vulnérabilités chimiques, le
 rapport s’inverse. Ce sont les drogues qui arrivent en tête, avec la
 répartition suivante :
-
 
 | Drogues et cas de vulnérabilité chimique |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -225,10 +213,6 @@ de l’ANSM est la suivante : « Quant à la vulnérabilité chimique,
 l’usage de protoxyde d’azote est cité pour la première fois et la
 consommation banalisée de l’alcool reste le problème majeur (96 %) suivi
 de celle du cannabis. »
-
-[Image reference: Une image contenant fenêtre, mammifère, fixant
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image010.png]
 
 L’idée
 n’est pas de culpabiliser les victimes. L’objectif est de prendre conscience
@@ -279,10 +263,6 @@ sous-estimation des effets des produits. Il est donc essentiel d’élargir le
 spectre de la prévention pour inclure l’ensemble des substances pouvant être
 utilisées à ces fins, sans se limiter au GHB.
 
-[Image reference: Une image contenant fenêtre, mammifère, fixant
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image082.png]
-
 Focaliser la prévention sur
 le GHB comme « drogue du viol » banalise l’usage d’autres substances comme
 l’alcool ou les anxiolytiques, donnant aux agresseurs l’illusion que ces actes
@@ -296,10 +276,6 @@ consommer davantage par diverses stratégies, souvent liées à l’alcool. C’
 la vulnérabilité proactive . Ces comportements, majoritairement observés
 dans des contextes festifs, reposent sur des mécanismes insidieux comme par
 exemple :
-
-[Image reference: Une image contenant fenêtre, mammifère, fixant
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image010.png]
 
 Ces
 pratiques, malheureusement communes montrent un élément important des
@@ -486,10 +462,6 @@ sensibilisations sur la vulnérabilité et les comportements à risque .
 · Aucun
 dispositif (capote à verre, paille, test) n'empêche totalement les agressions.
 
-[Image reference: Une image contenant fenêtre, mammifère, fixant
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image010.png]
-
 · Leur
 efficacité est incertaine et peut créer un faux sentiment de sécurité.
 
@@ -518,7 +490,6 @@ tableau suivant propose quelques pistes , à intégrer dans votre set and
 setting pour se protéger des soumissions/vulnérabilités chimiques mais
 également d’agressions et de fin de soirée chaotiques.
 
-
 | Connaissance générale | Connaitre ses limites et les effets des substances <br> consommées. |
 | --- | --- |
 | Avant la soirée | Organisez-vous pour pouvoir vous exfiltrer de la soirée et <br> prévoyez une gestion de crise : <br> Prévenir un proche de sa soirée (y compris chez des amis) <br> afin qu’il puisse venir en cas de besoin, <br> Connaitre les numéros d’urgence, <br> Installer des applications de géolocalisation et d’urgence <br> (Mon chaperon, Ice GeoAlert, life360), En festival, utiliser l’application <br> Safer. <br> Choisir un SAM (une personne qui restera sobre dans la <br> soirée), <br> Discuter du sujet avec vos ami(e)s. |
@@ -535,10 +506,6 @@ tout de même, de mieux réagir.
 
 Quel que soit le risque considéré (soumission, accident,
 badtrip), si l’on souhaite l’éviter, mieux vaut le prévenir et s’y préparer.
-
-[Image reference: Une image contenant fenêtre, mammifère, fixant
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image010.png]
 
 · Prévention :
 préparation, connaissance du sujet, discussion avec les amis
@@ -627,10 +594,6 @@ d'ébriété, ils maintiennent ces limites. Les Tarhumara du Mexique limitent
 strictement les rencontres sexuelles en temps normal, mais lorsqu'ils sont
 ivres, l'échange de partenaires devient la norme.
 
-[Image reference: Une image contenant fenêtre, mammifère, fixant
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image010.png]
-
 L’ effet
 sur le désir sexuel lors de consommations modérées d’alcool existe, mais
 il semble être lié à un effet placebo
@@ -646,10 +609,6 @@ relations avec des inconnus. [291]
 Ces comportements accroissent les risques d'IST et de
 grossesses non désirées, et peuvent engendrer regret, honte ou anxiété,
 impactant l'estime de soi et le bien-être global.
-
-[Image reference: Une image contenant fenêtre, mammifère, fixant
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image010.png]
 
 Toujours
 prévoir un moyen de contraception
@@ -704,10 +663,6 @@ la dysfonction sexuelle féminine sont moins solides que celles concernant la
 dysfonction érectile, en raison du faible nombre d'études disponibles sur le
 sujet.
 
-[Image reference: Une image contenant fenêtre, mammifère, fixant
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image010.png]
-
 Chez l’homme, la consommation
 importante d’alcool provoque des problèmes sexuels
 
@@ -735,10 +690,6 @@ augmenter la difficulté à atteindre l'orgasme. [298]
 
 Les mêmes effets sont rencontrés pour les femmes avec une
 latence a l’orgasme [299] [300]
-
-[Image reference: Une image contenant fenêtre, mammifère, fixant
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image010.png]
 
 Lors
 d’une consommation régulière ou de consommation importantes, il y a une baisse
@@ -783,10 +734,6 @@ indiquent que la consommation d'alcool durant les périodes de préconception et
 de conception (pour les hommes et les femmes) est associée à un risque plus
 élevé de malformations cardiaques pour les bébés, surtout avec une consommation
 élevée et consommation de type « binge drinking »
-
-[Image reference: Une image contenant fenêtre, mammifère, fixant
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image010.png]
 
 Même
 une consommation modérée impacte la fécondabilité de l’ovule chez la femme

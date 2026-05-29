@@ -133,7 +133,6 @@ plus que le sucre. Les drogues d’abus, elles, n’ont pas besoin de saveur
 agréable : leur pouvoir addictif provient de leurs effets directs sur le
 cerveau, indépendamment de leur goût.
 
-
 | Aspect étudié | Sucre | Cocaïne |
 | --- | --- | --- |
 | Contexte <br> expérimental | Les <br> comportements addictifs n'apparaissent que dans des conditions artificielles <br> (privation suivie d'accès intermittent). | Provoque une <br> dépendance même en accès continu et sans manipulation extérieure. |
@@ -190,9 +189,10 @@ utilisé de manière pratique pour décrire certains comportements qui ont des s
 traités de la même manière que les addictions traditionnelles, car ils
 n'activent pas les mêmes mécanismes dans le cerveau.
 
-[Image reference: Une image contenant fenêtre, mammifère, fixant
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image010.png]
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p078_figure_01_sucre_naturel_reste_perche_contact.png" alt="Sucre Naturel Reste Perche Contact">
+  <figcaption>Figure p. 78 : Sucre Naturel Reste Perche Contact.</figcaption>
+</figure>
 
 · Certaines
 conséquences des addictions, comme l'isolement social et le délaissement
@@ -227,9 +227,10 @@ Cette dichotomie s'avère particulièrement problématique dans
 le domaine des drogues, où la perception de la naturalité peut fausser la
 compréhension de la toxicité et des risques associés.
 
-[Image reference: Une image contenant fenêtre, mammifère, fixant
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image010.png]
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p081_figure_01_sucre_naturel_reste_perche_contact.png" alt="Sucre Naturel Reste Perche Contact">
+  <figcaption>Figure p. 81 : Sucre Naturel Reste Perche Contact.</figcaption>
+</figure>
 
 Or,
 il est important de comprendre que, quelle que soit l’origine (naturelle ou
@@ -456,7 +457,6 @@ repose davantage sur une perception idéalisée du « naturel » que
 sur une évaluation rigoureuse des risques et bénéfices de chaque option
 thérapeutique.
 
-
 | Critère | ISRS <br> (Inhibiteurs Sélectifs de la Recapture de la Sérotonine) | Millepertuis |
 | --- | --- | --- |
 | Type de <br> substance | Médicaments de <br> synthèse | Plante <br> médicinale |
@@ -540,9 +540,10 @@ effet sur le cerveau, il doit nécessairement subir une transformation chimique.
 Dans la mesure où la molécule active n’est pas celle produite par la plante,
 est ce que cela est naturel ?
 
-[Image reference: Une image contenant diagramme, blanc, croquis, ligne
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image018.png]
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p089_figure_01_sucre_naturel_reste_perche_contact.png" alt="Sucre Naturel Reste Perche Contact">
+  <figcaption>Figure p. 89 : Sucre Naturel Reste Perche Contact.</figcaption>
+</figure>
 
 Figure 7.Transformation du THCa en THC
 
@@ -561,16 +562,8 @@ identique à une molécule naturellement générée par le corps. C'est le cas d
 GHB, qui est naturellement présent dans l’organisme et qui est un précurseur
 d’un neurotransmetteur naturel, le GABA.
 
-[Image reference: Une image contenant texte, capture d’écran, Police, ligne
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image019.png]
-
 Figure 8. Transformation du GHB (gauche) en GABA (droite) dans l'organisme (par la gaba
 transaminase)
-
-[Image reference: Une image contenant fenêtre, mammifère, fixant
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image010.png]
 
 Autrement dit :
 
@@ -600,10 +593,6 @@ temporairement les lois en vigueur. Ces nouveaux dérivés sont souvent obtenus 
 partir de molécules de CBD ou de THC extraites de la plante, puis transformées
 chimiquement dans un laboratoire grâce à des réactions spécifiques, comme
 l’ajout ou le retrait de certains groupements chimiques.
-
-[Image reference: Une image contenant fenêtre, mammifère, fixant
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image010.png]
 
 Sur
 le plan marketing, il est nécessaire de conserver une image naturelle pour
@@ -660,7 +649,6 @@ comprendre, mais elle manque souvent de mise en perspective avec les risques
 avérés et massifs du tabac fumé . À ce jour, rien ne tue autant que la
 cigarette traditionnelle.
 
-
 | Composition | Cigarette | Substitut nicotinique | Cigarette électronique |
 | --- | --- | --- | --- |
 | Voie d’incorporation | Fumée issue de la combustion, créant des particules dans <br> l’air (principale cause de la toxicité) | Sublinguale, cutanée | Vapeur : création d’un aérosol (liquide dans l’air) |
@@ -677,10 +665,6 @@ lors de la fermentation alcoolique ou par dégradation des graisses.
 Contrairement à une idée reçue, la cigarette électronique est souvent
 considérée comme moins « naturelle » que la cigarette classique, alors qu’en
 réalité, l’exposition globale aux substances nocives est bien plus faible.
-
-[Image reference: Une image contenant fenêtre, mammifère, fixant
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image010.png]
 
 Enfin, si le produit est
 fumé, qu'il soit naturel ou non, la combustion devient le principal problème.
@@ -713,8 +697,6 @@ L’alcool n’est pas une molécule, mais une famille de
 molécule. Un alcool est une molécule qui contient un groupement
 oxygène-hydrogène.
 
-[Image reference: Retrouver la fonction alcool et la terminaison des noms d'alcools; source export Word: Traité RDR version html_fichiers/image020.jpg]
-
 Figure 9.
 De gauche à droite : Méthanol, Éthanol, Propanol /C=carbone H=hydrogène O=
 oxygène H=hydrogène
@@ -743,10 +725,6 @@ les levures. Au-delà de 15% d’alcool dans le milieu, les levures meurent.
 Cela veut dire qu’une boisson alcoolisée qui dépasse 15% a
 subi un procédé physico-chimique pour être concentré : la distillation.
 (Les vins ne dépassent pas les 15%).
-
-[Image reference: Une image contenant texte, capture d’écran, Police, conception
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image021.jpg]
 
 La nature est parfaitement imparfaite, et la fermentation
 pour la création des boissons alcoolisées conduisent à la production d'une
@@ -793,10 +771,6 @@ n’est pas forcément réalisé et les normes ne sont pas les mêmes : ce sont
 des mélanges éthanol/méthanol en plus ou moins grande quantité. Par
 exemple : l’alcool ménager, alcool désinfectant (à 90°), les eaux de
 Cologne… dans certains cas ils peuvent être volontairement adultérés
-
-[Image reference: Une image contenant fenêtre, mammifère, fixant
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image010.png]
 
 Boire
 un alcool artisanal ou fait maison représente un risque potentiellement grave
@@ -915,10 +889,6 @@ La toxicité est déterminée
 par la structure chimique des substances et leurs actions sur le corps, non
 pas par leur origine (« naturelle » ou non)
 
-[Image reference: Une image contenant fenêtre, mammifère, fixant
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image010.png]
-
 Les risques et les avantages
 des substances sont évalués sur la base de données scientifiques, et non de
 perceptions biaisées
@@ -932,10 +902,6 @@ Il est courant d'entendre dire que l'on peut rester bloqué,
 "perché", lors d'une prise de drogue. Le terme est inapproprié ,
 car le cerveau ne peut pas rester bloqué. La substance finit par se dégrader et
 le cerveau s'adapte. Cela est vrai pour toutes les drogues.
-
-[Image reference: Une image contenant fenêtre, mammifère, fixant
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image010.png]
 
 Il
 est important de comprendre que la drogue finit toujours par disparaitre de
@@ -1077,10 +1043,6 @@ plus ponctuel.
 Pour résumer, il est
 important de retenir que :
 
-[Image reference: Une image contenant fenêtre, mammifère, fixant
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image010.png]
-
 -
 La consommation de substances psychoactives (LSD, MDMA, antidépresseurs,
 cannabis) peut entraîner des effets de rémanence.
@@ -1123,10 +1085,6 @@ général.
 En conclusion, bien qu'il existe
 plusieurs problèmes qui peuvent persister ou apparaître avec le temps, cela ne
 signifie pas que la personne reste bloquée ou perchée.
-
-[Image reference: Une image contenant fenêtre, mammifère, fixant
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image010.png]
 
 L'expression
 « resté bloqué » ou « resté perché » :
@@ -1211,9 +1169,6 @@ Ces notions sont développées dans les différentes sections
 du livre, notamment dans la classification des substances et la partie dédiée à
 l’addiction.
 
-[Image reference: Le parcours addictif
-CR AVING; source export Word: Traité RDR version html_fichiers/image022.png]
-
 Figure 10.
 Parcours de l'addiction. Dr.CHIPI et Dr.LAJZEROWICZ [120]
 
@@ -1278,7 +1233,6 @@ pour apprécier leur potentiel addictif relatif dans un cadre épidémiologique.
 Les premières estimations robustes ont été produites à
 partir d’enquêtes représentatives en population générale, utilisant des
 critères diagnostiques standardisés.
-
 
 | Substance | Taux de conversion vie <br> entière (≈) | Cadre méthodologique |
 | --- | --- | --- |

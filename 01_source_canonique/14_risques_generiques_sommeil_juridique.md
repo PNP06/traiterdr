@@ -30,10 +30,6 @@ perturbe le sommeil sur une période plus longue . Ces effets sont
 proportionnels à la dose d'alcool consommée. Toutefois, même à faible dose, il
 y a un retard dans l'atteinte du sommeil paradoxal [270] .
 
-[Image reference: Une image contenant fenêtre, mammifère, fixant
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image010.png]
-
 L’alcool favorise
 l’endormissement mais diminue la qualité du sommeil
 

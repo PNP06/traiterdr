@@ -2,11 +2,6 @@
 
 ## Analyses des produits et analyses biologiques
 
-<figure class="doc-figure">
-  <img src="../05_assets_visuels/p284_figure_01_testing_analyses_produits_biologie.png" alt="Testing, analyses de produits et biologie">
-  <figcaption>Figure p. 284 : support visuel du chapitre testing et analyses, a lire avec les limites detaillees dans le texte.</figcaption>
-</figure>
-
 Contrairement aux produits pharmaceutiques, dont la quantité
 et la fabrication sont contrôlées, les produits illicites n’ont pas ce niveau
 de contrôle et engendrent deux incertitudes :
@@ -28,9 +23,10 @@ Le test de produit va donc avoir deux objectifs :
 
 - Quantifier la ou les substances actives.
 
-[Image reference: Une image contenant texte, capture d’écran, dessin humoristique
-
-Le contenu généré par l’IA peut être incorrect.; source export Word: Traité RDR version html_fichiers/image120.png]
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p269_figure_01_testing_analyses_produits_biologie.png" alt="Testing Analyses Produits Biologie">
+  <figcaption>Figure p. 269 : Testing Analyses Produits Biologie.</figcaption>
+</figure>
 
 La qualité des drogues illégales constitue un facteur
 de risque important, principalement en raison de l’incertitude sur la teneur
@@ -167,7 +163,6 @@ centres et aux associations, où le service de test est gratuit. De
 plus, une discussion sur la réduction des risques est initiée, et en cas de
 problèmes liés à un produit, une alerte peut être émise.
 
-
 | Chaîne d’approvisionnement | Exemples de dérive | Conséquence pour le·la <br> consommateur·rice |
 | --- | --- | --- |
 | Synthèse (laboratoire <br> clandestin ou légal détourné) | Erreur de température, mauvais <br> ratio de réactifs | Production d’un sous-produit <br> inattendu ou d’une autre molécule |
@@ -298,7 +293,6 @@ situations d’alerte exceptionnelle, et permettent ainsi de documenter de
 manière relativement stable la composition réelle des produits tels qu’ils
 circulent auprès des usagers .
 
-
 | Substance | Nombre analyse | Teneur / pureté médiane | % contenant uniquement la substance | Principaux produits de coupe / substances <br> associées | Commentaire RdR |
 | --- | --- | --- | --- | --- | --- |
 | Amphétamine | 943 | 29 % | 61 % | Caféine, phénéthylamine, cocaïne, créatine, MDMA, kétamine | Forte variabilité. Produit historiquement coupé. Risque <br> lié à l’imprévisibilité des doses et aux associations stimulantes. |
@@ -405,9 +399,10 @@ relaxation, excitation, facilitation sociale) et des effets indésirables
 (nausées, étourdissements, maux de tête, hallucinations, réactions allergiques,
 hyperthermie, crampes abdominales, palpitations, irritabilité).
 
-[Image reference: Une image contenant texte, diagramme, Tracé, ligne
-
-Le contenu généré par l’IA peut être incorrect.; source export Word: Traité RDR version html_fichiers/image121.png]
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p275_figure_01_testing_analyses_produits_biologie.png" alt="Testing Analyses Produits Biologie">
+  <figcaption>Figure p. 275 : Testing Analyses Produits Biologie.</figcaption>
+</figure>
 
 Figure 59.Probabilité d'effet en fonction de la dose (Tibor Brunt et al)
 
@@ -471,7 +466,10 @@ celui du paracétamol dans un comprimé de Doliprane . Le nom commercial ou
 la forme galénique ne modifie pas la molécule active, mais uniquement sa
 présentation et son mode de délivrance.
 
-[Image reference: image122.png; source export Word: Traité RDR version html_fichiers/image122.png]
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p277_figure_01_testing_analyses_produits_biologie.png" alt="Testing Analyses Produits Biologie">
+  <figcaption>Figure p. 277 : Testing Analyses Produits Biologie.</figcaption>
+</figure>
 
 Figure 60.MDMA
 en poudre VS Taz
@@ -515,9 +513,10 @@ inférieures à 100 mg au début de la période, les valeurs moyennes dépassent
 désormais fréquemment 150 mg, avec un nombre croissant de comprimés atteignant
 ou dépassant les 180 à 200 mg.
 
-[Image reference: Une image contenant capture d’écran, texte, diagramme, ligne
-
-Le contenu généré par l’IA peut être incorrect.; source export Word: Traité RDR version html_fichiers/image123.png]
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p278_figure_01_testing_analyses_produits_biologie.png" alt="Testing Analyses Produits Biologie">
+  <figcaption>Figure p. 278 : Testing Analyses Produits Biologie.</figcaption>
+</figure>
 
 Figure 61. Augmentation de la teneur en MDMA des comprimés
 testés (Suisse) [406]
@@ -651,7 +650,10 @@ quantitative).
 Toute méthode analytique se caractérise par plusieurs
 paramètres fondamentaux, vulgarisé comme ceci :
 
-[Image reference: image124.jpg; source export Word: Traité RDR version html_fichiers/image124.jpg]
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p280_figure_01_testing_analyses_produits_biologie.png" alt="Testing Analyses Produits Biologie">
+  <figcaption>Figure p. 280 : Testing Analyses Produits Biologie.</figcaption>
+</figure>
 
 Figure 62. Infographie paramètres analyse chimique
 
@@ -723,7 +725,6 @@ interpréter correctement une analyse de drogues. Elle permet de mieux
 appréhender les limites des tests, d’éviter les conclusions hâtives et de
 replacer chaque résultat dans une logique pragmatique de réduction des risques.
 
-
 | Technique | Principe | Ce que la <br> technique permet de savoir | Séparation <br> des substances | Quantitatif <br> ou qualitatif | Usage typique <br> en réduction des risques |
 | --- | --- | --- | --- | --- | --- |
 | Tests <br> colorimétriques | Réaction <br> chimique produisant une couleur | Présence <br> possible d’une famille chimique | ❌ Non | Qualitatif | D é pistage rapide, exclusion de certaines familles |
@@ -744,9 +745,10 @@ modification de couleur adéquate aux réactions chimiques attendues indiquera u
 résultat positif. Ces tests se vendent sur internet, ils sont également
 utilisés dans les contrôles de police.
 
-[Image reference: Une image contenant Équipement de laboratoire, intérieur, Équipement médical, tasse
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image125.jpg]
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p282_figure_01_testing_analyses_produits_biologie.png" alt="Testing Analyses Produits Biologie">
+  <figcaption>Figure p. 282 : Testing Analyses Produits Biologie.</figcaption>
+</figure>
 
 Figure 63. réalisation d'un test colorimétrique (crédit:protestkit.eu)
 
@@ -768,9 +770,10 @@ mais aussi présence de substances interférentes. Ces facteurs expliquent
 pourquoi les tests colorimétriques peuvent conduire à des interprétations
 erronées s’ils sont utilisés isolément ou sans protocole rigoureux.
 
-[Image reference: Une image contenant diagramme, Police, ligne, origami
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image126.png]
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p282_figure_02_testing_analyses_produits_biologie.png" alt="Testing Analyses Produits Biologie">
+  <figcaption>Figure p. 282 : Testing Analyses Produits Biologie.</figcaption>
+</figure>
 
 Figure 64.
 Exemple du test de Ehrlich permettant de détecter du LSD.
@@ -848,18 +851,20 @@ d'améliorer la qualité de l'analyse. Un tableau comparatif montrant les
 résultats pour différentes substances avec trois tests distincts pourrait être
 utile pour évaluer la fiabilité des analyses.
 
-[Image reference: Une image contenant texte, capture d’écran, Caractère coloré, conception
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image127.jpg]
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p284_figure_01_testing_analyses_produits_biologie.png" alt="Testing Analyses Produits Biologie">
+  <figcaption>Figure p. 284 : Testing Analyses Produits Biologie.</figcaption>
+</figure>
 
 Figure 65.Tableau de résultats des test colorimétriques pour plusieurs substances [408]
 
 Cette technique présente
 plusieurs caractéristiques et limitations importantes :
 
-[Image reference: Une image contenant fenêtre, mammifère, fixant
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image010.png]
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p285_figure_01_testing_analyses_produits_biologie.png" alt="Testing Analyses Produits Biologie">
+  <figcaption>Figure p. 285 : Testing Analyses Produits Biologie.</figcaption>
+</figure>
 
 -Elle est interdite aux
 associations de Réduction des Risques et des Dommages (RDR), mais il y a un
@@ -888,9 +893,10 @@ La chromatographie sur couche mince (CCM) est initialement
 conçue comme une méthode séparative, mais l'identification des composants d'un
 échantillon peut également être réalisée par divers moyens.
 
-[Image reference: Une image contenant Bouteille en plastique, Solution, bouteille d’eau, Équipement de laboratoire
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image128.png]
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p286_figure_01_testing_analyses_produits_biologie.png" alt="Testing Analyses Produits Biologie">
+  <figcaption>Figure p. 286 : Testing Analyses Produits Biologie.</figcaption>
+</figure>
 
 Figure 66.
 Exemple de chromatographie sur couche mince [409]
@@ -911,9 +917,10 @@ identification, souvent compliquée par leur absence de couleur, nécessite des
 étapes supplémentaires. Par exemple, les composants invisibles peuvent être
 détectés à l'aide de lumière ultraviolette. (Des néons noirs)
 
-[Image reference: Une image contenant lettre, Produit en papier, papier, papeterie
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image129.png]
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p286_figure_02_testing_analyses_produits_biologie.png" alt="Testing Analyses Produits Biologie">
+  <figcaption>Figure p. 286 : Testing Analyses Produits Biologie.</figcaption>
+</figure>
 
 Figure 67.
 CCM sous lumière ultraviolette [410]
@@ -926,9 +933,10 @@ sur la plaque une fois sèche.
 
 - En utilisant des références.
 
-[Image reference: Une image contenant capture d’écran, ligne, Rectangle
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image130.png]
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p287_figure_01_testing_analyses_produits_biologie.png" alt="Testing Analyses Produits Biologie">
+  <figcaption>Figure p. 287 : Testing Analyses Produits Biologie.</figcaption>
+</figure>
 
 Figure 68.
 Exemple de CMM d'échantillons de cocaïne
@@ -980,9 +988,10 @@ Les atomes sont liés entre eux par des liaisons ,
 chacune d'elles pouvant entrer en vibration lorsqu'elle est exposée à un
 rayonnement infrarouge précis.
 
-[Image reference: Une image contenant texte, diagramme, capture d’écran, ligne
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image131.jpg]
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p288_figure_01_testing_analyses_produits_biologie.png" alt="Testing Analyses Produits Biologie">
+  <figcaption>Figure p. 288 : Testing Analyses Produits Biologie.</figcaption>
+</figure>
 
 Figure 69.
 Exemple de spectre infrarouge [411]
@@ -1030,9 +1039,10 @@ molécules est leur temps de rétention dans la colonne chromatographique.
 À chaque sortie d'une molécule de la colonne, un pic est généré par le
 détecteur.
 
-[Image reference: Une image contenant ordinateur, texte, ordinateur portable, capture d’écran
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image132.png]
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p289_figure_01_testing_analyses_produits_biologie.png" alt="Testing Analyses Produits Biologie">
+  <figcaption>Figure p. 289 : Testing Analyses Produits Biologie.</figcaption>
+</figure>
 
 Figure 70.principe de fonctionnement de l'HPLC [412]
 
@@ -1050,7 +1060,10 @@ molécules identiques mais orientées différemment dans l'espace, à l'instar d
 mains gauche et droite. Par exemple, des substances comme la MDMA, le THC et la
 kétamine présentent ce type d’énantiomères.
 
-[Image reference: image133.png; source export Word: Traité RDR version html_fichiers/image133.png]
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p290_figure_01_testing_analyses_produits_biologie.png" alt="Testing Analyses Produits Biologie">
+  <figcaption>Figure p. 290 : Testing Analyses Produits Biologie.</figcaption>
+</figure>
 
 Figure 71.Exemples d'énantiomères (Kétamine et MDMA)
 
@@ -1076,7 +1089,10 @@ est largement utilisée dans les laboratoires spécialisés, notamment dans le
 cadre du dispositif SINTES, en raison de sa sensibilité élevée et de sa capacité
 d’identification très précise .
 
-[Image reference: image134.jpg; source export Word: Traité RDR version html_fichiers/image134.jpg]
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p290_figure_02_testing_analyses_produits_biologie.png" alt="Testing Analyses Produits Biologie">
+  <figcaption>Figure p. 290 : Testing Analyses Produits Biologie.</figcaption>
+</figure>
 
 Figure 72. Infographie sur le principe de fonctionnement de la spectrométrie de masse
 
@@ -1088,9 +1104,10 @@ plusieurs morceaux plus petits. Ces fragments sont alors séparés en fonction d
 leur rapport masse/charge (m/z) à l’aide d’un champ électrique ou
 magnétique.
 
-[Image reference: Une image contenant texte, diagramme, ligne, Tracé
-
-Le contenu généré par l’IA peut être incorrect.; source export Word: Traité RDR version html_fichiers/image135.png]
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p292_figure_01_testing_analyses_produits_biologie.png" alt="Testing Analyses Produits Biologie">
+  <figcaption>Figure p. 292 : Testing Analyses Produits Biologie.</figcaption>
+</figure>
 
 Figure 73.
 Exemple de spectre de masse pour la molécule de Lidocaïne [413]
@@ -1152,8 +1169,6 @@ comme de minuscules aimants .
 Il n’y a rien à voir avec l’énergie nucléaire des
 centrales de production d’électricité ou de la bombe nucléaire, ici le terme «
 nucléaire » fait simplement référence au noyau de l’atome.
-
-[Image reference: image136.jpg; source export Word: Traité RDR version html_fichiers/image136.jpg]
 
 Figure 74.
 Principe général de fonctionnement de la RMN et de l'IRM

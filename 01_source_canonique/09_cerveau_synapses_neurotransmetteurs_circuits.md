@@ -2,11 +2,6 @@
 
 ## Le cerveau et le corps
 
-<figure class="doc-figure">
-  <img src="../05_assets_visuels/p114_figure_01_cerveau_synapses_neurotransmetteur.png" alt="Cerveau, synapses et neurotransmetteurs">
-  <figcaption>Figure p. 114 : un des schemas de synthese du chapitre sur cerveau, synapses, neurotransmetteurs et circuits.</figcaption>
-</figure>
-
 ## Le cerveau
 
 Les drogues ont toutes pour point commun d’agir sur un même
@@ -94,9 +89,10 @@ La simplification excessive mène à des conclusions erronées.
 En conclusion, chaque approche regarde l’ombre d’une forme,
 sans la décrire directement.
 
-[Image reference: Une image contenant Caractère coloré, Graphique, capture d’écran, graphisme
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image027.png]
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p105_figure_01_cerveau_synapses_neurotransmetteur.png" alt="Cerveau Synapses Neurotransmetteur">
+  <figcaption>Figure p. 105 : Cerveau Synapses Neurotransmetteur.</figcaption>
+</figure>
 
 Figure 11. Illustration de la dualité (source:dreamstime)
 
@@ -107,7 +103,10 @@ mémoires sont portées par les neurones. Pour communiquer entre eux, ils ont
 besoin de messagers : ce sont les neurotransmetteurs. De façon simplifiée,
 toutes nos émotions et pensées sont portées par des neurotransmetteurs. .
 
-[Image reference: image028.png; source export Word: Traité RDR version html_fichiers/image028.png]
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p106_figure_01_cerveau_synapses_neurotransmetteur.png" alt="Cerveau Synapses Neurotransmetteur">
+  <figcaption>Figure p. 106 : Cerveau Synapses Neurotransmetteur.</figcaption>
+</figure>
 
 -
 
@@ -117,9 +116,10 @@ Schéma de neurone [150]
 La jonction entre les neurones s’appelle la synapse
 et c’est à travers elle que les neurones communiquent.
 
-[Image reference: Une image contenant diagramme, texte, carte
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image029.jpg]
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p106_figure_02_cerveau_synapses_neurotransmetteur.png" alt="Cerveau Synapses Neurotransmetteur">
+  <figcaption>Figure p. 106 : Cerveau Synapses Neurotransmetteur.</figcaption>
+</figure>
 
 Figure 13.
 Schéma d’une synapse
@@ -130,9 +130,10 @@ exemple : le Nutella.
 Lorsque vous craquez et que vous plongez votre cuillère dans
 le pot de Nutella, il se passe la chose suivante :
 
-[Image reference: Une image contenant texte
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image030.png]
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p107_figure_01_cerveau_synapses_neurotransmetteur.png" alt="Cerveau Synapses Neurotransmetteur">
+  <figcaption>Figure p. 107 : Cerveau Synapses Neurotransmetteur.</figcaption>
+</figure>
 
 1. L’influx
 électrique –
@@ -141,29 +142,25 @@ suite à la première cuillère, avec l’information : « C’est trop
 bon, fait péter la dopamine (neurotransmetteur du plaisir) on est trop bien
 là !»
 
-[Image reference: Une image contenant texte, clipart
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image031.png]
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p113_figure_01_cerveau_synapses_neurotransmetteur.png" alt="Cerveau Synapses Neurotransmetteur">
+  <figcaption>Figure p. 113 : Cerveau Synapses Neurotransmetteur.</figcaption>
+</figure>
 
 2. Libération
  —
 Le neurone 1, qui est malin, a des stocks de dopamine en réserve : les vésicules .
 Il va dès lors les libérer dans la synapse pour prévenir les autres neurones.
 
-[Image reference: Une image contenant Bleu électrique, symbole, ligne, Azure
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image032.png]
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p114_figure_01_cerveau_synapses_neurotransmetteur.png" alt="Cerveau Synapses Neurotransmetteur">
+  <figcaption>Figure p. 114 : Cerveau Synapses Neurotransmetteur.</figcaption>
+</figure>
 
 3. Liaison
  –
 La dopamine libérée (le messager), va se fixer sur des récepteurs sur le
 neurone 2 pour donner le message et générer un influx électrique.
-
-[Image reference: Une image contenant clipart
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image033.jpg]
-
-[Image reference: image034.png; source export Word: Traité RDR version html_fichiers/image034.png]
 
 4. Re capture
  Destruction —Puis
@@ -207,18 +204,10 @@ Nous allons prendre dans cet exemple des
 neurones à sérotonine (pour faire simple, c’est le neurotransmetteur du
 bonheur) et des substances qui agissent dessus.
 
-[Image reference: Une image contenant diagramme, carte
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image035.jpg]
-
 Figure 14.
 Exemple d’actions sur les neurones sérotoninergiques
 
 A l’attaque :
-
-[Image reference: Une image contenant Bleu électrique, conception, pixel, origami
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image036.jpg]
 
 1. Éclater
 les vésicules –
@@ -226,8 +215,6 @@ Il est possible de provoquer la libération des stocks de neurotransmetteurs
 contenus dans les vésicules. Les neurotransmetteurs vont se diffuser jusqu’aux
 récepteurs. C’est le mécanisme d’action (principal) de la MDMA (l’ecstasy) sur la sérotonine. C’est explosif et
 ça marche très bien.
-
-[Image reference: image037.png; source export Word: Traité RDR version html_fichiers/image037.png]
 
 Petite
 particularité : pour rentrer dans le neurone 1, la MDMA passe par le canal
@@ -238,10 +225,6 @@ fréquent d’entendre que la MDMA vide les stocks et qu’il faudrait subir un
 lendemain de déprime le temps qu’ils se refassent. C’est le cas à très forte
 dose et cela dépend du contexte. Ce que ce mécanisme montre c’est qu’une
 libération massive de sérotonine a lieu.
-
-[Image reference: Une image contenant symbole
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image038.jpg]
 
 2. Empêcher
 la recapture –
@@ -255,10 +238,6 @@ prescrits : les Inhibiteurs Sélectifs de la Recapture de la Sérotonine
 
 C’est un
 mécanisme assez doux : le bien-être n’est pas forcé, il est prolongé.
-
-[Image reference: Une image contenant cercle, symbole, jaune, Caractère coloré
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image039.jpg]
 
 3. Empêcher
 la dégradation [151]
@@ -275,8 +254,6 @@ Comme pour
 les ISRS, on prolonge le bien-être. Ici, c’est moins sélectif, les IMAO
 n’agissent pas que sur la sérotonine, les effets sur le cerveau sont donc plus
 larges.
-
-[Image reference: image040.jpg; source export Word: Traité RDR version html_fichiers/image040.jpg]
 
 4. Envoi
 d’un leurre —Il est possible de
@@ -299,8 +276,6 @@ régulation.
 Pour autant, comment expliquer
 que le LSD soit « hallucinogène » et non pas les
 antidépresseurs ?
-
-[Image reference: image041.png; source export Word: Traité RDR version html_fichiers/image041.png]
 
 C’est parce qu’il existe différents récepteurs pour un même
 neurotransmetteur. Reprenons notre exemple sur les neurones à sérotonine :
@@ -364,7 +339,6 @@ mélanges.
 Il y a donc différents messagers et autant de systèmes à
 hacker. Voici les principaux, pour vous donner une idée [153] .
 
-
 | Neurotransmetteurs | Image | Action | Exemple de drogue qui agit dessus |
 | --- | --- | --- | --- |
 | Neurotransmetteur | Image | Rôle | Exemples |
@@ -426,7 +400,6 @@ actions de l’alcool sont constatées sans être comprises.
 Le tableau ci-après présente les
 actions de plusieurs drogues sur certaines neurotransmissions.
 
-
 |  | Nicotine | MDMA | LSD | THC | Alcool | GHB | Cocaïne |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  | Sérotonine | / | ↑ libère | ↑ active les récepteurs | ↓ mécanisme non connu | ↑ mécanisme non connu | ↑ mécanisme non connu | ↑ bloque la recapture |
@@ -473,8 +446,6 @@ Pour en revenir aux effets sur le cerveau, l’alcool impact
 de façon direct ou indirect l’ensemble des neurotransmetteurs [156]
  [157] .
 
-[Image reference: image051.png; source export Word: Traité RDR version html_fichiers/image051.png]
-
 Figure 15.
 Systèmes impactés par l'alcool
 
@@ -485,10 +456,6 @@ niveaux des organes (comme le foie), cette pluralité d’effets permet déjà d
 se rendre qu’il ne faudrait jamais le mélanger a d’autres substances
 psychoactives .
 
-[Image reference: Une image contenant fenêtre, mammifère, fixant
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image052.png]
-
 Les effets sur le cerveau de
 l’alcool sont variés : il ne faudrait jamais le mélanger avec d’autres
 substances psychoactives.
@@ -498,7 +465,6 @@ substances psychoactives.
 Les principaux effets ressentis de l’alcool proviennent de
 son action sur le gaba et le glutamate, ces deux neurotransmetteurs servent à
 réguler l’activité général du cerveau.
-
 
 |  | Effet s’il y en a + | Effet s’il y en a - | Effet de l’alcool | Conséquence |
 | --- | --- | --- | --- | --- |
@@ -523,10 +489,6 @@ lever le pied de l’accélérateur et appuyer sur le frein.
 
 L’alcool diminue l’activité
 générale du cerveau.
-
-[Image reference: Une image contenant fenêtre, mammifère, fixant
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image010.png]
 
 Il
 ne faut JAMAIS le mélanger a d’autres substances agissant sur le GABA (GHB,
@@ -620,10 +582,6 @@ boire,
 Le signal passe par plusieurs zones du cerveau en utilisant la
 dopamine .
 
-[Image reference: Une image contenant texte
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image053.png]
-
 Figure 16. Zones du cerveau impliquées dans le système de récompense : extrait de la
 vidéo MAAD Digital « système de récompense et addiction » [160]
 
@@ -660,10 +618,6 @@ réagir de façon adaptée face à une situation. C’est notamment ce système 
 nous évite de frapper les personnes qui nous énervent, même si cela nous
 soulagerait, temporairement. Il permet également de nous raisonner lorsque nous
 abusons d’une substance.
-
-[Image reference: Une image contenant texte, capture d’écran, Graphique, Police
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image054.jpg]
 
 Figure 17. Les circuits cérébraux impliqués dans l’addiction @laurentKarila
 

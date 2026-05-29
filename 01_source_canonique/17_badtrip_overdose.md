@@ -2,11 +2,6 @@
 
 ## Badtrip
 
-<figure class="doc-figure">
-  <img src="../05_assets_visuels/p235_figure_01_badtrip_overdose.png" alt="Badtrip et overdose">
-  <figcaption>Figure p. 235 : support visuel du chapitre sur les situations critiques, badtrip et overdose.</figcaption>
-</figure>
-
 ### Définition
 
 Un bad trip (mauvais trip) se
@@ -115,7 +110,6 @@ qui peut nous l’éviter.
 Voici des exemples de questions à se poser pour avoir un
 « bon » set and setting:
 
-
 | Set à badtrip | Bon set |
 | --- | --- |
 | Je suis fatigué <br> Je suis malade <br> (grippe, covid, rhume, etc.) : la <br> drogue peut amplifier vos symptômes <br> Je suis stressé <br> Je consomme par <br> pression sociale <br> Je suis nerveux à <br> l’idée de consommer <br> Je ne contrôle pas <br> la dose prise <br> Je veux contrôler <br> le trip <br> J’ai peur <br> J’ai des croyances <br> sur la substance <br> Je ne sais pas ce <br> que je dois faire en cas de badtrip | Je suis en forme <br> physique et mentale <br> Je consomme par <br> choix individuel <br> Je suis serein sur <br> la consommation <br> Je contrôle la dose <br> prise <br> Je suis prêt à me <br> laisser aller <br> Je connais les <br> effets de la substance ses risques, son dosage et sa durée <br> Je sais quoi faire <br> en cas de badtrip (voir ci après) |
@@ -130,9 +124,10 @@ même devenue un métier en Allemagne, où l'on parle de "trip-sitters"
 - littéralement des "baby-sitters" pour les personnes qui consomment
 des substances psychoactives.
 
-[Image reference: Une image contenant fenêtre, mammifère, fixant
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image010.png]
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p231_figure_01_badtrip_overdose.png" alt="Badtrip Overdose">
+  <figcaption>Figure p. 231 : Badtrip Overdose.</figcaption>
+</figure>
 
 L’idée
 est de travailler son état mental (set) et son environnement (setting) avant un
@@ -159,9 +154,10 @@ avec les psychédéliques, le cannabis et les champignons hallucinogènes. En
 réalité, le principe actif et les doses sont similaires, la seule différence
 résidant dans le contexte de la prise.
 
-[Image reference: Une image contenant fenêtre, mammifère, fixant
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image010.png]
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p235_figure_01_badtrip_overdose.png" alt="Badtrip Overdose">
+  <figcaption>Figure p. 235 : Badtrip Overdose.</figcaption>
+</figure>
 
 Et
 c’est là une notion importante : une même substance prise dans deux sets
@@ -191,9 +187,10 @@ Par suite de l’expérience, faire un retour sur ce qu’il
 s’est passé pourra permettre d’ancrer les bonnes pratiques afin de mieux
 préparer les prochaines consommations et ainsi diminuer les risques.
 
-[Image reference: Une image contenant fenêtre, mammifère, fixant
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image010.png]
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p236_figure_01_badtrip_overdose.png" alt="Badtrip Overdose">
+  <figcaption>Figure p. 236 : Badtrip Overdose.</figcaption>
+</figure>
 
 Après
 la descente, il est important de prendre le temps de débriefer l’expérience pour
@@ -313,9 +310,10 @@ killers non médicamenteux que l'on croit efficaces. Avoir un trip killer à
 disposition est surtout utile pour diminuer les probabilités de survenue d'un
 bad trip et peut éventuellement aider s'il survient.
 
-[Image reference: Une image contenant fenêtre, mammifère, fixant
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image052.png]
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p239_figure_01_badtrip_overdose.png" alt="Badtrip Overdose">
+  <figcaption>Figure p. 239 : Badtrip Overdose.</figcaption>
+</figure>
 
 La
 probabilité de survenue d'un bad trip peut être réduite du simple fait de
@@ -580,7 +578,10 @@ overdoses mortelles dont la moitié par le Tramadol [348] .
 Les 30% restants se répartissent entre la cocaïne (17%),
 le cannabis (5%) et les amphétamines (5%).
 
-[Image reference: Output image; source export Word: Traité RDR version html_fichiers/image095.png]
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p245_figure_01_badtrip_overdose.png" alt="Badtrip Overdose">
+  <figcaption>Figure p. 245 : Badtrip Overdose.</figcaption>
+</figure>
 
 Figure 49. Répartition des overdoses par substances
 
@@ -603,10 +604,6 @@ Tout d'abord, les troubles liés à la consommation d'alcool sont souvent
 stigmatisés, ce qui conduit à des certificats de décès mentionnant des
 catégories plus neutres , telles que les maladies cardiaques, comme cause de
 décès.
-
-[Image reference: Une image contenant fenêtre, mammifère, fixant
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image010.png]
 
 La
 deuxième raison pour laquelle les décès par overdose alcoolique sont
@@ -675,7 +672,6 @@ ce faire, Il est possible de se contenter des DL50 pour un même animal.
 C’est le principe d’une échelle
 de toxicité connue : l’échelle de Hodge et Sterner [352] ,
 basée sur des DL50 sur le Rat.
-
 
 | Échelle de Hodge <br> et Sterner sur le rat pour une dose orale | Exemples |  |  |
 | --- | --- | --- | --- |
@@ -766,8 +762,6 @@ L'une entraînera rapidement l'autre. Il faut débuter immédiatement un massage
 cardiaque, rechercher un défibrillateur si possible et appeler le numéro
 d'urgence 15 le plus rapidement possible.
 
-[Image reference: image096.png; source export Word: Traité RDR version html_fichiers/image096.png]
-
 ### Prévenir les overdoses
 
 En ce qui concerne les médicaments, des recherches
@@ -797,10 +791,6 @@ Ensuite, la dose à laquelle les effets secondaires
 deviennent trop importants par rapport aux bénéfices attendus. Enfin, la dose
 létale 50% , abordée précédemment. Cette approche est similaire en médecine.
 
-[Image reference: Une image contenant texte, ligne, diagramme, Parallèle
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image097.jpg]
-
 Figure 50.
 Fenêtres des doses pour l'alcool [355] ,
 la muscade [356]
@@ -828,8 +818,6 @@ Il est possible de faire une overdose (ou surdose), que la
 dose mortelle soit éloignée (paracétamol) ou proche (muscade).
 
 #### Reconsommation
-
-[Image reference: image098.png; source export Word: Traité RDR version html_fichiers/image098.png]
 
 Figure 51.
 Illustration de cas d'overdoses
@@ -918,10 +906,6 @@ le produit
 · Fractionner
 les prises
 
-[Image reference: Une image contenant fenêtre, mammifère, fixant
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image080.png]
-
 · Ne
 jamais reconsommer avant la fin de la montée
 
@@ -962,10 +946,6 @@ d'alcool avec une autre drogue (mélange), la cause du décès doit être
 attribuée à cette dernière, même lorsque l'alcool a été identifié comme le
 composant justifiant le plus la mort par le médecin légiste.
 
-[Image reference: Une image contenant fenêtre, mammifère, fixant
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image010.png]
-
 Les
 overdoses mortelles d’alcool existent -> il ne faut pas les banaliser
 
@@ -991,7 +971,6 @@ Le tableau ci-dessous donne les effets par rapport à la
 quantité dans le sang, pour une personne sans tolérance et quel que soit
 le sexe.
 
-
 | Concentration | Effet mental | Effet physique |
 | --- | --- | --- |
 | 0,1 à 0,5 g/l | Relaxation <br> Sentiment de bien être <br> Perte d’inhibition | Altération du jugement <br> Perte de concentration |
@@ -1014,10 +993,6 @@ Dans le cas où l’on souhaite
 faire une grosse soirée en intégrant la réduction des risques la limite
 de 1g/l ne devrait pas être dépassée.
 
-[Image reference: Une image contenant fenêtre, mammifère, fixant
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image010.png]
-
 Au-delà
 de ce stade, la surestimation de soi et la perte de jugement entraine de
 nouveaux risques, en plus des effets directs sur la santé.
@@ -1036,10 +1011,6 @@ que les verres sont standardisés (dans les bars restaurants, etc.). Cela veut
 dire que quelle que soit la boisson commandée au verre, la quantité d’alcool
 est toujours la même.
 
-[Image reference: Une image contenant diagramme
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image099.png]
-
 Figure 52. Les verres standardisés [361]
 
 Donc, un verre standard quelles que soit la boisson, c’est 10 grammes
@@ -1048,7 +1019,6 @@ d’éthanol .
 La formule utilisée pour calculer son alcoolémie s’appelle
 la « formule de Widmark ». Ci-après, un tableau montre l’alcoolémie
 par rapport au nombre de verres standards consommés, sans tolérance .
-
 
 | Alcoolémie en g/l | Femmes |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -1088,10 +1058,6 @@ et son sexe …
 
 Pour estimer « le verre
 de trop » :
-
-[Image reference: Une image contenant fenêtre, mammifère, fixant
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image010.png]
 
 – Regarder
 dans le tableau le nombre de verres qui conduit à une alcoolémie supérieure à
@@ -1177,7 +1143,6 @@ dernier permettra d’identifier les actions à réaliser en considérant que le
 ”sauveteur” n’a pas d’équipements spécifiques de secours.
 
 Ce moyen d’action est différencié en plusieurs catégories :
-
 
 | Système corporel | Troubles | Commentaire | Gravité | Moyen d’action |
 | --- | --- | --- | --- | --- |
@@ -1344,10 +1309,6 @@ avez des doutes ou si vous ne savez pas comment réagir face à une IEA, appelez
 le 15. Les médecins régulateurs vous prodigueront des conseils sur la marche à
 suivre et enverront les secours si nécessaire.
 
-[Image reference: Une image contenant fenêtre, mammifère, fixant
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image010.png]
-
 En
 cas de doute, se rappeler une chose : appelez immédiatement le 15 ou le 112.
 
@@ -1376,10 +1337,6 @@ est essentiel d'assurer la sécurité de la personne concernée. Que celle-ci se
 trouve sur une route, sur le sol dans un lieu bondé ou dans toute autre
 situation potentiellement dangereuse, sa mise en sécurité doit être la
 priorité.
-
-[Image reference: Une image contenant texte, capture d’écran, Police, ligne
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image100.png]
 
 Figure 54.Logigramme en cas d'Intoxication Ethylique Aigue
 

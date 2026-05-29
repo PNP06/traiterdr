@@ -1,11 +1,5 @@
 # Allergie, convulsions, hydratation et thermie
 
-<figure class="doc-figure">
-  <img src="../05_assets_visuels/p209_figure_01_allergie_convulsions_hydratation_t.png" alt="Thermie, hydratation et convulsions">
-  <figcaption>Figure p. 209 : visuel de reference pour les risques physiologiques transversaux du chapitre.</figcaption>
-</figure>
-
-
 ## Allergie et crise d’anaphylaxie
 
 Sur l’allergie aux drogues, les études conclues souvent au
@@ -34,9 +28,10 @@ avec les traitements antiallergiques.
 L’allergie aux drogues est
 rare, il faut être attentif :
 
-[Image reference: Une image contenant fenêtre, mammifère, fixant
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image010.png]
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p201_figure_01_allergie_convulsions_hydratation_t.png" alt="Allergie Convulsions Hydratation T">
+  <figcaption>Figure p. 201 : Allergie Convulsions Hydratation T.</figcaption>
+</figure>
 
 -En
 cas d’allergie connue ;
@@ -179,7 +174,10 @@ Une bonne hydratation va donc permettre le maintien du
 volume de sang de l’organisme qui lui-même permet une bonne oxygénation du
 cerveau et des muscles.
 
-[Image reference: Figure 37.Répartition de l'eau du corps; source export Word: Traité RDR version html_fichiers/image083.png]
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p203_figure_01_allergie_convulsions_hydratation_t.png" alt="Allergie Convulsions Hydratation T">
+  <figcaption>Figure p. 203 : Allergie Convulsions Hydratation T.</figcaption>
+</figure>
 
 La répartition entre l'eau dans
 les cellules et en dehors est gérée par un mécanisme qui s'appelle l 'osmose .
@@ -199,9 +197,10 @@ directement la taille des cellules, elles peuvent gonfler ou dégonfler en
 fonction de la concentration en sel de l’eau dans laquelle elles beignent (eau
 intercelullaire).
 
-[Image reference: Une image contenant capture d’écran, Rectangle, diagramme, texte
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image084.jpg]
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p209_figure_01_allergie_convulsions_hydratation_t.png" alt="Allergie Convulsions Hydratation T">
+  <figcaption>Figure p. 209 : Allergie Convulsions Hydratation T.</figcaption>
+</figure>
 
 Figure 38.
 Schéma osmose
@@ -302,7 +301,6 @@ il se fait en plusieurs étapes :
 Dans le cadre d'une alimentation normale, environ 1 litre
 d'eau est apporté par l'alimentation.
 
-
 | Poids de corps (kg) | Eau totale nécessaire (l) | Apport par la boisson (l) |
 | --- | --- | --- |
 | 40 | 1,8 | 0,8 |
@@ -328,7 +326,10 @@ L’hydratation peut donc être résumée avec le schéma
 ci-dessous. Il servira de base pour comprendre les troubles de l’hydratation
 liée aux drogues.
 
-[Image reference: image085.png; source export Word: Traité RDR version html_fichiers/image085.png]
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p210_figure_01_allergie_convulsions_hydratation_t.png" alt="Allergie Convulsions Hydratation T">
+  <figcaption>Figure p. 210 : Allergie Convulsions Hydratation T.</figcaption>
+</figure>
 
 Figure 40.Bilan
 des apports et des éliminations d'eau
@@ -343,9 +344,10 @@ vasopressine.
 
 L’hydratation permet :
 
-[Image reference: Une image contenant fenêtre, mammifère, fixant
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image010.png]
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p213_figure_01_allergie_convulsions_hydratation_t.png" alt="Allergie Convulsions Hydratation T">
+  <figcaption>Figure p. 213 : Allergie Convulsions Hydratation T.</figcaption>
+</figure>
 
 -De
 maintenir le volume de sang (et donc avoir une bonne oxygénation du cerveau et
@@ -420,9 +422,10 @@ prise de drogues devrait inclure l’hydratation. Globalement, boire de l’eau 
 suffisant pour prévenir le risque de déshydratation. Les solutions de
 réhydratation (vendue en pharmacie) ne se justifie pas en prévention. (MSDMANUAL)
 
-[Image reference: Une image contenant fenêtre, mammifère, fixant
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image010.png]
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p216_figure_01_allergie_convulsions_hydratation_t.png" alt="Allergie Convulsions Hydratation T">
+  <figcaption>Figure p. 216 : Allergie Convulsions Hydratation T.</figcaption>
+</figure>
 
 INFO :
 Les bars et boites sont dans l’obligation [312]
@@ -455,10 +458,6 @@ vagal cela peut aussi provoquer des vomissements.
 Manger permet d’apporter des
 minéraux essentiels a l’hydratation.
 
-[Image reference: Une image contenant fenêtre, mammifère, fixant
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image010.png]
-
 En
 résumé pour Prévenir la déshydratation :
 
@@ -483,7 +482,6 @@ Si la prévention n'est pas suffisante et que la
 déshydratation se produit, il est crucial de pouvoir l'identifier. Ce chapitre
 décrit les symptômes et la manière dont la déshydratation peut être mortelle.
 
-
 |  | Déshydratation |
 | --- | --- |
 | Symptômes | Les symptômes d’une déshydratation GRAVE ressemblent <br> beaucoup à la « gueule de bois ». <br> <br> – des maux de tête ; <br> – une désorientation, des vertiges ; <br> – des troubles de la conscience (malaise, <br> étourdissements…) ; <br> – une modification du comportement (agitation, <br> apathie, grande faiblesse…) <br> <br> – une soif intense ; <br> – une bouche et une langue sèches (avoir la <br> « pâteuse ») ; <br> – un regard terne et des yeux enfoncés ; <br> – l'apparition d'un pli cutané (lorsqu'elle est <br> légèrement pincée, la peau tarde à retrouver son aspect initial) ; <br> – une peau sèche, froide et pâle ; <br> – une fièvre ; <br> – des urines en faible quantité ; |
@@ -501,10 +499,6 @@ les autres facteurs développés plus haut.
 
 Lors de consommation, les symptômes peuvent se confondre
 avec les effets des drogues, et d'autres fois, avec l'hypothermie.
-
-[Image reference: Une image contenant fenêtre, mammifère, fixant
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image010.png]
 
 En
 résumé pour Détecter la déshydratation :
@@ -533,10 +527,6 @@ d'eau, 6 cuillères à café de sucre, 1 cuillère à café de sel [315] .
 
 En
 résumé pour Agir face à la déshydratation :
-
-[Image reference: Une image contenant fenêtre, mammifère, fixant
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image086.png]
 
 -
 Boire des solutions de réhydratation : 1 litre d'eau, 6 cuillères à
@@ -633,10 +623,6 @@ d'eau sans électrolytes pour compenser, conduisant à l'hyponatrémie.
 En résumé pour Prévenir
 l’hyponatrémie (hyperhydratation) :
 
-[Image reference: Une image contenant fenêtre, mammifère, fixant
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image080.png]
-
 -Manger
 correctement, si ce n’est pas le cas, essayer de boire des boissons avec
 électrolytes (boissons de sport ou solutions de réhydratation)
@@ -649,7 +635,6 @@ Si la prévention n'est pas suffisante et que
 l'hyperhydratation se produit, il est crucial de pouvoir l'identifier. Ce
 chapitre décrit les symptômes et la manière dont l'hyperhydratation peut être
 mortelle.
-
 
 |  | Hyperhydratation : hyponatrémie |
 | --- | --- |
@@ -664,10 +649,6 @@ produits par les drogues consommées ou d’une hypothermie.
 
 En résumé pour Détecter
 l’hyponatrémie :
-
-[Image reference: Une image contenant fenêtre, mammifère, fixant
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image010.png]
 
 -Pas
 de symptômes facilement identifiables. Effets neurologiques qui se
@@ -688,10 +669,6 @@ du traitement.
 
 En résumé pour Agir face
 à l’hyponatrémie :
-
-[Image reference: Une image contenant fenêtre, mammifère, fixant
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image010.png]
 
 -
 Arrêter de boire, même en cas de soif,
@@ -748,10 +725,6 @@ Cette production de chaleur n'est pas répartie de manière
 homogène dans le corps et peut considérablement varier en fonction de
 l'activité physique.
 
-[Image reference: Une image contenant diagramme, capture d’écran, cercle, texte
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image087.png]
-
 Figure 43.Génération de chaleur dans le corps, au repos et en activité physique [324]
 
 Au repos, ce sont le foie (25 %), les muscles (25 %) et le
@@ -778,10 +751,6 @@ avec l’environnement et des phénomènes physiologiques régulés par le
 corps.
 
 ##### Phénomènes physiques : échanges avec l’extérieur
-
-[Image reference: Une image contenant texte, graphisme, capture d’écran, Danse
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image088.png]
 
 Figure 44.
 Schéma échange de chaleur avec l'extérieur [326]
@@ -912,7 +881,6 @@ principale cause de mortalité par hypothermie [330] .
 
 Résumé :
 
-
 |  | G estion hypothermie | Gestion <br> hyperthermie |
 | --- | --- | --- |
 | Radiation | Couverture de <br> survie coté argenté vers soi | Si exposition au <br> soleil : couverture de survie coté doré vers soi |
@@ -924,10 +892,6 @@ Figure 45.Résumé des phénomènes physiques et moyens
 d'actions
 
 ##### Phénomènes physiologiques : réactions du corps
-
-[Image reference: Une image contenant texte, capture d’écran, Police, conception
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image092.png]
 
 Figure 46.Résumé des phénomènes physiologiques
 
@@ -1126,10 +1090,6 @@ La régulation de la température peut donc être résumée avec
 le schéma ci-dessous. Il servira de base pour comprendre les troubles de la
 thermorégulation.
 
-[Image reference: Une image contenant capture d’écran, texte, horloge, ligne
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image093.png]
-
 Figure 47.Bilan
 de la régulation de la température
 
@@ -1213,7 +1173,6 @@ le front n'est pas efficace. Il faut réussir à mesurer la température interne
 Dans les contextes de consommation, ce n'est pas évident. Le mieux est donc de
 détecter les autres symptômes.
 
-
 | Catégorie | Symptômes | Réaction | Conseils |
 | --- | --- | --- | --- |
 | Légère (36 à 32°) | Frissons, chair de poules, <br> sensation de froid, accélération du rythme cardiaque, difficultés <br> respiratoires, envie d’uriner . | Bouger, couverture de survie <br> ou vêtement, s’alimenter, boire tiède ou chaud ou boissons énergétiques, <br> s’abriter du vent , se sécher |  |
@@ -1256,10 +1215,6 @@ et consommer des boissons chaudes seront suffisants.
 En situation d'hypothermie, il est important de limiter
 l’évacuation d’énergie en séchant la personne (évite l’évaporation), la
 couvrant et l'éloignant des surfaces froides, telles que le sol.
-
-[Image reference: Une image contenant mammifère, museau, fourrure, yeux
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image094.png]
 
 Face à une hypothermie :
 
@@ -1337,10 +1292,6 @@ contrôlées menées sur des sujets sains ont montré qu'une consommation de 2 �
 unités d'alcool à des températures ambiantes de 21 à 33 °C provoque une baisse
 de la température corporelle de 0,2 à 0,3 °C.
 
-[Image reference: Une image contenant fenêtre, mammifère, fixant
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image010.png]
-
 L’alcool donne une fausse
 sensation de chaleur
 
@@ -1401,7 +1352,6 @@ la création de chaleur par le corps.
 
 ###### Protection
 
-
 | Catégorie | Symptômes | Réaction | Conseils |
 | --- | --- | --- | --- |
 | Légère (37.5 à 38°) | Transpiration OU PAS ! , sensation de soif intense, légers maux de tête. | Hydratation fréquente, repos <br> dans un endroit frais, application de compresses froides. | Éviter l'exposition prolongée <br> au soleil, porter des vêtements légers. |
@@ -1450,10 +1400,6 @@ température corporelle pour la faire descendre en dessous de 39°C.
 
 - La transpiration n’est
 pas un indicateur fiable pour déterminer la présence d'une hyperthermie.
-
-[Image reference: Une image contenant mammifère, museau, fourrure, yeux
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image094.png]
 
 -
 Se baigner dans l'eau froide est la meilleure solution, mais il faut veiller à

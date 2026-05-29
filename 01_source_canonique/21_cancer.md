@@ -57,7 +57,10 @@ ingrédients) sont produites en suivant ces instructions.
 
 #### Approche statistique
 
-[Image reference: image159.png; source export Word: Traité RDR version html_fichiers/image159.png]
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p328_figure_01_descente_sevrage_addiction_dependa.png" alt="Descente Sevrage Addiction Dependa">
+  <figcaption>Figure p. 328 : Descente Sevrage Addiction Dependa.</figcaption>
+</figure>
 
 L'appréciation du risque de cancer s'avère être compliquée.
 Pour illustrer cette complexité, prenons l'exemple de l'alcool. À partir d'une
@@ -134,9 +137,10 @@ les particules et les substances étrangères. Cependant, l'inhalation de fumée
 peut altérer cette fonction, permettant aux particules cancérigènes de
 s'accumuler et d'endommager les cellules.
 
-[Image reference: Une image contenant fenêtre, mammifère, fixant
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image010.png]
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p330_figure_01_descente_sevrage_addiction_dependa.png" alt="Descente Sevrage Addiction Dependa">
+  <figcaption>Figure p. 330 : Descente Sevrage Addiction Dependa.</figcaption>
+</figure>
 
 S’il
 y a combustion il y a risque cancérigène (Cannabis, tabac, etc)
@@ -172,10 +176,6 @@ risque spécifique. Selon le Centre International de Recherche sur le Cancer
 40% [458]
 des cancers sont liés à notre mode de vie et à notre environnement. Donc
 60% des cancers déclarés seraient « naturels ».
-
-[Image reference: Une image contenant texte, logiciel, nombre, Police
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image160.jpg]
 
 Figure 91.Nombre de nouveaux cas de cancer attribuables au
 mode de vie et à l'environnement en France en 2015 pour les 30ans et plus [459]

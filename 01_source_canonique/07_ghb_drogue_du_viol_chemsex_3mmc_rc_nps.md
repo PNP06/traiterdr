@@ -143,9 +143,10 @@ c’est faux : 12h dans les urines et 10h dans le sang [136]
  et surtout ce n’est pas le cas des cheveux où les traces peuvent être
 détectées très longtemps après [137] !
 
-[Image reference: Une image contenant fenêtre, mammifère, fixant
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image010.png]
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p097_figure_01_ghb_drogue_du_viol_chemsex_3_mmc_r.png" alt="Ghb Drogue Du Viol Chemsex 3 Mmc R">
+  <figcaption>Figure p. 97 : Ghb Drogue Du Viol Chemsex 3 Mmc R.</figcaption>
+</figure>
 
 En somme,
 le GHB est un médicament détourné, qui est majoritairement utilisé pour ses
@@ -378,13 +379,10 @@ l’arrêté antidrogue.
 
 Prenons un des RC du LSD : le 1cp-LSD
 
-[Image reference: Une image contenant noir, obscurité
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image023.png]
-
-[Image reference: Une image contenant noir, obscurité
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image024.png]
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p097_figure_02_ghb_drogue_du_viol_chemsex_3_mmc_r.png" alt="Ghb Drogue Du Viol Chemsex 3 Mmc R">
+  <figcaption>Figure p. 97 : Ghb Drogue Du Viol Chemsex 3 Mmc R.</figcaption>
+</figure>
 
 LSD 1cp-LSD
 
@@ -398,10 +396,6 @@ groupement ajouté est rapidement enlevé par votre organisme par
 « digestion » avoir lui-même des effets psychoactifs.
 
 ##### Toxicité des RC
-
-[Image reference: Une image contenant fenêtre, mammifère, fixant
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image025.png]
 
 Si
 des tas de publications scientifiques existent sur les drogues traditionnelles,
@@ -520,10 +514,6 @@ avec les vendeurs.
 
 Darknet ou site de RC, Il
 est toujours préférable de :
-
-[Image reference: Une image contenant fenêtre, mammifère, fixant
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image010.png]
 
 – Testez
 les produits reçus (voir partie « tester ses produits ») ;

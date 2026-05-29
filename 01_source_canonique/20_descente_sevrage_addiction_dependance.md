@@ -24,9 +24,10 @@ chimique par exemple. D’ailleurs, d’un point de vue collectif, la consommati
 à risque sans addiction cause davantage de dommages que l’addiction en termes
 de maladie et mortalité [414] .
 
-[Image reference: Une image contenant fenêtre, mammifère, fixant
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image010.png]
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p297_figure_01_descente_sevrage_addiction_dependa.png" alt="Descente Sevrage Addiction Dependa">
+  <figcaption>Figure p. 297 : Descente Sevrage Addiction Dependa.</figcaption>
+</figure>
 
 Il faut décorréler
 addiction et toxicité.
@@ -58,7 +59,6 @@ l’Assemblée nationale.
 
 Un des tableaux est intéressant, car il montre
 que le rapport différencie la dépendance physique et la dépendance psychique.
-
 
 |  | Héroïne | Cocaïne | MDMA | Alcool | Benzodiazepines | Cannabis | Tabac |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -114,9 +114,10 @@ La question se pose alors : quelle est la différence
 essentielle ? Pour y répondre, il est d'abord nécessaire d'adopter une approche
 générale et simplifiée avant de se pencher sur les détails spécifiques.
 
-[Image reference: Une image contenant fenêtre, mammifère, fixant
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image010.png]
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p298_figure_01_descente_sevrage_addiction_dependa.png" alt="Descente Sevrage Addiction Dependa">
+  <figcaption>Figure p. 298 : Descente Sevrage Addiction Dependa.</figcaption>
+</figure>
 
 Il n’existe plus de
 différence entre dépendance physique et psychologique.
@@ -129,7 +130,6 @@ sans symptômes physique lors de l’arrêt.
 L’objectif ici va être de donner
 du sens aux termes liés à l’addiction, en donnant une vision simple et globale.
 
-
 | Terme | Définition générale simplifiée | Exemple simplifié |
 | --- | --- | --- |
 | Addiction | Affection cérébrale chronique : Impossible de <br> contrôler la prise de drogue malgré la connaissance <br> d’effet négatif sur la qualité de vie | Je continue à fumer tous les jours même si je suis essoufflé. |
@@ -141,10 +141,10 @@ La tolérance se constate que lors de la prise répétée
 de produit. Or, la répétition de prise de drogue est caractéristique l’addiction.
 Souvent, dans le langage courant, il y a confusion.
 
-[Image reference: Une image contenant fenêtre, mammifère, fixant
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image080.png]
-
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p299_figure_01_descente_sevrage_addiction_dependa.png" alt="Descente Sevrage Addiction Dependa">
+  <figcaption>Figure p. 299 : Descente Sevrage Addiction Dependa.</figcaption>
+</figure>
 
 | Dans une approche simpliste des différents termes , <br> voici les étapes : <br> 1. <br> Je commence à fumer <br> 2. <br> J’ai une crise de craving , comme une énorme soif <br> 3. <br> J’en reprends, je m’habitue au geste : je développe une dépendance <br> 4. <br> À force d’en prendre, j’ai une tolérance : je dois en <br> prendre de plus en plus pour avoir les mêmes effets, <br> 5. Je <br> tousse, je n’ai plus les mêmes performances qu’avant, mais je n’arrive plus à <br> m’arrêter. J’ai besoin d’en prendre pour ne pas me sentir mal. J’ai <br> développé une addiction. |
 | --- |
@@ -179,16 +179,18 @@ l'importance d'une approche clinique et thérapeutique .
 
 Cela se voit même en imagerie médicale (cf. ci-dessous).
 
-[Image reference: Une image contenant texte
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image137.jpg]
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p300_figure_01_descente_sevrage_addiction_dependa.png" alt="Descente Sevrage Addiction Dependa">
+  <figcaption>Figure p. 300 : Descente Sevrage Addiction Dependa.</figcaption>
+</figure>
 
 Figure 75.
 Gauche : cerveau sain, droite : cerveau addict à la cocaïne [420]
 
-[Image reference: Une image contenant fenêtre, mammifère, fixant
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image064.png]
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p303_figure_01_descente_sevrage_addiction_dependa.png" alt="Descente Sevrage Addiction Dependa">
+  <figcaption>Figure p. 303 : Descente Sevrage Addiction Dependa.</figcaption>
+</figure>
 
 Oui,
 l’addiction est une maladie. Les termes utilisés sont trouble psychiatrique, trouble
@@ -214,13 +216,15 @@ avec (Scareface : scène de « vous voulez jouer à la
 vache ? »). Pour les anciens addicts, la vue de la drogue leur
 donnait envie, malgré leur sevrage.
 
-[Image reference: Une image contenant fenêtre, mammifère, fixant
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p304_figure_01_descente_sevrage_addiction_dependa.png" alt="Descente Sevrage Addiction Dependa">
+  <figcaption>Figure p. 304 : Descente Sevrage Addiction Dependa.</figcaption>
+</figure>
 
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image010.png]
-
-[Image reference: Une image contenant invertébré, transport, mollusque
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image138.jpg]
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p305_figure_01_descente_sevrage_addiction_dependa.png" alt="Descente Sevrage Addiction Dependa">
+  <figcaption>Figure p. 305 : Descente Sevrage Addiction Dependa.</figcaption>
+</figure>
 
 Figure 76. Gauche : vidéo sans drogue Droite : Vidéo avec drogue, l’amygdale est
 suractivée [421]
@@ -258,7 +262,10 @@ Prenons le cas de du tabac, qui est autant addictogène que
 le crack. Certains arrivent à fumer occasionnellement et pas d’autres : la
 substance elle-même ne suffit pas à expliquer l’addiction.
 
-[Image reference: image139.jpg; source export Word: Traité RDR version html_fichiers/image139.jpg]
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p311_figure_01_descente_sevrage_addiction_dependa.png" alt="Descente Sevrage Addiction Dependa">
+  <figcaption>Figure p. 311 : Descente Sevrage Addiction Dependa.</figcaption>
+</figure>
 
 Figure 77.
 L’approche PIE, extrait du traité d’addictologie (2016)
@@ -268,9 +275,10 @@ l’addiction. Dans le cas des drogues légales (alcool et tabac), les
 facteurs de risques liés au produit et à l’environnement sont colossaux, pour
 autant, tous les consommateurs ne sont pas addicts.
 
-[Image reference: Une image contenant fenêtre, mammifère, fixant
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image010.png]
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p311_figure_02_descente_sevrage_addiction_dependa.png" alt="Descente Sevrage Addiction Dependa">
+  <figcaption>Figure p. 311 : Descente Sevrage Addiction Dependa.</figcaption>
+</figure>
 
 L’addiction ne peut être
 expliquée que par une cause, il y a forcément une composante individuelle, une
@@ -289,7 +297,10 @@ développement (l’enfance-adolescence), le comportement (caractère),
 l’environnement, le facteur génétique et le facteur neurobiologique. Ici
 aussi, un seul facteur ne suffit pas à expliquer l’addiction .
 
-[Image reference: image140.png; source export Word: Traité RDR version html_fichiers/image140.png]
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p311_figure_03_descente_sevrage_addiction_dependa.png" alt="Descente Sevrage Addiction Dependa">
+  <figcaption>Figure p. 311 : Descente Sevrage Addiction Dependa.</figcaption>
+</figure>
 
 Figure 78. Les 5 facteurs de risques. Pr Karila
 
@@ -331,9 +342,10 @@ le traité avec des substances.
 
 C’est là un élément important :
 
-[Image reference: Une image contenant fenêtre, mammifère, fixant
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image010.png]
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p312_figure_01_descente_sevrage_addiction_dependa.png" alt="Descente Sevrage Addiction Dependa">
+  <figcaption>Figure p. 312 : Descente Sevrage Addiction Dependa.</figcaption>
+</figure>
 
 Le
 traitement de l’addiction n’est pas uniquement l’arrêt du comportement
@@ -375,9 +387,10 @@ Ce sont des facteurs de risques, mais
 mais que je n’ai pas eu d’abus de substance durant ma maturation cérébrale, je
 me protège sur long terme.
 
-[Image reference: Une image contenant fenêtre, mammifère, fixant
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image010.png]
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p312_figure_02_descente_sevrage_addiction_dependa.png" alt="Descente Sevrage Addiction Dependa">
+  <figcaption>Figure p. 312 : Descente Sevrage Addiction Dependa.</figcaption>
+</figure>
 
 Pour être addict, il faut
 que les 5 facteurs soient déséquilibrés . Une seule case n’explique pas
@@ -481,9 +494,10 @@ plus prononcée que le simple comptage du nombre de cigarettes consommées.
 L'évaluation par le professionnel de santé se concentre principalement sur les
 conséquences de cette consommation sur la vie quotidienne du patient.
 
-[Image reference: Une image contenant fenêtre, mammifère, fixant
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image010.png]
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p318_figure_01_descente_sevrage_addiction_dependa.png" alt="Descente Sevrage Addiction Dependa">
+  <figcaption>Figure p. 318 : Descente Sevrage Addiction Dependa.</figcaption>
+</figure>
 
 Le trouble de l’usage est
 une maladie. Quels que soient votre score et l’objet de votre addiction, si
@@ -502,7 +516,6 @@ l’addiction, la consommation perdure alors qu’il y a moins ou pas de plaisir
 qu’il y a des dommages importants liés à la consommation. Cette approche est
 une adaptation de l’étude du professeur Karila. [427]
 
-
 |  | Plaisir | Dommages | Exemples | Approche cérébrale |
 | --- | --- | --- | --- | --- |
 | Usage simple | ++++ | 0 | Je bois un verre de temps en temps entre amis | Grosse libération de dopamine. |
@@ -514,7 +527,10 @@ Figure 79. De l’usage simple à l’addiction : une notion de plaisir et de do
 Une façon plus simple d’aborder cette idée est par un
 graphique.
 
-[Image reference: image141.png; source export Word: Traité RDR version html_fichiers/image141.png]
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p318_figure_02_descente_sevrage_addiction_dependa.png" alt="Descente Sevrage Addiction Dependa">
+  <figcaption>Figure p. 318 : Descente Sevrage Addiction Dependa.</figcaption>
+</figure>
 
 Figure 80. De l’usage à l’addiction : notion de plaisir et dommage
 
@@ -522,10 +538,6 @@ Chaque courbe représente une consommation. La verte, c’est
 l’usage simple, il n’y a pas eu de dommage à la consommation. La courbe jaune
 représente une première bascule : l’usage a entrainé des conséquences
 négatives (rater le réveil le lendemain, s’être blessé, etc.).
-
-[Image reference: Une image contenant fenêtre, mammifère, fixant
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image010.png]
 
 Les
 courbes orange représentent l’abus : il y a moins de plaisir et les
@@ -550,8 +562,6 @@ Cette approche du professeur Karila [428]
  [429]
 basée sur cinq critères majeurs pour mieux repérer l’addiction.
 
-[Image reference: image142.png; source export Word: Traité RDR version html_fichiers/image142.png]
-
 Si ces critères se
 manifestent : il faut s’interroger.
 
@@ -574,10 +584,6 @@ vulnérabilité initiale, l’impact des premières consommations, et les
 modifications progressives des circuits neuronaux, le stress et le contrôle des
 comportements. C’est une approche qui n’est pas axée sur le plaisir ou les
 conséquences, mais qui permet d’avoir une approche contenant plus de notions.
-
-[Image reference: Une image contenant texte, capture d’écran, Police, Parallèle
-
-Le contenu généré par l’IA peut être incorrect.; source export Word: Traité RDR version html_fichiers/image143.png]
 
 Figure 81.Approche par Stade [430]
 
@@ -611,10 +617,6 @@ folliculaire et la phase lutéale. Ce cycle est régulé par une série de
 changements hormonaux qui ont des effets notables non seulement sur la
 reproduction mais aussi sur d'autres systèmes physiologiques, y compris le
 système nerveux central.
-
-[Image reference: Une image contenant capture d’écran, texte, ligne, Tracé
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image144.png]
 
 Figure 82. Changement hormonal durant le cycle menstruel
 
@@ -661,8 +663,6 @@ lutéale par rapport à la phase folliculaire. Des résultats similaires ont
 Cela peut provoquer des surconsommations pour avoir plus
 d’effets.
 
-[Image reference: image145.png; source export Word: Traité RDR version html_fichiers/image145.png]
-
 Figure 83.
 Effet subjectif en fonction des phases du cyle
 
@@ -684,7 +684,6 @@ nicotinique (NRT) et un traitement comportemental ont montré de meilleurs
 résultats chez les femmes arrêtant pendant la phase folliculaire, selon des
 études de 2008.
 
-
 | Action | Phase <br> lutéale | Phase <br> folliculaire |
 | --- | --- | --- |
 | Arrêt du tabac <br> sans substitut nicotinique | Taux de rechute <br> plus faible |  |
@@ -705,10 +704,6 @@ fluctuations hormonales. Ainsi, même si les effets subjectifs de la drogue
 peuvent être réduits, le désir de la consommer peut demeurer élevé, peut-être
 comme un moyen d'atténuer des symptômes émotionnels négatifs.
 
-[Image reference: Une image contenant fenêtre, mammifère, fixant
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image010.png]
-
 Entre l’ovulation et le
 début des règles (phase lutéale), les
 effets ressentis peuvent être moins forts à
@@ -727,7 +722,6 @@ consommation
 Addictologue, psychiatre, psychologue, addictologue, de
 nombreux titres en lien avec la prise en charge des personnes addictes
 existent. Voici un récapitulatif.
-
 
 | Métier/fonction | Description | Études |
 | --- | --- | --- |
@@ -753,10 +747,6 @@ permettra de mettre en place des outils au quotidien et de suivre l’évolution
 Un exemple de suivi d’addictologie est un rendez-vous
 mensuel chez le psychiatre et toutes les semaines chez le psychologue. Les deux
 travaillant ensemble.
-
-[Image reference: Une image contenant fenêtre, mammifère, fixant
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image080.png]
 
 Pour
 vous orienter, allez vers un professionnel de santé, qui fera un premier diagnostic
@@ -902,12 +892,6 @@ risques du sevrage, ceux de la consommation actuelle et prévenir les rechutes. 
 sevrer n’est pas forcément le plus difficile, l’enjeu réside bien souvent dans
 la prévention des rechutes.
 
-[Image reference: image146.png; source export Word: Traité RDR version html_fichiers/image146.png]
-
-[Image reference: Une image contenant fenêtre, mammifère, fixant
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image010.png]
-
 Soignée
 une addiction n’est pas forcément l’arrêt total de consommation .
 
@@ -921,7 +905,6 @@ dépendance progresse de manière séquentielle. Chaque étape reflète un état
 spécifique dans le processus de changement (voir tableau). Le rôle du
 thérapeute est d’adapter son intervention en fonction de l’étape où se situe le
 patient, en proposant des objectifs ciblés et des stratégies adaptées.
-
 
 | Étapes <br> de <br> changement | Attitude du <br> sujet | Objectifs du <br> thérapeute |
 | --- | --- | --- |
@@ -944,16 +927,10 @@ Ces rechutes ne signifiant pas toujours l’échec de la prise
 en charge, le terme « extra » est maintenant préféré par les
 professionnels de santé.
 
-[Image reference: image147.png; source export Word: Traité RDR version html_fichiers/image147.png]
-
 Figure 85.
  Orange : parcours de traitement imaginé
  Vert : parcours typique d'un traitement
 de l'addiction
-
-[Image reference: Une image contenant fenêtre, mammifère, fixant
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image010.png]
 
 Rechuter
 (avoir un extra) n’est pas forcément un signe d’échec, soigner une addiction
@@ -969,19 +946,7 @@ L’exemple ci-après est un résumé de deux
 témoignages, il présente les étapes que peuvent passer les addicts lorsqu’il
 commence leur prise en charge.
 
-[Image reference: Une image contenant texte
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image148.png]
-
-[Image reference: Une image contenant texte
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image149.png]
-
 Figure 86. Cas d'une prise en charge
-
-[Image reference: Une image contenant fenêtre, mammifère, fixant
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image010.png]
 
 Il
 ne faut JAMAIS pousser à la consommation . Vous ne savez pas quelle
@@ -1000,8 +965,6 @@ le domaine…
 Bien que le terme soit « traitement de substitution »,
 l’usage de médicament n’a pas un but unique et ne se résume pas à remplacer le
 produit de l’addiction.
-
-[Image reference: image150.png; source export Word: Traité RDR version html_fichiers/image150.png]
 
 Figure 87.
 Rôles des médicaments dans le traitement de l'addiction
@@ -1031,10 +994,6 @@ zones de deal et donc éviter des habitudes et même des crises de craving.
 Bien que peu utilisé, il existe également des médicaments
 qui rendent la consommation d’alcool extrêmement désagréable. En somme, la
 gueule de bois sévère apparait avant l’ivresse [443] .
-
-[Image reference: Une image contenant fenêtre, mammifère, fixant
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image010.png]
 
 Les
 traitements de substitution ne sont pas suffisants pour quitter l’addiction,
@@ -1166,10 +1125,6 @@ L'approche de la consommation d'alcool est souvent basée sur
 un modèle simpliste qui différencie les individus atteints d'alcoolodépendance
 de ceux ayant une consommation « modérée ».
 
-[Image reference: Une image contenant fenêtre, mammifère, fixant
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image010.png]
-
 Cependant,
 les études épidémiologiques ont démontré qu'un grand nombre de conséquences
 psychologiques, sociales et physiques liées à la consommation d'alcool
@@ -1185,8 +1140,6 @@ et intensités, indépendamment de la dépendance en elle-même.
 
 La Société Française d'Alcoologie et d'Addictologie propose
 une classification en cinq niveaux [449] .
-
-[Image reference: image151.png; source export Word: Traité RDR version html_fichiers/image151.png]
 
 Figure 88. Adaptation des niveaux de consommations d'alcool
 de la SFA
@@ -1327,8 +1280,6 @@ le terme « repère » a remplacé le concept de
 « seuil », qui laissait entendre que toute consommation en
 dessous d’un certain niveau était sans risque .
 
-[Image reference: image152.png; source export Word: Traité RDR version html_fichiers/image152.png]
-
 Figure 89. Impact des évolutions scientifiques sur les
 recommandations de consommation d’alcool
 
@@ -1373,14 +1324,6 @@ choix.
 Les décisions vont donc se baser sur les deux courbes
 ci-après. Elle représente la mortalité par rapport à la consommation d’alcool,
 pour les femmes et les hommes.
-
-[Image reference: Une image contenant texte, capture d’écran, ligne, Tracé
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image153.png]
-
-[Image reference: Une image contenant texte, capture d’écran, ligne, Tracé
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image154.png]
 
 Figure 90. Mortalité vie entière pour les femmes et
 les hommes. La ligne bleue pleine représente le risque ; les lignes
@@ -1439,7 +1382,6 @@ cohérence avec les autres risques, mais qui a été pris en référence dans
 d’autres pays pour l’alcool, cela correspond à la première ligne rouge dans les
 graphiques précédents.
 
-
 | Risque | Quantité d’alcool correspondant pour les Femmes | Quantité d’alcool correspondant pour les Hommes |
 | --- | --- | --- |
 | 1 pour 100 | 16 g/jour (1,5 verre standard/jour) | 24 g/jour (2,4 verres standard/jour) |
@@ -1489,10 +1431,6 @@ De plus, il est important de prévoir des repères qui ne
 nécessitent pas une consommation quotidienne, car cette pratique est devenue
 minoritaire et est souvent associée à la dépendance pour la plupart des gens.
 Cela pourrait donc être mal compris.
-
-[Image reference: Une image contenant fenêtre, mammifère, fixant
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image010.png]
 
 Les repères de consommations
 communiquées au grand public sont les suivantes :
@@ -1570,10 +1508,6 @@ européens (10g d’éthanol pur et non 13,8g) sont :
  0 verre par semaine – Offre de nombreux bénéfices, une
 meilleure santé et par exemple un meilleur sommeil.
 
-[Image reference: Une image contenant fenêtre, mammifère, fixant
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image080.png]
-
 ·
  3
 verres standards ou moins par semaine – Permet généralement d’éviter les
@@ -1613,7 +1547,6 @@ problème de consommation sans l’identifier finement .
 ·
  FACE: c’est un questionnaire de cinq questions qui permet
 d’orienter le médecin réalisant le test.
-
 
 |  | Sensibilité | Spécificité |
 | --- | --- | --- |
@@ -1699,17 +1632,7 @@ perspective modifie l'interprétation des résultats.
 
 Voici le théorème appliqué pour le test DETA :
 
-[Image reference: image155.png; source export Word: Traité RDR version html_fichiers/image155.png]
-
-[Image reference: image156.png; source export Word: Traité RDR version html_fichiers/image156.png]
-
 où :
-
-[Image reference: image157.png; source export Word: Traité RDR version html_fichiers/image157.png]
-
-[Image reference: Une image contenant Police, calligraphie, typographie, blanc
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image158.png]
 
 En appliquant le théorème de Bayes, un homme qui n'a pas
 passé de test peut considérer qu'il a 14% de chances d'être alcoolique (c’est
@@ -1732,7 +1655,6 @@ Le questionnaire DETA (Diminuer, Entourage, Trop, Alcool)
 vise à identifier l'usage nocif et l'alcoolodépendance de façon rapide.
 Il est le seul score validé aux urgences pour détecter un mésusage, y compris
 pour les patients admis d’autres motifs que l’IEA.
-
 
 | Questionnaire DETA |
 | --- |
@@ -1817,7 +1739,6 @@ traitement, et ce, devant les thérapies médicamenteuses. Les
 interventions brèves et les traitements (médicamenteux ou non) sont abordés
 plus en détail ultérieurement.
 
-
 | Questionnaire FACE |
 | --- |
 | À quelle fréquence <br> consommez-vous des boissons contenant de l’alcool? |
@@ -1868,7 +1789,6 @@ L'utilisation du questionnaire AUDIT est recommandée dans
 les services d'urgence, et il est validé en France. Il peut être utilisé comme
 un autoquestionnaire et permet d'identifier les patients ayant une consommation
 nocive ainsi que ceux en situation de dépendance alcoolique.
-
 
 | Questions | S core |
 | --- | --- |

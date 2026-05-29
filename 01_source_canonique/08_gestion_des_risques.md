@@ -14,11 +14,6 @@ probabilité de survenir comme un risque.
 
 ## Risques majeurs, risques mineurs
 
-<figure class="doc-figure">
-  <img src="../05_assets_visuels/p101_figure_01_gestion_des_risques.png" alt="Gestion des risques">
-  <figcaption>Figure p. 101 : support visuel du chapitre sur la gestion des risques, leurs niveaux et les barrieres de reduction.</figcaption>
-</figure>
-
 Chaque consommation engendre une multitude de risques. Il
 serait irréaliste de chercher à tous les éviter, l'essentiel est plutôt de se
 concentrer sur les risques majeurs.
@@ -74,7 +69,6 @@ occasionnellement (dans 10 à 25 % des cas).
  4-Quasiment systématique : Les effets indésirables se produisent
 dans la plupart des cas (dans plus de 50 % des cas).
 
-
 | Risque | Gravité | Probabilité | G x P | Commentaire |
 | --- | --- | --- | --- | --- |
 | Gueule de bois | 1 | 4 | 4 | L’alcool a une descente difficile |
@@ -106,9 +100,10 @@ probabilité) elles-mêmes. Elles doivent présenter un nombre de niveaux limit�
 tout en étant suffisamment précises pour distinguer tous les cas. Trouver le
 bon équilibre est impossible.
 
-[Image reference: Une image contenant texte, capture d’écran, carré, Rectangle
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image026.png]
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p101_figure_01_gestion_des_risques.png" alt="Gestion Des Risques">
+  <figcaption>Figure p. 101 : Gestion Des Risques.</figcaption>
+</figure>
 
 Tableau 13.Exemple
 de cartographie des risques pour l'alcool

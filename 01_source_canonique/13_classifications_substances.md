@@ -1,11 +1,5 @@
 # Classifications des substances
 
-<figure class="doc-figure">
-  <img src="../05_assets_visuels/p160_figure_01_classifications_substances.png" alt="Classifications des substances">
-  <figcaption>Figure p. 160 : support visuel du chapitre sur les classifications, les dommages et la dangerosite.</figcaption>
-</figure>
-
-
 # Classification des substances
 
 Est-il possible de comparer les
@@ -56,7 +50,6 @@ Il y a donc quatre types de
 drogues : stimulantes, neuroleptiques (aussi appelés antipsychotiques),
 dépresseurs et perturbateurs (anciennement appelés hallucinogènes).
 
-
 |  | Stimulant | Neuroleptique | Dépresseur | Perturbateur |
 | --- | --- | --- | --- | --- |
 | Action | Stimulation des fonctions psychiques (éveil, activité du <br> cerveau, etc.) | Aussi appelé Antipsychotique ou <br> « tranquillisant » Neutralité émotionnelle et affective <br> Effet sédatif [239] . | Diminution des fonctions psychiques. Diminution de <br> l’activité cérébrale et perte de la mémoire. <br> Soulagement de l’anxiété | Modification de la conscience et de la perception. <br> Souvent, les perturbateurs sont euphorisants. |
@@ -88,7 +81,10 @@ précis, le terme de perturbateur est utilisé.
 
 ### Classification générale de Derek Snider
 
-[Image reference: image076.png; source export Word: Traité RDR version html_fichiers/image076.png]
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p160_figure_01_classifications_substances.png" alt="Classifications Substances">
+  <figcaption>Figure p. 160 : Classifications Substances.</figcaption>
+</figure>
 
 Figure 33.Classification simplifiée de Derek Snider
 
@@ -126,9 +122,10 @@ traitement de Diazépam, les effets du LSD pourraient être atténués.
 La classification permet également d’avoir une
 première approche lors des poly consommation (prise de plusieurs substances).
 
-[Image reference: Une image contenant fenêtre, mammifère, fixant
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image010.png]
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p162_figure_01_classifications_substances.png" alt="Classifications Substances">
+  <figcaption>Figure p. 162 : Classifications Substances.</figcaption>
+</figure>
 
 Dans
 une première approche :
@@ -186,7 +183,10 @@ et parfois « psychédéliques ».
 Pour mieux appréhender ces termes, il faut aller un peu plus
 loin dans la classification, et chercher des sous-familles :
 
-[Image reference: image077.png; source export Word: Traité RDR version html_fichiers/image077.png]
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p168_figure_01_classifications_substances.png" alt="Classifications Substances">
+  <figcaption>Figure p. 168 : Classifications Substances.</figcaption>
+</figure>
 
 Figure 34. Principales sous-familles de la classification de Derek Snider
 
@@ -456,7 +456,6 @@ Ci-après, vous trouverez un
 tableau détaillant le sens de chacun des critères et leur pondération. Cela
 permet de mieux comprendre les résultats de l’étude.
 
-
 | Soi/autres | Sous-catégorie | Critère | Sens ou exemple | Coefficient UK |
 | --- | --- | --- | --- | --- |
 | Pour soi <br> (46 points) | Physique | Mortalité spécifique | Écart entre dose <br> létale et dose produisant un effet | 5,1 |
@@ -508,7 +507,10 @@ tour des professeurs d’évaluer les élèves. Voici les résultats d’analyse
 20 substances par des experts du Comité Scientifique Indépendant sur les
 Drogues [255] .
 
-[Image reference: image078.png; source export Word: Traité RDR version html_fichiers/image078.png]
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p169_figure_01_classifications_substances.png" alt="Classifications Substances">
+  <figcaption>Figure p. 169 : Classifications Substances.</figcaption>
+</figure>
 
 Figure 35. Classement Royaume-Uni (UK) (étude David
 Nutt)
@@ -546,7 +548,10 @@ conseiller les politiques. Nous allons surtout nous intéresser aux dommages
 individuels et laisser les aspects sociétaux de côté. Voici donc la
 classification par rapport aux dommages individuels uniquement.
 
-[Image reference: image079.png; source export Word: Traité RDR version html_fichiers/image079.png]
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p178_figure_01_classifications_substances.png" alt="Classifications Substances">
+  <figcaption>Figure p. 178 : Classifications Substances.</figcaption>
+</figure>
 
 Figure 36. Classement par dommages pour soi uniquement (Nutt 2010)
 
@@ -615,10 +620,6 @@ société et des règlementations en matière de stupéfiants.
 Ce n’est pas la substance
 elle-même qui est dure ou douce , mais l’usage que l’on en fait .
 
-[Image reference: Une image contenant fenêtre, mammifère, fixant
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image080.png]
-
 Les
 notions d’ usages doux/dur, de drogue licite/illicite ou de drogues a
 fort/faible acceptabilité sociale sont parfois utilisées.
@@ -648,10 +649,6 @@ sociaux.
 
 Il est aussi possible de comparer des substances entre elles.
 Par exemple, le tabac à le même potentiel de dépendance que le crack.
-
-[Image reference: Une image contenant fenêtre, mammifère, fixant
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image010.png]
 
 Cette étude offre la
 possibilité d’avoir une vision globale des risques auxquels vous vous
@@ -722,7 +719,6 @@ dans un tableau des psychotropes, qui serait un classement de la balance abus
 VS intérêt thérapeutique, et un classement réalisé dans les stupéfiants en
 fonction du potentiel addictogène.
 
-
 | Tableau | Convention de 1961 <br> (Stupéfiants) | Convention de 1971 <br> (Substances Psychotropes) |
 | --- | --- | --- |
 | Tableau I | · <br> Risque élevé d'abus <br> · <br> Utilité thérapeutique <br> limitée <br> · <br> Cannabis | · <br> Risque important pour <br> la santé publique, <br> · <br> Faible utilité <br> thérapeutique <br> · <br> Cannabis |
@@ -760,7 +756,6 @@ dangerosité des produits. Il s’est entouré d’un groupe d’experts frança
 étrangers pour rédiger le document et le fournir à l’Assemblée nationale. À
 l’époque, cela avait provoqué l’émotion des professionnels de la filière « vins
 et alcools » qui n’avaient pas apprécié les résultats [261] …
-
 
 |  | Héroïne | Cocaïne | MDMA | Alcool | Benzodiazepines | Cannabis | Tabac |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -1103,7 +1098,6 @@ que du danger. Il est ainsi conclu que "en fonction de l'exposition
 moyenne des consommateurs, un risque plus ou moins élevé d'effets toxiques
 existe".
 
-
 | Terme | Indicateur | Définition |
 | --- | --- | --- |
 | Danger | Indice thérapeutique = Marge de sécurité= DL50/DE50 | Nombre de fois ou la dose efficace doit être <br> prise pour atteindre la dose létale |
@@ -1136,7 +1130,6 @@ produit, entre autres facteurs, ces variations sont communes à toutes les
 substances et des calculs ont été effectués pour moyenner les doses. L'objectif
 principal est de les comparer entre elles, plutôt que de fournir une valeur
 absolue pour chaque drogue. Il s'agit donc d'un système de classement.
-
 
 | Principe actif | Dose létale moyenne (g) | Dose effective (g) | Marge de sécurité |
 | --- | --- | --- | --- |
@@ -1190,10 +1183,6 @@ sert à hiérarchiser les mesures de gestion des risques.
 Dans ce contexte, l'exposition à la substance en question
 est prise en compte, ce qui en fait une évaluation du risque plutôt que du
 danger.
-
-[Image reference: Une image contenant texte, capture d’écran, diagramme, Parallèle
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image081.png]
 
 Tableau 26. Classement par marge d'exposition selon l'étude
 de Dirk W Lachenmeier 2015. Rouge: moyenne, Barre: ecart-type, Gris: cas de
@@ -1268,7 +1257,6 @@ nombre d’interaction sont identifiées, afin de donner une idée des substance
 les plus à risques. Le tri du tableau est effectué en fonction du nombre total
 d'interactions.
 
-
 |  | Interactions majeures | Interactions modérées | Interactions mineures | Interactions variables | Total |
 | --- | --- | --- | --- | --- | --- |
 | Antidepresseurs ISRS | 9 | 48 | 3 | 3 | 63 |
@@ -1340,7 +1328,6 @@ criminogène plus élevé que d'autres. Une meilleure compréhension de ces
 dynamiques peut aider à orienter les politiques publiques et les interventions
 pour réduire à la fois la consommation de drogues et les comportements
 criminels associés.
-
 
 | Substance | Type de Criminogénicité | Exemples de Comportements Criminels | Observations Complémentaires |
 | --- | --- | --- | --- |

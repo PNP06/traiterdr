@@ -2,11 +2,6 @@
 
 ## Interactions, mélanges
 
-<figure class="doc-figure">
-  <img src="../05_assets_visuels/p264_figure_01_interactions_melanges.png" alt="Interactions et mélanges">
-  <figcaption>Figure p. 264 : carte visuelle dense des interactions et melanges ; le texte du chapitre reste la reference pour l'interpretation.</figcaption>
-</figure>
-
 Les médias font souvent les gros
 titres avec des décès liés aux drogues en ciblant une substance particulière,
 comme la 3MMC ou le GHB. Cependant, lorsqu'on examine ces cas dans les revues
@@ -32,9 +27,10 @@ priorités doit être la sensibilisation aux interactions. Pour bien comprendre
 les interactions, il est important d’avoir lu la partie sur le métabolisme des
 drogues.
 
-[Image reference: Une image contenant fenêtre, mammifère, fixant
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image010.png]
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p252_figure_01_interactions_melanges.png" alt="Interactions Melanges">
+  <figcaption>Figure p. 252 : Interactions Melanges.</figcaption>
+</figure>
 
 Il
 est également important de comprendre que ces interactions ne se limitent pas
@@ -51,7 +47,6 @@ plus nocives que d’autres : il faut s’informer
 
 Il est connu qu’il ne faut pas prendre de l’alcool avec des
 médicaments. Le tableau ci-après en présente les raisons [370] .
-
 
 | Type de médicament/drogue | Mécanisme | Effet |
 | --- | --- | --- |
@@ -117,7 +112,6 @@ Le tableau suivant présente les principaux types
 d’interactions pharmacodynamiques, avec leurs définitions, exemples et
 mécanismes sous-jacents :
 
-
 | Type d’interaction | Définition | Formule | Exemple | Mécanisme |
 | --- | --- | --- | --- | --- |
 | Synergie additive | L’effet total est égal à la somme des effets des deux substances. | E = A + B | Morphine + oxycodone <br> : augmentation conjointe de l’effet analgésique | Addition (même mécanisme) ou Sommation (mécanismes différents). |
@@ -169,7 +163,10 @@ Ce phénomène de rebond peut entraîner des
 comportements à risque, une surconsommation d’alcool ou même une intoxication
 sévère, car les effets dépressifs sont retardés mais pas annulés.
 
-[Image reference: image101.png; source export Word: Traité RDR version html_fichiers/image101.png]
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p256_figure_01_interactions_melanges.png" alt="Interactions Melanges">
+  <figcaption>Figure p. 256 : Interactions Melanges.</figcaption>
+</figure>
 
 Tableau 40. Illustration de l'effet rebond (alcool et cocaïne)
 
@@ -194,9 +191,10 @@ d’urgence médicale. Comprendre ces interactions, anticiper leurs risques et
 savoir comment les gérer (comme l’utilisation des antidotes) est essentiel pour
 prévenir les complications graves liées à la polyconsommation.
 
-[Image reference: Une image contenant fenêtre, mammifère, fixant
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image010.png]
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p261_figure_01_interactions_melanges.png" alt="Interactions Melanges">
+  <figcaption>Figure p. 261 : Interactions Melanges.</figcaption>
+</figure>
 
 Les
 substances peuvent se potentialiser et une dose acceptable peut devenir dangereuse.
@@ -237,7 +235,6 @@ de transit dans le tube digestif, le pH (acidité) local et la présence d’aut
 composés. Ces interactions peuvent modifier la rapidité, l’efficacité ou
 l’intensité de l’effet d’une substance. Ci-après un tableau illustrant des
 interactions dans l’absorption.
-
 
 | Substance/Interaction | Mécanisme | Conséquences potentielles |
 | --- | --- | --- |
@@ -302,7 +299,6 @@ Les variations génétiques dans les gènes des cytochromes
 P450, connues sous le nom de polymorphisme génétique, peuvent affecter la
 quantité et manière dont chaque individu métabolise les drogues.
 
-
 | Type | Abondance foie (%) | Rôle dans le métabolisme des <br> médicaments |
 | --- | --- | --- |
 | CYP3A4/5 | 15-38% | Métabolise environ 30% des <br> médicaments . Cible majeure pour les interactions. |
@@ -316,9 +312,10 @@ dans la métabolisation des médicaments [376]
 
 Plusieurs points peuvent être dégagés de ce tableau :
 
-[Image reference: Une image contenant fenêtre, mammifère, fixant
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image010.png]
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p261_figure_02_interactions_melanges.png" alt="Interactions Melanges">
+  <figcaption>Figure p. 261 : Interactions Melanges.</figcaption>
+</figure>
 
 Le
 métabolisme varie d’une personne à l’autre. NOUS NE SOMME PAS EGAUX
@@ -381,7 +378,6 @@ L’ayahuasca, un mélange contenant de la DMT et des IMAO
 Cela permet à la DMT d’être active par voie orale, augmentant sa
 biodisponibilité et sa durée d’action.
 
-
 | Substance ou aliment | Enzyme cible | Mécanisme <br> d’inhibition | Conséquences <br> principales | Exemples de <br> médicaments concernés |
 | --- | --- | --- | --- | --- |
 | Pamplemousse | CYP3A4 | Les furanocoumarines neutralisent de manière irréversible le CYP3A4 <br> dans l’intestin et le foie. | Augmentation des concentrations plasmatiques, risque de surdosage. | Félodipine, simvastatine, ciclosporine, amiodarone |
@@ -404,9 +400,10 @@ Cela va être le cas avec l’alcool. Globalement, l’alcool est
 en majorité métabolisé par deux enzymes spécialisées : l’ADH et l’ALD. Mais
 il y a aussi les CYP2E1.
 
-[Image reference: Une image contenant capture d’écran, texte, diagramme, ligne
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image102.png]
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p264_figure_01_interactions_melanges.png" alt="Interactions Melanges">
+  <figcaption>Figure p. 264 : Interactions Melanges.</figcaption>
+</figure>
 
 Figure 55 . Métabolisation de l'alcool par les cytochromes
 
@@ -447,9 +444,10 @@ Donc, lors d’une consommation régulière d’alcool ou d’une
 consommation importante, la quantité de CYP2E1 augmente, en cas de prise de
 paracétamol il y a un risque de nécrose hépatique plus important .
 
-[Image reference: Une image contenant fenêtre, mammifère, fixant
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image010.png]
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p265_figure_01_interactions_melanges.png" alt="Interactions Melanges">
+  <figcaption>Figure p. 265 : Interactions Melanges.</figcaption>
+</figure>
 
 La
 consommation importante ou chronique d’alcool peut rendre toxique la prise de
@@ -513,9 +511,10 @@ Par ailleurs, la caféine est souvent utilisée comme marqueur
 pour évaluer l'activité de l'enzyme CYP1A2 dans un cadre clinique ou de
 recherche (Perera et al., 2012).
 
-[Image reference: Une image contenant fenêtre, mammifère, fixant
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image010.png]
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p265_figure_02_interactions_melanges.png" alt="Interactions Melanges">
+  <figcaption>Figure p. 265 : Interactions Melanges.</figcaption>
+</figure>
 
 Arrêter
 de fumer (même en passant à la cigarette électronique) change le
@@ -566,9 +565,10 @@ progressive de l’activité enzymatique est observée. De plus, cet effet persi
 environ une semaine après l’arrêt du millepertuis, nécessitant une attention
 particulière lors de l’interruption du traitement.
 
-[Image reference: Une image contenant fenêtre, mammifère, fixant
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image010.png]
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p266_figure_01_interactions_melanges.png" alt="Interactions Melanges">
+  <figcaption>Figure p. 266 : Interactions Melanges.</figcaption>
+</figure>
 
 Les
 produits naturels peuvent également causer des interactions !
@@ -665,15 +665,7 @@ ressentis et les risques potentiels. Fournissant des informations rigoureuses
 et détaillées, le site s'appuie sur des sources fiables pour fournir des
 connaissances précises et actualisées aux utilisateurs.
 
-[Image reference: Une image contenant texte
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image103.jpg]
-
 Figure 56.Page d'accueil mixtures.info
-
-[Image reference: Une image contenant texte
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image104.jpg]
 
 Figure 57.
 Exemple du mélange cocaïne et alcool
@@ -709,7 +701,6 @@ Pour aller plus loin, sur le site de Tripsit, le détail
 des risques pour chaque combinaison est précisé. Il y a également une
 application mobile.
 
-
 |  | Les effets ressentis <br> sont plutôt soustractifs . <br> La combinaison est <br> peu susceptible de causer une réaction indésirable en dehors de celles qui <br> pourraient être attendues pour les substances prises seules. | Alcool + Champignon |
 | --- | --- | --- |
 |  | Les effets ressentis <br> sont plutôt additifs . <br> La combinaison est <br> peu susceptible de causer une réaction indésirable en dehors de celles qui <br> pourraient être attendues pour les substances prises seules. | Café + Cannabis |
@@ -724,12 +715,9 @@ TripSit & Nuit Blanche
 Pour faciliter la lecture du tableau les drogues sont
 classées en familles.
 
-
 | Perturbateurs | Dissociatifs | Stimulants | Dépresseurs | Antidépresseurs |
 | --- | --- | --- | --- | --- |
 |  |  |  |  | Ici le terme <br> antidépresseur fait référence à la dépression et n’a pas de rapport avec les <br> dépresseurs du système nerveu |
-
-[Image reference: image116.png; source export Word: Traité RDR version html_fichiers/image116.png]
 
 #### Le site Drugs.com
 
@@ -742,14 +730,6 @@ interactions connues. Drugs.com permet d’identifier les interactions avec des
 médicaments mais est moins détaillé que mixtures.
 Bien que le site soit en anglais, il peut être traduit automatiquement à l’aide
 du navigateur Edge.
-
-[Image reference: Une image contenant texte, capture d’écran, Police
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image117.png]
-
-[Image reference: Une image contenant texte, capture d’écran, Police, document
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image118.png]
 
 Tableau 45.Exemple d'identification d'interaction paracétamol/alcool sur drugs.com
 
@@ -765,10 +745,6 @@ amphétamine, il est précisé : « L’éthanol augmente et l’amphétamine
 diminue la sédation. L’effet de l’interaction n’est pas clair, soyez prudent.
 Utilisez Prudence/Surveillez. » sans préciser que ce mélange peut
 engendrer une hyperthermie importante.
-
-[Image reference: Une image contenant texte, capture d’écran, Page web, logiciel
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image119.png]
 
 Figure 58. Extrait du site Medscape.com pour l'interaction
 millepertuis/amphétamine/kétamine
@@ -787,7 +763,6 @@ scientifiquement, l’idéal est donc d’utiliser en priorité les outils prés
 La première étape est de vérifier dans les outils
 l’existence de l’interaction recherché. Le tableau ci-après permet d’orienter
 vers les outils existants.
-
 
 | Outil | Rendu de l'outil | À utiliser pour |
 | --- | --- | --- |
@@ -814,10 +789,6 @@ Enfin, si l’interaction implique une plante ou un dérivé, le
 site Medscape peut être consulté. Toutefois, il convient de noter que
 les analyses y sont succinctes, ce qui limite leur précision et rend parfois
 difficile l’établissement de conclusions définitives.
-
-[Image reference: Une image contenant fenêtre, mammifère, fixant
-
-Description générée automatiquement; source export Word: Traité RDR version html_fichiers/image010.png]
 
 L’utilisation
 de mixtures.info doit devenir un reflexe dans le cadre de consommation
