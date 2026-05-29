@@ -60,7 +60,7 @@ Ordre de lecture conseille :
 
 1. `README.md`
 2. `llms.txt`
-3. `INDEX.md`
+3. `corpus-index.md`
 4. `00_pilotage/00_index_global.md`
 5. `00_pilotage/03_index_notions.md`
 6. `sources/traite/traite_rdr_version_html_clean.md`
@@ -70,7 +70,7 @@ Ordre de lecture conseille :
 
 Fichiers d'index disponibles :
 
-- `INDEX.md` : index racine humain avec liens vers tous les fichiers indexables.
+- `corpus-index.md` : index racine humain avec liens vers tous les fichiers indexables.
 - `corpus_manifest.json` : manifeste machine-readable du corpus.
 - `sources/traite/rapport_nettoyage_html.md` : diagnostic du HTML Word source et de sa conversion Markdown.
 
