@@ -1,6 +1,6 @@
 # Figures utiles
 
-Cette galerie regroupe les figures les plus utiles pour naviguer dans le traite. Les images sont conservees avec leur contexte source dans les chapitres canoniques.
+Cette galerie regroupe les figures les plus utiles pour comprendre le traite visuellement. Chaque figure renvoie vers le chapitre qui lui donne son contexte.
 
 <div class="figure-grid">
   <div class="figure-card"><h3>Preventions primaire, secondaire et tertiaire</h3><img src="./05_assets_visuels/p009_figure_01_preventions_primaire_secondaire_tertiaire.png" alt="Preventions primaire, secondaire et tertiaire"><p class="caption">Positionne le traite dans la prevention secondaire. <a href="/01_source_canonique/01_introduction_cadre_objectif_sources">Voir le chapitre</a></p></div>
@@ -20,4 +20,3 @@ Cette galerie regroupe les figures les plus utiles pour naviguer dans le traite.
   <div class="figure-card"><h3>Interactions et melanges</h3><img src="./05_assets_visuels/p264_figure_01_interactions_melanges.png" alt="Interactions et melanges"><p class="caption">Carte visuelle dense sur les interactions. <a href="/01_source_canonique/18_interactions_melanges">Voir le chapitre</a></p></div>
   <div class="figure-card"><h3>Testing et analyses</h3><img src="./05_assets_visuels/p284_figure_01_testing_analyses_produits_biologie.png" alt="Testing et analyses"><p class="caption">Analyse de produits et donnees biologiques. <a href="/01_source_canonique/19_testing_analyses_produits_biologie">Voir le chapitre</a></p></div>
 </div>
-

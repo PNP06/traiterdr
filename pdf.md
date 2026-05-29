@@ -1,32 +1,33 @@
-# Version PDF du traite
+# PDF gratuit du traite
 
-Le PDF complet est la version figee, telechargeable et archivable du traite.
+La version PDF est la version complete, telechargeable et archivable du traite.
 
-<div class="callout-row">
-  <a href="/traite-rdr.pdf">Ouvrir le PDF</a>
-  <a href="/traite-rdr.pdf" download>Telecharger le PDF</a>
+<div class="pdf-download-panel">
+  <div>
+    <h2>Telecharger le traite Risky</h2>
+    <p>Ouvre ou telecharge le PDF complet pour le lire hors ligne, le partager ou le conserver.</p>
+  </div>
+  <div class="pdf-download-actions">
+    <a href="/traite-rdr.pdf" download>Telecharger le PDF</a>
+    <a href="/traite-rdr.pdf">Ouvrir dans le navigateur</a>
+  </div>
 </div>
 
-## Usage prevu
+## Quand utiliser le PDF
 
-La version PDF est preferable pour :
+- Pour lire le traite d'un bout a l'autre.
+- Pour le conserver hors ligne.
+- Pour partager une version complete.
+- Pour garder la mise en page d'origine.
 
-- lecture continue hors ligne ;
-- impression ou archivage ;
-- partage d'une version datee ;
-- conservation des elements de mise en page qui se pretent mal a une navigation web.
+## Quand utiliser le site
 
-## Usage de la version web
+- Pour chercher un mot-cle.
+- Pour entrer par theme.
+- Pour retrouver un chapitre ou une figure.
+- Pour lire plus confortablement depuis un telephone.
 
-La version web est preferable pour :
-
-- acceder directement a un sujet ;
-- naviguer entre chapitres ;
-- consulter rapidement depuis un telephone ;
-- retrouver une figure ou un passage precis ;
-- relier CultureRDR a une page documentaire precise.
-
-## Avertissement de perimetre
+## Avertissement
 
 Ce document est une ressource d'information et d'education a la reduction des risques. Il ne constitue pas une incitation a consommer, une validation de pratiques illegales, un avis medical personnalise, une garantie de securite ou un protocole d'usage.
 

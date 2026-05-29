@@ -27,30 +27,36 @@ const chapters = [
 
 export default defineConfig({
   lang: 'fr-FR',
-  title: 'Traite RDR',
-  description: 'Traite de reduction des risques - version web documentaire.',
+  title: 'Risky - Traite RDR',
+  description: 'Lecture guidee du traite de reduction des risques Risky.',
   cleanUrls: true,
   srcExclude: [
-    'sources/**'
+    'sources/**',
+    '00_pilotage/**',
+    '02_themes_transversaux/**',
+    '03_derives_culturerdr/**',
+    '04_substances_mentions/**',
+    'corpus-index.md',
+    'README.md',
+    'readme.md'
   ],
-  lastUpdated: true,
+  lastUpdated: false,
   ignoreDeadLinks: true,
   head: [
-    ['meta', { name: 'theme-color', content: '#0f172a' }],
-    ['meta', { name: 'robots', content: 'index,follow' }]
+    ['meta', { name: 'theme-color', content: '#0f766e' }],
+    ['meta', { name: 'robots', content: 'index,follow' }],
+    ['link', { rel: 'icon', href: '/risky-logo.png' }]
   ],
   themeConfig: {
-    logo: '/logo.svg',
-    siteTitle: 'Traite RDR',
+    logo: '/risky-logo.png',
+    siteTitle: 'Risky',
     search: {
       provider: 'local'
     },
     nav: [
       { text: 'Accueil', link: '/' },
-      { text: 'Lire', link: '/lire' },
-      { text: 'Essentiels', link: '/essentiels' },
+      { text: 'Themes', link: '/themes' },
       { text: 'Sommaire', link: '/sommaire' },
-      { text: 'Figures', link: '/figures' },
       { text: 'PDF', link: '/pdf' }
     ],
     sidebar: [
@@ -59,22 +65,36 @@ export default defineConfig({
         collapsed: false,
         items: [
           { text: 'Accueil', link: '/' },
-          { text: 'Lire le traite', link: '/lire' },
-          { text: 'Parties importantes', link: '/essentiels' },
+          { text: 'Chercher par theme', link: '/themes' },
+          { text: 'Parcours de lecture', link: '/lire' },
+          { text: 'Passages a lire en premier', link: '/essentiels' },
           { text: 'Sommaire complet', link: '/sommaire' },
           { text: 'Telecharger le PDF', link: '/pdf' }
         ]
       },
       {
-        text: 'Parcours thematiques',
+        text: 'Chercher par theme',
         collapsed: false,
         items: [
-          { text: 'Croyances et biais', link: '/01_source_canonique/02_mythes_croyances_heuristiques_biais_sophismes' },
-          { text: 'Science et preuves', link: '/01_source_canonique/04_comprendre_science_preuves_causalite' },
-          { text: 'Gestion des risques', link: '/01_source_canonique/08_gestion_des_risques' },
-          { text: 'Badtrip et overdose', link: '/01_source_canonique/17_badtrip_overdose' },
-          { text: 'Interactions et melanges', link: '/01_source_canonique/18_interactions_melanges' },
-          { text: 'Testing et analyses', link: '/01_source_canonique/19_testing_analyses_produits_biologie' }
+          { text: 'Tous les themes', link: '/themes' },
+          { text: 'Comprendre la RDR', link: '/themes#comprendre-la-rdr' },
+          { text: 'Croyances et esprit critique', link: '/themes#croyances-mythes-et-esprit-critique' },
+          { text: 'Science et incertitude', link: '/themes#science-preuves-et-incertitude' },
+          { text: 'Produits et marches', link: '/themes#produits-classifications-et-marches' },
+          { text: 'Situations critiques', link: '/themes#situations-critiques' },
+          { text: 'Interactions et testing', link: '/themes#interactions-testing-et-incertitude-produit' }
+        ]
+      },
+      {
+        text: 'Parcours de lecture',
+        collapsed: true,
+        items: [
+          { text: 'Lire depuis le debut', link: '/01_source_canonique/01_introduction_cadre_objectif_sources' },
+          { text: 'Comprendre les croyances', link: '/01_source_canonique/02_mythes_croyances_heuristiques_biais_sophismes' },
+          { text: 'Comprendre les risques', link: '/01_source_canonique/08_gestion_des_risques' },
+          { text: 'Gerer une situation concrete', link: '/01_source_canonique/17_badtrip_overdose' },
+          { text: 'Lire les parties scientifiques', link: '/01_source_canonique/04_comprendre_science_preuves_causalite' },
+          { text: 'Lire par substances', link: '/substances' }
         ]
       },
       {
@@ -87,21 +107,7 @@ export default defineConfig({
         collapsed: true,
         items: [
           { text: 'Galerie des figures', link: '/figures' },
-          { text: 'Index visuels technique', link: '/00_pilotage/02_index_visuels_tableaux_figures' }
-        ]
-      },
-      {
-        text: 'Corpus technique',
-        collapsed: true,
-        items: [
-          { text: 'Index general du corpus', link: '/corpus-index' },
-          { text: 'Glossaire', link: '/00_pilotage/04_glossaire' },
-          { text: 'Matrice de couverture', link: '/00_pilotage/01_matrice_couverture' },
-          { text: 'Index notions', link: '/00_pilotage/03_index_notions' },
-          { text: 'Themes transversaux', link: '/02_themes_transversaux/00_index_themes' },
-          { text: 'Substances mentionnees', link: '/04_substances_mentions/00_index_substances' },
-          { text: 'Derives CultureRDR candidates', link: '/03_derives_culturerdr/00_index_derives' },
-          { text: 'Bilan final corpus', link: '/00_pilotage/10_bilan_final_corpus' }
+          { text: 'Substances mentionnees', link: '/substances' }
         ]
       }
     ],
@@ -113,20 +119,9 @@ export default defineConfig({
       prev: 'Page precedente',
       next: 'Page suivante'
     },
-    lastUpdated: {
-      text: 'Derniere mise a jour',
-      formatOptions: {
-        dateStyle: 'short',
-        timeStyle: 'short'
-      }
-    },
-    editLink: {
-      pattern: 'https://github.com/PNP06/traiterdr/edit/master/:path',
-      text: 'Modifier cette page sur GitHub'
-    },
     footer: {
-      message: 'Ressource documentaire RDR. Information generale, non incitative, non medicale personnalisee.',
-      copyright: 'CultureRDR / Traite RDR'
+      message: 'Ressource documentaire de reduction des risques. Information generale, non incitative, non medicale personnalisee.',
+      copyright: 'Risky / Traite RDR'
     }
   }
 })

@@ -1,6 +1,12 @@
 # Sommaire du traite
 
-Le sommaire ci-dessous liste les chapitres canoniques dans l'ordre du corpus. Les fichiers techniques restent accessibles dans la sidebar, mais cette page est le point d'entree pour lire le traite comme un document.
+Le sommaire ci-dessous liste les 22 chapitres canoniques dans l'ordre du traite. Pour une entree plus guidee, utilise plutot la page des themes ou les parcours de lecture.
+
+<div class="callout-row">
+  <a href="/themes">Chercher par theme</a>
+  <a href="/lire">Choisir un parcours</a>
+  <a href="/traite-rdr.pdf">Telecharger le PDF</a>
+</div>
 
 <div class="chapter-grid">
   <div class="chapter-card"><h3>0. Avant-propos, suivi et remerciements</h3><p class="meta">Pages imprimees 0-7 / PDF 1-8</p><p><a href="/01_source_canonique/00_front_matter_suivi_remerciements">Lire</a></p></div>
@@ -26,4 +32,3 @@ Le sommaire ci-dessous liste les chapitres canoniques dans l'ordre du corpus. Le
   <div class="chapter-card"><h3>20. Descente, sevrage, addiction et dependance</h3><p class="meta">Pages imprimees 294-326 / PDF 295-327</p><p><a href="/01_source_canonique/20_descente_sevrage_addiction_dependance">Lire</a></p></div>
   <div class="chapter-card"><h3>21. Cancer</h3><p class="meta">Pages imprimees 327-332 / PDF 328-333</p><p><a href="/01_source_canonique/21_cancer">Lire</a></p></div>
 </div>
-
