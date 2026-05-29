@@ -3,9 +3,9 @@
     <div class="risk-hero">
       <img class="risk-hero-logo" src="/risky-logo.png" alt="Risky">
       <div class="risk-hero-copy">
-        <p class="risk-kicker">Traite RDR</p>
-        <h1>Risky</h1>
-        <p class="risk-lead">Lire le traite, retrouver une information, comprendre un risque, verifier un sujet sans devoir fouiller partout.</p>
+        <p class="risk-kicker">Risky</p>
+        <h1>Traité de réduction des risques et des dommages</h1>
+        <p class="risk-lead">Lire le traité, retrouver une information, comprendre un risque, vérifier un sujet sans devoir fouiller partout.</p>
       </div>
     </div>
 

@@ -4,7 +4,7 @@ La version PDF est la version complete, telechargeable et archivable du traite.
 
 <div class="pdf-download-panel">
   <div>
-    <h2>Telecharger le traite Risky</h2>
+    <h2>Télécharger le traité</h2>
     <p>Ouvre ou telecharge le PDF complet pour le lire hors ligne, le partager ou le conserver.</p>
   </div>
   <div class="pdf-download-actions">

@@ -27,8 +27,8 @@ const chapters = [
 
 export default defineConfig({
   lang: 'fr-FR',
-  title: 'Risky - Traite RDR',
-  description: 'Lecture guidee du traite de reduction des risques Risky.',
+  title: 'Traité de réduction des risques et des dommages',
+  description: 'Lecture guidée du traité de réduction des risques et des dommages.',
   cleanUrls: true,
   srcExclude: [
     'sources/**',
@@ -49,7 +49,7 @@ export default defineConfig({
   ],
   themeConfig: {
     logo: '/risky-logo.png',
-    siteTitle: 'Risky',
+    siteTitle: 'Traité RDR',
     search: {
       provider: 'local'
     },
@@ -121,7 +121,7 @@ export default defineConfig({
     },
     footer: {
       message: 'Ressource documentaire de reduction des risques. Information generale, non incitative, non medicale personnalisee.',
-      copyright: 'Risky / Traite RDR'
+      copyright: 'Risky / Traité RDR'
     }
   }
 })
