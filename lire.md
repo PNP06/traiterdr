@@ -36,7 +36,8 @@ Le traite peut se lire dans l'ordre, mais tout le monde n'arrive pas avec la mem
   <div class="reading-card">
     <h3>Mythes sociaux</h3>
     <p>Lire les passages sur alcool, tabac, sucre, naturel, contact, addiction et autres recits frequents.</p>
-    <p><a href="/themes#croyances-mythes-et-esprit-critique">Voir le theme</a></p>
+    <p><a href="/01_source_canonique/05_mythes_alcool_tabac_prix_sante_publique">Lire alcool, tabac et sante publique</a></p>
+    <p><a href="/01_source_canonique/06_mythes_sucre_naturel_reste_perche_contact_addiction">Lire sucre, naturel et addiction</a></p>
   </div>
 </div>
 
@@ -58,7 +59,8 @@ Le traite peut se lire dans l'ordre, mais tout le monde n'arrive pas avec la mem
   <div class="reading-card">
     <h3>Corps, cerveau et effets</h3>
     <p>Comprendre neurobiologie, tolerance, developpement, absorption, metabolisme et elimination.</p>
-    <p><a href="/themes#corps-cerveau-et-effets">Voir le theme</a></p>
+    <p><a href="/01_source_canonique/09_cerveau_synapses_neurotransmetteurs_circuits">Lire cerveau et neurotransmetteurs</a></p>
+    <p><a href="/01_source_canonique/11_pk_pd_absorption_distribution_metabolisme_elimination">Lire absorption et elimination</a></p>
   </div>
 </div>
 
@@ -110,7 +112,7 @@ Le traite peut se lire dans l'ordre, mais tout le monde n'arrive pas avec la mem
 ## Lire autrement
 
 <div class="callout-row">
-  <a href="/themes">Chercher par theme</a>
+  <a href="/sommaire">Sommaire complet</a>
   <a href="/essentiels">Passages a lire en premier</a>
   <a href="/figures">Voir les figures utiles</a>
   <a href="/traite-rdr.pdf">Telecharger le PDF</a>

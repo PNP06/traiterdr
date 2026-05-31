@@ -66,7 +66,7 @@ Cette selection sert a entrer vite dans le traite. Elle ne remplace pas le somma
 </div>
 
 <div class="callout-row">
-  <a href="/themes">Voir tous les themes</a>
+  <a href="/lire">Parcours de lecture</a>
   <a href="/sommaire">Voir les 22 chapitres</a>
   <a href="/traite-rdr.pdf">Telecharger le PDF</a>
 </div>

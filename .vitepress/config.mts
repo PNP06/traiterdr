@@ -132,7 +132,7 @@ export default defineConfig({
     },
     nav: [
       { text: 'Accueil', link: '/' },
-      { text: 'Themes', link: '/themes' },
+      { text: 'Lire', link: '/lire' },
       { text: 'Sommaire', link: '/sommaire' },
       { text: 'PDF', link: '/pdf' }
     ],
@@ -147,42 +147,44 @@ export default defineConfig({
         collapsed: false,
         items: [
           { text: 'Accueil', link: '/' },
-          { text: 'Chercher par theme', link: '/themes' },
-          { text: 'Parcours de lecture', link: '/lire' },
+          { text: 'Lire le traite', link: '/lire' },
           { text: 'Passages a lire en premier', link: '/essentiels' },
           { text: 'Sommaire complet', link: '/sommaire' },
+          { text: 'Galerie des figures', link: '/figures' },
           { text: 'Telecharger le PDF', link: '/pdf' }
         ]
       },
       {
-        text: 'Chercher par theme',
+        text: 'Entrer par partie',
         collapsed: false,
         items: [
-          { text: 'Tous les themes', link: '/themes' },
-          { text: 'Comprendre la RDR', link: '/themes#comprendre-la-rdr' },
-          { text: 'Croyances et esprit critique', link: '/themes#croyances-mythes-et-esprit-critique' },
-          { text: 'Science et incertitude', link: '/themes#science-preuves-et-incertitude' },
-          { text: 'Produits et marches', link: '/themes#produits-classifications-et-marches' },
-          { text: 'Situations critiques', link: '/themes#situations-critiques' },
-          { text: 'Interactions et testing', link: '/themes#interactions-testing-et-incertitude-produit' }
+          { text: 'Cadre, sources et posture RDR', link: '/01_source_canonique/01_introduction_cadre_objectif_sources' },
+          { text: 'Croyances et esprit critique', link: '/01_source_canonique/02_mythes_croyances_heuristiques_biais_sophismes' },
+          { text: 'Preuves, science et causalite', link: '/01_source_canonique/04_comprendre_science_preuves_causalite' },
+          { text: 'Produits, effets et corps humain', link: '/01_source_canonique/09_cerveau_synapses_neurotransmetteurs_circuits' },
+          { text: 'Classifications des substances', link: '/01_source_canonique/13_classifications_substances' },
+          { text: 'Risques et situations critiques', link: '/01_source_canonique/14_risques_generiques_sommeil_juridique' },
+          { text: 'Interactions, testing et suites', link: '/01_source_canonique/18_interactions_melanges' }
         ]
       },
       {
         text: 'Parcours de lecture',
-        collapsed: true,
+        collapsed: false,
         items: [
+          { text: 'Vue guidee des parcours', link: '/lire' },
           { text: 'Lire depuis le debut', link: '/01_source_canonique/01_introduction_cadre_objectif_sources' },
           { text: 'Comprendre les croyances', link: '/01_source_canonique/02_mythes_croyances_heuristiques_biais_sophismes' },
           { text: 'Comprendre les risques', link: '/01_source_canonique/08_gestion_des_risques' },
           { text: 'Gerer une situation concrete', link: '/01_source_canonique/17_badtrip_overdose' },
           { text: 'Lire les parties scientifiques', link: '/01_source_canonique/04_comprendre_science_preuves_causalite' },
-          { text: 'Lire par substances', link: '/substances' }
+          { text: 'Retrouver une substance citee', link: '/substances' }
         ]
       },
       {
-        text: 'Figures utiles',
+        text: 'Index secondaires',
         collapsed: true,
         items: [
+          { text: 'Reperes transversaux', link: '/themes' },
           { text: 'Galerie des figures', link: '/figures' },
           { text: 'Substances mentionnees', link: '/substances' }
         ]

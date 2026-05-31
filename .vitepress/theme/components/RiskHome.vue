@@ -4,10 +4,10 @@
       <div class="risk-hero-copy">
         <p class="risk-kicker">Portail documentaire RDR</p>
         <h1>Traité de réduction des risques et des dommages</h1>
-        <p class="risk-lead">Lire le traité, retrouver une notion, explorer les risques par thème ou ouvrir le PDF complet sans devoir fouiller dans tout le corpus.</p>
+        <p class="risk-lead">Lire le traité, choisir une partie, retrouver une notion ou ouvrir le PDF complet sans devoir fouiller dans tout le corpus.</p>
         <div class="risk-hero-actions" aria-label="Actions prioritaires">
           <a class="risk-button risk-button--primary" href="/lire">Lire le traité</a>
-          <a class="risk-button" href="/themes">Explorer par thème</a>
+          <a class="risk-button" href="/essentiels">Passages prioritaires</a>
           <a class="risk-button risk-button--quiet" href="/traite-rdr.pdf">PDF complet</a>
         </div>
         <div class="risk-trust-row" aria-label="Repères du corpus">
@@ -43,14 +43,14 @@
 
       <a class="home-action-card" href="/lire">
         <span class="home-action-label">Lire</span>
-        <strong>Suivre un parcours guidé</strong>
-        <span>Commencer par les passages prioritaires selon le temps disponible et l'objectif de lecture.</span>
+        <strong>Suivre un parcours de lecture</strong>
+        <span>Entrer dans le traité par objectif de lecture, sans perdre l'ordre des chapitres.</span>
       </a>
 
-      <a class="home-action-card" href="/themes">
-        <span class="home-action-label">Thèmes</span>
-        <strong>Explorer par grande question</strong>
-        <span>Croyances, science, produits, corps, situations critiques, interactions et testing.</span>
+      <a class="home-action-card" href="/sommaire">
+        <span class="home-action-label">Sommaire</span>
+        <strong>Voir toutes les parties</strong>
+        <span>Parcourir les 22 chapitres canoniques dans l'ordre du traité.</span>
       </a>
 
       <a class="home-action-card" href="/figures">
@@ -63,18 +63,18 @@
     <div class="home-split-section">
       <section class="home-library-card">
         <div class="home-section-heading home-section-heading--compact">
-          <p class="section-kicker">Explorer vite</p>
-          <h2>Thèmes fréquents</h2>
+          <p class="section-kicker">Entrer dans le texte</p>
+          <h2>Parties du traité</h2>
         </div>
         <div class="topic-chip-grid">
-          <a href="/01_source_canonique/02_mythes_croyances_heuristiques_biais_sophismes">Mythes et biais</a>
+          <a href="/01_source_canonique/01_introduction_cadre_objectif_sources">Cadre et sources</a>
+          <a href="/01_source_canonique/02_mythes_croyances_heuristiques_biais_sophismes">Croyances et biais</a>
           <a href="/01_source_canonique/04_comprendre_science_preuves_causalite">Science et preuves</a>
-          <a href="/01_source_canonique/08_gestion_des_risques">Gestion des risques</a>
+          <a href="/01_source_canonique/09_cerveau_synapses_neurotransmetteurs_circuits">Corps et effets</a>
           <a href="/01_source_canonique/13_classifications_substances">Classifications</a>
-          <a href="/01_source_canonique/17_badtrip_overdose">Badtrip / overdose</a>
-          <a href="/01_source_canonique/18_interactions_melanges">Interactions</a>
-          <a href="/01_source_canonique/19_testing_analyses_produits_biologie">Testing / analyses</a>
-          <a href="/substances">Substances mentionnées</a>
+          <a href="/01_source_canonique/14_risques_generiques_sommeil_juridique">Risques transversaux</a>
+          <a href="/01_source_canonique/18_interactions_melanges">Interactions et testing</a>
+          <a href="/01_source_canonique/20_descente_sevrage_addiction_dependance">Suites et dépendance</a>
         </div>
       </section>
 
@@ -93,7 +93,7 @@
 
     <div class="reader-note">
       <h2>Repère de lecture</h2>
-      <p>Le site organise le traité pour faciliter la consultation : recherche, thèmes, figures et PDF restent des portes d'entrée vers le même contenu documentaire.</p>
+      <p>Le site organise le traité pour faciliter la consultation : sommaire, parcours, recherche, figures et PDF restent des portes d'entrée vers le même contenu documentaire.</p>
       <p>Ressource d'information générale de réduction des risques, sans personnalisation médicale ni incitation.</p>
     </div>
   </section>
