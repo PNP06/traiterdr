@@ -58,8 +58,8 @@ ingrédients) sont produites en suivant ces instructions.
 #### Approche statistique
 
 <figure class="doc-figure">
-  <img src="../05_assets_visuels/p328_figure_01_descente_sevrage_addiction_dependa.png" alt="Descente Sevrage Addiction Dependa">
-  <figcaption>Figure p. 328 : Descente Sevrage Addiction Dependa.</figcaption>
+  <img src="../05_assets_visuels/p328_figure_01_descente_sevrage_addiction_dependa.png" alt="Schéma probabiliste de mutation cellulaire et de risque de cancer">
+  <figcaption>Figure p. 328 : dommage cellulaire, réparation, élimination immunitaire ou évolution possible vers un cancer.</figcaption>
 </figure>
 
 L'appréciation du risque de cancer s'avère être compliquée.
@@ -138,8 +138,8 @@ peut altérer cette fonction, permettant aux particules cancérigènes de
 s'accumuler et d'endommager les cellules.
 
 <figure class="doc-figure">
-  <img src="../05_assets_visuels/p330_figure_01_descente_sevrage_addiction_dependa.png" alt="Descente Sevrage Addiction Dependa">
-  <figcaption>Figure p. 330 : Descente Sevrage Addiction Dependa.</figcaption>
+  <img src="../05_assets_visuels/p330_figure_01_descente_sevrage_addiction_dependa.png" alt="Cancers attribuables au mode de vie et à l'environnement en France">
+  <figcaption>Figure p. 330 : nombre de nouveaux cas de cancer attribuables aux facteurs de mode de vie et d'environnement en France en 2015, selon le CIRC.</figcaption>
 </figure>
 
 S’il
