@@ -10,7 +10,6 @@
         </p>
         <div class="risk-hero-actions" aria-label="Action principale">
           <a class="risk-button risk-button--primary" href="/lire">Commencer la lecture</a>
-          <a class="risk-button risk-button--secondary" href="/prez-hydratation">Presentation hydratation</a>
           <a class="risk-text-link" href="/sommaire">Sommaire complet</a>
           <a class="risk-text-link" href="/traite-rdr.pdf">PDF</a>
         </div>
