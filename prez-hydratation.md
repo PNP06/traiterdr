@@ -106,15 +106,44 @@ aside: false
       <span>Slide 05 - Hydratation</span>
       <h2>Repartition eau</h2>
     </header>
-    <div class="prez-slide-text prez-slide-text--wide">
-      <p>Le corps est compose d'environ <strong>60 % d'eau</strong>. Cette eau se repartit entre differents compartiments.</p>
-      <div class="prez-concept-row">
-        <div><strong>Dans les cellules</strong><span>Permet aux cellules de fonctionner correctement.</span></div>
-        <div><strong>Entre les cellules</strong><span>Transport des nutriments, des proteines et elimination des dechets.</span></div>
-        <div><strong>Dans le sang</strong><span>Maintien du volume sanguin et bonne oxygenation du cerveau et des muscles.</span></div>
+    <div class="prez-slide-layout prez-slide-layout--water">
+      <div class="prez-slide-text">
+        <p>Le corps est compose d'environ <strong>60 % d'eau</strong>. Cette eau se repartit entre differents compartiments.</p>
+        <div class="prez-concept-row">
+          <div><strong>Dans les cellules</strong><span>Permet aux cellules de fonctionner correctement.</span></div>
+          <div><strong>Entre les cellules</strong><span>Transport des nutriments, des proteines et elimination des dechets.</span></div>
+          <div><strong>Dans le sang</strong><span>Maintien du volume sanguin et bonne oxygenation du cerveau et des muscles.</span></div>
+        </div>
+        <p class="prez-message"><strong>Message cle :</strong> une bonne hydratation sert aussi a maintenir le volume de sang, donc l'oxygenation du cerveau et des muscles.</p>
+        <p class="prez-source-line">Biochimie clinique, 2eme edition Pierre Valdigue.</p>
       </div>
-      <p class="prez-message"><strong>Message cle :</strong> une bonne hydratation sert aussi a maintenir le volume de sang, donc l'oxygenation du cerveau et des muscles.</p>
-      <p class="prez-source-line">Biochimie clinique, 2eme edition Pierre Valdigue.</p>
+      <figure class="prez-water-map" aria-label="Repartition de l'eau dans le corps humain">
+        <div class="prez-water-total">
+          <span>Corps humain</span>
+          <strong>~60 % d'eau</strong>
+        </div>
+        <div class="prez-water-meter" aria-hidden="true">
+          <span style="width: 40%">40 %</span>
+          <span style="width: 20%">20 %</span>
+        </div>
+        <div class="prez-water-branches">
+          <div class="prez-water-card prez-water-card--inside">
+            <span>Dans les cellules</span>
+            <strong>~40 %</strong>
+            <small>Fonctionnement cellulaire</small>
+          </div>
+          <div class="prez-water-card prez-water-card--outside">
+            <span>Hors des cellules</span>
+            <strong>~20 %</strong>
+            <small>Transport, nutriments, dechets</small>
+            <div class="prez-water-subsplit">
+              <p><strong>~5 %</strong><span>Sang</span></p>
+              <p><strong>~15 %</strong><span>Entre les cellules</span></p>
+            </div>
+          </div>
+        </div>
+        <figcaption>Schema reconstruit depuis le message de la slide : l'eau utile a l'hydratation est repartie entre plusieurs compartiments.</figcaption>
+      </figure>
     </div>
   </article>
 

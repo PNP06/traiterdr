@@ -1213,6 +1213,154 @@
   font-size: 0.92rem;
 }
 
+.prez-slide-layout--water {
+  grid-template-columns: minmax(0, 0.95fr) minmax(340px, 1.05fr);
+}
+
+.prez-water-map {
+  min-width: 0;
+  margin: 0;
+  padding: 24px;
+  border: 1px solid var(--prez-line);
+  border-radius: 8px;
+  background: var(--risk-surface);
+}
+
+.prez-water-total {
+  display: grid;
+  gap: 4px;
+  justify-items: center;
+  margin: 0 0 18px;
+  padding: 18px;
+  border-radius: 8px;
+  color: #fff;
+  background: var(--prez-green);
+  text-align: center;
+}
+
+.prez-water-total span,
+.prez-water-card span,
+.prez-water-card small {
+  display: block;
+}
+
+.prez-water-total span {
+  font-size: 0.88rem;
+  font-weight: 760;
+  text-transform: uppercase;
+}
+
+.prez-water-total strong {
+  font-size: clamp(2rem, 4vw, 3.2rem);
+  line-height: 1;
+}
+
+.prez-water-meter {
+  display: flex;
+  height: 44px;
+  margin: 0 0 18px;
+  border: 1px solid var(--prez-line);
+  border-radius: 8px;
+  overflow: hidden;
+  background: var(--risk-surface-soft);
+}
+
+.prez-water-meter span {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 70px;
+  color: #fff;
+  font-weight: 800;
+}
+
+.prez-water-meter span:first-child {
+  background: var(--prez-blue);
+}
+
+.prez-water-meter span:last-child {
+  background: color-mix(in srgb, var(--prez-blue) 64%, var(--prez-green));
+}
+
+.prez-water-branches {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  gap: 14px;
+}
+
+.prez-water-card {
+  min-width: 0;
+  padding: 18px;
+  border: 1px solid var(--prez-line);
+  border-radius: 8px;
+  background: var(--vp-c-bg);
+}
+
+.prez-water-card--inside {
+  border-top: 5px solid var(--prez-blue);
+}
+
+.prez-water-card--outside {
+  border-top: 5px solid var(--prez-green);
+}
+
+.prez-water-card span {
+  color: var(--prez-muted);
+  font-size: 0.88rem;
+  font-weight: 760;
+  text-transform: uppercase;
+}
+
+.prez-water-card > strong {
+  display: block;
+  margin-top: 8px;
+  color: var(--prez-ink);
+  font-size: clamp(1.7rem, 3vw, 2.45rem);
+  line-height: 1;
+}
+
+.prez-water-card small {
+  margin-top: 8px;
+  color: var(--prez-muted);
+  font-size: 0.92rem;
+  line-height: 1.45;
+}
+
+.prez-water-subsplit {
+  display: grid;
+  gap: 8px;
+  margin-top: 16px;
+}
+
+.prez-water-subsplit p {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 12px;
+  margin: 0;
+  padding: 9px 10px;
+  border-radius: 6px;
+  background: var(--risk-surface-tint);
+}
+
+.prez-water-subsplit strong {
+  color: var(--prez-ink);
+}
+
+.prez-water-subsplit span {
+  color: var(--prez-muted);
+  font-size: 0.82rem;
+  text-align: right;
+  text-transform: none;
+}
+
+.prez-water-map figcaption {
+  margin-top: 14px;
+  color: var(--prez-muted);
+  font-size: 0.9rem;
+  line-height: 1.45;
+}
+
 .prez-title-card,
 .prez-message {
   margin: 22px 0;
@@ -1498,6 +1646,14 @@
 
   .prez-figure img {
     max-height: 520px;
+  }
+
+  .prez-water-branches {
+    grid-template-columns: 1fr;
+  }
+
+  .prez-water-map {
+    padding: 16px;
   }
 
   .prez-slide {
