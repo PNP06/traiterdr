@@ -134,7 +134,13 @@ export default defineConfig({
       { text: 'Accueil', link: '/' },
       { text: 'Lire', link: '/lire' },
       { text: 'Sommaire', link: '/sommaire' },
-      { text: 'PDF', link: '/pdf' }
+      { text: 'PDF', link: '/pdf' },
+      {
+        text: 'Présentations',
+        items: [
+          { text: 'Hydratation', link: '/prez-hydratation' }
+        ]
+      }
     ],
     sidebar: [
       {
@@ -152,6 +158,13 @@ export default defineConfig({
           { text: 'Sommaire complet', link: '/sommaire' },
           { text: 'Galerie des figures', link: '/figures' },
           { text: 'Telecharger le PDF', link: '/pdf' }
+        ]
+      },
+      {
+        text: 'Présentations',
+        collapsed: false,
+        items: [
+          { text: 'Hydratation', link: '/prez-hydratation' }
         ]
       },
       {
