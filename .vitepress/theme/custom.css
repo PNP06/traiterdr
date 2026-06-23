@@ -349,6 +349,19 @@
   background: var(--vp-c-brand-2);
 }
 
+.risk-home .risk-button--secondary,
+.risk-home .risk-button--secondary:visited {
+  border-color: var(--risk-line);
+  color: var(--risk-ink) !important;
+  background: var(--risk-surface);
+}
+
+.risk-home .risk-button--secondary:hover {
+  border-color: var(--vp-c-brand-2);
+  color: var(--vp-c-brand-1) !important;
+  background: var(--risk-surface-tint);
+}
+
 .risk-text-link {
   color: var(--risk-muted);
   font-weight: 720;
