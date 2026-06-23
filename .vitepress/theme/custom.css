@@ -1670,3 +1670,1090 @@
     font-size: 2.2rem;
   }
 }
+
+.prez-hydratation-page .VPDoc .container,
+.prez-hydratation-page .VPDoc .content,
+.prez-hydratation-page .VPDoc .content-container {
+  max-width: 1240px !important;
+}
+
+.prez-hydratation-page .vp-doc h1,
+.prez-hydratation-page .vp-doc h2,
+.prez-hydratation-page .vp-doc h3,
+.prez-hydratation-page .vp-doc p {
+  letter-spacing: 0;
+}
+
+.prez-hydratation-page .vp-doc h2 {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+.hydration-session {
+  --hydr-ink: var(--risk-ink);
+  --hydr-muted: var(--risk-muted);
+  --hydr-line: var(--risk-line);
+  --hydr-surface: var(--risk-surface);
+  --hydr-soft: var(--risk-surface-soft);
+  --hydr-tint: var(--risk-surface-tint);
+  --hydr-green: var(--vp-c-brand-1);
+  --hydr-blue: #256f9b;
+  --hydr-amber: #a75b15;
+  --hydr-red: #a33d3d;
+  width: 100%;
+  max-width: 100%;
+  min-width: 0;
+  overflow-x: hidden;
+  color: var(--hydr-ink);
+  padding-bottom: 72px;
+}
+
+.hydration-session *,
+.hydration-session *::before,
+.hydration-session *::after {
+  box-sizing: border-box;
+}
+
+.hydration-session :where(h1, h2, h3, p, span, strong, em, a, li, th, td) {
+  max-width: 100%;
+  overflow-wrap: anywhere;
+}
+
+.hydration-hero {
+  min-height: min(760px, calc(100vh - 94px));
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 24px;
+  padding: 52px 0 42px;
+  border-bottom: 1px solid var(--hydr-line);
+}
+
+.hydration-kicker,
+.hydration-chapter-label,
+.hydration-slide-label {
+  margin: 0;
+  color: var(--hydr-green);
+  font-size: 0.78rem;
+  font-weight: 840;
+  letter-spacing: 0;
+  text-transform: uppercase;
+}
+
+.hydration-hero h1 {
+  max-width: min(1040px, 100%);
+  margin: 0;
+  color: var(--hydr-ink);
+  font-size: clamp(3rem, 7vw, 6.8rem);
+  line-height: 0.94;
+  letter-spacing: 0;
+  overflow-wrap: break-word;
+}
+
+.hydration-lead {
+  max-width: 880px;
+  min-width: 0;
+  margin: 0;
+  color: var(--hydr-muted);
+  font-size: clamp(1.18rem, 2vw, 1.55rem);
+  line-height: 1.58;
+}
+
+.hydration-lead strong,
+.hydration-session strong {
+  color: var(--hydr-ink);
+}
+
+.hydration-memory-grid,
+.hydration-rule-row,
+.hydration-answer-grid,
+.hydration-warning-table,
+.hydration-final {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 1px;
+  width: 100%;
+  border: 1px solid var(--hydr-line);
+  border-radius: 8px;
+  overflow: hidden;
+  background: var(--hydr-line);
+}
+
+.hydration-memory-grid {
+  max-width: 980px;
+  margin-top: 10px;
+}
+
+.hydration-memory-grid p,
+.hydration-rule-row p,
+.hydration-answer-grid p,
+.hydration-warning-table div,
+.hydration-final p,
+.hydration-flow p,
+.hydration-balance p,
+.hydration-cause-grid p,
+.hydration-timeline p,
+.hydration-belief p {
+  min-width: 0;
+  margin: 0;
+  padding: 18px;
+  background: var(--hydr-surface);
+}
+
+.hydration-memory-grid strong,
+.hydration-memory-grid span,
+.hydration-rule-row strong,
+.hydration-rule-row span,
+.hydration-answer-grid strong,
+.hydration-answer-grid span,
+.hydration-warning-table strong,
+.hydration-warning-table span,
+.hydration-final strong,
+.hydration-final span,
+.hydration-flow strong,
+.hydration-flow span,
+.hydration-balance strong,
+.hydration-balance span,
+.hydration-cause-grid strong,
+.hydration-cause-grid span,
+.hydration-cause-grid em,
+.hydration-timeline strong,
+.hydration-timeline span,
+.hydration-belief strong,
+.hydration-belief span {
+  display: block;
+}
+
+.hydration-memory-grid strong,
+.hydration-rule-row strong,
+.hydration-answer-grid strong,
+.hydration-warning-table strong,
+.hydration-final strong,
+.hydration-flow strong,
+.hydration-balance strong,
+.hydration-cause-grid strong,
+.hydration-timeline strong,
+.hydration-belief strong {
+  font-size: 1.03rem;
+  line-height: 1.32;
+}
+
+.hydration-memory-grid span,
+.hydration-rule-row span,
+.hydration-answer-grid span,
+.hydration-warning-table span,
+.hydration-final span,
+.hydration-flow span,
+.hydration-balance span,
+.hydration-cause-grid span,
+.hydration-timeline span,
+.hydration-belief span {
+  margin-top: 7px;
+  color: var(--hydr-muted);
+  font-size: 0.96rem;
+  line-height: 1.55;
+}
+
+.hydration-nav {
+  position: sticky;
+  z-index: 2;
+  top: 64px;
+  display: grid;
+  grid-template-columns: repeat(7, minmax(0, 1fr));
+  gap: 1px;
+  margin: 0 0 34px;
+  border: 1px solid var(--hydr-line);
+  border-radius: 8px;
+  overflow: hidden;
+  background: var(--hydr-line);
+  box-shadow: 0 14px 34px rgba(19, 32, 31, 0.08);
+}
+
+.hydration-nav a {
+  min-width: 0;
+  padding: 12px 14px;
+  color: var(--hydr-ink);
+  background: color-mix(in srgb, var(--vp-c-bg) 92%, var(--hydr-soft));
+  font-size: 0.88rem;
+  font-weight: 760;
+  line-height: 1.25;
+  text-decoration: none;
+}
+
+.hydration-nav a:hover {
+  color: var(--hydr-green);
+  background: var(--hydr-tint);
+  text-decoration: none;
+}
+
+.hydration-nav span {
+  display: block;
+  margin-bottom: 4px;
+  color: var(--hydr-muted);
+  font-family: var(--vp-font-family-mono);
+  font-size: 0.74rem;
+  font-weight: 720;
+}
+
+.hydration-chapter {
+  scroll-margin-top: 108px;
+}
+
+.hydration-chapter-label {
+  margin: 48px 0 0 104px;
+}
+
+.hydration-step {
+  display: grid;
+  grid-template-columns: 74px minmax(0, 1fr);
+  gap: 30px;
+  min-height: min(780px, calc(100vh - 96px));
+  padding: 68px 0;
+  border-bottom: 1px solid var(--hydr-line);
+  scroll-margin-top: 112px;
+}
+
+.hydration-step--opening,
+.hydration-step--transition {
+  align-items: center;
+}
+
+.hydration-step--transition {
+  min-height: min(520px, calc(100vh - 96px));
+}
+
+.hydration-step-marker {
+  position: sticky;
+  top: 122px;
+  align-self: start;
+  color: color-mix(in srgb, var(--hydr-green) 72%, var(--hydr-muted));
+  font-family: var(--vp-font-family-mono);
+  font-size: clamp(1.55rem, 3vw, 2.2rem);
+  font-weight: 860;
+  line-height: 1;
+}
+
+.hydration-step-marker::after {
+  content: "";
+  display: block;
+  width: 2px;
+  height: 74px;
+  margin: 18px 0 0 8px;
+  background: color-mix(in srgb, var(--hydr-green) 52%, transparent);
+}
+
+.hydration-step-body {
+  min-width: 0;
+  max-width: 100%;
+}
+
+.hydration-step h2 {
+  max-width: 1040px;
+  margin: 8px 0 20px;
+  color: var(--hydr-ink);
+  font-size: clamp(2rem, 4.7vw, 4.55rem);
+  line-height: 1.02;
+}
+
+.hydration-step h3 {
+  margin: 0 0 12px;
+  color: var(--hydr-ink);
+  font-size: 1.16rem;
+  line-height: 1.34;
+}
+
+.hydration-step p {
+  color: var(--hydr-muted);
+  font-size: 1.05rem;
+  line-height: 1.72;
+}
+
+.hydration-big {
+  max-width: 980px;
+  color: var(--hydr-ink) !important;
+  font-size: clamp(1.35rem, 2.5vw, 2.1rem) !important;
+  font-weight: 700;
+  line-height: 1.28 !important;
+}
+
+.hydration-sentence,
+.hydration-speaker-note,
+.hydration-question,
+.hydration-official-note,
+.hydration-caution,
+.hydration-closing {
+  margin: 24px 0 0;
+  padding: 18px 20px;
+  border-left: 5px solid var(--hydr-green);
+  background: var(--hydr-tint);
+}
+
+.hydration-question {
+  border-left-color: var(--hydr-blue);
+  background: var(--risk-blue-soft);
+}
+
+.hydration-caution {
+  border-left-color: var(--hydr-amber);
+  background: var(--risk-accent-soft);
+}
+
+.hydration-sentence strong,
+.hydration-sentence span,
+.hydration-speaker-note strong,
+.hydration-question strong,
+.hydration-question span,
+.hydration-official-note strong,
+.hydration-official-note span,
+.hydration-closing strong,
+.hydration-closing span {
+  display: block;
+}
+
+.hydration-sentence span,
+.hydration-question span,
+.hydration-official-note span,
+.hydration-closing span {
+  margin-top: 5px;
+  color: var(--hydr-muted);
+  line-height: 1.6;
+}
+
+.hydration-speaker-note,
+.hydration-caution {
+  color: var(--hydr-ink) !important;
+  font-weight: 620;
+}
+
+.hydration-two-col,
+.hydration-split {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(320px, 1fr);
+  gap: 34px;
+  align-items: start;
+}
+
+.hydration-split--image {
+  grid-template-columns: minmax(0, 0.95fr) minmax(360px, 1.05fr);
+  align-items: center;
+}
+
+.hydration-flow {
+  display: grid;
+  gap: 1px;
+  border: 1px solid var(--hydr-line);
+  border-radius: 8px;
+  overflow: hidden;
+  background: var(--hydr-line);
+}
+
+.hydration-flow p {
+  border-left: 5px solid var(--hydr-green);
+}
+
+.hydration-flow p:nth-child(2) {
+  border-left-color: var(--hydr-blue);
+}
+
+.hydration-flow p:nth-child(3) {
+  border-left-color: var(--hydr-amber);
+}
+
+.hydration-rule-row--four {
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  margin: 24px 0 34px;
+}
+
+.hydration-rule-row p,
+.hydration-answer-grid p,
+.hydration-final p {
+  border-top: 4px solid var(--hydr-green);
+}
+
+.hydration-rule-row p:nth-child(2),
+.hydration-answer-grid p:nth-child(2),
+.hydration-final p:nth-child(2) {
+  border-top-color: var(--hydr-blue);
+}
+
+.hydration-rule-row p:nth-child(3),
+.hydration-answer-grid p:nth-child(3),
+.hydration-final p:nth-child(3) {
+  border-top-color: var(--hydr-amber);
+}
+
+.hydration-rule-row p:nth-child(4),
+.hydration-final p:nth-child(4) {
+  border-top-color: var(--hydr-red);
+}
+
+.hydration-map {
+  display: grid;
+  gap: 12px;
+  max-width: 920px;
+  margin-top: 26px;
+}
+
+.hydration-map p {
+  display: grid;
+  grid-template-columns: 42px minmax(160px, 0.45fr) minmax(0, 1fr);
+  gap: 16px;
+  align-items: center;
+  margin: 0;
+  padding: 14px 0;
+  border-bottom: 1px solid var(--hydr-line);
+}
+
+.hydration-map span {
+  color: var(--hydr-green);
+  font-family: var(--vp-font-family-mono);
+  font-weight: 820;
+}
+
+.hydration-map strong {
+  font-size: 1.05rem;
+}
+
+.hydration-map em {
+  color: var(--hydr-muted);
+  font-style: normal;
+}
+
+.hydration-water-figure {
+  min-width: 0;
+  margin: 0;
+  padding: 24px;
+  border: 1px solid var(--hydr-line);
+  border-radius: 8px;
+  background: var(--hydr-surface);
+}
+
+.hydration-water-total {
+  display: grid;
+  gap: 4px;
+  justify-items: center;
+  margin: 0 0 18px;
+  padding: 20px;
+  border-radius: 8px;
+  color: #fff;
+  background: var(--hydr-green);
+  text-align: center;
+}
+
+.hydration-water-total span {
+  font-size: 0.86rem;
+  font-weight: 800;
+  text-transform: uppercase;
+}
+
+.hydration-water-total strong {
+  color: #fff;
+  font-size: clamp(2rem, 4vw, 3.3rem);
+  line-height: 1;
+}
+
+.hydration-water-bar {
+  display: flex;
+  height: 46px;
+  margin-bottom: 18px;
+  border: 1px solid var(--hydr-line);
+  border-radius: 8px;
+  overflow: hidden;
+  background: var(--hydr-soft);
+}
+
+.hydration-water-bar span {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 80px;
+  color: #fff;
+  font-weight: 840;
+}
+
+.hydration-water-bar-cell {
+  width: 66.666%;
+  background: var(--hydr-blue);
+}
+
+.hydration-water-bar-out {
+  width: 33.333%;
+  background: color-mix(in srgb, var(--hydr-blue) 56%, var(--hydr-green));
+}
+
+.hydration-water-cards {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 14px;
+}
+
+.hydration-water-cards > div {
+  min-width: 0;
+  padding: 18px;
+  border: 1px solid var(--hydr-line);
+  border-top: 5px solid var(--hydr-blue);
+  border-radius: 8px;
+  background: var(--vp-c-bg);
+}
+
+.hydration-water-cards > div:nth-child(2) {
+  border-top-color: var(--hydr-green);
+}
+
+.hydration-water-cards span,
+.hydration-water-cards small {
+  display: block;
+  color: var(--hydr-muted);
+}
+
+.hydration-water-cards span {
+  font-size: 0.84rem;
+  font-weight: 820;
+  text-transform: uppercase;
+}
+
+.hydration-water-cards strong {
+  display: block;
+  margin-top: 8px;
+  font-size: clamp(1.55rem, 2.5vw, 2.25rem);
+  line-height: 1;
+}
+
+.hydration-water-cards small {
+  margin-top: 8px;
+  line-height: 1.45;
+}
+
+.hydration-water-cards p {
+  display: block;
+  margin: 12px 0 0;
+  padding: 8px 10px;
+  border-radius: 6px;
+  background: var(--hydr-tint);
+  color: var(--hydr-muted);
+  font-size: 0.92rem;
+}
+
+.hydration-water-cards p b {
+  display: inline-block;
+  margin-right: 6px;
+}
+
+.hydration-water-figure figcaption,
+.hydration-figure figcaption {
+  margin-top: 12px;
+  color: var(--hydr-muted);
+  font-size: 0.9rem;
+  line-height: 1.45;
+}
+
+.hydration-equation,
+.hydration-danger-chain {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  align-items: center;
+  margin: 24px 0 0;
+}
+
+.hydration-equation span,
+.hydration-danger-chain span {
+  display: inline-flex;
+  align-items: center;
+  min-height: 42px;
+  border: 1px solid var(--hydr-line);
+  border-radius: 8px;
+  padding: 9px 13px;
+  color: var(--hydr-ink);
+  background: var(--hydr-surface);
+  font-weight: 760;
+  line-height: 1.35;
+}
+
+.hydration-equation span:nth-child(even) {
+  border: 0;
+  color: var(--hydr-muted);
+  background: transparent;
+  font-family: var(--vp-font-family-mono);
+}
+
+.hydration-figure {
+  min-width: 0;
+  margin: 0;
+}
+
+.hydration-figure img {
+  display: block;
+  width: 100%;
+  max-height: min(68vh, 660px);
+  object-fit: contain;
+  border: 1px solid var(--hydr-line);
+  border-radius: 8px;
+  background: #fff;
+}
+
+.hydration-figure--wide img {
+  max-height: min(76vh, 760px);
+}
+
+.hydration-table-wrap {
+  min-width: 0;
+  overflow-x: auto;
+}
+
+.hydration-session table {
+  display: table !important;
+  width: 100%;
+  margin: 0;
+  border-collapse: collapse;
+  border: 1px solid var(--hydr-line);
+  border-radius: 8px;
+  overflow: hidden;
+  background: var(--hydr-surface);
+  font-size: 0.96rem;
+}
+
+.hydration-session th,
+.hydration-session td {
+  min-width: 0;
+  padding: 12px 14px;
+  border: 1px solid var(--hydr-line);
+  text-align: left;
+}
+
+.hydration-session th {
+  color: var(--hydr-ink);
+  background: var(--hydr-soft);
+  font-weight: 780;
+}
+
+.hydration-balance,
+.hydration-belief {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 1px;
+  margin: 24px 0;
+  border: 1px solid var(--hydr-line);
+  border-radius: 8px;
+  overflow: hidden;
+  background: var(--hydr-line);
+}
+
+.hydration-balance p {
+  border-top: 4px solid var(--hydr-blue);
+}
+
+.hydration-balance p:nth-child(2) {
+  border-top-color: var(--hydr-amber);
+}
+
+.hydration-balance p:nth-child(3) {
+  border-top-color: var(--hydr-green);
+}
+
+.hydration-answer-grid {
+  margin-top: 24px;
+}
+
+.hydration-cause-grid {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 1px;
+  margin: 26px 0 0;
+  border: 1px solid var(--hydr-line);
+  border-radius: 8px;
+  overflow: hidden;
+  background: var(--hydr-line);
+}
+
+.hydration-cause-grid p {
+  border-top: 5px solid var(--hydr-blue);
+}
+
+.hydration-cause-grid p:nth-child(3),
+.hydration-cause-grid p:nth-child(4) {
+  border-top-color: var(--hydr-amber);
+}
+
+.hydration-cause-grid--hypo p:nth-child(1) {
+  border-top-color: var(--hydr-amber);
+}
+
+.hydration-cause-grid--hypo p:nth-child(2) {
+  border-top-color: var(--hydr-blue);
+}
+
+.hydration-cause-grid--hypo p:nth-child(3) {
+  border-top-color: var(--hydr-green);
+}
+
+.hydration-cause-grid--hypo p:nth-child(4) {
+  border-top-color: var(--hydr-red);
+}
+
+.hydration-cause-grid em {
+  margin-top: 14px;
+  color: var(--hydr-green);
+  font-size: 0.84rem;
+  font-style: normal;
+  font-weight: 820;
+  text-transform: uppercase;
+}
+
+.hydration-action-list {
+  display: grid;
+  gap: 12px;
+  margin-top: 26px;
+}
+
+.hydration-action-list p {
+  display: grid;
+  grid-template-columns: 44px minmax(180px, 0.46fr) minmax(0, 1fr);
+  gap: 16px;
+  align-items: start;
+  margin: 0;
+  padding: 16px 0;
+  border-bottom: 1px solid var(--hydr-line);
+}
+
+.hydration-action-list span:first-child {
+  display: inline-grid;
+  place-items: center;
+  width: 34px;
+  height: 34px;
+  border-radius: 999px;
+  color: #fff;
+  background: var(--hydr-green);
+  font-family: var(--vp-font-family-mono);
+  font-weight: 820;
+}
+
+.hydration-action-list strong,
+.hydration-action-list em {
+  display: block;
+}
+
+.hydration-action-list em {
+  color: var(--hydr-muted);
+  font-style: normal;
+  line-height: 1.55;
+}
+
+.hydration-official-note a,
+.hydration-sources a {
+  color: var(--hydr-green);
+  font-weight: 760;
+}
+
+.hydration-warning-table {
+  margin-top: 24px;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+}
+
+.hydration-warning-table div {
+  border-top: 5px solid var(--hydr-amber);
+}
+
+.hydration-warning-table div:nth-child(2) {
+  border-top-color: var(--hydr-blue);
+}
+
+.hydration-warning-table div:nth-child(3) {
+  border-top-color: var(--hydr-red);
+}
+
+.hydration-warning-table div:nth-child(4) {
+  border-top-color: var(--hydr-green);
+}
+
+.hydration-warning-table--hypo {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+.hydration-danger-chain span {
+  border-color: color-mix(in srgb, var(--hydr-red) 30%, var(--hydr-line));
+  background: color-mix(in srgb, var(--hydr-red) 9%, var(--vp-c-bg));
+}
+
+.hydration-danger-chain span:not(:last-child)::after {
+  content: ">";
+  margin-left: 10px;
+  color: var(--hydr-muted);
+  font-family: var(--vp-font-family-mono);
+}
+
+.hydration-checks {
+  display: grid;
+  gap: 8px;
+  margin-top: 20px;
+  padding: 18px;
+  border: 1px solid var(--hydr-line);
+  border-radius: 8px;
+  background: var(--hydr-surface);
+}
+
+.hydration-checks strong,
+.hydration-checks span {
+  display: block;
+}
+
+.hydration-checks span {
+  padding-left: 14px;
+  border-left: 4px solid var(--hydr-green);
+  color: var(--hydr-muted);
+}
+
+.hydration-belief {
+  margin-top: 26px;
+}
+
+.hydration-belief p:nth-child(1) {
+  border-top: 5px solid var(--hydr-red);
+}
+
+.hydration-belief p:nth-child(2) {
+  border-top: 5px solid var(--hydr-amber);
+}
+
+.hydration-belief p:nth-child(3) {
+  border-top: 5px solid var(--hydr-green);
+}
+
+.hydration-brain-box {
+  min-width: 0;
+  padding: 24px;
+  border: 1px solid color-mix(in srgb, var(--hydr-red) 34%, var(--hydr-line));
+  border-radius: 8px;
+  background: color-mix(in srgb, var(--hydr-red) 9%, var(--vp-c-bg));
+}
+
+.hydration-brain-box strong,
+.hydration-brain-box span {
+  display: block;
+}
+
+.hydration-brain-box strong {
+  font-size: 1.25rem;
+  line-height: 1.35;
+}
+
+.hydration-brain-box span {
+  margin-top: 10px;
+  color: var(--hydr-muted);
+  line-height: 1.6;
+}
+
+.hydration-source-mini {
+  max-width: 860px;
+  margin-top: 22px;
+  color: var(--hydr-muted) !important;
+  font-size: 0.92rem !important;
+}
+
+.hydration-timeline {
+  display: grid;
+  grid-template-columns: repeat(5, minmax(0, 1fr));
+  gap: 1px;
+  margin-top: 26px;
+  border: 1px solid var(--hydr-line);
+  border-radius: 8px;
+  overflow: hidden;
+  background: var(--hydr-line);
+}
+
+.hydration-timeline p {
+  position: relative;
+  padding-top: 46px;
+}
+
+.hydration-timeline p::before {
+  content: "";
+  position: absolute;
+  top: 20px;
+  left: 18px;
+  width: 28px;
+  height: 5px;
+  border-radius: 999px;
+  background: var(--hydr-green);
+}
+
+.hydration-timeline p:nth-child(2)::before {
+  background: var(--hydr-blue);
+}
+
+.hydration-timeline p:nth-child(3)::before {
+  background: var(--hydr-amber);
+}
+
+.hydration-timeline p:nth-child(4)::before,
+.hydration-timeline p:nth-child(5)::before {
+  background: var(--hydr-red);
+}
+
+.hydration-final {
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  margin-top: 26px;
+}
+
+.hydration-closing {
+  border-left-color: var(--hydr-ink);
+  background: color-mix(in srgb, var(--hydr-ink) 7%, var(--vp-c-bg));
+}
+
+.hydration-sources {
+  padding: 46px 0 0 104px;
+}
+
+.hydration-sources h2 {
+  margin: 0 0 16px;
+  color: var(--hydr-ink);
+  font-size: clamp(1.6rem, 2.5vw, 2.25rem);
+  line-height: 1.1;
+}
+
+.hydration-sources p {
+  max-width: 920px;
+  color: var(--hydr-muted);
+  font-size: 0.98rem;
+  line-height: 1.7;
+}
+
+@media (max-width: 1080px) {
+  .hydration-nav {
+    position: static;
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
+
+  .hydration-memory-grid,
+  .hydration-rule-row,
+  .hydration-rule-row--four,
+  .hydration-answer-grid,
+  .hydration-cause-grid,
+  .hydration-warning-table,
+  .hydration-warning-table--hypo,
+  .hydration-timeline,
+  .hydration-final {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .hydration-two-col,
+  .hydration-split,
+  .hydration-split--image {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 720px) {
+  .prez-hydratation-page,
+  .prez-hydratation-page .VPContent,
+  .prez-hydratation-page .VPDoc,
+  .prez-hydratation-page .VPDoc .container,
+  .prez-hydratation-page .VPDoc .content,
+  .prez-hydratation-page .VPDoc .content-container,
+  .prez-hydratation-page .vp-doc {
+    width: 100% !important;
+    max-width: 100% !important;
+    min-width: 0 !important;
+    overflow-x: clip;
+    box-sizing: border-box;
+  }
+
+  .prez-hydratation-page .VPDoc .content {
+    padding-left: 24px !important;
+    padding-right: 24px !important;
+  }
+
+  .hydration-session {
+    width: 100%;
+    max-width: 100%;
+  }
+
+  .hydration-hero {
+    min-height: auto;
+    padding-top: 32px;
+  }
+
+  .hydration-hero h1 {
+    font-size: 2.22rem;
+    line-height: 1.05;
+  }
+
+  .hydration-lead {
+    font-size: 1.05rem;
+    overflow-wrap: break-word;
+  }
+
+  .hydration-nav,
+  .hydration-memory-grid,
+  .hydration-rule-row,
+  .hydration-rule-row--four,
+  .hydration-answer-grid,
+  .hydration-cause-grid,
+  .hydration-warning-table,
+  .hydration-warning-table--hypo,
+  .hydration-balance,
+  .hydration-timeline,
+  .hydration-belief,
+  .hydration-final {
+    grid-template-columns: 1fr;
+  }
+
+  .hydration-step {
+    grid-template-columns: 1fr;
+    gap: 12px;
+    min-height: auto;
+    padding: 46px 0;
+  }
+
+  .hydration-step-marker {
+    position: static;
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    font-size: 1.25rem;
+  }
+
+  .hydration-step-marker::after {
+    width: 54px;
+    height: 2px;
+    margin: 0;
+  }
+
+  .hydration-step h2 {
+    font-size: 2.1rem;
+  }
+
+  .hydration-chapter-label,
+  .hydration-sources {
+    margin-left: 0;
+    padding-left: 0;
+  }
+
+  .hydration-map p,
+  .hydration-action-list p {
+    grid-template-columns: 1fr;
+    gap: 8px;
+  }
+
+  .hydration-water-cards {
+    grid-template-columns: 1fr;
+  }
+
+  .hydration-water-figure {
+    padding: 16px;
+  }
+
+  .hydration-table-wrap {
+    margin-top: 6px;
+  }
+
+  .hydration-session table {
+    min-width: 520px;
+  }
+
+  .hydration-danger-chain span:not(:last-child)::after {
+    content: "";
+    display: none;
+  }
+}
