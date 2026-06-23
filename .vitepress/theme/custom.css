@@ -1213,6 +1213,211 @@
   font-size: 0.92rem;
 }
 
+.prez-title-card,
+.prez-message {
+  margin: 22px 0;
+  padding: 20px 22px;
+  border-left: 4px solid var(--prez-green);
+  background: var(--risk-surface-tint);
+}
+
+.prez-title-card strong,
+.prez-title-card span {
+  display: block;
+}
+
+.prez-title-card strong {
+  color: var(--prez-ink);
+  font-size: clamp(1.35rem, 2.6vw, 2.1rem);
+  line-height: 1.2;
+}
+
+.prez-title-card span {
+  max-width: 760px;
+  margin-top: 8px;
+  color: var(--prez-muted);
+  font-size: 1.05rem;
+  line-height: 1.6;
+}
+
+.prez-title-card--warning {
+  border-left-color: var(--prez-amber);
+  background: var(--risk-accent-soft);
+}
+
+.prez-message {
+  color: var(--prez-ink) !important;
+  font-weight: 640;
+  line-height: 1.6;
+}
+
+.prez-flow,
+.prez-key-grid,
+.prez-concept-row,
+.prez-factor-grid,
+.prez-numbered-steps,
+.prez-symptom-grid,
+.prez-timeline {
+  display: grid;
+  gap: 1px;
+  margin: 26px 0;
+  border: 1px solid var(--prez-line);
+  border-radius: 8px;
+  overflow: hidden;
+  background: var(--prez-line);
+}
+
+.prez-flow--three,
+.prez-key-grid {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+.prez-flow--four,
+.prez-key-grid--four,
+.prez-concept-row,
+.prez-factor-grid,
+.prez-numbered-steps {
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+}
+
+.prez-symptom-grid {
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+}
+
+.prez-timeline {
+  grid-template-columns: repeat(5, minmax(0, 1fr));
+}
+
+.prez-flow > div,
+.prez-key-grid > div,
+.prez-concept-row > div,
+.prez-factor-grid > div,
+.prez-numbered-steps > div,
+.prez-symptom-grid > div,
+.prez-timeline > div {
+  min-width: 0;
+  padding: 18px;
+  background: var(--risk-surface);
+}
+
+.prez-flow strong,
+.prez-flow span,
+.prez-key-grid strong,
+.prez-key-grid span,
+.prez-concept-row strong,
+.prez-concept-row span,
+.prez-factor-grid strong,
+.prez-factor-grid span,
+.prez-numbered-steps strong,
+.prez-numbered-steps span,
+.prez-symptom-grid strong,
+.prez-symptom-grid span,
+.prez-timeline strong,
+.prez-timeline span {
+  display: block;
+}
+
+.prez-flow strong,
+.prez-key-grid strong,
+.prez-concept-row strong,
+.prez-factor-grid strong,
+.prez-numbered-steps strong,
+.prez-symptom-grid strong,
+.prez-timeline strong {
+  color: var(--prez-ink);
+  font-size: 1rem;
+  line-height: 1.35;
+}
+
+.prez-flow span,
+.prez-key-grid span,
+.prez-concept-row span,
+.prez-factor-grid span,
+.prez-numbered-steps span,
+.prez-symptom-grid span,
+.prez-timeline span {
+  margin-top: 7px;
+  color: var(--prez-muted);
+  font-size: 0.95rem;
+  line-height: 1.55;
+}
+
+.prez-key-grid p {
+  margin: 8px 0 0;
+}
+
+.prez-factor-grid > div:nth-child(1),
+.prez-factor-grid > div:nth-child(2) {
+  border-top: 4px solid var(--prez-blue);
+}
+
+.prez-factor-grid > div:nth-child(3),
+.prez-factor-grid > div:nth-child(4) {
+  border-top: 4px solid var(--prez-amber);
+}
+
+.prez-numbered-steps > div,
+.prez-symptom-grid > div {
+  border-top: 4px solid var(--prez-green);
+}
+
+.prez-numbered-steps > div:nth-child(2),
+.prez-symptom-grid > div:nth-child(2) {
+  border-top-color: var(--prez-blue);
+}
+
+.prez-numbered-steps > div:nth-child(3),
+.prez-symptom-grid > div:nth-child(3) {
+  border-top-color: var(--prez-amber);
+}
+
+.prez-numbered-steps > div:nth-child(4),
+.prez-symptom-grid > div:nth-child(4) {
+  border-top-color: var(--prez-red);
+}
+
+.prez-chain {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  align-items: center;
+}
+
+.prez-chain span {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  min-height: 38px;
+  border: 1px solid var(--prez-line);
+  border-radius: 8px;
+  padding: 8px 12px;
+  color: var(--prez-ink);
+  background: var(--vp-c-bg);
+  font-weight: 720;
+  line-height: 1.35;
+}
+
+.prez-chain span:not(:last-child)::after {
+  content: ">";
+  margin-left: 10px;
+  color: var(--prez-muted);
+  font-family: var(--vp-font-family-mono);
+}
+
+.prez-timeline > div {
+  position: relative;
+}
+
+.prez-timeline > div::before {
+  content: "";
+  display: block;
+  width: 24px;
+  height: 4px;
+  margin-bottom: 14px;
+  border-radius: 999px;
+  background: var(--prez-green);
+}
+
 @media (max-width: 960px) {
   .prez-progress {
     position: static;
@@ -1250,7 +1455,13 @@
   .prez-columns,
   .prez-contrast,
   .prez-hero-grid,
-  .prez-final-grid {
+  .prez-final-grid,
+  .prez-flow,
+  .prez-key-grid,
+  .prez-concept-row,
+  .prez-factor-grid,
+  .prez-numbered-steps,
+  .prez-timeline {
     grid-template-columns: 1fr;
   }
 }
