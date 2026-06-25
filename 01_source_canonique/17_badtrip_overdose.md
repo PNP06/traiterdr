@@ -124,10 +124,6 @@ même devenue un métier en Allemagne, où l'on parle de "trip-sitters"
 - littéralement des "baby-sitters" pour les personnes qui consomment
 des substances psychoactives.
 
-<figure class="doc-figure">
-  <img src="../05_assets_visuels/p231_figure_01_badtrip_overdose.png" alt="Badtrip Overdose">
-  <figcaption>Figure p. 231 : Badtrip Overdose.</figcaption>
-</figure>
 
 L’idée
 est de travailler son état mental (set) et son environnement (setting) avant un
@@ -154,10 +150,6 @@ avec les psychédéliques, le cannabis et les champignons hallucinogènes. En
 réalité, le principe actif et les doses sont similaires, la seule différence
 résidant dans le contexte de la prise.
 
-<figure class="doc-figure">
-  <img src="../05_assets_visuels/p235_figure_01_badtrip_overdose.png" alt="Badtrip Overdose">
-  <figcaption>Figure p. 235 : Badtrip Overdose.</figcaption>
-</figure>
 
 Et
 c’est là une notion importante : une même substance prise dans deux sets
@@ -187,10 +179,6 @@ Par suite de l’expérience, faire un retour sur ce qu’il
 s’est passé pourra permettre d’ancrer les bonnes pratiques afin de mieux
 préparer les prochaines consommations et ainsi diminuer les risques.
 
-<figure class="doc-figure">
-  <img src="../05_assets_visuels/p236_figure_01_badtrip_overdose.png" alt="Badtrip Overdose">
-  <figcaption>Figure p. 236 : Badtrip Overdose.</figcaption>
-</figure>
 
 Après
 la descente, il est important de prendre le temps de débriefer l’expérience pour
@@ -310,10 +298,6 @@ killers non médicamenteux que l'on croit efficaces. Avoir un trip killer à
 disposition est surtout utile pour diminuer les probabilités de survenue d'un
 bad trip et peut éventuellement aider s'il survient.
 
-<figure class="doc-figure">
-  <img src="../05_assets_visuels/p239_figure_01_badtrip_overdose.png" alt="Badtrip Overdose">
-  <figcaption>Figure p. 239 : Badtrip Overdose.</figcaption>
-</figure>
 
 La
 probabilité de survenue d'un bad trip peut être réduite du simple fait de
@@ -578,12 +562,11 @@ overdoses mortelles dont la moitié par le Tramadol [348] .
 Les 30% restants se répartissent entre la cocaïne (17%),
 le cannabis (5%) et les amphétamines (5%).
 
-<figure class="doc-figure">
-  <img src="../05_assets_visuels/p245_figure_01_badtrip_overdose.png" alt="Badtrip Overdose">
-  <figcaption>Figure p. 245 : Badtrip Overdose.</figcaption>
-</figure>
 
-Figure 49. Répartition des overdoses par substances
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p231_figure_01_badtrip_overdose.png" alt="Figure 49. Répartition des overdoses par substances">
+  <figcaption>Figure 49. Répartition des overdoses par substances.</figcaption>
+</figure>
 
 Il convient de souligner que les décès liés au cannabis sont
 relativement peu fréquents. Pour le cannabis, seuls les décès survenant en
@@ -660,8 +643,7 @@ d’entre eux sera 1050 mg (10,5 x 100), soit un 1,05 g.
 À titre de comparaison, cela correspond à la masse de 1/8
 ème d’un morceau de sucre.
 
-### Échelle de toxicité
-aiguë
+### Échelle de toxicité aiguë
 
 C’est assez « glauque »
 d’autant plus qu’il est extrêmement compliqué d’estimer une DL50 chez l’homme.
@@ -726,8 +708,7 @@ concerné) . Ils permettent simplement de comprendre que les erreurs de
 dosage n'ont pas les mêmes conséquences pour toutes les substances et que la
 vigilance est de mise.
 
-### Étapes d es
-overdoses
+### Étapes des overdoses
 
 Chaque substance, ayant son propre mécanisme d'action,
 engendre des effets spécifiques en cas de surdose. Par exemple, les
@@ -791,10 +772,10 @@ Ensuite, la dose à laquelle les effets secondaires
 deviennent trop importants par rapport aux bénéfices attendus. Enfin, la dose
 létale 50% , abordée précédemment. Cette approche est similaire en médecine.
 
-Figure 50.
-Fenêtres des doses pour l'alcool [355] ,
-la muscade [356]
-et le paracétamol [357]
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p235_figure_01_badtrip_overdose.png" alt="Figure 50. Fenêtres des doses pour l'alcool, la muscade et le paracétamol">
+  <figcaption>Figure 50. Fenêtres des doses pour l'alcool, la muscade et le paracétamol.</figcaption>
+</figure>
 
 Les exemples donnés ci-dessus sont présentés à titre
 indicatif , bien qu'ils soient sourcés. La muscade est une noix qui peut,
@@ -819,8 +800,10 @@ dose mortelle soit éloignée (paracétamol) ou proche (muscade).
 
 #### Reconsommation
 
-Figure 51.
-Illustration de cas d'overdoses
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p236_figure_01_badtrip_overdose.png" alt="Figure 51. Illustration de cas d'overdoses">
+  <figcaption>Figure 51. Illustration de cas d'overdoses.</figcaption>
+</figure>
 
 Lors de l'ingestion d'une substance, l'overdose survient
 souvent suite à une reconsommation. Afin d'illustrer des situations typiques de
@@ -1011,7 +994,10 @@ que les verres sont standardisés (dans les bars restaurants, etc.). Cela veut
 dire que quelle que soit la boisson commandée au verre, la quantité d’alcool
 est toujours la même.
 
-Figure 52. Les verres standardisés [361]
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p239_figure_01_badtrip_overdose.png" alt="Figure 52. Verres standardisés">
+  <figcaption>Figure 52. Les verres standardisés.</figcaption>
+</figure>
 
 Donc, un verre standard quelles que soit la boisson, c’est 10 grammes
 d’éthanol .
@@ -1338,7 +1324,10 @@ trouve sur une route, sur le sol dans un lieu bondé ou dans toute autre
 situation potentiellement dangereuse, sa mise en sécurité doit être la
 priorité.
 
-Figure 54.Logigramme en cas d'Intoxication Ethylique Aigue
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p245_figure_01_badtrip_overdose.png" alt="Figure 54. Logigramme en cas d'intoxication éthylique aiguë">
+  <figcaption>Figure 54. Logigramme en cas d'intoxication éthylique aiguë.</figcaption>
+</figure>
 
 Ce logigramme simplifié vise à poser les bonnes questions,
 notamment pour les personnes qui banalisent l'IEA. Il est basé sur les travaux

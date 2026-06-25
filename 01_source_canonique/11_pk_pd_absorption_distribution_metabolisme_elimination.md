@@ -49,10 +49,6 @@ Deux mécanismes expliquent pourquoi il n’est pas possible de
 « rester perché » : le premier est la tolérance aiguë (tachyphylaxie), et le
 second est la dégradation des principes actifs par l'organisme.
 
-<figure class="doc-figure">
-  <img src="../05_assets_visuels/p127_figure_01_pk_pd_adme.png" alt="Pk Pd Adme">
-  <figcaption>Figure p. 127 : Pk Pd Adme.</figcaption>
-</figure>
 
 Le
 corps réussit toujours à transformer et à éliminer les substances ; la notion
@@ -81,20 +77,17 @@ sang atteint, la drogue se diffuse dans tout l'organisme, agit rapidement, mais
 est aussi vite éliminée par le corps. À l'inverse, plus il y a d'organes
 intermédiaires, plus l'effet à dose égale sera moins intense mais plus prolongé .
 
-<figure class="doc-figure">
-  <img src="../05_assets_visuels/p127_figure_02_pk_pd_adme.png" alt="Pk Pd Adme">
-  <figcaption>Figure p. 127 : Pk Pd Adme.</figcaption>
-</figure>
-
-Figure 23.Vitesse d'apparition des effets de la cocaïne en fonction de la voie d'administration [174]
 
 <figure class="doc-figure">
-  <img src="../05_assets_visuels/p129_figure_01_pk_pd_adme.png" alt="Pk Pd Adme">
-  <figcaption>Figure p. 129 : Pk Pd Adme.</figcaption>
+  <img src="../05_assets_visuels/p127_figure_01_pk_pd_adme.png" alt="Figure 23. Vitesse d'apparition des effets de la cocaïne selon la voie d'administration">
+  <figcaption>Figure 23. Vitesse d'apparition des effets de la cocaïne en fonction de la voie d'administration.</figcaption>
 </figure>
 
-Figure 24.
-Schéma de la concentration dans le sang en fonction de la voie d'administration
+
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p127_figure_02_pk_pd_adme.png" alt="Figure 24. Concentration dans le sang selon la voie d'administration">
+  <figcaption>Figure 24. Schéma de la concentration dans le sang en fonction de la voie d'administration.</figcaption>
+</figure>
 
 Point intéressant, bien que non représenté dans le schéma,
 est l'existence de connexions entre les organes. Par exemple, une partie de
@@ -187,10 +180,6 @@ d’élimination est réduite, prolongeant la présence du diazépam dans
 l’organisme. Cela allonge la durée d’action et augmente les risques de sédation
 prolongée ou d’autres effets indésirables.
 
-<figure class="doc-figure">
-  <img src="../05_assets_visuels/p131_figure_01_pk_pd_adme.png" alt="Pk Pd Adme">
-  <figcaption>Figure p. 131 : Pk Pd Adme.</figcaption>
-</figure>
 
 L’adaptation des doses en
 fonction de la biodisponibilité est particulièrement importante dans un
@@ -214,13 +203,11 @@ sels ne peuvent se fumer ; pour fumer de la cocaïne, il faut donc la convertir
 en base libre (forme organique). C'est donc une légère différence d'état
 physique qui permet de la fumer, mais qui ne modifie pas le mécanisme d'action.
 
-<figure class="doc-figure">
-  <img src="../05_assets_visuels/p132_figure_01_pk_pd_adme.png" alt="Pk Pd Adme">
-  <figcaption>Figure p. 132 : Pk Pd Adme.</figcaption>
-</figure>
 
-Figure 25.
-Cocaïne fumée (crack) à gauche, Cocaïne sniffée à droite
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p129_figure_01_pk_pd_adme.png" alt="Figure 25. Cocaïne fumée et cocaïne sniffée">
+  <figcaption>Figure 25. Cocaïne fumée (crack) à gauche, cocaïne sniffée à droite.</figcaption>
+</figure>
 
 La cocaïne sniffée a une durée d'action d'environ 70
 minutes, tandis qu'en la fumant sous forme de crack, l'ensemble des effets est
@@ -239,10 +226,6 @@ ou d'autres substances anesthésiantes.
 Les modes
 d’administration font varier :
 
-<figure class="doc-figure">
-  <img src="../05_assets_visuels/p133_figure_01_pk_pd_adme.png" alt="Pk Pd Adme">
-  <figcaption>Figure p. 133 : Pk Pd Adme.</figcaption>
-</figure>
 
 -le
 temps de montée,
@@ -276,12 +259,11 @@ Risques en fonction des modes d'administration
 Le premier passage dans le foie permet de faire un lien
 entre l’absorption et la métabolisation.
 
-<figure class="doc-figure">
-  <img src="../05_assets_visuels/p135_figure_01_pk_pd_adme.png" alt="Pk Pd Adme">
-  <figcaption>Figure p. 135 : Pk Pd Adme.</figcaption>
-</figure>
 
-Figure 26.Schéma des voies d'administration
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p131_figure_01_pk_pd_adme.png" alt="Figure 26. Schéma des voies d'administration">
+  <figcaption>Figure 26. Schéma des voies d'administration.</figcaption>
+</figure>
 
 Dans le cas d'une prise sublinguale, nasale, intraveineuse
 ou sous-cutanée, la molécule contourne le foie pour aller directement dans le
@@ -343,13 +325,11 @@ transférases, attache un acide glucuronique à la molécule, la rendant beaucou
 plus facile à éliminer par l’urine ou la bile. Ces réactions se déroulent aussi
 principalement dans le foie.
 
-<figure class="doc-figure">
-  <img src="../05_assets_visuels/p137_figure_01_pk_pd_adme.png" alt="Pk Pd Adme">
-  <figcaption>Figure p. 137 : Pk Pd Adme.</figcaption>
-</figure>
 
-Figure 27.
-Schéma simplifié de la métabolisation
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p132_figure_01_pk_pd_adme.png" alt="Figure 27. Schéma simplifié de la métabolisation">
+  <figcaption>Figure 27. Schéma simplifié de la métabolisation.</figcaption>
+</figure>
 
 Cependant, dans le contexte des drogues, la Phase II est
 souvent moins déterminante que la Phase I, car elle intervient principalement
@@ -374,8 +354,10 @@ des molécules généralistes (les cytochromes).
 
 ###### Les molécules spécialisées
 
-Figure 28 .Métabolisation de l'alcool par l'ADH et l'ALDH
-(C=carbone, O=Oxygène, H=Hydrogène)
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p133_figure_01_pk_pd_adme.png" alt="Figure 28. Métabolisation de l'alcool par l'ADH et l'ALDH">
+  <figcaption>Figure 28. Métabolisation de l'alcool par l'ADH et l'ALDH.</figcaption>
+</figure>
 
 Environ 90% de l’alcool consommé est métabolisé par cette
 voie. La phase 1 est réalisée en plusieurs réactions.
@@ -511,7 +493,10 @@ différences génétiques (c’est le polymorphisme).
 Le principal cytochrome impliqué dans la transformation de
 l’alcool en éthanal est le CYP2E1.
 
-Figure 29 . Métabolisation de l'alcool par les cytochrome
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p135_figure_01_pk_pd_adme.png" alt="Figure 29. Métabolisation de l'alcool par les cytochromes">
+  <figcaption>Figure 29. Métabolisation de l'alcool par les cytochromes.</figcaption>
+</figure>
 
 Cette voie est problématique car elle produit des formes
 d’éthanal hyper réactifs (radicalaires) qui conduisent, plus que la forme
@@ -606,7 +591,10 @@ informations précieuses pour les professionnels de la santé et la justice.
 
 #### Prodrogue : Exemple de la codéine
 
-Figure 30.Schéma simplifié de la métabolisation de la codéine
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p137_figure_01_pk_pd_adme.png" alt="Figure 30. Schéma simplifié de la métabolisation de la codéine">
+  <figcaption>Figure 30. Schéma simplifié de la métabolisation de la codéine.</figcaption>
+</figure>
 
 Un exemple intéressant est celui de la codéine, un
 médicament qui n’est pas vraiment actif en lui-même. Pour produire ses effets,

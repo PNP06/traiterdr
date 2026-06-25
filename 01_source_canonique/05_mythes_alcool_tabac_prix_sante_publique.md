@@ -1,7 +1,6 @@
 # Mythes alcool, tabac, sante publique et prix
 
-## Le mois sans
-alcool/sans tabac est inutile
+## Le mois sans alcool/sans tabac est inutile
 
 Le Dry January ou "Janvier
 Sobre" est une campagne de sensibilisation annuelle qui a pour but
@@ -54,13 +53,11 @@ temporaire de la consommation d'alcool sont nombreux, notamment une
 amélioration de la santé physique et mentale, une réduction des risques de
 maladies liées à l'alcool, et des économies financières.
 
-<figure class="doc-figure">
-  <img src="../05_assets_visuels/p052_figure_01_alcool_tabac_sante_publique_prix.png" alt="Alcool Tabac Sante Publique Prix">
-  <figcaption>Figure p. 52 : Alcool Tabac Sante Publique Prix.</figcaption>
-</figure>
 
-Tableau 1.Bénéfices rapportés par les participants au Dry
-January d’après des enquêtes en ligne en 2018 (INSERM)
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p052_figure_01_alcool_tabac_sante_publique_prix.png" alt="Tableau 1. Bénéfices rapportés par les participants au Dry January">
+  <figcaption>Tableau 1. Bénéfices rapportés par les participants au Dry January d’après des enquêtes en ligne en 2018 (INSERM).</figcaption>
+</figure>
 
 La littérature scientifique
 montre que la consommation d'alcool est liée à de nombreuses pathologies, mais
@@ -79,10 +76,6 @@ est un facteur clé de la réussite de ces campagnes et même les participants
 qui ne réussissent pas le défi de l'abstinence pendant un mois peuvent
 présenter des effets bénéfiques à long terme.
 
-<figure class="doc-figure">
-  <img src="../05_assets_visuels/p062_figure_01_alcool_tabac_sante_publique_prix.png" alt="Alcool Tabac Sante Publique Prix">
-  <figcaption>Figure p. 62 : Alcool Tabac Sante Publique Prix.</figcaption>
-</figure>
 
 Il y a
 donc un intérêt individuel à entreprendre cette démarche, en particulier
@@ -566,10 +559,6 @@ contextes économiques.
 
 ## Boire un verre de vin est bon pour la santé
 
-<figure class="doc-figure">
-  <img src="../05_assets_visuels/p064_figure_01_alcool_tabac_sante_publique_prix.png" alt="Alcool Tabac Sante Publique Prix">
-  <figcaption>Figure p. 64 : Alcool Tabac Sante Publique Prix.</figcaption>
-</figure>
 
 La
 réponse simple est : NON. L’expertise collective de l’INSERM [50] de 2021
@@ -604,8 +593,7 @@ mettre en avant ce type d’études. Pour aller plus loin sur ce sujet, un cash
 investigation [52]
 a été réalisé sur le sujet,ce livre abordera l’aspect scientifique.
 
-### Le problème
-général : prouver le lien de causalité
+### Le problème général : prouver le lien de causalité
 
 Pour comprendre l’évolution sur le sujet, il faut répondre à
 une question : comment les chercheurs arrivent à faire le lien entre la
@@ -620,12 +608,11 @@ Par exemple, il est possible de corréler le nombre de
 suicides par strangulation et le budget alloué à la science, l’espace et la
 technologie aux USA.
 
-<figure class="doc-figure">
-  <img src="../05_assets_visuels/p065_figure_01_alcool_tabac_sante_publique_prix.png" alt="Alcool Tabac Sante Publique Prix">
-  <figcaption>Figure p. 65 : Alcool Tabac Sante Publique Prix.</figcaption>
-</figure>
 
-Figure 3. Corrélation entre suicide et budget science et technologie des USA [53]
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p062_figure_01_alcool_tabac_sante_publique_prix.png" alt="Figure 3. Corrélation entre suicide et budget science et technologie des USA">
+  <figcaption>Figure 3. Corrélation entre suicide et budget science et technologie des USA.</figcaption>
+</figure>
 
 Il y a une corrélation à 99,8 %. Est-ce que l’un cause
 l’autre ? Sans effectuer des recherches poussées, il semble évident que
@@ -794,13 +781,11 @@ courbe en J
 Il y a bon nombre d’études observationnelles qui montrent
 une courbe en J.
 
-<figure class="doc-figure">
-  <img src="../05_assets_visuels/p066_figure_01_alcool_tabac_sante_publique_prix.png" alt="Alcool Tabac Sante Publique Prix">
-  <figcaption>Figure p. 66 : Alcool Tabac Sante Publique Prix.</figcaption>
-</figure>
 
-Figure 4. Risque relatif de la consommation d’alcool
-pour les maladies cardiaques ischémiques [62]
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p064_figure_01_alcool_tabac_sante_publique_prix.png" alt="Figure 4. Risque relatif de la consommation d’alcool pour les maladies cardiaques ischémiques">
+  <figcaption>Figure 4. Risque relatif de la consommation d’alcool pour les maladies cardiaques ischémiques.</figcaption>
+</figure>
 
 À l’horizontale, c’est le nombre de verres standards
 consommés par semaines. À la verticale, c’est le risque relatif. C’est le
@@ -827,8 +812,10 @@ passe-t-il pour les autres maladies ? Pour savoir, les chercheurs font
 des « meta-analyses », ils analysent des centaines de publications
 pour en faire une globale.
 
-Figure 5.
-Risque relatif de la consommation d’alcool [63]
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p065_figure_01_alcool_tabac_sante_publique_prix.png" alt="Figure 5. Risque relatif de la consommation d’alcool">
+  <figcaption>Figure 5. Risque relatif de la consommation d’alcool.</figcaption>
+</figure>
 
 Tous les autres risques augmentent même à faibles dose. Il
 faut donc pousser la réflexion plus loin. Est-ce que les bienfaits cardiaques
@@ -839,9 +826,10 @@ facteurs de mortalité de l’alcool et en intégrant cette fameuse courbe en J
 pour certains problèmes cardiaques. Cette étude est co-signée par des centaines
 de chercheurs du monde entier.
 
-Figure 6.
-Risque relatif de décès lié à l’alcool en fonction de la consommation de verres
-standards par jour [64]
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p066_figure_01_alcool_tabac_sante_publique_prix.png" alt="Figure 6. Risque relatif de décès lié à l’alcool en fonction de la consommation de verres standards par jour">
+  <figcaption>Figure 6. Risque relatif de décès lié à l’alcool en fonction de la consommation de verres standards par jour.</figcaption>
+</figure>
 
 En dessous d’un verre standard par jour, il ne semble pas y
 avoir plus de risque que les non-buveurs. Au-dessus, le risque augmente.

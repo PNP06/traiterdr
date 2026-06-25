@@ -89,12 +89,11 @@ La simplification excessive mène à des conclusions erronées.
 En conclusion, chaque approche regarde l’ombre d’une forme,
 sans la décrire directement.
 
-<figure class="doc-figure">
-  <img src="../05_assets_visuels/p105_figure_01_cerveau_synapses_neurotransmetteur.png" alt="Cerveau Synapses Neurotransmetteur">
-  <figcaption>Figure p. 105 : Cerveau Synapses Neurotransmetteur.</figcaption>
-</figure>
 
-Figure 11. Illustration de la dualité (source:dreamstime)
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p105_figure_01_cerveau_synapses_neurotransmetteur.png" alt="Figure 11. Illustration de la dualité">
+  <figcaption>Figure 11. Illustration de la dualité.</figcaption>
+</figure>
 
 ### Le fonctionnement des synapses
 
@@ -103,26 +102,22 @@ mémoires sont portées par les neurones. Pour communiquer entre eux, ils ont
 besoin de messagers : ce sont les neurotransmetteurs. De façon simplifiée,
 toutes nos émotions et pensées sont portées par des neurotransmetteurs. .
 
-<figure class="doc-figure">
-  <img src="../05_assets_visuels/p106_figure_01_cerveau_synapses_neurotransmetteur.png" alt="Cerveau Synapses Neurotransmetteur">
-  <figcaption>Figure p. 106 : Cerveau Synapses Neurotransmetteur.</figcaption>
-</figure>
 
 -
 
-Figure 12.
-Schéma de neurone [150]
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p106_figure_02_cerveau_synapses_neurotransmetteur.png" alt="Figure 12. Schéma de neurone">
+  <figcaption>Figure 12. Schéma de neurone.</figcaption>
+</figure>
 
 La jonction entre les neurones s’appelle la synapse
 et c’est à travers elle que les neurones communiquent.
 
-<figure class="doc-figure">
-  <img src="../05_assets_visuels/p106_figure_02_cerveau_synapses_neurotransmetteur.png" alt="Cerveau Synapses Neurotransmetteur">
-  <figcaption>Figure p. 106 : Cerveau Synapses Neurotransmetteur.</figcaption>
-</figure>
 
-Figure 13.
-Schéma d’une synapse
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p106_figure_01_cerveau_synapses_neurotransmetteur.png" alt="Figure 13. Schéma d’une synapse">
+  <figcaption>Figure 13. Schéma d’une synapse.</figcaption>
+</figure>
 
 Pour expliquer le mécanisme de base, nous allons prendre un
 exemple : le Nutella.
@@ -130,10 +125,6 @@ exemple : le Nutella.
 Lorsque vous craquez et que vous plongez votre cuillère dans
 le pot de Nutella, il se passe la chose suivante :
 
-<figure class="doc-figure">
-  <img src="../05_assets_visuels/p107_figure_01_cerveau_synapses_neurotransmetteur.png" alt="Cerveau Synapses Neurotransmetteur">
-  <figcaption>Figure p. 107 : Cerveau Synapses Neurotransmetteur.</figcaption>
-</figure>
 
 1. L’influx
 électrique –
@@ -142,20 +133,12 @@ suite à la première cuillère, avec l’information : « C’est trop
 bon, fait péter la dopamine (neurotransmetteur du plaisir) on est trop bien
 là !»
 
-<figure class="doc-figure">
-  <img src="../05_assets_visuels/p113_figure_01_cerveau_synapses_neurotransmetteur.png" alt="Cerveau Synapses Neurotransmetteur">
-  <figcaption>Figure p. 113 : Cerveau Synapses Neurotransmetteur.</figcaption>
-</figure>
 
 2. Libération
  —
 Le neurone 1, qui est malin, a des stocks de dopamine en réserve : les vésicules .
 Il va dès lors les libérer dans la synapse pour prévenir les autres neurones.
 
-<figure class="doc-figure">
-  <img src="../05_assets_visuels/p114_figure_01_cerveau_synapses_neurotransmetteur.png" alt="Cerveau Synapses Neurotransmetteur">
-  <figcaption>Figure p. 114 : Cerveau Synapses Neurotransmetteur.</figcaption>
-</figure>
 
 3. Liaison
  –
@@ -204,8 +187,10 @@ Nous allons prendre dans cet exemple des
 neurones à sérotonine (pour faire simple, c’est le neurotransmetteur du
 bonheur) et des substances qui agissent dessus.
 
-Figure 14.
-Exemple d’actions sur les neurones sérotoninergiques
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p107_figure_01_cerveau_synapses_neurotransmetteur.png" alt="Figure 14. Exemple d’actions sur les neurones sérotoninergiques">
+  <figcaption>Figure 14. Exemple d’actions sur les neurones sérotoninergiques.</figcaption>
+</figure>
 
 A l’attaque :
 
@@ -582,8 +567,10 @@ boire,
 Le signal passe par plusieurs zones du cerveau en utilisant la
 dopamine .
 
-Figure 16. Zones du cerveau impliquées dans le système de récompense : extrait de la
-vidéo MAAD Digital « système de récompense et addiction » [160]
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p113_figure_01_cerveau_synapses_neurotransmetteur.png" alt="Figure 16. Zones du cerveau impliquées dans le système de récompense">
+  <figcaption>Figure 16. Zones du cerveau impliquées dans le système de récompense.</figcaption>
+</figure>
 
 Prenons un exemple : vous voyez quelqu’un fumer, le cortex
 envoie l’information au noyau accumbens.
@@ -619,7 +606,10 @@ nous évite de frapper les personnes qui nous énervent, même si cela nous
 soulagerait, temporairement. Il permet également de nous raisonner lorsque nous
 abusons d’une substance.
 
-Figure 17. Les circuits cérébraux impliqués dans l’addiction @laurentKarila
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p114_figure_01_cerveau_synapses_neurotransmetteur.png" alt="Figure 17. Circuits cérébraux impliqués dans l’addiction">
+  <figcaption>Figure 17. Les circuits cérébraux impliqués dans l’addiction.</figcaption>
+</figure>
 
 Le processus ressemble donc à cela :
 

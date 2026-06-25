@@ -109,10 +109,6 @@ de substances psychoactives. Enfin, une proposition est avancée pour intégrer
 les effets placebo et nocebo dans une démarche de réduction des risques liée à
 l’usage de substances psychoactives.
 
-<figure class="doc-figure">
-  <img src="../05_assets_visuels/p145_figure_01_psychologie_placebo_nocebo_trouble.png" alt="Psychologie Placebo Nocebo Trouble">
-  <figcaption>Figure p. 145 : Psychologie Placebo Nocebo Trouble.</figcaption>
-</figure>
 
 Placebo :
  Effet biologique et psychologique positif , sans lien avec un
@@ -312,12 +308,11 @@ provenant des dealers ou du marketing, et les attentes de bénéfices des
 utilisateurs ou de leurs pairs peuvent entraîner de véritables modifications
 physiologiques et neurobiologiques dans le corps et le cerveau.
 
-<figure class="doc-figure">
-  <img src="../05_assets_visuels/p147_figure_01_psychologie_placebo_nocebo_trouble.png" alt="Psychologie Placebo Nocebo Trouble">
-  <figcaption>Figure p. 147 : Psychologie Placebo Nocebo Trouble.</figcaption>
-</figure>
 
-Figure 31.Détail des mécanismes en jeu dans les effets ressentis
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p145_figure_01_psychologie_placebo_nocebo_trouble.png" alt="Figure 31. Détail des mécanismes en jeu dans les effets ressentis">
+  <figcaption>Figure 31. Détail des mécanismes en jeu dans les effets ressentis.</figcaption>
+</figure>
 
 Ainsi, l'effet placebo dans le contexte des drogues est un
 phénomène actif impliquant des processus biologiques complexes. Il démontre que
@@ -427,7 +422,10 @@ le traitement le plus courant pour la dépression est la fluoxétine
 sur cette molécule, notamment une étude intéressante comparant son efficacité
 dans les cas de dépression légère [212] .
 
-Figure 32.Comparaison Placebo et Fluoxetine sur dépression légère.(Lewis,2004)
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p147_figure_01_psychologie_placebo_nocebo_trouble.png" alt="Figure 32. Comparaison placebo et fluoxétine sur dépression légère">
+  <figcaption>Figure 32. Comparaison placebo et fluoxétine sur dépression légère.</figcaption>
+</figure>
 
 Dans cette étude, durant le premier mois de traitement, tous
 les participants ont reçu un placebo. Cela permet, entre autres, de vérifier

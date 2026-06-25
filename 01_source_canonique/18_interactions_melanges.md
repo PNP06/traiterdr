@@ -27,10 +27,6 @@ priorités doit être la sensibilisation aux interactions. Pour bien comprendre
 les interactions, il est important d’avoir lu la partie sur le métabolisme des
 drogues.
 
-<figure class="doc-figure">
-  <img src="../05_assets_visuels/p252_figure_01_interactions_melanges.png" alt="Interactions Melanges">
-  <figcaption>Figure p. 252 : Interactions Melanges.</figcaption>
-</figure>
 
 Il
 est également important de comprendre que ces interactions ne se limitent pas
@@ -163,12 +159,11 @@ Ce phénomène de rebond peut entraîner des
 comportements à risque, une surconsommation d’alcool ou même une intoxication
 sévère, car les effets dépressifs sont retardés mais pas annulés.
 
-<figure class="doc-figure">
-  <img src="../05_assets_visuels/p256_figure_01_interactions_melanges.png" alt="Interactions Melanges">
-  <figcaption>Figure p. 256 : Interactions Melanges.</figcaption>
-</figure>
 
-Tableau 40. Illustration de l'effet rebond (alcool et cocaïne)
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p252_figure_01_interactions_melanges.png" alt="Tableau 40. Illustration de l'effet rebond alcool et cocaïne">
+  <figcaption>Tableau 40. Illustration de l'effet rebond (alcool et cocaïne).</figcaption>
+</figure>
 
 ##### Les antidotes
 
@@ -191,10 +186,6 @@ d’urgence médicale. Comprendre ces interactions, anticiper leurs risques et
 savoir comment les gérer (comme l’utilisation des antidotes) est essentiel pour
 prévenir les complications graves liées à la polyconsommation.
 
-<figure class="doc-figure">
-  <img src="../05_assets_visuels/p261_figure_01_interactions_melanges.png" alt="Interactions Melanges">
-  <figcaption>Figure p. 261 : Interactions Melanges.</figcaption>
-</figure>
 
 Les
 substances peuvent se potentialiser et une dose acceptable peut devenir dangereuse.
@@ -312,10 +303,6 @@ dans la métabolisation des médicaments [376]
 
 Plusieurs points peuvent être dégagés de ce tableau :
 
-<figure class="doc-figure">
-  <img src="../05_assets_visuels/p261_figure_02_interactions_melanges.png" alt="Interactions Melanges">
-  <figcaption>Figure p. 261 : Interactions Melanges.</figcaption>
-</figure>
 
 Le
 métabolisme varie d’une personne à l’autre. NOUS NE SOMME PAS EGAUX
@@ -400,12 +387,11 @@ Cela va être le cas avec l’alcool. Globalement, l’alcool est
 en majorité métabolisé par deux enzymes spécialisées : l’ADH et l’ALD. Mais
 il y a aussi les CYP2E1.
 
-<figure class="doc-figure">
-  <img src="../05_assets_visuels/p264_figure_01_interactions_melanges.png" alt="Interactions Melanges">
-  <figcaption>Figure p. 264 : Interactions Melanges.</figcaption>
-</figure>
 
-Figure 55 . Métabolisation de l'alcool par les cytochromes
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p256_figure_01_interactions_melanges.png" alt="Figure 55. Métabolisation de l'alcool par les cytochromes">
+  <figcaption>Figure 55. Métabolisation de l'alcool par les cytochromes.</figcaption>
+</figure>
 
 Cette dernière voie est problématique car elle produit des
 formes d’éthanal hyper réactifs (radicalaires) qui conduisent à la perturbation
@@ -444,10 +430,6 @@ Donc, lors d’une consommation régulière d’alcool ou d’une
 consommation importante, la quantité de CYP2E1 augmente, en cas de prise de
 paracétamol il y a un risque de nécrose hépatique plus important .
 
-<figure class="doc-figure">
-  <img src="../05_assets_visuels/p265_figure_01_interactions_melanges.png" alt="Interactions Melanges">
-  <figcaption>Figure p. 265 : Interactions Melanges.</figcaption>
-</figure>
 
 La
 consommation importante ou chronique d’alcool peut rendre toxique la prise de
@@ -511,10 +493,6 @@ Par ailleurs, la caféine est souvent utilisée comme marqueur
 pour évaluer l'activité de l'enzyme CYP1A2 dans un cadre clinique ou de
 recherche (Perera et al., 2012).
 
-<figure class="doc-figure">
-  <img src="../05_assets_visuels/p265_figure_02_interactions_melanges.png" alt="Interactions Melanges">
-  <figcaption>Figure p. 265 : Interactions Melanges.</figcaption>
-</figure>
 
 Arrêter
 de fumer (même en passant à la cigarette électronique) change le
@@ -565,10 +543,6 @@ progressive de l’activité enzymatique est observée. De plus, cet effet persi
 environ une semaine après l’arrêt du millepertuis, nécessitant une attention
 particulière lors de l’interruption du traitement.
 
-<figure class="doc-figure">
-  <img src="../05_assets_visuels/p266_figure_01_interactions_melanges.png" alt="Interactions Melanges">
-  <figcaption>Figure p. 266 : Interactions Melanges.</figcaption>
-</figure>
 
 Les
 produits naturels peuvent également causer des interactions !
@@ -665,10 +639,15 @@ ressentis et les risques potentiels. Fournissant des informations rigoureuses
 et détaillées, le site s'appuie sur des sources fiables pour fournir des
 connaissances précises et actualisées aux utilisateurs.
 
-Figure 56.Page d'accueil mixtures.info
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p261_figure_01_interactions_melanges.png" alt="Figure 56. Page d'accueil Mixtures.info">
+  <figcaption>Figure 56. Page d'accueil Mixtures.info.</figcaption>
+</figure>
 
-Figure 57.
-Exemple du mélange cocaïne et alcool
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p261_figure_02_interactions_melanges.png" alt="Figure 57. Exemple du mélange cocaïne et alcool">
+  <figcaption>Figure 57. Exemple du mélange cocaïne et alcool.</figcaption>
+</figure>
 
 Aucune fiche ne pourra être exhaustive, mais pour les
 mélanges les plus courants mixtures.info permets d’avoir les principales
@@ -712,6 +691,11 @@ application mobile.
 Tableau 44.Niveau de risque considérés dans le tableau
 TripSit & Nuit Blanche
 
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p264_figure_01_interactions_melanges.png" alt="Tableau croisé TripSit et Nuit Blanche des interactions de substances">
+  <figcaption>Tableau croisé TripSit et Nuit Blanche des interactions de substances.</figcaption>
+</figure>
+
 Pour faciliter la lecture du tableau les drogues sont
 classées en familles.
 
@@ -722,6 +706,11 @@ classées en familles.
 #### Le site Drugs.com
 
 Le site Drugs.com [393]
+
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p265_figure_01_interactions_melanges.png" alt="Capture Drugs.com de la fiche paracétamol">
+  <figcaption>Capture p. 265. Fiche Drugs.com du paracétamol.</figcaption>
+</figure>
 permet d’obtenir des informations détaillées sur un médicament et de consulter
 la liste de ses interactions. Par exemple, en sélectionnant le paracétamol,
 toutes ses caractéristiques sont affichées. Il est également possible de
@@ -731,7 +720,10 @@ médicaments mais est moins détaillé que mixtures.
 Bien que le site soit en anglais, il peut être traduit automatiquement à l’aide
 du navigateur Edge.
 
-Tableau 45.Exemple d'identification d'interaction paracétamol/alcool sur drugs.com
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p265_figure_02_interactions_melanges.png" alt="Tableau 45. Interaction paracétamol et alcool sur Drugs.com">
+  <figcaption>Tableau 45. Exemple d'identification d'interaction paracétamol/alcool sur Drugs.com.</figcaption>
+</figure>
 
 #### Le site Medscape interaction checker
 
@@ -746,8 +738,10 @@ diminue la sédation. L’effet de l’interaction n’est pas clair, soyez prud
 Utilisez Prudence/Surveillez. » sans préciser que ce mélange peut
 engendrer une hyperthermie importante.
 
-Figure 58. Extrait du site Medscape.com pour l'interaction
-millepertuis/amphétamine/kétamine
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p266_figure_01_interactions_melanges.png" alt="Figure 58. Interaction millepertuis, amphétamine et kétamine sur Medscape">
+  <figcaption>Figure 58. Extrait du site Medscape pour l'interaction millepertuis/amphétamine/kétamine.</figcaption>
+</figure>
 
 ### Analyser des interactions
 

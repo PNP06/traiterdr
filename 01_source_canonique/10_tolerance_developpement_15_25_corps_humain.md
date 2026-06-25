@@ -19,10 +19,6 @@ car ils ont des implications différentes pour le diagnostic et le traitement.
 Tolérance = diminution de
 l’effet de la substance par l’adaptation de l’organisme
 
-<figure class="doc-figure">
-  <img src="../05_assets_visuels/p115_figure_01_tolerance_developpement_15_25_corp.png" alt="Tolerance Developpement 15 25 Corp">
-  <figcaption>Figure p. 115 : Tolerance Developpement 15 25 Corp.</figcaption>
-</figure>
 
 Dépendance=
 C’est un besoin vital de reprendre une substance , cette notion est
@@ -45,19 +41,14 @@ neurotransmetteurs sont envoyés par le neurone 1 au neurone 2. En cas de
 surstimulation, une mort cellulaire du neurone 2 peut survenir; plusieurs
 moyens de protection sont donc employés par ce dernier.
 
-<figure class="doc-figure">
-  <img src="../05_assets_visuels/p119_figure_01_tolerance_developpement_15_25_corp.png" alt="Tolerance Developpement 15 25 Corp">
-  <figcaption>Figure p. 119 : Tolerance Developpement 15 25 Corp.</figcaption>
-</figure>
 
-Figure 18 .Schéma des mécanismes de tolérance
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p115_figure_01_tolerance_developpement_15_25_corp.png" alt="Figure 18. Schéma des mécanismes de tolérance">
+  <figcaption>Figure 18. Schéma des mécanismes de tolérance.</figcaption>
+</figure>
 
 Voici les principaux :
 
-<figure class="doc-figure">
-  <img src="../05_assets_visuels/p120_figure_01_tolerance_developpement_15_25_corp.png" alt="Tolerance Developpement 15 25 Corp">
-  <figcaption>Figure p. 120 : Tolerance Developpement 15 25 Corp.</figcaption>
-</figure>
 
 1.
  Cacher(internalisé) –
@@ -254,7 +245,10 @@ Ci-après, un graphique illustrant les deux notions
 (tolérance aiguë et accoutumance). En ordonnée, c'est la quantité à prendre
 pour obtenir les effets équivalents à une première prise d’un gramme
 
-Figure 19.Tachyphylaxie (orange) , accoutumance (noir), pour un médicament X
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p119_figure_01_tolerance_developpement_15_25_corp.png" alt="Figure 19. Tachyphylaxie et accoutumance">
+  <figcaption>Figure 19. Tachyphylaxie (orange) et accoutumance (noir) pour un médicament X.</figcaption>
+</figure>
 
 En résumé, dans le cadre d'une administration unique d'un
 médicament ou d'une substance, c'est le mécanisme de tachyphylaxie, représenté
@@ -325,8 +319,10 @@ part, elle a bien une explication neurologique.
 Tout le cerveau se « refait», c’est ce que l’on appelle
 la maturation cérébrale .
 
-Figure 20.
-Maturation du cerveau
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p120_figure_01_tolerance_developpement_15_25_corp.png" alt="Figure 20. Maturation du cerveau">
+  <figcaption>Figure 20. Maturation du cerveau.</figcaption>
+</figure>
 
 Cette « refonte du
 cerveau » se fait dans un certain ordre. Elle commence par le cervelet [166] ,
@@ -495,7 +491,6 @@ cardiaque
 Il existe un risque d’interaction
 important en cas de prise de médicament
 
-### Le système
-cannabinoïde endogène
+### Le système cannabinoïde endogène
 
 ### Le système opioïde endogène

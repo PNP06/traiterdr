@@ -143,10 +143,6 @@ c’est faux : 12h dans les urines et 10h dans le sang [136]
  et surtout ce n’est pas le cas des cheveux où les traces peuvent être
 détectées très longtemps après [137] !
 
-<figure class="doc-figure">
-  <img src="../05_assets_visuels/p097_figure_01_ghb_drogue_du_viol_chemsex_3_mmc_r.png" alt="Ghb Drogue Du Viol Chemsex 3 Mmc R">
-  <figcaption>Figure p. 97 : Ghb Drogue Du Viol Chemsex 3 Mmc R.</figcaption>
-</figure>
 
 En somme,
 le GHB est un médicament détourné, qui est majoritairement utilisé pour ses
@@ -176,8 +172,7 @@ Informer
 correctement sur la détection du GHB et les vraies réalités des agressions
 chimiques est indispensable pour améliorer leur prise en charge !
 
-### Position des
-associations de réduction des risques sur le GHB
+### Position des associations de réduction des risques sur le GHB
 
 Pourquoi les associations de réduction des
 risques ne communiquent pas plus massivement pour contrer les croyances sur le
@@ -286,8 +281,7 @@ En cas de consommation de
 3-MMC : faire tester ses produits (voir partie « Tester ses produits ») et ne
 pas se fier aux revendeurs.
 
-## Les « research
-chemical » ou « Nouveau produits de synthèses »
+## Les « research chemical » ou « Nouveau produits de synthèses »
 
 RC signifie « Research
 Chemical », Nouveau Produits de Synthèse en français. Ce nom ne vous dit
@@ -297,8 +291,7 @@ légales ». Ils ont des noms barbares comme 4-HO-MET, 2CBfly ou autres
 4-MMC. Il y en a de toutes sortes et sont pour la majorité des cousines de
 drogues illégales.
 
-### La réglementation
-antidrogue
+### La réglementation antidrogue
 
 Pour expliquer les RC, il est
 nécessaire de revenir à la réglementation sur les drogues. Les substances
@@ -362,8 +355,7 @@ Nous n’allons pas nous éterniser dessus, mais en somme, tous
 les dérivés possibles du LSD ne font pas partie de cette liste (au moment où
 nous écrivons ce livre, en tous cas).
 
-### La synthèse de
-prodrogue
+### La synthèse de prodrogue
 
 Une prodrogue, c’est une molécule
 qui, une fois ingérée, est transformée en drogue par l’organisme. Un des
@@ -379,12 +371,12 @@ l’arrêté antidrogue.
 
 Prenons un des RC du LSD : le 1cp-LSD
 
-<figure class="doc-figure">
-  <img src="../05_assets_visuels/p097_figure_02_ghb_drogue_du_viol_chemsex_3_mmc_r.png" alt="Ghb Drogue Du Viol Chemsex 3 Mmc R">
-  <figcaption>Figure p. 97 : Ghb Drogue Du Viol Chemsex 3 Mmc R.</figcaption>
-</figure>
 
-LSD 1cp-LSD
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p097_figure_01_ghb_drogue_du_viol_chemsex_3_mmc_r.png" alt="Schéma p. 97. Structure du LSD">
+  <img src="../05_assets_visuels/p097_figure_02_ghb_drogue_du_viol_chemsex_3_mmc_r.png" alt="Schéma p. 97. Structure du 1cp-LSD">
+  <figcaption>Schémas p. 97. Comparaison visuelle entre le LSD et le 1cp-LSD.</figcaption>
+</figure>
 
 Vous n’êtes pas chimiste ? Ce n’est pas grave, jouez
 au jeu des sept différences. En réalité, il n’y en a qu’une : le
@@ -417,8 +409,7 @@ pas les mêmes : 100 µg de LSD n’auront pas les mêmes effets que
 100 µg de 1cp-LSD. Ce dernier étant plus lourd que le LSD, il en faudra
 plus.
 
-### Le jeu du « chat
-et la souris »
+### Le jeu du « chat et la souris »
 
 Si le principe parait simple pour
 contourner la réglementation, il faut bien comprendre que l’ANSM (Agence
@@ -464,8 +455,7 @@ révéler que c’est un RC, en fonction de l’interprétation que fera la just
 l’arrêté (comme vous avez vu, la liste s’élargit), des poursuites pourraient
 tout de même être engagées contre vous.
 
-### Darknet versus sites
-de RC
+### Darknet versus sites de RC
 
 Les sites qui vendent des RC sont
 accessibles depuis le Clear web (l’internet classique). Nul besoin de passer

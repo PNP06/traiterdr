@@ -100,13 +100,11 @@ probabilité) elles-mêmes. Elles doivent présenter un nombre de niveaux limit�
 tout en étant suffisamment précises pour distinguer tous les cas. Trouver le
 bon équilibre est impossible.
 
-<figure class="doc-figure">
-  <img src="../05_assets_visuels/p101_figure_01_gestion_des_risques.png" alt="Gestion Des Risques">
-  <figcaption>Figure p. 101 : Gestion Des Risques.</figcaption>
-</figure>
 
-Tableau 13.Exemple
-de cartographie des risques pour l'alcool
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p101_figure_01_gestion_des_risques.png" alt="Tableau 13. Exemple de cartographie des risques pour l'alcool">
+  <figcaption>Tableau 13. Exemple de cartographie des risques pour l'alcool.</figcaption>
+</figure>
 
 Une cartographie des risques utilise des couleurs pour
 classer les risques. Les risques les plus fréquents et les plus graves sont

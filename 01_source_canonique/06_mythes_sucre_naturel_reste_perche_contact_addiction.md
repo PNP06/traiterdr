@@ -189,10 +189,6 @@ utilisé de manière pratique pour décrire certains comportements qui ont des s
 traités de la même manière que les addictions traditionnelles, car ils
 n'activent pas les mêmes mécanismes dans le cerveau.
 
-<figure class="doc-figure">
-  <img src="../05_assets_visuels/p078_figure_01_sucre_naturel_reste_perche_contact.png" alt="Sucre Naturel Reste Perche Contact">
-  <figcaption>Figure p. 78 : Sucre Naturel Reste Perche Contact.</figcaption>
-</figure>
 
 · Certaines
 conséquences des addictions, comme l'isolement social et le délaissement
@@ -227,10 +223,6 @@ Cette dichotomie s'avère particulièrement problématique dans
 le domaine des drogues, où la perception de la naturalité peut fausser la
 compréhension de la toxicité et des risques associés.
 
-<figure class="doc-figure">
-  <img src="../05_assets_visuels/p081_figure_01_sucre_naturel_reste_perche_contact.png" alt="Sucre Naturel Reste Perche Contact">
-  <figcaption>Figure p. 81 : Sucre Naturel Reste Perche Contact.</figcaption>
-</figure>
 
 Or,
 il est important de comprendre que, quelle que soit l’origine (naturelle ou
@@ -540,12 +532,11 @@ effet sur le cerveau, il doit nécessairement subir une transformation chimique.
 Dans la mesure où la molécule active n’est pas celle produite par la plante,
 est ce que cela est naturel ?
 
-<figure class="doc-figure">
-  <img src="../05_assets_visuels/p089_figure_01_sucre_naturel_reste_perche_contact.png" alt="Sucre Naturel Reste Perche Contact">
-  <figcaption>Figure p. 89 : Sucre Naturel Reste Perche Contact.</figcaption>
-</figure>
 
-Figure 7.Transformation du THCa en THC
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p078_figure_01_sucre_naturel_reste_perche_contact.png" alt="Figure 7. Transformation du THCa en THC">
+  <figcaption>Figure 7. Transformation du THCa en THC.</figcaption>
+</figure>
 
 Un autre exemple est celui du LSD, souvent qualifié de
 substance semi-synthétique ou semi-naturelle.
@@ -734,6 +725,11 @@ dont certains peuvent être toxiques.
 
 Ces produits de fabrications secondaires s’appellent des
 congénères.
+
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p081_figure_01_sucre_naturel_reste_perche_contact.png" alt="Schéma p. 81. Teneur en congénères selon les boissons alcoolisées">
+  <figcaption>Schéma p. 81. Teneur en congénères selon les boissons alcoolisées.</figcaption>
+</figure>
 
 Il semblerait que les boissons contenant plus de congénères
 produisent plus de gueule de bois [92] ,
@@ -1169,8 +1165,10 @@ Ces notions sont développées dans les différentes sections
 du livre, notamment dans la classification des substances et la partie dédiée à
 l’addiction.
 
-Figure 10.
-Parcours de l'addiction. Dr.CHIPI et Dr.LAJZEROWICZ [120]
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p089_figure_01_sucre_naturel_reste_perche_contact.png" alt="Figure 10. Parcours de l'addiction">
+  <figcaption>Figure 10. Parcours de l'addiction, d’après Dr CHIPI et Dr LAJZEROWICZ.</figcaption>
+</figure>
 
 L’addiction est un processus
 complexe, qui « s’apprend »

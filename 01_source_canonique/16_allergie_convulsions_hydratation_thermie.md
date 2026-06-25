@@ -28,10 +28,6 @@ avec les traitements antiallergiques.
 L’allergie aux drogues est
 rare, il faut être attentif :
 
-<figure class="doc-figure">
-  <img src="../05_assets_visuels/p201_figure_01_allergie_convulsions_hydratation_t.png" alt="Allergie Convulsions Hydratation T">
-  <figcaption>Figure p. 201 : Allergie Convulsions Hydratation T.</figcaption>
-</figure>
 
 -En
 cas d’allergie connue ;
@@ -174,10 +170,6 @@ Une bonne hydratation va donc permettre le maintien du
 volume de sang de l’organisme qui lui-même permet une bonne oxygénation du
 cerveau et des muscles.
 
-<figure class="doc-figure">
-  <img src="../05_assets_visuels/p203_figure_01_allergie_convulsions_hydratation_t.png" alt="Allergie Convulsions Hydratation T">
-  <figcaption>Figure p. 203 : Allergie Convulsions Hydratation T.</figcaption>
-</figure>
 
 La répartition entre l'eau dans
 les cellules et en dehors est gérée par un mécanisme qui s'appelle l 'osmose .
@@ -197,13 +189,11 @@ directement la taille des cellules, elles peuvent gonfler ou dégonfler en
 fonction de la concentration en sel de l’eau dans laquelle elles beignent (eau
 intercelullaire).
 
-<figure class="doc-figure">
-  <img src="../05_assets_visuels/p209_figure_01_allergie_convulsions_hydratation_t.png" alt="Allergie Convulsions Hydratation T">
-  <figcaption>Figure p. 209 : Allergie Convulsions Hydratation T.</figcaption>
-</figure>
 
-Figure 38.
-Schéma osmose
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p201_figure_01_allergie_convulsions_hydratation_t.png" alt="Figure 38. Schéma osmose">
+  <figcaption>Figure 38. Schéma osmose.</figcaption>
+</figure>
 
 Dans le cas où l'eau en dehors des cellules (B1) est moins
 riche en sel que l'eau dans les cellules (A1), le volume des cellules va
@@ -326,13 +316,11 @@ L’hydratation peut donc être résumée avec le schéma
 ci-dessous. Il servira de base pour comprendre les troubles de l’hydratation
 liée aux drogues.
 
-<figure class="doc-figure">
-  <img src="../05_assets_visuels/p210_figure_01_allergie_convulsions_hydratation_t.png" alt="Allergie Convulsions Hydratation T">
-  <figcaption>Figure p. 210 : Allergie Convulsions Hydratation T.</figcaption>
-</figure>
 
-Figure 40.Bilan
-des apports et des éliminations d'eau
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p203_figure_01_allergie_convulsions_hydratation_t.png" alt="Figure 40. Bilan des apports et des éliminations d'eau">
+  <figcaption>Figure 40. Bilan des apports et des éliminations d'eau.</figcaption>
+</figure>
 
 Les flèches oranges représentent les moyens d'éliminer
 l'eau, notamment par les reins et d'autres voies. Les flèches bleues indiquent
@@ -344,10 +332,6 @@ vasopressine.
 
 L’hydratation permet :
 
-<figure class="doc-figure">
-  <img src="../05_assets_visuels/p213_figure_01_allergie_convulsions_hydratation_t.png" alt="Allergie Convulsions Hydratation T">
-  <figcaption>Figure p. 213 : Allergie Convulsions Hydratation T.</figcaption>
-</figure>
 
 -De
 maintenir le volume de sang (et donc avoir une bonne oxygénation du cerveau et
@@ -422,10 +406,6 @@ prise de drogues devrait inclure l’hydratation. Globalement, boire de l’eau 
 suffisant pour prévenir le risque de déshydratation. Les solutions de
 réhydratation (vendue en pharmacie) ne se justifie pas en prévention. (MSDMANUAL)
 
-<figure class="doc-figure">
-  <img src="../05_assets_visuels/p216_figure_01_allergie_convulsions_hydratation_t.png" alt="Allergie Convulsions Hydratation T">
-  <figcaption>Figure p. 216 : Allergie Convulsions Hydratation T.</figcaption>
-</figure>
 
 INFO :
 Les bars et boites sont dans l’obligation [312]
@@ -685,8 +665,7 @@ problèmes de régulation de température et de déshydratation.
 
 ## Hyper et hypothermie
 
-### Principes physiologiques de régulation de la
-température
+### Principes physiologiques de régulation de la température
 
 L'hyperthermie et l'hypothermie
 représentent des risques majeurs, lors des consommations. Avec la
@@ -725,7 +704,10 @@ Cette production de chaleur n'est pas répartie de manière
 homogène dans le corps et peut considérablement varier en fonction de
 l'activité physique.
 
-Figure 43.Génération de chaleur dans le corps, au repos et en activité physique [324]
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p209_figure_01_allergie_convulsions_hydratation_t.png" alt="Figure 43. Génération de chaleur dans le corps">
+  <figcaption>Figure 43. Génération de chaleur dans le corps, au repos et en activité physique.</figcaption>
+</figure>
 
 Au repos, ce sont le foie (25 %), les muscles (25 %) et le
 cerveau (20 %) qui génèrent le plus de chaleur, suivis du cœur (8 %) et des
@@ -752,8 +734,10 @@ corps.
 
 ##### Phénomènes physiques : échanges avec l’extérieur
 
-Figure 44.
-Schéma échange de chaleur avec l'extérieur [326]
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p210_figure_01_allergie_convulsions_hydratation_t.png" alt="Figure 44. Schéma d'échange de chaleur avec l'extérieur">
+  <figcaption>Figure 44. Schéma d'échange de chaleur avec l'extérieur.</figcaption>
+</figure>
 
 Pour réguler la température, il y a plusieurs mécanisme,
 basé sur différents moyens physiques. Il en existe 5 :
@@ -893,7 +877,10 @@ d'actions
 
 ##### Phénomènes physiologiques : réactions du corps
 
-Figure 46.Résumé des phénomènes physiologiques
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p213_figure_01_allergie_convulsions_hydratation_t.png" alt="Figure 46. Résumé des phénomènes physiologiques">
+  <figcaption>Figure 46. Résumé des phénomènes physiologiques.</figcaption>
+</figure>
 
 Frissonnement
 
@@ -1090,8 +1077,10 @@ La régulation de la température peut donc être résumée avec
 le schéma ci-dessous. Il servira de base pour comprendre les troubles de la
 thermorégulation.
 
-Figure 47.Bilan
-de la régulation de la température
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p216_figure_01_allergie_convulsions_hydratation_t.png" alt="Figure 47. Bilan de la régulation de la température">
+  <figcaption>Figure 47. Bilan de la régulation de la température.</figcaption>
+</figure>
 
 ·
  La chaleur du corps est principalement produite par le
@@ -1418,5 +1407,4 @@ paracétamol ni aucun médicament sans avis médical !
 - L’hyperthermie peut
 être une urgence VITALE : appelez les secours en cas de symptômes
 
-#### Approche
-générale : Thermie et Hydratation
+#### Approche générale : Thermie et Hydratation

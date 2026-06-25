@@ -60,8 +60,8 @@ Les tableaux textuels et encadrés sont convertis ou décrits en Markdown. Seuls
 
 | Fichier | Page imprimee | Page PDF | Description | Utilisation |
 |---|---:|---:|---|---|
-| `p097_figure_01_ghb_drogue_du_viol_chemsex_3_mmc_r.png` | 97 | 98 | Visuel extrait pour le bloc 8 `GHB/drogue du viol/chemsex/3-MMC/RC-NPS` ; dimensions 521x305. | Source canonique et index visuels. |
-| `p097_figure_02_ghb_drogue_du_viol_chemsex_3_mmc_r.png` | 97 | 98 | Visuel extrait pour le bloc 8 `GHB/drogue du viol/chemsex/3-MMC/RC-NPS` ; dimensions 433x323. | Source canonique et index visuels. |
+| `p097_figure_01_ghb_drogue_du_viol_chemsex_3_mmc_r.png` | 97 | 98 | Structure du LSD, réextraite par rendu/crop après détection d'un PNG noir ; dimensions 696x440. | Source canonique et index visuels. |
+| `p097_figure_02_ghb_drogue_du_viol_chemsex_3_mmc_r.png` | 97 | 98 | Structure du 1cp-LSD, réextraite par rendu/crop après détection d'un PNG noir ; dimensions 580x440. | Source canonique et index visuels. |
 
 ## Assets ajoutes - bloc 9
 
@@ -198,9 +198,9 @@ Les tableaux textuels et encadrés sont convertis ou décrits en Markdown. Seuls
 | `p304_figure_01_descente_sevrage_addiction_dependa.png` | 304 | 305 | Visuel extrait pour le bloc 21 `descente/sevrage/addiction/dependance/cancer` ; dimensions 891x664. | Source canonique et index visuels. |
 | `p305_figure_01_descente_sevrage_addiction_dependa.png` | 305 | 306 | Visuel extrait pour le bloc 21 `descente/sevrage/addiction/dependance/cancer` ; dimensions 865x447. | Source canonique et index visuels. |
 | `p311_figure_01_descente_sevrage_addiction_dependa.png` | 311 | 312 | Visuel extrait pour le bloc 21 `descente/sevrage/addiction/dependance/cancer` ; dimensions 684x305. | Source canonique et index visuels. |
-| `p311_figure_02_descente_sevrage_addiction_dependa.png` | 311 | 312 | Visuel extrait pour le bloc 21 `descente/sevrage/addiction/dependance/cancer` ; dimensions 1152x736. | Source canonique et index visuels. |
+| `p311_figure_02_descente_sevrage_addiction_dependa.png` | 311 | 312 | Extraction noire/dupliquée de la figure 86 ; dimensions 1152x736. | Conservée comme trace d'extraction, non affichée dans le rendu canonique. |
 | `p311_figure_03_descente_sevrage_addiction_dependa.png` | 311 | 312 | Visuel extrait pour le bloc 21 `descente/sevrage/addiction/dependance/cancer` ; dimensions 1068x668. | Source canonique et index visuels. |
-| `p312_figure_01_descente_sevrage_addiction_dependa.png` | 312 | 313 | Visuel extrait pour le bloc 21 `descente/sevrage/addiction/dependance/cancer` ; dimensions 1152x736. | Source canonique et index visuels. |
+| `p312_figure_01_descente_sevrage_addiction_dependa.png` | 312 | 313 | Extraction noire/dupliquée de la figure 86 ; dimensions 1152x736. | Conservée comme trace d'extraction, non affichée dans le rendu canonique. |
 | `p312_figure_02_descente_sevrage_addiction_dependa.png` | 312 | 313 | Visuel extrait pour le bloc 21 `descente/sevrage/addiction/dependance/cancer` ; dimensions 1072x671. | Source canonique et index visuels. |
 | `p318_figure_01_descente_sevrage_addiction_dependa.png` | 318 | 319 | Visuel extrait pour le bloc 21 `descente/sevrage/addiction/dependance/cancer` ; dimensions 867x518. | Source canonique et index visuels. |
 | `p318_figure_02_descente_sevrage_addiction_dependa.png` | 318 | 319 | Visuel extrait pour le bloc 21 `descente/sevrage/addiction/dependance/cancer` ; dimensions 938x480. | Source canonique et index visuels. |

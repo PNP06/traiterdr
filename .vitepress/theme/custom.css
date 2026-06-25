@@ -67,14 +67,23 @@
   font-weight: 520;
 }
 
+.VPSidebarItem.level-3 > .item .text {
+  color: var(--risk-muted);
+  font-size: 0.77rem;
+  line-height: 1.25;
+  font-weight: 500;
+}
+
 .VPSidebarItem.level-1.is-active > .item,
-.VPSidebarItem.level-2.is-active > .item {
+.VPSidebarItem.level-2.is-active > .item,
+.VPSidebarItem.level-3.is-active > .item {
   border-radius: 6px;
   background: var(--risk-surface-tint);
 }
 
 .VPSidebarItem.level-1.is-active > .item .text,
-.VPSidebarItem.level-2.is-active > .item .text {
+.VPSidebarItem.level-2.is-active > .item .text,
+.VPSidebarItem.level-3.is-active > .item .text {
   color: var(--vp-c-brand-1);
 }
 
@@ -204,6 +213,142 @@
   font-size: 0.88rem;
 }
 
+.treaty-toc {
+  margin-top: 30px;
+}
+
+.treaty-toc-summary {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(210px, 1fr));
+  gap: 1px;
+  margin: 28px 0;
+  border: 1px solid var(--risk-line);
+  border-radius: 8px;
+  overflow: hidden;
+  background: var(--risk-line);
+}
+
+.treaty-toc-summary a {
+  min-width: 0;
+  padding: 16px;
+  color: var(--risk-ink);
+  background: var(--risk-surface);
+  text-decoration: none;
+}
+
+.treaty-toc-summary a:hover {
+  color: var(--vp-c-brand-1);
+  background: var(--risk-surface-tint);
+  text-decoration: none;
+}
+
+.treaty-toc-summary strong,
+.treaty-toc-summary span {
+  display: block;
+}
+
+.treaty-toc-summary strong {
+  font-size: 0.98rem;
+  line-height: 1.32;
+}
+
+.treaty-toc-summary span,
+.treaty-toc-count,
+.treaty-toc-page {
+  color: var(--risk-muted);
+  font-size: 0.86rem;
+}
+
+.treaty-toc-summary span {
+  margin-top: 5px;
+}
+
+.treaty-toc-count {
+  margin: 0 0 24px;
+}
+
+.treaty-toc-section {
+  margin-top: 30px;
+  padding-top: 20px;
+  border-top: 1px solid var(--risk-line);
+}
+
+.treaty-toc-section-header {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 16px;
+  margin-bottom: 12px;
+}
+
+.treaty-toc-section-header > a:first-child {
+  color: var(--risk-ink);
+  font-size: 1.28rem;
+  font-weight: 820;
+  line-height: 1.25;
+  text-decoration: none;
+}
+
+.treaty-toc-list {
+  display: grid;
+  gap: 0;
+  margin: 0;
+  padding: 0;
+  list-style: none !important;
+  border-top: 1px solid var(--risk-line);
+}
+
+.treaty-toc-entry {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto auto;
+  gap: 14px;
+  align-items: baseline;
+  margin: 0;
+  padding: 10px 0;
+  border-bottom: 1px solid var(--risk-line);
+  list-style: none;
+}
+
+.treaty-toc-entry::marker {
+  content: "";
+}
+
+.treaty-toc-entry--level-2 {
+  padding-left: 24px;
+}
+
+.treaty-toc-link {
+  min-width: 0;
+  color: var(--risk-ink);
+  font-weight: 650;
+  line-height: 1.4;
+  text-decoration: none;
+}
+
+.treaty-toc-entry--level-2 .treaty-toc-link {
+  color: var(--vp-c-text-2);
+  font-weight: 560;
+}
+
+.treaty-toc-link:hover,
+.treaty-toc-section-header > a:first-child:hover {
+  color: var(--vp-c-brand-1);
+  text-decoration: none;
+}
+
+.treaty-toc-pdf {
+  color: var(--risk-muted);
+  font-family: var(--vp-font-family-mono);
+  font-size: 0.78rem;
+  font-weight: 760;
+  text-decoration: none;
+}
+
+.treaty-toc-pdf:hover {
+  color: var(--vp-c-brand-1);
+  text-decoration: none;
+}
+
 .figure-card img,
 .doc-figure img {
   display: block;
@@ -212,6 +357,10 @@
   border: 1px solid var(--risk-line);
   border-radius: 8px;
   background: #fff;
+}
+
+.doc-figure img + img {
+  margin-top: 12px;
 }
 
 .figure-card img {
@@ -578,6 +727,21 @@
   .substance-grid,
   .home-reference-row {
     grid-template-columns: 1fr;
+  }
+
+  .treaty-toc-entry {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 4px;
+  }
+
+  .treaty-toc-entry--level-2 {
+    padding-left: 14px;
+  }
+
+  .treaty-toc-section-header {
+    align-items: flex-start;
+    flex-direction: column;
+    gap: 4px;
   }
 
   .risk-home {

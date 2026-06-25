@@ -8,11 +8,9 @@ Voir EM consult IEA. Donne critère de sevrage.
 
 Préciser role intervention brève
 
-## - Syndrome
-de sevrage et delirium tremens
+## Syndrome de sevrage et delirium tremens
 
-## Addiction et
-dépendance
+## Addiction et dépendance
 
 Avant d’attaquer le sujet, une prise de recul est nécessaire
 afin d’avoir une vision claire des risques. Lorsque l’on parle de drogue,
@@ -24,10 +22,6 @@ chimique par exemple. D’ailleurs, d’un point de vue collectif, la consommati
 à risque sans addiction cause davantage de dommages que l’addiction en termes
 de maladie et mortalité [414] .
 
-<figure class="doc-figure">
-  <img src="../05_assets_visuels/p297_figure_01_descente_sevrage_addiction_dependa.png" alt="Descente Sevrage Addiction Dependa">
-  <figcaption>Figure p. 297 : Descente Sevrage Addiction Dependa.</figcaption>
-</figure>
 
 Il faut décorréler
 addiction et toxicité.
@@ -36,8 +30,7 @@ Un usage simple, quelle
 que soit la drogue , engendre des risques même si l’on ne devient pas
 addict.
 
-### Généralités sur
-l’addiction
+### Généralités sur l’addiction
 
 Les termes d’addiction, de dépendance ou de tolérance sont
 souvent utilisés dans le langage courant, souvent à tort.
@@ -114,10 +107,6 @@ La question se pose alors : quelle est la différence
 essentielle ? Pour y répondre, il est d'abord nécessaire d'adopter une approche
 générale et simplifiée avant de se pencher sur les détails spécifiques.
 
-<figure class="doc-figure">
-  <img src="../05_assets_visuels/p298_figure_01_descente_sevrage_addiction_dependa.png" alt="Descente Sevrage Addiction Dependa">
-  <figcaption>Figure p. 298 : Descente Sevrage Addiction Dependa.</figcaption>
-</figure>
 
 Il n’existe plus de
 différence entre dépendance physique et psychologique.
@@ -141,10 +130,6 @@ La tolérance se constate que lors de la prise répétée
 de produit. Or, la répétition de prise de drogue est caractéristique l’addiction.
 Souvent, dans le langage courant, il y a confusion.
 
-<figure class="doc-figure">
-  <img src="../05_assets_visuels/p299_figure_01_descente_sevrage_addiction_dependa.png" alt="Descente Sevrage Addiction Dependa">
-  <figcaption>Figure p. 299 : Descente Sevrage Addiction Dependa.</figcaption>
-</figure>
 
 | Dans une approche simpliste des différents termes , <br> voici les étapes : <br> 1. <br> Je commence à fumer <br> 2. <br> J’ai une crise de craving , comme une énorme soif <br> 3. <br> J’en reprends, je m’habitue au geste : je développe une dépendance <br> 4. <br> À force d’en prendre, j’ai une tolérance : je dois en <br> prendre de plus en plus pour avoir les mêmes effets, <br> 5. Je <br> tousse, je n’ai plus les mêmes performances qu’avant, mais je n’arrive plus à <br> m’arrêter. J’ai besoin d’en prendre pour ne pas me sentir mal. J’ai <br> développé une addiction. |
 | --- |
@@ -179,18 +164,12 @@ l'importance d'une approche clinique et thérapeutique .
 
 Cela se voit même en imagerie médicale (cf. ci-dessous).
 
-<figure class="doc-figure">
-  <img src="../05_assets_visuels/p300_figure_01_descente_sevrage_addiction_dependa.png" alt="Descente Sevrage Addiction Dependa">
-  <figcaption>Figure p. 300 : Descente Sevrage Addiction Dependa.</figcaption>
-</figure>
-
-Figure 75.
-Gauche : cerveau sain, droite : cerveau addict à la cocaïne [420]
 
 <figure class="doc-figure">
-  <img src="../05_assets_visuels/p303_figure_01_descente_sevrage_addiction_dependa.png" alt="Descente Sevrage Addiction Dependa">
-  <figcaption>Figure p. 303 : Descente Sevrage Addiction Dependa.</figcaption>
+  <img src="../05_assets_visuels/p297_figure_01_descente_sevrage_addiction_dependa.png" alt="Figure 75. Cerveau sain et cerveau addict à la cocaïne">
+  <figcaption>Figure 75. Gauche : cerveau sain ; droite : cerveau addict à la cocaïne.</figcaption>
 </figure>
+
 
 Oui,
 l’addiction est une maladie. Les termes utilisés sont trouble psychiatrique, trouble
@@ -216,18 +195,12 @@ avec (Scareface : scène de « vous voulez jouer à la
 vache ? »). Pour les anciens addicts, la vue de la drogue leur
 donnait envie, malgré leur sevrage.
 
-<figure class="doc-figure">
-  <img src="../05_assets_visuels/p304_figure_01_descente_sevrage_addiction_dependa.png" alt="Descente Sevrage Addiction Dependa">
-  <figcaption>Figure p. 304 : Descente Sevrage Addiction Dependa.</figcaption>
-</figure>
+
 
 <figure class="doc-figure">
-  <img src="../05_assets_visuels/p305_figure_01_descente_sevrage_addiction_dependa.png" alt="Descente Sevrage Addiction Dependa">
-  <figcaption>Figure p. 305 : Descente Sevrage Addiction Dependa.</figcaption>
+  <img src="../05_assets_visuels/p298_figure_01_descente_sevrage_addiction_dependa.png" alt="Figure 76. Amygdale suractivée face à une vidéo avec drogue">
+  <figcaption>Figure 76. Gauche : vidéo sans drogue ; droite : vidéo avec drogue, amygdale suractivée.</figcaption>
 </figure>
-
-Figure 76. Gauche : vidéo sans drogue Droite : Vidéo avec drogue, l’amygdale est
-suractivée [421]
 
 Devenue abstinente, la personne reste malade car son cerveau
 conserve les traces. Il faut donc plutôt parler d’une maladie chronique en
@@ -238,8 +211,7 @@ substance, la tentation peut être importante malgré un arrêt long de la
 consommation. Mais l’addiction n’est pas une fatalité , et ces
 « pulsions » peuvent finir par se contrôler.
 
-### Comment devient-on
-addict ?
+### Comment devient-on addict ?
 
 Ce point est important à comprendre, car il
 permet d’orienter les politiques de préventions, mais surtout, il peut aider
@@ -262,23 +234,17 @@ Prenons le cas de du tabac, qui est autant addictogène que
 le crack. Certains arrivent à fumer occasionnellement et pas d’autres : la
 substance elle-même ne suffit pas à expliquer l’addiction.
 
-<figure class="doc-figure">
-  <img src="../05_assets_visuels/p311_figure_01_descente_sevrage_addiction_dependa.png" alt="Descente Sevrage Addiction Dependa">
-  <figcaption>Figure p. 311 : Descente Sevrage Addiction Dependa.</figcaption>
-</figure>
 
-Figure 77.
-L’approche PIE, extrait du traité d’addictologie (2016)
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p299_figure_01_descente_sevrage_addiction_dependa.png" alt="Figure 77. L'approche PIE">
+  <figcaption>Figure 77. L'approche PIE, extrait du traité d'addictologie (2016).</figcaption>
+</figure>
 
 C’est le produit de ces trois facteurs qui conduit à
 l’addiction. Dans le cas des drogues légales (alcool et tabac), les
 facteurs de risques liés au produit et à l’environnement sont colossaux, pour
 autant, tous les consommateurs ne sont pas addicts.
 
-<figure class="doc-figure">
-  <img src="../05_assets_visuels/p311_figure_02_descente_sevrage_addiction_dependa.png" alt="Descente Sevrage Addiction Dependa">
-  <figcaption>Figure p. 311 : Descente Sevrage Addiction Dependa.</figcaption>
-</figure>
 
 L’addiction ne peut être
 expliquée que par une cause, il y a forcément une composante individuelle, une
@@ -297,12 +263,11 @@ développement (l’enfance-adolescence), le comportement (caractère),
 l’environnement, le facteur génétique et le facteur neurobiologique. Ici
 aussi, un seul facteur ne suffit pas à expliquer l’addiction .
 
-<figure class="doc-figure">
-  <img src="../05_assets_visuels/p311_figure_03_descente_sevrage_addiction_dependa.png" alt="Descente Sevrage Addiction Dependa">
-  <figcaption>Figure p. 311 : Descente Sevrage Addiction Dependa.</figcaption>
-</figure>
 
-Figure 78. Les 5 facteurs de risques. Pr Karila
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p300_figure_01_descente_sevrage_addiction_dependa.png" alt="Figure 78. Les cinq facteurs de risque de Karila">
+  <figcaption>Figure 78. Les cinq facteurs de risque, Pr Karila.</figcaption>
+</figure>
 
 Le développement est le
 facteur de risque central . Il va regrouper trois points
@@ -342,10 +307,6 @@ le traité avec des substances.
 
 C’est là un élément important :
 
-<figure class="doc-figure">
-  <img src="../05_assets_visuels/p312_figure_01_descente_sevrage_addiction_dependa.png" alt="Descente Sevrage Addiction Dependa">
-  <figcaption>Figure p. 312 : Descente Sevrage Addiction Dependa.</figcaption>
-</figure>
 
 Le
 traitement de l’addiction n’est pas uniquement l’arrêt du comportement
@@ -387,10 +348,6 @@ Ce sont des facteurs de risques, mais
 mais que je n’ai pas eu d’abus de substance durant ma maturation cérébrale, je
 me protège sur long terme.
 
-<figure class="doc-figure">
-  <img src="../05_assets_visuels/p312_figure_02_descente_sevrage_addiction_dependa.png" alt="Descente Sevrage Addiction Dependa">
-  <figcaption>Figure p. 312 : Descente Sevrage Addiction Dependa.</figcaption>
-</figure>
 
 Pour être addict, il faut
 que les 5 facteurs soient déséquilibrés . Une seule case n’explique pas
@@ -399,8 +356,7 @@ l’addiction.
 Ces facteurs permettent
 d’identifier sa vulnérabilité. Nous ne sommes donc pas égaux face à l’addiction.
 
-### Se repérer dans
-l’addiction
+### Se repérer dans l’addiction
 
 « Je bois tous les week-ends entre amis,
 mais jamais la semaine : suis-je addict ? » Prendre conscience
@@ -494,10 +450,6 @@ plus prononcée que le simple comptage du nombre de cigarettes consommées.
 L'évaluation par le professionnel de santé se concentre principalement sur les
 conséquences de cette consommation sur la vie quotidienne du patient.
 
-<figure class="doc-figure">
-  <img src="../05_assets_visuels/p318_figure_01_descente_sevrage_addiction_dependa.png" alt="Descente Sevrage Addiction Dependa">
-  <figcaption>Figure p. 318 : Descente Sevrage Addiction Dependa.</figcaption>
-</figure>
 
 Le trouble de l’usage est
 une maladie. Quels que soient votre score et l’objet de votre addiction, si
@@ -527,12 +479,11 @@ Figure 79. De l’usage simple à l’addiction : une notion de plaisir et de do
 Une façon plus simple d’aborder cette idée est par un
 graphique.
 
-<figure class="doc-figure">
-  <img src="../05_assets_visuels/p318_figure_02_descente_sevrage_addiction_dependa.png" alt="Descente Sevrage Addiction Dependa">
-  <figcaption>Figure p. 318 : Descente Sevrage Addiction Dependa.</figcaption>
-</figure>
 
-Figure 80. De l’usage à l’addiction : notion de plaisir et dommage
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p303_figure_01_descente_sevrage_addiction_dependa.png" alt="Figure 80. De l'usage à l'addiction">
+  <figcaption>Figure 80. De l'usage à l'addiction : notion de plaisir et dommage.</figcaption>
+</figure>
 
 Chaque courbe représente une consommation. La verte, c’est
 l’usage simple, il n’y a pas eu de dommage à la consommation. La courbe jaune
@@ -585,7 +536,10 @@ modifications progressives des circuits neuronaux, le stress et le contrôle des
 comportements. C’est une approche qui n’est pas axée sur le plaisir ou les
 conséquences, mais qui permet d’avoir une approche contenant plus de notions.
 
-Figure 81.Approche par Stade [430]
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p304_figure_01_descente_sevrage_addiction_dependa.png" alt="Figure 81. Approche par stade">
+  <figcaption>Figure 81. Approche par stade.</figcaption>
+</figure>
 
 Dans ce modèle, le stade 1 correspond à la vulnérabilité
 intrinsèque de la personne. Des facteurs biologiques et psychologiques ainsi
@@ -618,7 +572,10 @@ changements hormonaux qui ont des effets notables non seulement sur la
 reproduction mais aussi sur d'autres systèmes physiologiques, y compris le
 système nerveux central.
 
-Figure 82. Changement hormonal durant le cycle menstruel
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p305_figure_01_descente_sevrage_addiction_dependa.png" alt="Figure 82. Changement hormonal durant le cycle menstruel">
+  <figcaption>Figure 82. Changement hormonal durant le cycle menstruel.</figcaption>
+</figure>
 
 Phase folliculaire : Cette phase débute le premier
 jour des menstruations (règles) et se poursuit jusqu'à l'ovulation. Durant
@@ -927,10 +884,10 @@ Ces rechutes ne signifiant pas toujours l’échec de la prise
 en charge, le terme « extra » est maintenant préféré par les
 professionnels de santé.
 
-Figure 85.
- Orange : parcours de traitement imaginé
- Vert : parcours typique d'un traitement
-de l'addiction
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p311_figure_01_descente_sevrage_addiction_dependa.png" alt="Figure 85. Parcours imaginé et parcours typique du traitement de l’addiction">
+  <figcaption>Figure 85. Orange : parcours de traitement imaginé ; vert : parcours typique d'un traitement de l'addiction.</figcaption>
+</figure>
 
 Rechuter
 (avoir un extra) n’est pas forcément un signe d’échec, soigner une addiction
@@ -946,7 +903,11 @@ L’exemple ci-après est un résumé de deux
 témoignages, il présente les étapes que peuvent passer les addicts lorsqu’il
 commence leur prise en charge.
 
-Figure 86. Cas d'une prise en charge
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p311_figure_03_descente_sevrage_addiction_dependa.png" alt="Figure 86. Cas d'une prise en charge, partie haute">
+  <img src="../05_assets_visuels/p312_figure_02_descente_sevrage_addiction_dependa.png" alt="Figure 86. Cas d'une prise en charge, partie basse">
+  <figcaption>Figure 86. Cas d'une prise en charge.</figcaption>
+</figure>
 
 Il
 ne faut JAMAIS pousser à la consommation . Vous ne savez pas quelle
@@ -1325,9 +1286,11 @@ Les décisions vont donc se baser sur les deux courbes
 ci-après. Elle représente la mortalité par rapport à la consommation d’alcool,
 pour les femmes et les hommes.
 
-Figure 90. Mortalité vie entière pour les femmes et
-les hommes. La ligne bleue pleine représente le risque ; les lignes
-pointillées les risque pour 1/100 et 1/1000.
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p318_figure_01_descente_sevrage_addiction_dependa.png" alt="Figure 90. Mortalité vie entière attribuable à l’alcool chez les femmes">
+  <img src="../05_assets_visuels/p318_figure_02_descente_sevrage_addiction_dependa.png" alt="Figure 90. Mortalité vie entière attribuable à l’alcool chez les hommes">
+  <figcaption>Figure 90. Mortalité vie entière pour les femmes et les hommes ; ligne bleue pleine : risque ; lignes pointillées : risques pour 1/100 et 1/1000.</figcaption>
+</figure>
 
 Attention, ces courbes du rapport de Santé Publique
 France datent de 2016 et ne tiennent pas compte des avancées de l’INSERM (2021)

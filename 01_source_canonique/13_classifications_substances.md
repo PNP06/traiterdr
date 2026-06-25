@@ -81,12 +81,11 @@ précis, le terme de perturbateur est utilisé.
 
 ### Classification générale de Derek Snider
 
-<figure class="doc-figure">
-  <img src="../05_assets_visuels/p160_figure_01_classifications_substances.png" alt="Classifications Substances">
-  <figcaption>Figure p. 160 : Classifications Substances.</figcaption>
-</figure>
 
-Figure 33.Classification simplifiée de Derek Snider
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p160_figure_01_classifications_substances.png" alt="Figure 33. Classification simplifiée de Derek Snider">
+  <figcaption>Figure 33. Classification simplifiée de Derek Snider.</figcaption>
+</figure>
 
 #### Limite s
 
@@ -122,10 +121,6 @@ traitement de Diazépam, les effets du LSD pourraient être atténués.
 La classification permet également d’avoir une
 première approche lors des poly consommation (prise de plusieurs substances).
 
-<figure class="doc-figure">
-  <img src="../05_assets_visuels/p162_figure_01_classifications_substances.png" alt="Classifications Substances">
-  <figcaption>Figure p. 162 : Classifications Substances.</figcaption>
-</figure>
 
 Dans
 une première approche :
@@ -183,12 +178,11 @@ et parfois « psychédéliques ».
 Pour mieux appréhender ces termes, il faut aller un peu plus
 loin dans la classification, et chercher des sous-familles :
 
-<figure class="doc-figure">
-  <img src="../05_assets_visuels/p168_figure_01_classifications_substances.png" alt="Classifications Substances">
-  <figcaption>Figure p. 168 : Classifications Substances.</figcaption>
-</figure>
 
-Figure 34. Principales sous-familles de la classification de Derek Snider
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p162_figure_01_classifications_substances.png" alt="Figure 34. Principales sous-familles de la classification de Derek Snider">
+  <figcaption>Figure 34. Principales sous-familles de la classification de Derek Snider.</figcaption>
+</figure>
 
 #### Les dissociatifs
 
@@ -263,8 +257,7 @@ ou encore en tant que sédatifs puisqu’ils présentent moins d’effets second
 que les benzodiazépines. Il y a de grandes chances que vous en ayez déjà pris
 au cours de votre vie d’ailleurs, à faible dose, évidement.
 
-## Classification selon les dommages causés à soi et
-aux autres
+## Classification selon les dommages causés à soi et aux autres
 
 Dans les années 70 la guerre
 contre les drogues débute avec une règlementation de l’ONU, de la naîtra cette
@@ -408,8 +401,7 @@ atteignable ?
 Après avoir répondu à toutes ces questions, il faut définir
 quel poids donner à chaque question en appliquant un coefficient.
 
-### Le baccalauréat TNIC « Techniques de Nuisances
-Individuelles et Collectives »
+### Le baccalauréat TNIC « Techniques de Nuisances Individuelles et Collectives »
 
 L’approche de l’étude revient à
 considérer les drogues comme des élèves passant un bac. Nous avons donc 20
@@ -507,13 +499,11 @@ tour des professeurs d’évaluer les élèves. Voici les résultats d’analyse
 20 substances par des experts du Comité Scientifique Indépendant sur les
 Drogues [255] .
 
-<figure class="doc-figure">
-  <img src="../05_assets_visuels/p169_figure_01_classifications_substances.png" alt="Classifications Substances">
-  <figcaption>Figure p. 169 : Classifications Substances.</figcaption>
-</figure>
 
-Figure 35. Classement Royaume-Uni (UK) (étude David
-Nutt)
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p168_figure_01_classifications_substances.png" alt="Figure 35. Classement Royaume-Uni selon David Nutt">
+  <figcaption>Figure 35. Classement Royaume-Uni (UK), étude David Nutt.</figcaption>
+</figure>
 
 Premièrement il semble important
 de remettre le contexte des substances étudiées car certaines drogues
@@ -548,12 +538,11 @@ conseiller les politiques. Nous allons surtout nous intéresser aux dommages
 individuels et laisser les aspects sociétaux de côté. Voici donc la
 classification par rapport aux dommages individuels uniquement.
 
-<figure class="doc-figure">
-  <img src="../05_assets_visuels/p178_figure_01_classifications_substances.png" alt="Classifications Substances">
-  <figcaption>Figure p. 178 : Classifications Substances.</figcaption>
-</figure>
 
-Figure 36. Classement par dommages pour soi uniquement (Nutt 2010)
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p169_figure_01_classifications_substances.png" alt="Figure 36. Classement par dommages pour soi uniquement">
+  <figcaption>Figure 36. Classement par dommages pour soi uniquement (Nutt 2010).</figcaption>
+</figure>
 
 L’alcool passe en quatrième
 position et quatre sous-groupes peuvent être identifiés en fonction des
@@ -1184,10 +1173,10 @@ Dans ce contexte, l'exposition à la substance en question
 est prise en compte, ce qui en fait une évaluation du risque plutôt que du
 danger.
 
-Tableau 26. Classement par marge d'exposition selon l'étude
-de Dirk W Lachenmeier 2015. Rouge: moyenne, Barre: ecart-type, Gris: cas de
-personne ayant une tolérance, Rond noir (alcool): moyenne basée uniquement sur
-les cas humains.
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p178_figure_01_classifications_substances.png" alt="Tableau 26. Classement par marge d'exposition">
+  <figcaption>Tableau 26. Classement par marge d'exposition selon l'étude de Dirk W. Lachenmeier, 2015.</figcaption>
+</figure>
 
 La "Marge d'Exposition" (MOE) a été calculée pour
 l'exposition individuelle et l'exposition basée sur la population. Dans les

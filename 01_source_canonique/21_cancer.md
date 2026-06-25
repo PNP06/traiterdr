@@ -21,7 +21,7 @@ sans vraiment comprendre ce que c’est. Cette partie fait le tour des notions �
 connaître pour comprendre ce que c’est ainsi qu’une première approche pour
 mieux estimer les risques.
 
-### Fonctionnement des
+### Fonctionnement des cellules
 cellules
 
 Pour mieux comprendre, commençons par examiner la structure
@@ -59,8 +59,9 @@ ingrédients) sont produites en suivant ces instructions.
 
 <figure class="doc-figure">
   <img src="../05_assets_visuels/p328_figure_01_descente_sevrage_addiction_dependa.png" alt="Schéma probabiliste de mutation cellulaire et de risque de cancer">
-  <figcaption>Figure p. 328 : dommage cellulaire, réparation, élimination immunitaire ou évolution possible vers un cancer.</figcaption>
+  <figcaption>Schéma p. 328. Dommage cellulaire, réparation, élimination immunitaire ou évolution possible vers un cancer.</figcaption>
 </figure>
+
 
 L'appréciation du risque de cancer s'avère être compliquée.
 Pour illustrer cette complexité, prenons l'exemple de l'alcool. À partir d'une
@@ -137,10 +138,6 @@ les particules et les substances étrangères. Cependant, l'inhalation de fumée
 peut altérer cette fonction, permettant aux particules cancérigènes de
 s'accumuler et d'endommager les cellules.
 
-<figure class="doc-figure">
-  <img src="../05_assets_visuels/p330_figure_01_descente_sevrage_addiction_dependa.png" alt="Cancers attribuables au mode de vie et à l'environnement en France">
-  <figcaption>Figure p. 330 : nombre de nouveaux cas de cancer attribuables aux facteurs de mode de vie et d'environnement en France en 2015, selon le CIRC.</figcaption>
-</figure>
 
 S’il
 y a combustion il y a risque cancérigène (Cannabis, tabac, etc)
@@ -177,8 +174,10 @@ risque spécifique. Selon le Centre International de Recherche sur le Cancer
 des cancers sont liés à notre mode de vie et à notre environnement. Donc
 60% des cancers déclarés seraient « naturels ».
 
-Figure 91.Nombre de nouveaux cas de cancer attribuables au
-mode de vie et à l'environnement en France en 2015 pour les 30ans et plus [459]
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p330_figure_01_descente_sevrage_addiction_dependa.png" alt="Figure 91. Nouveaux cas de cancer attribuables au mode de vie et à l'environnement">
+  <figcaption>Figure 91. Nombre de nouveaux cas de cancer attribuables au mode de vie et à l'environnement en France en 2015 pour les 30 ans et plus.</figcaption>
+</figure>
 
 28% des cancers déclarés, soit plus de la moitié des cancers
 évitables, sont liés au tabac et a l’alcool.

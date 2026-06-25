@@ -24,9 +24,10 @@ Le test de produit va donc avoir deux objectifs :
 - Quantifier la ou les substances actives.
 
 <figure class="doc-figure">
-  <img src="../05_assets_visuels/p269_figure_01_testing_analyses_produits_biologie.png" alt="Testing Analyses Produits Biologie">
-  <figcaption>Figure p. 269 : Testing Analyses Produits Biologie.</figcaption>
+  <img src="../05_assets_visuels/p269_figure_01_testing_analyses_produits_biologie.png" alt="Schéma p. 269. Incertitudes sur la quantité et la qualité des produits">
+  <figcaption>Schéma p. 269. Incertitudes sur la quantité et la qualité des produits.</figcaption>
 </figure>
+
 
 La qualité des drogues illégales constitue un facteur
 de risque important, principalement en raison de l’incertitude sur la teneur
@@ -399,12 +400,11 @@ relaxation, excitation, facilitation sociale) et des effets indésirables
 (nausées, étourdissements, maux de tête, hallucinations, réactions allergiques,
 hyperthermie, crampes abdominales, palpitations, irritabilité).
 
-<figure class="doc-figure">
-  <img src="../05_assets_visuels/p275_figure_01_testing_analyses_produits_biologie.png" alt="Testing Analyses Produits Biologie">
-  <figcaption>Figure p. 275 : Testing Analyses Produits Biologie.</figcaption>
-</figure>
 
-Figure 59.Probabilité d'effet en fonction de la dose (Tibor Brunt et al)
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p275_figure_01_testing_analyses_produits_biologie.png" alt="Figure 59. Probabilité d'effet en fonction de la dose">
+  <figcaption>Figure 59. Probabilité d'effet en fonction de la dose (Tibor Brunt et al.).</figcaption>
+</figure>
 
 Les résultats montrent une relation non linéaire entre la
 dose de MDMA et les effets ressentis. Les doses comprises entre 80 et 100 mg
@@ -466,13 +466,11 @@ celui du paracétamol dans un comprimé de Doliprane . Le nom commercial ou
 la forme galénique ne modifie pas la molécule active, mais uniquement sa
 présentation et son mode de délivrance.
 
-<figure class="doc-figure">
-  <img src="../05_assets_visuels/p277_figure_01_testing_analyses_produits_biologie.png" alt="Testing Analyses Produits Biologie">
-  <figcaption>Figure p. 277 : Testing Analyses Produits Biologie.</figcaption>
-</figure>
 
-Figure 60.MDMA
-en poudre VS Taz
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p277_figure_01_testing_analyses_produits_biologie.png" alt="Figure 60. MDMA en poudre versus taz">
+  <figcaption>Figure 60. MDMA en poudre versus taz.</figcaption>
+</figure>
 
 Le tableau présenté précédemment distingue volontairement la
  MDMA sous forme de poudre ou de cristaux de la MDMA sous forme de
@@ -513,13 +511,11 @@ inférieures à 100 mg au début de la période, les valeurs moyennes dépassent
 désormais fréquemment 150 mg, avec un nombre croissant de comprimés atteignant
 ou dépassant les 180 à 200 mg.
 
-<figure class="doc-figure">
-  <img src="../05_assets_visuels/p278_figure_01_testing_analyses_produits_biologie.png" alt="Testing Analyses Produits Biologie">
-  <figcaption>Figure p. 278 : Testing Analyses Produits Biologie.</figcaption>
-</figure>
 
-Figure 61. Augmentation de la teneur en MDMA des comprimés
-testés (Suisse) [406]
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p278_figure_01_testing_analyses_produits_biologie.png" alt="Figure 61. Augmentation de la teneur en MDMA des comprimés testés">
+  <figcaption>Figure 61. Augmentation de la teneur en MDMA des comprimés testés en Suisse.</figcaption>
+</figure>
 
 La figure 58 illustre cette évolution à partir des données
 issues du dispositif suisse de drug checking. Bien que ces données s’arrêtent
@@ -650,12 +646,11 @@ quantitative).
 Toute méthode analytique se caractérise par plusieurs
 paramètres fondamentaux, vulgarisé comme ceci :
 
-<figure class="doc-figure">
-  <img src="../05_assets_visuels/p280_figure_01_testing_analyses_produits_biologie.png" alt="Testing Analyses Produits Biologie">
-  <figcaption>Figure p. 280 : Testing Analyses Produits Biologie.</figcaption>
-</figure>
 
-Figure 62. Infographie paramètres analyse chimique
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p280_figure_01_testing_analyses_produits_biologie.png" alt="Figure 62. Paramètres d’analyse chimique">
+  <figcaption>Figure 62. Infographie des paramètres d’analyse chimique.</figcaption>
+</figure>
 
 Ces paramètres conditionnent la fiabilité des résultats et
 expliquent pourquoi aucune technique ne permet, à elle seule, une
@@ -745,12 +740,11 @@ modification de couleur adéquate aux réactions chimiques attendues indiquera u
 résultat positif. Ces tests se vendent sur internet, ils sont également
 utilisés dans les contrôles de police.
 
-<figure class="doc-figure">
-  <img src="../05_assets_visuels/p282_figure_01_testing_analyses_produits_biologie.png" alt="Testing Analyses Produits Biologie">
-  <figcaption>Figure p. 282 : Testing Analyses Produits Biologie.</figcaption>
-</figure>
 
-Figure 63. réalisation d'un test colorimétrique (crédit:protestkit.eu)
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p282_figure_01_testing_analyses_produits_biologie.png" alt="Figure 63. Réalisation d'un test colorimétrique">
+  <figcaption>Figure 63. Réalisation d'un test colorimétrique.</figcaption>
+</figure>
 
 ##### Principe de fonctionnement
 
@@ -770,13 +764,11 @@ mais aussi présence de substances interférentes. Ces facteurs expliquent
 pourquoi les tests colorimétriques peuvent conduire à des interprétations
 erronées s’ils sont utilisés isolément ou sans protocole rigoureux.
 
-<figure class="doc-figure">
-  <img src="../05_assets_visuels/p282_figure_02_testing_analyses_produits_biologie.png" alt="Testing Analyses Produits Biologie">
-  <figcaption>Figure p. 282 : Testing Analyses Produits Biologie.</figcaption>
-</figure>
 
-Figure 64.
-Exemple du test de Ehrlich permettant de détecter du LSD.
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p282_figure_02_testing_analyses_produits_biologie.png" alt="Figure 64. Test de Ehrlich pour détecter le LSD">
+  <figcaption>Figure 64. Exemple du test de Ehrlich permettant de détecter du LSD.</figcaption>
+</figure>
 
 Le test d’Ehrlich repose sur la réaction du réactif (Jaune)
 avec le noyau indole qui est une structure chimique présente dans le LSD mais
@@ -851,20 +843,15 @@ d'améliorer la qualité de l'analyse. Un tableau comparatif montrant les
 résultats pour différentes substances avec trois tests distincts pourrait être
 utile pour évaluer la fiabilité des analyses.
 
-<figure class="doc-figure">
-  <img src="../05_assets_visuels/p284_figure_01_testing_analyses_produits_biologie.png" alt="Testing Analyses Produits Biologie">
-  <figcaption>Figure p. 284 : Testing Analyses Produits Biologie.</figcaption>
-</figure>
 
-Figure 65.Tableau de résultats des test colorimétriques pour plusieurs substances [408]
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p284_figure_01_testing_analyses_produits_biologie.png" alt="Figure 65. Résultats de tests colorimétriques">
+  <figcaption>Figure 65. Tableau de résultats des tests colorimétriques pour plusieurs substances.</figcaption>
+</figure>
 
 Cette technique présente
 plusieurs caractéristiques et limitations importantes :
 
-<figure class="doc-figure">
-  <img src="../05_assets_visuels/p285_figure_01_testing_analyses_produits_biologie.png" alt="Testing Analyses Produits Biologie">
-  <figcaption>Figure p. 285 : Testing Analyses Produits Biologie.</figcaption>
-</figure>
 
 -Elle est interdite aux
 associations de Réduction des Risques et des Dommages (RDR), mais il y a un
@@ -893,13 +880,11 @@ La chromatographie sur couche mince (CCM) est initialement
 conçue comme une méthode séparative, mais l'identification des composants d'un
 échantillon peut également être réalisée par divers moyens.
 
-<figure class="doc-figure">
-  <img src="../05_assets_visuels/p286_figure_01_testing_analyses_produits_biologie.png" alt="Testing Analyses Produits Biologie">
-  <figcaption>Figure p. 286 : Testing Analyses Produits Biologie.</figcaption>
-</figure>
 
-Figure 66.
-Exemple de chromatographie sur couche mince [409]
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p285_figure_01_testing_analyses_produits_biologie.png" alt="Figure 66. Chromatographie sur couche mince">
+  <figcaption>Figure 66. Exemple de chromatographie sur couche mince.</figcaption>
+</figure>
 
 Dans cette technique, une goutte du produit à analyser est
 déposée sur une plaque, laquelle est ensuite placée dans un bocal contenant un
@@ -917,13 +902,11 @@ identification, souvent compliquée par leur absence de couleur, nécessite des
 étapes supplémentaires. Par exemple, les composants invisibles peuvent être
 détectés à l'aide de lumière ultraviolette. (Des néons noirs)
 
-<figure class="doc-figure">
-  <img src="../05_assets_visuels/p286_figure_02_testing_analyses_produits_biologie.png" alt="Testing Analyses Produits Biologie">
-  <figcaption>Figure p. 286 : Testing Analyses Produits Biologie.</figcaption>
-</figure>
 
-Figure 67.
-CCM sous lumière ultraviolette [410]
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p286_figure_01_testing_analyses_produits_biologie.png" alt="Figure 67. CCM sous lumière ultraviolette">
+  <figcaption>Figure 67. CCM sous lumière ultraviolette.</figcaption>
+</figure>
 
 Ensuite, pour réussir à savoir quelle tache correspond à
 quelle molécule, il y a plusieurs moyens :
@@ -933,13 +916,11 @@ sur la plaque une fois sèche.
 
 - En utilisant des références.
 
-<figure class="doc-figure">
-  <img src="../05_assets_visuels/p287_figure_01_testing_analyses_produits_biologie.png" alt="Testing Analyses Produits Biologie">
-  <figcaption>Figure p. 287 : Testing Analyses Produits Biologie.</figcaption>
-</figure>
 
-Figure 68.
-Exemple de CMM d'échantillons de cocaïne
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p286_figure_02_testing_analyses_produits_biologie.png" alt="Figure 68. CCM d'échantillons de cocaïne">
+  <figcaption>Figure 68. Exemple de CCM d'échantillons de cocaïne.</figcaption>
+</figure>
 
 La figure illustre les chromatogrammes sur couche mince
 (CCM) de trois échantillons de cocaïne, dont l'objectif est d'identifier la
@@ -988,13 +969,11 @@ Les atomes sont liés entre eux par des liaisons ,
 chacune d'elles pouvant entrer en vibration lorsqu'elle est exposée à un
 rayonnement infrarouge précis.
 
-<figure class="doc-figure">
-  <img src="../05_assets_visuels/p288_figure_01_testing_analyses_produits_biologie.png" alt="Testing Analyses Produits Biologie">
-  <figcaption>Figure p. 288 : Testing Analyses Produits Biologie.</figcaption>
-</figure>
 
-Figure 69.
-Exemple de spectre infrarouge [411]
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p287_figure_01_testing_analyses_produits_biologie.png" alt="Figure 69. Spectre infrarouge">
+  <figcaption>Figure 69. Exemple de spectre infrarouge.</figcaption>
+</figure>
 
 Le principe de base consiste à diriger sur l'échantillon des
 rayonnements infrarouges à diverses fréquences et à observer quelles fréquences
@@ -1039,12 +1018,11 @@ molécules est leur temps de rétention dans la colonne chromatographique.
 À chaque sortie d'une molécule de la colonne, un pic est généré par le
 détecteur.
 
-<figure class="doc-figure">
-  <img src="../05_assets_visuels/p289_figure_01_testing_analyses_produits_biologie.png" alt="Testing Analyses Produits Biologie">
-  <figcaption>Figure p. 289 : Testing Analyses Produits Biologie.</figcaption>
-</figure>
 
-Figure 70.principe de fonctionnement de l'HPLC [412]
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p288_figure_01_testing_analyses_produits_biologie.png" alt="Figure 70. Principe de fonctionnement de l'HPLC">
+  <figcaption>Figure 70. Principe de fonctionnement de l'HPLC.</figcaption>
+</figure>
 
 À la sortie de la colonne chromatographique, un détecteur
 est installé (infrarouge, flamme, spectromètre de masse). Ce détecteur sert à
@@ -1060,12 +1038,11 @@ molécules identiques mais orientées différemment dans l'espace, à l'instar d
 mains gauche et droite. Par exemple, des substances comme la MDMA, le THC et la
 kétamine présentent ce type d’énantiomères.
 
-<figure class="doc-figure">
-  <img src="../05_assets_visuels/p290_figure_01_testing_analyses_produits_biologie.png" alt="Testing Analyses Produits Biologie">
-  <figcaption>Figure p. 290 : Testing Analyses Produits Biologie.</figcaption>
-</figure>
 
-Figure 71.Exemples d'énantiomères (Kétamine et MDMA)
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p289_figure_01_testing_analyses_produits_biologie.png" alt="Figure 71. Exemples d'énantiomères">
+  <figcaption>Figure 71. Exemples d'énantiomères (kétamine et MDMA).</figcaption>
+</figure>
 
 Bien que cette capacité à séparer les stéréoisomères puisse
 être de peu d'intérêt dans le contexte des associations de réduction des
@@ -1089,12 +1066,11 @@ est largement utilisée dans les laboratoires spécialisés, notamment dans le
 cadre du dispositif SINTES, en raison de sa sensibilité élevée et de sa capacité
 d’identification très précise .
 
-<figure class="doc-figure">
-  <img src="../05_assets_visuels/p290_figure_02_testing_analyses_produits_biologie.png" alt="Testing Analyses Produits Biologie">
-  <figcaption>Figure p. 290 : Testing Analyses Produits Biologie.</figcaption>
-</figure>
 
-Figure 72. Infographie sur le principe de fonctionnement de la spectrométrie de masse
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p290_figure_01_testing_analyses_produits_biologie.png" alt="Figure 72. Principe de fonctionnement de la spectrométrie de masse">
+  <figcaption>Figure 72. Infographie sur le principe de fonctionnement de la spectrométrie de masse.</figcaption>
+</figure>
 
 Le principe général de la spectrométrie de masse repose sur
 une idée simple : chaque molécule possède une “signature” propre lorsqu’elle
@@ -1104,13 +1080,11 @@ plusieurs morceaux plus petits. Ces fragments sont alors séparés en fonction d
 leur rapport masse/charge (m/z) à l’aide d’un champ électrique ou
 magnétique.
 
-<figure class="doc-figure">
-  <img src="../05_assets_visuels/p292_figure_01_testing_analyses_produits_biologie.png" alt="Testing Analyses Produits Biologie">
-  <figcaption>Figure p. 292 : Testing Analyses Produits Biologie.</figcaption>
-</figure>
 
-Figure 73.
-Exemple de spectre de masse pour la molécule de Lidocaïne [413]
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p290_figure_02_testing_analyses_produits_biologie.png" alt="Figure 73. Spectre de masse de la lidocaïne">
+  <figcaption>Figure 73. Exemple de spectre de masse pour la molécule de lidocaïne.</figcaption>
+</figure>
 
 Les fragments générés n’apparaissent pas au hasard. Une
 molécule donnée se fragmente toujours selon des schémas préférentiels liés à sa
@@ -1170,8 +1144,10 @@ Il n’y a rien à voir avec l’énergie nucléaire des
 centrales de production d’électricité ou de la bombe nucléaire, ici le terme «
 nucléaire » fait simplement référence au noyau de l’atome.
 
-Figure 74.
-Principe général de fonctionnement de la RMN et de l'IRM
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p292_figure_01_testing_analyses_produits_biologie.png" alt="Figure 74. Fonctionnement de la RMN et de l'IRM">
+  <figcaption>Figure 74. Principe général de fonctionnement de la RMN et de l'IRM.</figcaption>
+</figure>
 
 Ces noyaux s’orientent dans le champ magnétique principal.
 Un second champ magnétique, dont l’intensité est variée et perpendiculaire va
