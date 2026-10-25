@@ -133,7 +133,7 @@ sup.sep{font-size:65%; color:var(--orange)}
 [data-fil]{string-set:fil attr(data-fil)}
 .no{color:var(--orange); font-weight:800; margin-right:.15em}
 h2.chap .no{color:var(--orange)}
-.pagedjs_margin-top{grid-template-columns:36% 0 64% !important}
+.pagedjs_margin-top{grid-template-columns:max-content 0 1fr !important}
 .pagedjs_margin-top-left,.pagedjs_margin-top-right{overflow:hidden}
 .pagedjs_margin-top-left .pagedjs_margin-content{white-space:nowrap; overflow:hidden; text-overflow:ellipsis}
 .pagedjs_margin-top-right .pagedjs_margin-content{white-space:nowrap; overflow:hidden; text-overflow:ellipsis}

@@ -11,6 +11,7 @@ Usage : python3 build_html.py prep.html traite.html [corrections.tsv]
 - corrections.tsv : corrections d'orthographe et de grammaire (avant<TAB>après).
 """
 import json, os, re, sys
+import fitz
 from bs4 import BeautifulSoup, NavigableString, Tag
 
 SRC, OUT = sys.argv[1:3]
@@ -151,7 +152,10 @@ for t in soup.find_all(string=re.compile(r"\[\[SCHEMA:[\w-]+\]\]")):
         new = BeautifulSoup('<div class="schema-a-faire">Schéma Word à reprendre (%s)</div>' % sid, "html.parser")
     holder.replace_with(new)
 
-# 6. Titres : structure et pseudo-titres
+# 6. Titres : structure et pseudo-titres (un titre vide dans le Word est retiré)
+for h in soup.find_all(["h1", "h2", "h3", "h4", "h5", "h6"]):
+    if not h.get_text(strip=True) and not h.find("img"):
+        h.decompose()
 PUNCT = re.compile(r"[.;,…:]\s*$")
 def pseudo_title(p):
     if p.name != "p" or p.find_parent(["td", "th", "li", "blockquote", "figure"]) or "encadre" in " ".join(
@@ -275,7 +279,30 @@ for f, rep in remplacements.items():
 # 9. Numérotation A, A.1, A.1.4 et fil d'Ariane des en-têtes :
 #    à gauche la partie, à droite chapitre › section (data-partie, data-fil)
 full = BeautifulSoup(html, "html.parser")
-lettre, chap, sec, fil_chap = None, 0, 0, ""
+lettre, chap, sec, fil_chap, partie = None, 0, 0, "", ""
+_ttf = {k: fitz.Font(fontfile=os.path.join(HERE, "polices", "Poppins-%s.ttf" % k)) for k in ("SemiBold", "ExtraBold")}
+
+
+def largeur(texte, police, espacement):
+    """Largeur en mm d'un texte d'en-tête (7,5 pt, espacement des lettres en em)."""
+    return (_ttf[police].text_length(texte, 7.5) + 7.5 * espacement * len(texte)) * 25.4 / 72
+
+
+def ajuste(fil):
+    """Raccourcit le fil d'Ariane de droite pour qu'il tienne à côté de la partie (corps de 168 mm) :
+    on coupe d'abord le titre du chapitre, puis celui de la section."""
+    place = 168 - 6 - largeur(partie.upper(), "ExtraBold", .1)
+    if largeur(fil, "SemiBold", .06) <= place:
+        return fil
+    morceaux = fil.split("  ›  ")
+    for k in range(len(morceaux)):
+        no, _, titre = morceaux[k].partition(" ")
+        while titre and largeur("  ›  ".join(morceaux), "SemiBold", .06) > place:
+            titre = titre.rsplit(" ", 1)[0] if " " in titre else ""
+            morceaux[k] = "%s %s…" % (no, titre) if titre else no
+        if largeur("  ›  ".join(morceaux), "SemiBold", .06) <= place:
+            break
+    return "  ›  ".join(morceaux)
 for h in full.find_all(["h1", "h2", "h3"]):
     if h.find_parent("section", class_="sommaire"):
         continue
@@ -292,7 +319,7 @@ for h in full.find_all(["h1", "h2", "h3"]):
         for k, sp in enumerate(h.find_parent("section").select(".toc span")):
             sp.string = "%s.%d" % (lettre, k + 1)
         prefix(lettre + " ·")
-        h["data-partie"] = "Partie %s – %s" % (lettre, titre)
+        partie = h["data-partie"] = "Partie %s – %s" % (lettre, titre)
         h["data-fil"] = ""
     elif h.name == "h1":
         h["data-partie"] = ""
@@ -306,7 +333,7 @@ for h in full.find_all(["h1", "h2", "h3"]):
         prefix(no)
         h["data-num"] = "PARTIE %s" % lettre
         fil_chap = "%s %s" % (no, titre)
-        h["data-fil"] = fil_chap
+        h["data-fil"] = ajuste(fil_chap)
     else:
         nxt = h.find_next(["h1", "h2"])
         if not chap and nxt is not None and nxt.name == "h2":
@@ -316,7 +343,7 @@ for h in full.find_all(["h1", "h2", "h3"]):
         sec += 1
         no = "%s.%d.%d" % (lettre, chap, sec) if chap else "%s.%d" % (lettre, sec)
         prefix(no)
-        h["data-fil"] = ("%s  ›  %s %s" % (fil_chap, no, titre)) if fil_chap else "%s %s" % (no, titre)
+        h["data-fil"] = ajuste(("%s  ›  %s %s" % (fil_chap, no, titre)) if fil_chap else "%s %s" % (no, titre))
 # 10. Légendes : les numéros Word (champs SEQ) sont perdus à la conversion, on renumérote dans l'ordre du livre
 cpt = {"Figure": 0, "Tableau": 0}
 for leg in full.find_all(["figcaption", "p", "div"]):
