@@ -1,5 +1,5 @@
 import re, sys, fitz
-SRC, COVER, OUT = sys.argv[1:4]
+SRC, COVER, VERSION, OUT = sys.argv[1:5]
 FONT = "/usr/share/fonts/truetype/crosextra/Carlito-BoldItalic.ttf"
 d = fitz.open(SRC)
 
@@ -32,7 +32,9 @@ redact = {
     330: blocks(330, lambda t, b: any(t.startswith(s) for s in (
         "Pourquoi le cancer tue", "En soit des cellules", "Cancer malin", "Les types les classification"))),
     331: blocks(331, lambda t, b: "Regarder le doc du CIRC" in t),
+    295: blocks(295, lambda t, b: t.strip().startswith(("Voir EM consult", "Préciser role"))),  # notes de "La descente"
 }
+redact[2].extend(blocks(2, lambda t, b: t.strip().startswith("David Devesa")))  # signature de la dédicace
 # 3. En-têtes de page faux sur les premières pages et en début de chapitre
 headers = {**{p: "" for p in (2, 3, 4)}, **{p: "Sommaire" for p in (5, 6, 7)},
            8: "Sommaire  /  Remerciements", **{p: "Introduction" for p in range(9, 17)},
@@ -57,19 +59,33 @@ for pn, txt in headers.items():
         w = fitz.get_text_length(txt, fontname="cbi", fontfile=FONT, fontsize=9) if False else fitz.Font(fontfile=FONT).text_length(txt, 9)
         page.insert_text(((page.rect.width - w) / 2, 34.2), txt, fontname="cbi", fontsize=9)
 
+# Textes de remplacement (Calibri ~ Carlito, mêmes métriques)
+REGULAR = "/usr/share/fonts/truetype/crosextra/Carlito-Regular.ttf"
+ITALIC = "/usr/share/fonts/truetype/crosextra/Carlito-Italic.ttf"
+for pn, txt, x, y, size, font, color in (
+        (2, "@risky.asso", None, 754.5, 13, REGULAR, (0x44 / 255, 0x72 / 255, 0xC4 / 255)),
+        (295, "Chapitre en cours d'écriture.", 57, 170.5, 11, ITALIC, (0, 0, 0))):
+    page = d[pn - 1]
+    page.insert_font(fontname="rep", fontfile=font)
+    if x is None:
+        x = (page.rect.width - fitz.Font(fontfile=font).text_length(txt, size)) / 2 + 3
+    page.insert_text((x, y), txt, fontname="rep", fontsize=size, color=color)
+
 # 4. Pages de fin vides ("Fiche des risques génériques" vide + page blanche)
 d.delete_pages(331, 332)
 
-# 5. Couverture à la place de la page "SUIVI"
-c = fitz.open(COVER)
+# 5. Couverture à la place de la page "SUIVI", page de version juste après ;
+#    la page blanche avant le sommaire est retirée pour garder la pagination
 d.delete_page(0)
-d.insert_pdf(c, start_at=0)
-toc[0:0] = [[1, "Couverture", 1], [1, "Sommaire", 5]]
+d.insert_pdf(fitz.open(COVER), start_at=0)
+d.insert_pdf(fitz.open(VERSION), start_at=1)
+d.delete_page(4)
+toc[0:0] = [[1, "Couverture", 1], [1, "Version et parties en cours", 2], [1, "Sommaire", 5]]
 d.set_toc(toc)
 
 d.set_metadata({
     "title": "Traité de réduction des risques liés aux drogues – Tome 1",
-    "author": "David Devesa Velasco (association RISKY)",
+    "author": "Association RISKY (@risky.asso)",
     "subject": "Bases de connaissances et risques génériques. Lire en ligne : traiterdr.netlify.app",
     "keywords": "réduction des risques, RDR, drogues, substances psychoactives, santé, RISKY",
     "creator": "Microsoft Word, retouches RISKY", "producer": "PyMuPDF",

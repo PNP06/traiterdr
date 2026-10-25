@@ -6,7 +6,7 @@ La version PDF est la version complète du traité, à télécharger et à garde
   <div>
     <h2>Télécharger le traité</h2>
     <p>Ouvre ou télécharge le PDF complet pour le lire hors ligne, le partager ou le conserver.</p>
-    <p class="meta">Tome 1 · 331 pages · 12,9 Mo · version d'octobre 2026</p>
+    <p class="meta">Tome 1 · version 0.9 (octobre 2026) · 331 pages · 13 Mo · certaines parties sont encore en cours d'écriture</p>
   </div>
   <div class="pdf-download-actions">
     <a href="/traite-rdr.pdf" download>Télécharger le PDF</a>
