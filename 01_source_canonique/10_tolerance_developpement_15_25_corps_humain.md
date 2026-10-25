@@ -19,7 +19,6 @@ car ils ont des implications différentes pour le diagnostic et le traitement.
 Tolérance = diminution de
 l’effet de la substance par l’adaptation de l’organisme
 
-
 Dépendance=
 C’est un besoin vital de reprendre une substance , cette notion est
 développée dans la partie sur l’addiction.
@@ -41,14 +40,12 @@ neurotransmetteurs sont envoyés par le neurone 1 au neurone 2. En cas de
 surstimulation, une mort cellulaire du neurone 2 peut survenir; plusieurs
 moyens de protection sont donc employés par ce dernier.
 
-
 <figure class="doc-figure">
   <img src="../05_assets_visuels/p115_figure_01_tolerance_developpement_15_25_corp.png" alt="Figure 18. Schéma des mécanismes de tolérance">
   <figcaption>Figure 18. Schéma des mécanismes de tolérance.</figcaption>
 </figure>
 
 Voici les principaux :
-
 
 1.
  Cacher(internalisé) –
@@ -269,7 +266,6 @@ Tolérances :
 (Tachyphylaxie) : Apparaît rapidement à chaque prise et est généralement
 constante d'un consommateur à l'autre.
 
--
  Tolérance Longue (Accoutumance) : Se développe sur des prises répétées
 et persiste dans le temps. Elle est la cause principale des syndromes de
 sevrage pour certaines drogues. Cette tolérance varie selon les
@@ -383,11 +379,9 @@ spécifique. Cependant, il existe aussi des systèmes plus vastes qui ne se
 limitent pas seulement au cerveau, mais qui exercent leur influence sur l'ensemble
 du corps.
 
--Parmi ceux-ci, il y a le système
+Parmi ceux-ci, il y a le système
 nerveux et le système endocannabinoïde. Ces systèmes étendus jouent un rôle
 essentiel dans l'orchestration de divers processus biologiques.
-
--
 
 ### Le système nerveux
 
@@ -483,9 +477,9 @@ Les drogues agissant sur le
 système nerveux sympathique causent des effets secondaires dont deux risques
 majeurs :
 
--hyperthermie
+- hyperthermie
 
--trouble
+- trouble
 cardiaque
 
 Il existe un risque d’interaction

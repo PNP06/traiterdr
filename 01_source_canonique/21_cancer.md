@@ -65,7 +65,6 @@ ingrédients) sont produites en suivant ces instructions.
   <figcaption>Schéma p. 328. Dommage cellulaire, réparation, élimination immunitaire ou évolution possible vers un cancer.</figcaption>
 </figure>
 
-
 L'appréciation du risque de cancer s'avère être compliquée.
 Pour illustrer cette complexité, prenons l'exemple de l'alcool. À partir d'une
 dose spécifique (environ 5g/l pour une personne sans tolérance) un arrêt
@@ -137,7 +136,6 @@ les particules et les substances étrangères. Cependant, l'inhalation de fumée
 peut altérer cette fonction, permettant aux particules cancérigènes de
 s'accumuler et d'endommager les cellules.
 
-
 S’il
 y a combustion il y a risque cancérigène (Cannabis, tabac, etc)
 
@@ -193,13 +191,10 @@ Pour chercher a comparer la probabilité de développer un
 cancer entre deux facteurs il faut regarder les risques relatifs.
 
 <!-- Notes de travail de l'auteur, masquées sur le site :
-è Regarder le doc du
+→ Regarder le doc du
 CIRC qui détail les RR
 
 – Fiche des
 risques génériques—
 
--
-
--
 -->

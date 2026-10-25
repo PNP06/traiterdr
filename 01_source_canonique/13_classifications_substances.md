@@ -23,9 +23,7 @@ nécessaire de prendre en compte plusieurs facteurs tels que leur mécanisme
 d'action sur le cerveau et le corps, leur potentiel addictif, leur dangerosité,
 la dose efficace, et bien plus encore, en plus de leurs effets subjectifs.
 
--
-
--Il est important de souligner qu'aucune classification
+Il est important de souligner qu'aucune classification
 basée uniquement sur les effets des drogues n'est universellement acceptée, car
 les effets peuvent varier en fonction des individus et des circonstances, et
 que certains mécanismes d'action peuvent être complexes.
@@ -81,7 +79,6 @@ précis, le terme de perturbateur est utilisé.
 
 ### Classification générale de Derek Snider
 
-
 <figure class="doc-figure">
   <img src="../05_assets_visuels/p160_figure_01_classifications_substances.png" alt="Figure 33. Classification simplifiée de Derek Snider">
   <figcaption>Figure 33. Classification simplifiée de Derek Snider.</figcaption>
@@ -120,7 +117,6 @@ traitement de Diazépam, les effets du LSD pourraient être atténués.
 
 La classification permet également d’avoir une
 première approche lors des poly consommation (prise de plusieurs substances).
-
 
 Dans
 une première approche :
@@ -177,7 +173,6 @@ et parfois « psychédéliques ».
 
 Pour mieux appréhender ces termes, il faut aller un peu plus
 loin dans la classification, et chercher des sous-familles :
-
 
 <figure class="doc-figure">
   <img src="../05_assets_visuels/p162_figure_01_classifications_substances.png" alt="Figure 34. Principales sous-familles de la classification de Derek Snider">
@@ -263,13 +258,11 @@ Dans les années 70 la guerre
 contre les drogues débute avec une règlementation de l’ONU, de la naîtra cette
 classification drogue dure et drogue douce.
 
--La notion de drogues douces et
+La notion de drogues douces et
 dures est souvent utilisée pour différencier les drogues. L’alcool, le cannabis
 et le tabac sont présentées comme des drogues moins « graves »
 (douces) par rapport à toutes les autres qui elles seraient « vraiment »
 dangereuses (fort potentiel addictif, forte potence etc.).
-
--
 
 Imaginons que la notion de drogue
 douce et dure est du sens : Est-ce que l’alcool, le tabac et le cannabis
@@ -498,7 +491,6 @@ tour des professeurs d’évaluer les élèves. Voici les résultats d’analyse
 20 substances par des experts du Comité Scientifique Indépendant sur les
 Drogues [[255]](/references#ref-255) .
 
-
 <figure class="doc-figure">
   <img src="../05_assets_visuels/p168_figure_01_classifications_substances.png" alt="Figure 35. Classement Royaume-Uni selon David Nutt">
   <figcaption>Figure 35. Classement Royaume-Uni (UK), étude David Nutt.</figcaption>
@@ -536,7 +528,6 @@ Le but ici n’est pas de
 conseiller les politiques. Nous allons surtout nous intéresser aux dommages
 individuels et laisser les aspects sociétaux de côté. Voici donc la
 classification par rapport aux dommages individuels uniquement.
-
 
 <figure class="doc-figure">
   <img src="../05_assets_visuels/p169_figure_01_classifications_substances.png" alt="Figure 36. Classement par dommages pour soi uniquement">
@@ -588,21 +579,21 @@ La dichotomie drogue dure, drogue douce en plus d’être
 fausse est dangereuse puisqu’elle [[258]](/references#ref-258)
 :
 
--Stigmatise les consommateurs de drogues illégales, et
+- Stigmatise les consommateurs de drogues illégales, et
 participe activement à instaurer une toxicophobie,
 
--Minimise les risques liés aux usages des drogues
+- Minimise les risques liés aux usages des drogues
 socialement acceptées,
 
--Retarde la détection et la prise en charge des addictions
+- Retarde la détection et la prise en charge des addictions
 aux drogues socialement plus acceptées : alcool, cannabis et tabac
 principalement,
 
--A retardé la prise en charge médico-sociale adéquate des
+- A retardé la prise en charge médico-sociale adéquate des
 personnes toxicomanes, en distinguant jusqu’en 2014 les structures de soins et
 prise en charge des alcooliques et usagers d’autres drogues,
 
--Perpétue des idées reçues et retarde l’évolution de la
+- Perpétue des idées reçues et retarde l’évolution de la
 société et des règlementations en matière de stupéfiants.
 
 Ce n’est pas la substance
@@ -620,19 +611,19 @@ risques, cette classification permet d’avoir une première vision générale
 des dommages qui peuvent être causés . Par exemple, quelqu’un qui consomme
 de la cocaïne peut identifier qu’il risque :
 
--une mortalité spécifique
+- une mortalité spécifique
 (overdose)
 
--mais pourra en mourir pour une
+- mais pourra en mourir pour une
 raison indirecte (problème cardiovasculaire, accident),
 
--des maladies (hépatites à cause
+- des maladies (hépatites à cause
 de la prise par exemple),
 
--une dépendance (deux fois plus
+- une dépendance (deux fois plus
 qu’avec l’alcool mais deux fois moins que le tabac),
 
--des troubles psychologiques et
+- des troubles psychologiques et
 sociaux.
 
 Il est aussi possible de comparer des substances entre elles.
@@ -652,9 +643,7 @@ devient possible d'appréhender visuellement des sous-catégories. En effet, la
 taille de chaque critère est représentée dans un graphique à barres, facilitant
 ainsi la compréhension de divers aspects tels que la dépendance.
 
--
-
--D'autres systèmes de
+D'autres systèmes de
 classification offrent la possibilité de se concentrer sur des aspects
 spécifiques qui n'ont pas été abordés ou d'examiner certains détails plus en
 profondeur. Parmi les différentes classifications présentées, on peut citer :

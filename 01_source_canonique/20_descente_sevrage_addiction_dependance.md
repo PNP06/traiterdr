@@ -22,7 +22,6 @@ chimique par exemple. D’ailleurs, d’un point de vue collectif, la consommati
 à risque sans addiction cause davantage de dommages que l’addiction en termes
 de maladie et mortalité [[414]](/references#ref-414) .
 
-
 Il faut décorréler
 addiction et toxicité.
 
@@ -106,7 +105,6 @@ La question se pose alors : quelle est la différence
 essentielle ? Pour y répondre, il est d'abord nécessaire d'adopter une approche
 générale et simplifiée avant de se pencher sur les détails spécifiques.
 
-
 Il n’existe plus de
 différence entre dépendance physique et psychologique.
 
@@ -128,7 +126,6 @@ du sens aux termes liés à l’addiction, en donnant une vision simple et globa
 La tolérance se constate que lors de la prise répétée
 de produit. Or, la répétition de prise de drogue est caractéristique l’addiction.
 Souvent, dans le langage courant, il y a confusion.
-
 
 | Dans une approche simpliste des différents termes , <br> voici les étapes : <br> 1. <br> Je commence à fumer <br> 2. <br> J’ai une crise de craving , comme une énorme soif <br> 3. <br> J’en reprends, je m’habitue au geste : je développe une dépendance <br> 4. <br> À force d’en prendre, j’ai une tolérance : je dois en <br> prendre de plus en plus pour avoir les mêmes effets, <br> 5. Je <br> tousse, je n’ai plus les mêmes performances qu’avant, mais je n’arrive plus à <br> m’arrêter. J’ai besoin d’en prendre pour ne pas me sentir mal. J’ai <br> développé une addiction. |
 | --- |
@@ -163,12 +160,10 @@ l'importance d'une approche clinique et thérapeutique .
 
 Cela se voit même en imagerie médicale (cf. ci-dessous).
 
-
 <figure class="doc-figure">
   <img src="../05_assets_visuels/p297_figure_01_descente_sevrage_addiction_dependa.png" alt="Figure 75. Cerveau sain et cerveau addict à la cocaïne">
   <figcaption>Figure 75. Gauche : cerveau sain ; droite : cerveau addict à la cocaïne.</figcaption>
 </figure>
-
 
 Oui,
 l’addiction est une maladie. Les termes utilisés sont trouble psychiatrique, trouble
@@ -193,8 +188,6 @@ visionnaient des extraits de film, certains passages sans drogue et d’autre
 avec (Scareface : scène de « vous voulez jouer à la
 vache ? »). Pour les anciens addicts, la vue de la drogue leur
 donnait envie, malgré leur sevrage.
-
-
 
 <figure class="doc-figure">
   <img src="../05_assets_visuels/p298_figure_01_descente_sevrage_addiction_dependa.png" alt="Figure 76. Amygdale suractivée face à une vidéo avec drogue">
@@ -232,7 +225,6 @@ Prenons le cas de du tabac, qui est autant addictogène que
 le crack. Certains arrivent à fumer occasionnellement et pas d’autres : la
 substance elle-même ne suffit pas à expliquer l’addiction.
 
-
 <figure class="doc-figure">
   <img src="../05_assets_visuels/p299_figure_01_descente_sevrage_addiction_dependa.png" alt="Figure 77. L'approche PIE">
   <figcaption>Figure 77. L'approche PIE, extrait du traité d'addictologie (2016).</figcaption>
@@ -242,7 +234,6 @@ C’est le produit de ces trois facteurs qui conduit à
 l’addiction. Dans le cas des drogues légales (alcool et tabac), les
 facteurs de risques liés au produit et à l’environnement sont colossaux, pour
 autant, tous les consommateurs ne sont pas addicts.
-
 
 L’addiction ne peut être
 expliquée que par une cause, il y a forcément une composante individuelle, une
@@ -260,7 +251,6 @@ Les facteurs sont le
 développement (l’enfance-adolescence), le comportement (caractère),
 l’environnement, le facteur génétique et le facteur neurobiologique. Ici
 aussi, un seul facteur ne suffit pas à expliquer l’addiction .
-
 
 <figure class="doc-figure">
   <img src="../05_assets_visuels/p300_figure_01_descente_sevrage_addiction_dependa.png" alt="Figure 78. Les cinq facteurs de risque de Karila">
@@ -305,7 +295,6 @@ le traité avec des substances.
 
 C’est là un élément important :
 
-
 Le
 traitement de l’addiction n’est pas uniquement l’arrêt du comportement
 addictif, mais également le traitement de sa cause profonde.
@@ -345,7 +334,6 @@ Ce sont des facteurs de risques, mais
 également de protections. Si j’ai une prédisposition génétique à l’addiction,
 mais que je n’ai pas eu d’abus de substance durant ma maturation cérébrale, je
 me protège sur long terme.
-
 
 Pour être addict, il faut
 que les 5 facteurs soient déséquilibrés . Une seule case n’explique pas
@@ -448,7 +436,6 @@ plus prononcée que le simple comptage du nombre de cigarettes consommées.
 L'évaluation par le professionnel de santé se concentre principalement sur les
 conséquences de cette consommation sur la vie quotidienne du patient.
 
-
 Le trouble de l’usage est
 une maladie. Quels que soient votre score et l’objet de votre addiction, si
 vous n’êtes pas à l’aise : n’hésitez pas à faire le point avec un
@@ -476,7 +463,6 @@ Figure 79. De l’usage simple à l’addiction : une notion de plaisir et de do
 
 Une façon plus simple d’aborder cette idée est par un
 graphique.
-
 
 <figure class="doc-figure">
   <img src="../05_assets_visuels/p303_figure_01_descente_sevrage_addiction_dependa.png" alt="Figure 80. De l'usage à l'addiction">
@@ -1302,16 +1288,16 @@ dans l’évaluation du risque lié à cette activité.
 
 Trois niveaux de risques peuvent être choisis :
 
--1 mort pour 1 million de consommateurs, cela
+- 1 mort pour 1 million de consommateurs, cela
 permettrait d’être en phase avec les autres risques gérés par les autorités
 sanitaires, cette option a été exclue, car cela se rapproche d’une consommation
 proche de 0,
 
--1 mort pour 1000 consommateurs, qui semble être le
+- 1 mort pour 1000 consommateurs, qui semble être le
 niveau de risque accepté par la population lorsqu’elle est libre de s’exposer,
 cela correspond à la première ligne rouge dans les graphiques précédents
 
--1 mort pour 100 consommateurs, qui n’est pas en
+- 1 mort pour 100 consommateurs, qui n’est pas en
 cohérence avec les autres risques, mais qui a été pris en référence dans
 d’autres pays pour l’alcool, cela correspond à la première ligne rouge dans les
 graphiques précédents.

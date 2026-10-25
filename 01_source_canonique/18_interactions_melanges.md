@@ -27,7 +27,6 @@ priorités doit être la sensibilisation aux interactions. Pour bien comprendre
 les interactions, il est important d’avoir lu la partie sur le métabolisme des
 drogues.
 
-
 Il
 est également important de comprendre que ces interactions ne se limitent pas
 aux substances psychoactives. Les aliments, les huiles essentielles,
@@ -159,7 +158,6 @@ Ce phénomène de rebond peut entraîner des
 comportements à risque, une surconsommation d’alcool ou même une intoxication
 sévère, car les effets dépressifs sont retardés mais pas annulés.
 
-
 <figure class="doc-figure">
   <img src="../05_assets_visuels/p252_figure_01_interactions_melanges.png" alt="Tableau 40. Illustration de l'effet rebond alcool et cocaïne">
   <figcaption>Tableau 40. Illustration de l'effet rebond (alcool et cocaïne).</figcaption>
@@ -185,7 +183,6 @@ de substances peut transformer un usage jugé « acceptable » en une situation
 d’urgence médicale. Comprendre ces interactions, anticiper leurs risques et
 savoir comment les gérer (comme l’utilisation des antidotes) est essentiel pour
 prévenir les complications graves liées à la polyconsommation.
-
 
 Les
 substances peuvent se potentialiser et une dose acceptable peut devenir dangereuse.
@@ -303,7 +300,6 @@ dans la métabolisation des médicaments [[376]](/references#ref-376)
 
 Plusieurs points peuvent être dégagés de ce tableau :
 
-
 Le
 métabolisme varie d’une personne à l’autre. NOUS NE SOMME PAS EGAUX
 
@@ -384,7 +380,6 @@ Cela va être le cas avec l’alcool. Globalement, l’alcool est
 en majorité métabolisé par deux enzymes spécialisées : l’ADH et l’ALD. Mais
 il y a aussi les CYP2E1.
 
-
 <figure class="doc-figure">
   <img src="../05_assets_visuels/p256_figure_01_interactions_melanges.png" alt="Figure 55. Métabolisation de l'alcool par les cytochromes">
   <figcaption>Figure 55. Métabolisation de l'alcool par les cytochromes.</figcaption>
@@ -426,7 +421,6 @@ paracétamol est peu métabolisé par le CYP2E1.
 Donc, lors d’une consommation régulière d’alcool ou d’une
 consommation importante, la quantité de CYP2E1 augmente, en cas de prise de
 paracétamol il y a un risque de nécrose hépatique plus important .
-
 
 La
 consommation importante ou chronique d’alcool peut rendre toxique la prise de
@@ -486,7 +480,6 @@ Par ailleurs, la caféine est souvent utilisée comme marqueur
 pour évaluer l'activité de l'enzyme CYP1A2 dans un cadre clinique ou de
 recherche (Perera et al., 2012).
 
-
 Arrêter
 de fumer (même en passant à la cigarette électronique) change le
 métabolisme : il faut en parler à un médecin
@@ -528,7 +521,6 @@ pas immédiatement. Quelques jours après le début de la prise, une augmentatio
 progressive de l’activité enzymatique est observée. De plus, cet effet persiste
 environ une semaine après l’arrêt du millepertuis, nécessitant une attention
 particulière lors de l’interruption du traitement.
-
 
 Les
 produits naturels peuvent également causer des interactions !

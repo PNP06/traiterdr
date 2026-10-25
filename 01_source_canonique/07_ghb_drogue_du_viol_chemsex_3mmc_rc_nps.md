@@ -143,7 +143,6 @@ c’est faux : 12h dans les urines et 10h dans le sang [[136]](/references#ref-1
  et surtout ce n’est pas le cas des cheveux où les traces peuvent être
 détectées très longtemps après [[137]](/references#ref-137) !
 
-
 En somme,
 le GHB est un médicament détourné, qui est majoritairement utilisé pour ses
 effets récréatifs.
@@ -196,10 +195,10 @@ y a consacré le premier épisode de sa chaine Youtube ou l’association
 « Cette image médiatique (ghb=drogue
 du viol) très forte est dangereuse pour 2 raisons :
 
--Elle crée un climat de méfiance voire de paranoïa entre
+- Elle crée un climat de méfiance voire de paranoïa entre
 les gens notamment en club où la drogue est plus présente.
 
--Elle désigne un bouc-émissaire chimique bien
+- Elle désigne un bouc-émissaire chimique bien
 pratique pour tous les autres produits. »
 
 ## Chemsex, usage sexualisé des drogues et 3-MMC
@@ -370,7 +369,6 @@ l’arrêté antidrogue.
 ##### Exemple : le 1cp-LSD
 
 Prenons un des RC du LSD : le 1cp-LSD
-
 
 <figure class="doc-figure">
   <img src="../05_assets_visuels/p097_figure_01_ghb_drogue_du_viol_chemsex_3_mmc_r.png" alt="Schéma p. 97. Structure du LSD">

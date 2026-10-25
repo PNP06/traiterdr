@@ -49,7 +49,6 @@ temporaire de la consommation d'alcool sont nombreux, notamment une
 amélioration de la santé physique et mentale, une réduction des risques de
 maladies liées à l'alcool, et des économies financières.
 
-
 <figure class="doc-figure">
   <img src="../05_assets_visuels/p052_figure_01_alcool_tabac_sante_publique_prix.png" alt="Tableau 1. Bénéfices rapportés par les participants au Dry January">
   <figcaption>Tableau 1. Bénéfices rapportés par les participants au Dry January d’après des enquêtes en ligne en 2018 (INSERM).</figcaption>
@@ -72,15 +71,12 @@ est un facteur clé de la réussite de ces campagnes et même les participants
 qui ne réussissent pas le défi de l'abstinence pendant un mois peuvent
 présenter des effets bénéfiques à long terme.
 
-
 Il y a
 donc un intérêt individuel à entreprendre cette démarche, en particulier
 pour :
 
--
 Analyser sa propre relation à l’alcool,
 
--
 Tirer rapidement des bénéfices concrets de l’expérience.
 
 ### Effet sur la santé publique
@@ -543,7 +539,6 @@ contextes économiques.
 
 ## Boire un verre de vin est bon pour la santé
 
-
 La
 réponse simple est : NON. L’expertise collective de l’INSERM [[50]](/references#ref-50) de 2021
 l’explique [[51]](/references#ref-51) ,
@@ -591,7 +586,6 @@ C'est possible de le faire avec tout et n’importe quoi.
 Par exemple, il est possible de corréler le nombre de
 suicides par strangulation et le budget alloué à la science, l’espace et la
 technologie aux USA.
-
 
 <figure class="doc-figure">
   <img src="../05_assets_visuels/p062_figure_01_alcool_tabac_sante_publique_prix.png" alt="Figure 3. Corrélation entre suicide et budget science et technologie des USA">
@@ -763,7 +757,6 @@ courbe en J
 
 Il y a bon nombre d’études observationnelles qui montrent
 une courbe en J.
-
 
 <figure class="doc-figure">
   <img src="../05_assets_visuels/p064_figure_01_alcool_tabac_sante_publique_prix.png" alt="Figure 4. Risque relatif de la consommation d’alcool pour les maladies cardiaques ischémiques">
@@ -992,14 +985,14 @@ boisson est la plus toxique ?
 Dans une première étape, les différences vont principalement
 être :
 
--La quantité d’eau,
+- La quantité d’eau,
 
--Les « congénères », ce sont les molécules
+- Les « congénères », ce sont les molécules
 parasites créées par les levures (méthanol, aldéhydes etc),
 
--La présence d’antioxydant,
+- La présence d’antioxydant,
 
--L’apport énergétique (sucre + éthanol)
+- L’apport énergétique (sucre + éthanol)
 
 #### La présence d’antioxydant (cas du vin)
 

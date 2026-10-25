@@ -49,17 +49,17 @@ augmentée à 450€ si le paiement intervient après 15 jours.
 
 Pour être éligible à cette amende, l'usager :
 
--ne doit avoir commis que le délit de consommation seule,
+- ne doit avoir commis que le délit de consommation seule,
 
--disposer d'une pièce d'identité,
+- disposer d'une pièce d'identité,
 
--n'être en possession que d'un seul type de drogue (la
+- n'être en possession que d'un seul type de drogue (la
 possession de plusieurs types de drogues indiquerait une polyconsommation, qui
 ne relève pas de ce cadre),
 
--ne pas être au volant,
+- ne pas être au volant,
 
--être majeur.
+- être majeur.
 
 Cette amende ne s'applique pas aux mineurs, qui sont parmi
 les plus vulnérables face à la consommation de drogues. Cela pousserait les

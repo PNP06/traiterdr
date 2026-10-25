@@ -26,7 +26,6 @@ Le test de produit va donc avoir deux objectifs :
   <figcaption>Schéma p. 269. Incertitudes sur la quantité et la qualité des produits.</figcaption>
 </figure>
 
-
 La qualité des drogues illégales constitue un facteur
 de risque important, principalement en raison de l’incertitude sur la teneur
 réelle en substance active . Cette méconnaissance peut augmenter le risque
@@ -398,7 +397,6 @@ relaxation, excitation, facilitation sociale) et des effets indésirables
 (nausées, étourdissements, maux de tête, hallucinations, réactions allergiques,
 hyperthermie, crampes abdominales, palpitations, irritabilité).
 
-
 <figure class="doc-figure">
   <img src="../05_assets_visuels/p275_figure_01_testing_analyses_produits_biologie.png" alt="Figure 59. Probabilité d'effet en fonction de la dose">
   <figcaption>Figure 59. Probabilité d'effet en fonction de la dose (Tibor Brunt et al.).</figcaption>
@@ -464,7 +462,6 @@ celui du paracétamol dans un comprimé de Doliprane . Le nom commercial ou
 la forme galénique ne modifie pas la molécule active, mais uniquement sa
 présentation et son mode de délivrance.
 
-
 <figure class="doc-figure">
   <img src="../05_assets_visuels/p277_figure_01_testing_analyses_produits_biologie.png" alt="Figure 60. MDMA en poudre versus taz">
   <figcaption>Figure 60. MDMA en poudre versus taz.</figcaption>
@@ -508,7 +505,6 @@ l’échelle européenne qu’en France. La hausse est constante depuis les ann�
 inférieures à 100 mg au début de la période, les valeurs moyennes dépassent
 désormais fréquemment 150 mg, avec un nombre croissant de comprimés atteignant
 ou dépassant les 180 à 200 mg.
-
 
 <figure class="doc-figure">
   <img src="../05_assets_visuels/p278_figure_01_testing_analyses_produits_biologie.png" alt="Figure 61. Augmentation de la teneur en MDMA des comprimés testés">
@@ -644,7 +640,6 @@ quantitative).
 Toute méthode analytique se caractérise par plusieurs
 paramètres fondamentaux, vulgarisé comme ceci :
 
-
 <figure class="doc-figure">
   <img src="../05_assets_visuels/p280_figure_01_testing_analyses_produits_biologie.png" alt="Figure 62. Paramètres d’analyse chimique">
   <figcaption>Figure 62. Infographie des paramètres d’analyse chimique.</figcaption>
@@ -738,7 +733,6 @@ modification de couleur adéquate aux réactions chimiques attendues indiquera u
 résultat positif. Ces tests se vendent sur internet, ils sont également
 utilisés dans les contrôles de police.
 
-
 <figure class="doc-figure">
   <img src="../05_assets_visuels/p282_figure_01_testing_analyses_produits_biologie.png" alt="Figure 63. Réalisation d'un test colorimétrique">
   <figcaption>Figure 63. Réalisation d'un test colorimétrique.</figcaption>
@@ -761,7 +755,6 @@ concentration du réactif, quantité de produit, temps de réaction, températur
 mais aussi présence de substances interférentes. Ces facteurs expliquent
 pourquoi les tests colorimétriques peuvent conduire à des interprétations
 erronées s’ils sont utilisés isolément ou sans protocole rigoureux.
-
 
 <figure class="doc-figure">
   <img src="../05_assets_visuels/p282_figure_02_testing_analyses_produits_biologie.png" alt="Figure 64. Test de Ehrlich pour détecter le LSD">
@@ -841,7 +834,6 @@ d'améliorer la qualité de l'analyse. Un tableau comparatif montrant les
 résultats pour différentes substances avec trois tests distincts pourrait être
 utile pour évaluer la fiabilité des analyses.
 
-
 <figure class="doc-figure">
   <img src="../05_assets_visuels/p284_figure_01_testing_analyses_produits_biologie.png" alt="Figure 65. Résultats de tests colorimétriques">
   <figcaption>Figure 65. Tableau de résultats des tests colorimétriques pour plusieurs substances.</figcaption>
@@ -850,15 +842,14 @@ utile pour évaluer la fiabilité des analyses.
 Cette technique présente
 plusieurs caractéristiques et limitations importantes :
 
-
--Elle est interdite aux
+- Elle est interdite aux
 associations de Réduction des Risques et des Dommages (RDR), mais il y a un
 vide juridique pour les particuliers,
 
--Elle est peu coûteuse,
+- Elle est peu coûteuse,
 rapide et simple à utiliser,
 
--Elle peut induire un faux
+- Elle peut induire un faux
 sentiment de confiance en raison de la possibilité de faux positifs. Des
 erreurs d'interprétation sont également possibles et la technique ne permet pas
 d'identifier des produits de coupe non recherchés.
@@ -868,7 +859,7 @@ réside dans les cas où le test est négatif , permettant ainsi de confirmer
 l'absence de la molécule recherchée ou de présumer de la présence de produit
 dangereux.
 
--Pour une analyse plus fine
+- Pour une analyse plus fine
 et fiable, il est recommandé de réaliser plusieurs tests sur le même
 échantillon.
 
@@ -877,7 +868,6 @@ et fiable, il est recommandé de réaliser plusieurs tests sur le même
 La chromatographie sur couche mince (CCM) est initialement
 conçue comme une méthode séparative, mais l'identification des composants d'un
 échantillon peut également être réalisée par divers moyens.
-
 
 <figure class="doc-figure">
   <img src="../05_assets_visuels/p285_figure_01_testing_analyses_produits_biologie.png" alt="Figure 66. Chromatographie sur couche mince">
@@ -900,7 +890,6 @@ identification, souvent compliquée par leur absence de couleur, nécessite des
 étapes supplémentaires. Par exemple, les composants invisibles peuvent être
 détectés à l'aide de lumière ultraviolette. (Des néons noirs)
 
-
 <figure class="doc-figure">
   <img src="../05_assets_visuels/p286_figure_01_testing_analyses_produits_biologie.png" alt="Figure 67. CCM sous lumière ultraviolette">
   <figcaption>Figure 67. CCM sous lumière ultraviolette.</figcaption>
@@ -913,7 +902,6 @@ quelle molécule, il y a plusieurs moyens :
 sur la plaque une fois sèche.
 
 - En utilisant des références.
-
 
 <figure class="doc-figure">
   <img src="../05_assets_visuels/p286_figure_02_testing_analyses_produits_biologie.png" alt="Figure 68. CCM d'échantillons de cocaïne">
@@ -967,7 +955,6 @@ Les atomes sont liés entre eux par des liaisons ,
 chacune d'elles pouvant entrer en vibration lorsqu'elle est exposée à un
 rayonnement infrarouge précis.
 
-
 <figure class="doc-figure">
   <img src="../05_assets_visuels/p287_figure_01_testing_analyses_produits_biologie.png" alt="Figure 69. Spectre infrarouge">
   <figcaption>Figure 69. Exemple de spectre infrarouge.</figcaption>
@@ -1016,7 +1003,6 @@ molécules est leur temps de rétention dans la colonne chromatographique.
 À chaque sortie d'une molécule de la colonne, un pic est généré par le
 détecteur.
 
-
 <figure class="doc-figure">
   <img src="../05_assets_visuels/p288_figure_01_testing_analyses_produits_biologie.png" alt="Figure 70. Principe de fonctionnement de l'HPLC">
   <figcaption>Figure 70. Principe de fonctionnement de l'HPLC.</figcaption>
@@ -1035,7 +1021,6 @@ nombreuses drogues contiennent en réalité des énantiomères, qui sont des
 molécules identiques mais orientées différemment dans l'espace, à l'instar des
 mains gauche et droite. Par exemple, des substances comme la MDMA, le THC et la
 kétamine présentent ce type d’énantiomères.
-
 
 <figure class="doc-figure">
   <img src="../05_assets_visuels/p289_figure_01_testing_analyses_produits_biologie.png" alt="Figure 71. Exemples d'énantiomères">
@@ -1064,7 +1049,6 @@ est largement utilisée dans les laboratoires spécialisés, notamment dans le
 cadre du dispositif SINTES, en raison de sa sensibilité élevée et de sa capacité
 d’identification très précise .
 
-
 <figure class="doc-figure">
   <img src="../05_assets_visuels/p290_figure_01_testing_analyses_produits_biologie.png" alt="Figure 72. Principe de fonctionnement de la spectrométrie de masse">
   <figcaption>Figure 72. Infographie sur le principe de fonctionnement de la spectrométrie de masse.</figcaption>
@@ -1077,7 +1061,6 @@ ionisée, c’est-à-dire chargée électriquement. Elle est ensuite fragmentée
 plusieurs morceaux plus petits. Ces fragments sont alors séparés en fonction de
 leur rapport masse/charge (m/z) à l’aide d’un champ électrique ou
 magnétique.
-
 
 <figure class="doc-figure">
   <img src="../05_assets_visuels/p290_figure_02_testing_analyses_produits_biologie.png" alt="Figure 73. Spectre de masse de la lidocaïne">

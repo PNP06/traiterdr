@@ -127,15 +127,15 @@ diminue considérablement les chances de prouver l’agression. Si les
 victimes pensent que la drogue utilisée est du GHB et qu’elles croient qu’il
 n’est pas détectable, elles penseront qu’il est inutile de faire des tests.
 
-è Les résultats sont
+→ Les résultats sont
 écrasants : les médicaments sont les principaux produits utilisés pour
 les actes de soumission chimique.
 
-è En ce qui concerne les
+→ En ce qui concerne les
 drogues, si le GHB a la réputation d’être la drogue du viol, la MDMA ou
 l’alcool devraient aussi l’avoir .
 
-è En termes de prévention ,
+→ En termes de prévention ,
 se focaliser sur le GHB est une erreur et conduit à une perte de chance pour les
 victimes , qui penseront, à tord que la substance n’est pas mesurable et
 donc qu’il n’y a pas de preuve
@@ -212,11 +212,11 @@ L’idée
 n’est pas de culpabiliser les victimes. L’objectif est de prendre conscience
 de deux points :
 
-è La prise de drogue
+→ La prise de drogue
 (comprenant l’alcool) n’est pas une activité anodine. Cela nous rend plus
 fragiles, plus vulnérables ;
 
-è Il y a plus de chance
+→ Il y a plus de chance
 d’être agressé dans le cadre d’une prise volontaire que d’être drogué par un
 agresseur. Dans les deux cas, l’agresseur est toujours en tord et la victime
 n’est pas en cause.

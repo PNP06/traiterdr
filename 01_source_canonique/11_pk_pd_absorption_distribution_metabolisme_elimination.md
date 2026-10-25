@@ -49,7 +49,6 @@ Deux mécanismes expliquent pourquoi il n’est pas possible de
 « rester perché » : le premier est la tolérance aiguë (tachyphylaxie), et le
 second est la dégradation des principes actifs par l'organisme.
 
-
 Le
 corps réussit toujours à transformer et à éliminer les substances ; la notion
 de « rester perché » n'est pas liée à un effet intrinsèque de la drogue
@@ -77,12 +76,10 @@ sang atteint, la drogue se diffuse dans tout l'organisme, agit rapidement, mais
 est aussi vite éliminée par le corps. À l'inverse, plus il y a d'organes
 intermédiaires, plus l'effet à dose égale sera moins intense mais plus prolongé .
 
-
 <figure class="doc-figure">
   <img src="../05_assets_visuels/p127_figure_01_pk_pd_adme.png" alt="Figure 23. Vitesse d'apparition des effets de la cocaïne selon la voie d'administration">
   <figcaption>Figure 23. Vitesse d'apparition des effets de la cocaïne en fonction de la voie d'administration.</figcaption>
 </figure>
-
 
 <figure class="doc-figure">
   <img src="../05_assets_visuels/p127_figure_02_pk_pd_adme.png" alt="Figure 24. Concentration dans le sang selon la voie d'administration">
@@ -180,7 +177,6 @@ d’élimination est réduite, prolongeant la présence du diazépam dans
 l’organisme. Cela allonge la durée d’action et augmente les risques de sédation
 prolongée ou d’autres effets indésirables.
 
-
 L’adaptation des doses en
 fonction de la biodisponibilité est particulièrement importante dans un
 contexte d’usage récréatif ou thérapeutique. Ignorer cette notion peut
@@ -202,7 +198,6 @@ sous forme de sel, tandis que le crack est sous forme libre (free base). Les
 sels ne peuvent se fumer ; pour fumer de la cocaïne, il faut donc la convertir
 en base libre (forme organique). C'est donc une légère différence d'état
 physique qui permet de la fumer, mais qui ne modifie pas le mécanisme d'action.
-
 
 <figure class="doc-figure">
   <img src="../05_assets_visuels/p129_figure_01_pk_pd_adme.png" alt="Figure 25. Cocaïne fumée et cocaïne sniffée">
@@ -226,13 +221,12 @@ ou d'autres substances anesthésiantes.
 Les modes
 d’administration font varier :
 
-
--le
+- le
 temps de montée,
 
--les effets,
+- les effets,
 
--la durée.
+- la durée.
 
 Le mode d’administration
 est donc déterminant pour comprendre les effets et les risques associés.
@@ -258,7 +252,6 @@ Risques en fonction des modes d'administration
 
 Le premier passage dans le foie permet de faire un lien
 entre l’absorption et la métabolisation.
-
 
 <figure class="doc-figure">
   <img src="../05_assets_visuels/p131_figure_01_pk_pd_adme.png" alt="Figure 26. Schéma des voies d'administration">
@@ -324,7 +317,6 @@ Par exemple, la glucuronidation, catalysée par des enzymes appelées
 transférases, attache un acide glucuronique à la molécule, la rendant beaucoup
 plus facile à éliminer par l’urine ou la bile. Ces réactions se déroulent aussi
 principalement dans le foie.
-
 
 <figure class="doc-figure">
   <img src="../05_assets_visuels/p132_figure_01_pk_pd_adme.png" alt="Figure 27. Schéma simplifié de la métabolisation">

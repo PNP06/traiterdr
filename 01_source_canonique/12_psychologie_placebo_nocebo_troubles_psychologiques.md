@@ -103,7 +103,6 @@ de substances psychoactives. Enfin, une proposition est avancée pour intégrer
 les effets placebo et nocebo dans une démarche de réduction des risques liée à
 l’usage de substances psychoactives.
 
-
 Placebo :
  Effet biologique et psychologique positif , sans lien avec un
 mécanisme d’action d’un produit actif
@@ -299,7 +298,6 @@ Les mécanismes d'apprentissage tels que le conditionnement, la suggestion
 provenant des dealers ou du marketing, et les attentes de bénéfices des
 utilisateurs ou de leurs pairs peuvent entraîner de véritables modifications
 physiologiques et neurobiologiques dans le corps et le cerveau.
-
 
 <figure class="doc-figure">
   <img src="../05_assets_visuels/p145_figure_01_psychologie_placebo_nocebo_trouble.png" alt="Figure 31. Détail des mécanismes en jeu dans les effets ressentis">

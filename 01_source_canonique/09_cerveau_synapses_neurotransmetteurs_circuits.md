@@ -89,7 +89,6 @@ La simplification excessive mène à des conclusions erronées.
 En conclusion, chaque approche regarde l’ombre d’une forme,
 sans la décrire directement.
 
-
 <figure class="doc-figure">
   <img src="../05_assets_visuels/p105_figure_01_cerveau_synapses_neurotransmetteur.png" alt="Figure 11. Illustration de la dualité">
   <figcaption>Figure 11. Illustration de la dualité.</figcaption>
@@ -102,9 +101,6 @@ mémoires sont portées par les neurones. Pour communiquer entre eux, ils ont
 besoin de messagers : ce sont les neurotransmetteurs. De façon simplifiée,
 toutes nos émotions et pensées sont portées par des neurotransmetteurs. .
 
-
--
-
 <figure class="doc-figure">
   <img src="../05_assets_visuels/p106_figure_02_cerveau_synapses_neurotransmetteur.png" alt="Figure 12. Schéma de neurone">
   <figcaption>Figure 12. Schéma de neurone.</figcaption>
@@ -112,7 +108,6 @@ toutes nos émotions et pensées sont portées par des neurotransmetteurs. .
 
 La jonction entre les neurones s’appelle la synapse
 et c’est à travers elle que les neurones communiquent.
-
 
 <figure class="doc-figure">
   <img src="../05_assets_visuels/p106_figure_01_cerveau_synapses_neurotransmetteur.png" alt="Figure 13. Schéma d’une synapse">
@@ -125,7 +120,6 @@ exemple : le Nutella.
 Lorsque vous craquez et que vous plongez votre cuillère dans
 le pot de Nutella, il se passe la chose suivante :
 
-
 1. L’influx
 électrique –
 Un influx nerveux venant de la langue se dirige vers le neurone 1, pour donner
@@ -133,15 +127,12 @@ suite à la première cuillère, avec l’information : « C’est trop
 bon, fait péter la dopamine (neurotransmetteur du plaisir) on est trop bien
 là !»
 
-
 2. Libération
  —
 Le neurone 1, qui est malin, a des stocks de dopamine en réserve : les vésicules .
 Il va dès lors les libérer dans la synapse pour prévenir les autres neurones.
 
-
 3. Liaison
- –
 La dopamine libérée (le messager), va se fixer sur des récepteurs sur le
 neurone 2 pour donner le message et générer un influx électrique.
 
@@ -226,7 +217,6 @@ mécanisme assez doux : le bien-être n’est pas forcé, il est prolongé.
 
 3. Empêcher
 la dégradation [[151]](/references#ref-151)
- –
 Il est possible de bloquer la protéine qui dégrade le neurotransmetteur. Pour
 qu’il agisse plus longtemps.
 
@@ -509,23 +499,23 @@ substances.
 Les trois théories ne sont pas vraiment démontrées.
 Cependant les études permettent de retirer plusieurs points intéressants [[159]](/references#ref-159) :
 
--Les fumeurs sont 4 fois plus susceptibles
+- Les fumeurs sont 4 fois plus susceptibles
 d’être addictes à l’alcool,
 
--Les buveurs ont 3 fois plus de chances de
+- Les buveurs ont 3 fois plus de chances de
 fumer,
 
--Si l’alcool et la nicotine sont consommés en
+- Si l’alcool et la nicotine sont consommés en
 même temps, leurs effets sur la dopamine (le plaisir) s’additionne,
 
--Si le tabac est consommé avant la
+- Si le tabac est consommé avant la
 consommation de l’alcool, alors l’effet positif de l’alcool sur la dopamine
 n’est pas ressenti,
 
--Une fois que la consommation d’alcool a
+- Une fois que la consommation d’alcool a
 commencée, le fait de fumer augmente l’envie de boire,
 
--Fumer ne diminue pas l’alcoolémie,
+- Fumer ne diminue pas l’alcoolémie,
 
 - Les effets sur le rythme cardiaques
 s’additionnent : les deux augmentent le rythme cardiaque.
@@ -538,12 +528,12 @@ les neurones par le biais des neurotransmetteurs. Ce premier niveau de
 compréhension est suivi par celui des circuits cérébraux, où l'organisation et
 l'interaction des cellules nerveuses sont observées à un niveau supérieur.
 
--Les circuits cérébraux sont
+- Les circuits cérébraux sont
 imaginés comme un réseau complexe de routes entrelacées sur une carte, où
 chaque route représente une voie de communication neuronale et chaque
 intersection est un neurone.
 
--Les routes sont soigneusement
+- Les routes sont soigneusement
 tracées et interconnectées pour permettre le flux d'informations à travers le
 cerveau, orchestrant ainsi des fonctions telles que la mémoire, le contrôle et
 les sensations de plaisir. Une étude des circuits cérébraux nous offre un
@@ -636,4 +626,4 @@ qu’elles soient d’une substance ou d’un comportement. Toutes les drogues n
 pas une action directe et importante sur la dopamine et peuvent donc être plus
 ou moins addictogènes.
 
-è
+→

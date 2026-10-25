@@ -124,7 +124,6 @@ même devenue un métier en Allemagne, où l'on parle de "trip-sitters"
 - littéralement des "baby-sitters" pour les personnes qui consomment
 des substances psychoactives.
 
-
 L’idée
 est de travailler son état mental (set) et son environnement (setting) avant un
 trip. Mieux on s’y prépare, moins on prend de risque.
@@ -149,7 +148,6 @@ variations d'expériences liées au set and setting. Cela est fréquemment obser
 avec les psychédéliques, le cannabis et les champignons hallucinogènes. En
 réalité, le principe actif et les doses sont similaires, la seule différence
 résidant dans le contexte de la prise.
-
 
 Et
 c’est là une notion importante : une même substance prise dans deux sets
@@ -178,7 +176,6 @@ ce jusqu'à ce qu’a la prochaine commande.
 Par suite de l’expérience, faire un retour sur ce qu’il
 s’est passé pourra permettre d’ancrer les bonnes pratiques afin de mieux
 préparer les prochaines consommations et ainsi diminuer les risques.
-
 
 Après
 la descente, il est important de prendre le temps de débriefer l’expérience pour
@@ -292,7 +289,6 @@ En conclusion, il est recommandé de privilégier les trip
 killers non médicamenteux que l'on croit efficaces. Avoir un trip killer à
 disposition est surtout utile pour diminuer les probabilités de survenue d'un
 bad trip et peut éventuellement aider s'il survient.
-
 
 La
 probabilité de survenue d'un bad trip peut être réduite du simple fait de
@@ -553,7 +549,6 @@ overdoses mortelles dont la moitié par le Tramadol [[348]](/references#ref-348)
 
 Les 30% restants se répartissent entre la cocaïne (17%),
 le cannabis (5%) et les amphétamines (5%).
-
 
 <figure class="doc-figure">
   <img src="../05_assets_visuels/p231_figure_01_badtrip_overdose.png" alt="Figure 49. Répartition des overdoses par substances">

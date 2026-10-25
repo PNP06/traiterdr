@@ -28,14 +28,13 @@ avec les traitements antiallergiques.
 L’allergie aux drogues est
 rare, il faut être attentif :
 
-
--En
+- En
 cas d’allergie connue ;
 
--Aux produits
+- Aux produits
 de coupe ;
 
--Aux interaction
+- Aux interaction
 avec un traitement de l’allergie.
 
 Dans les deux cas, faire
@@ -159,17 +158,16 @@ Le corps est composé d'environ 60
 % d'eau [[307]](/references#ref-307) .
 Cette eau se répartit entre différents compartiments :
 
--l'eau présente dans les cellules, permettant aux
+- l'eau présente dans les cellules, permettant aux
 cellules de fonctionner correctement ;
 
--l'eau entre les cellules, qui permet le transport des
+- l'eau entre les cellules, qui permet le transport des
 nutriments, des protéines ou encore l'élimination des déchets . Ce
 compartiment inclus l’eau du sang.
 
 Une bonne hydratation va donc permettre le maintien du
 volume de sang de l’organisme qui lui-même permet une bonne oxygénation du
 cerveau et des muscles.
-
 
 La répartition entre l'eau dans
 les cellules et en dehors est gérée par un mécanisme qui s'appelle l 'osmose .
@@ -188,7 +186,6 @@ Ce phénomène impact
 directement la taille des cellules, elles peuvent gonfler ou dégonfler en
 fonction de la concentration en sel de l’eau dans laquelle elles beignent (eau
 intercelullaire).
-
 
 <figure class="doc-figure">
   <img src="../05_assets_visuels/p201_figure_01_allergie_convulsions_hydratation_t.png" alt="Figure 38. Schéma osmose">
@@ -309,7 +306,6 @@ L’hydratation peut donc être résumée avec le schéma
 ci-dessous. Il servira de base pour comprendre les troubles de l’hydratation
 liée aux drogues.
 
-
 <figure class="doc-figure">
   <img src="../05_assets_visuels/p203_figure_01_allergie_convulsions_hydratation_t.png" alt="Figure 40. Bilan des apports et des éliminations d'eau">
   <figcaption>Figure 40. Bilan des apports et des éliminations d'eau.</figcaption>
@@ -325,16 +321,15 @@ vasopressine.
 
 L’hydratation permet :
 
-
--De
+- De
 maintenir le volume de sang (et donc avoir une bonne oxygénation du cerveau et
 des muscles)
 
--De maintenir
+- De maintenir
 le fonctionnement des cellules (en régulant la quantité d’eau dans les
 cellules)
 
--Participe à
+- Participe à
 la régulation de la température (via la sueur)
 
 ### Troubles de l’hydratation
@@ -395,7 +390,6 @@ prise de drogues devrait inclure l’hydratation. Globalement, boire de l’eau 
 suffisant pour prévenir le risque de déshydratation. Les solutions de
 réhydratation (vendue en pharmacie) ne se justifie pas en prévention. (MSDMANUAL)
 
-
 INFO :
 Les bars et boites sont dans l’obligation [[312]](/references#ref-312)
 de vous donner à boire si vous le demandez : « Ces établissements
@@ -433,13 +427,13 @@ résumé pour Prévenir la déshydratation :
 - La
 sensation de soif n’est pas un indicateur fiable de l’état d’hydratation
 
--Manger
+- Manger
 correctement
 
--Boire
+- Boire
 régulièrement de petites quantités
 
--Ne pas
+- Ne pas
 boire trop froid
 
 - Faire
@@ -475,13 +469,12 @@ résumé pour Détecter la déshydratation :
 - Bouche
 et langue sèche
 
--
 Pli cutanée
 
--Peu
+- Peu
 d’urine
 
--Appeler
+- Appeler
 les urgences
 
 En prévention, l'eau plate suffit. Si la déshydratation
@@ -497,7 +490,6 @@ d'eau, 6 cuillères à café de sucre, 1 cuillère à café de sel [[315]](/refe
 En
 résumé pour Agir face à la déshydratation :
 
--
 Boire des solutions de réhydratation : 1 litre d'eau, 6 cuillères à
 café de sucre (augmente la vitesse d’absorption), 1 cuillère à café de sel
 (hydrate)
@@ -505,7 +497,6 @@ café de sucre (augmente la vitesse d’absorption), 1 cuillère à café de sel
 - Ne
 pas boire trop vite et ne pas dépasser 1l par heure
 
--
 Appeler les urgences si l’état de s’améliore pas
 
 #### L’hyperhydratation
@@ -589,11 +580,11 @@ d'eau sans électrolytes pour compenser, conduisant à l'hyponatrémie.
 En résumé pour Prévenir
 l’hyponatrémie (hyperhydratation) :
 
--Manger
+- Manger
 correctement, si ce n’est pas le cas, essayer de boire des boissons avec
 électrolytes (boissons de sport ou solutions de réhydratation)
 
--Prendre le temps d’uriner
+- Prendre le temps d’uriner
 
 ###### Protection
 
@@ -616,11 +607,11 @@ produits par les drogues consommées ou d’une hypothermie.
 En résumé pour Détecter
 l’hyponatrémie :
 
--Pas
+- Pas
 de symptômes facilement identifiables. Effets neurologiques qui se
 confondent avec les effets des substances psychoactives
 
--En cas de maux de tête
+- En cas de maux de tête
 intenses . Essayer d’identifier l’apport en minéraux et en eau sur les
 dernières 12 h. Si peux d’apport en sel, suspicion d’hyponatrémie et APPEL
 DES URGENCES en précisant les consommations et les médicaments.
@@ -636,10 +627,9 @@ du traitement.
 En résumé pour Agir face
 à l’hyponatrémie :
 
--
 Arrêter de boire, même en cas de soif,
 
--Appeler les urgences
+Appeler les urgences
 pour être guidé sur l’apport en sel.
 
 La régulation de l'hydratation est étroitement liée à
@@ -1359,7 +1349,6 @@ température corporelle pour la faire descendre en dessous de 39°C.
 - La transpiration n’est
 pas un indicateur fiable pour déterminer la présence d'une hyperthermie.
 
--
 Se baigner dans l'eau froide est la meilleure solution, mais il faut veiller à
 ne pas prolonger l'immersion pour éviter une hypothermie.
 

@@ -92,7 +92,6 @@ probabilité) elles-mêmes. Elles doivent présenter un nombre de niveaux limit�
 tout en étant suffisamment précises pour distinguer tous les cas. Trouver le
 bon équilibre est impossible.
 
-
 <figure class="doc-figure">
   <img src="../05_assets_visuels/p101_figure_01_gestion_des_risques.png" alt="Tableau 13. Exemple de cartographie des risques pour l'alcool">
   <figcaption>Tableau 13. Exemple de cartographie des risques pour l'alcool.</figcaption>
@@ -118,14 +117,12 @@ compréhensible des risques associés à chaque substance.
 
 ## Diminuer les risques
 
--Dans le contexte des substances, l'unique manière de
+Dans le contexte des substances, l'unique manière de
 supprimer complètement les risques est d'éviter toute consommation. Cependant,
 comme précisé en introduction, cet ouvrage s'inscrit dans une démarche de
 prévention secondaire, c'est-à-dire, de prévention destinée aux consommateurs
 actuels. Il est donc essentiel d'apprendre à composer avec ces risques et à les
 réduire.
-
--
 
 Pour ce faire, de deux principales stratégies vont de paire
 : la prévention (minimiser la probabilité qu'un risque survienne) et la

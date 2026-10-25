@@ -92,21 +92,20 @@ function slugify(text: string) {
 
 export const treatyTocSections: TreatyTocSection[] = [
   section('Ouverture', 0, source(files.front), [
-    item('SUIVI', 0, heading(files.front, 'Suivi éditorial et page titre')),
     item('Remerciements', 7, heading(files.front, 'Remerciements')),
     item('Introduction', 8, source(files.intro))
   ]),
   section('Mythes', 16, source(files.croyances), [
-    item('Création des croyances', 18, heading(files.croyances, 'Croyances et risques')),
-    item('Heuristique', 18, heading(files.croyances, 'Heuristiques'), 2),
-    item('Biais', 21, heading(files.croyances, 'Biais cognitifs'), 2),
-    item('Sophisme', 23, heading(files.croyances, 'Sophismes'), 2),
-    item('Mécanisme de protection psychologique', 29, heading(files.protections, '1. Pourquoi la logique ne suffit pas'), 2),
-    item('Approche en réduction des risques', 34, heading(files.protections, '8. Approche en réduction des risques'), 2),
-    item('Conclusion', 42, heading(files.protections, '12. Conclusion'), 2),
+    item('Création des croyances', 18, heading(files.croyances, 'Création des croyances')),
+    item('Heuristique', 18, heading(files.croyances, 'Heuristique'), 2),
+    item('Biais', 21, heading(files.croyances, 'Biais'), 2),
+    item('Sophisme', 23, heading(files.croyances, 'Sophisme'), 2),
+    item('Mécanisme de protection psychologique', 29, heading(files.protections, 'Mécanisme de protection psychologique'), 2),
+    item('Approche en réduction des risques', 34, heading(files.protections, 'Approche en réduction des risques'), 2),
+    item('Conclusion', 42, heading(files.protections, 'Conclusion'), 2),
     item('Comprendre la science', 45, source(files.science)),
-    item('Science et recherche', 45, heading(files.science, '2. Science et recherche'), 2),
-    item('La méthode Scientifique', 48, heading(files.science, '7. La méthode scientifique'), 2),
+    item('Science et recherche', 45, heading(files.science, 'Science et recherche'), 2),
+    item('La méthode Scientifique', 48, heading(files.science, 'La méthode Scientifique'), 2),
     item('Le mois sans alcool/sans tabac est inutile', 51, heading(files.alcool, 'Le mois sans alcool/sans tabac est inutile')),
     item('Effet individuel', 51, heading(files.alcool, 'Effet individuel'), 2),
     item('Effet sur la santé publique', 53, heading(files.alcool, 'Effet sur la santé publique'), 2),

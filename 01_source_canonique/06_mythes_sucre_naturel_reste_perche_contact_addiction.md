@@ -189,7 +189,6 @@ utilisé de manière pratique pour décrire certains comportements qui ont des s
 traités de la même manière que les addictions traditionnelles, car ils
 n'activent pas les mêmes mécanismes dans le cerveau.
 
-
 - Certaines
 conséquences des addictions, comme l'isolement social et le délaissement
 d’activités au profit de la consommation sont similaires quel que soit l'objet
@@ -222,7 +221,6 @@ leur sécurité et leur efficacité.
 Cette dichotomie s'avère particulièrement problématique dans
 le domaine des drogues, où la perception de la naturalité peut fausser la
 compréhension de la toxicité et des risques associés.
-
 
 Or,
 il est important de comprendre que, quelle que soit l’origine (naturelle ou
@@ -524,7 +522,6 @@ En d'autres termes, avant que le cannabis puisse exercer son
 effet sur le cerveau, il doit nécessairement subir une transformation chimique.
 Dans la mesure où la molécule active n’est pas celle produite par la plante,
 est ce que cela est naturel ?
-
 
 <figure class="doc-figure">
   <img src="../05_assets_visuels/p078_figure_01_sucre_naturel_reste_perche_contact.png" alt="Figure 7. Transformation du THCa en THC">
@@ -1030,7 +1027,6 @@ plus ponctuel.
 Pour résumer, il est
 important de retenir que :
 
--
 La consommation de substances psychoactives (LSD, MDMA, antidépresseurs,
 cannabis) peut entraîner des effets de rémanence.
 
