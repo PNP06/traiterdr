@@ -1,104 +1,105 @@
+<script setup lang="ts">
+const pdf = '/traite-rdr.pdf'
+
+const questions = [
+  'Un verre de vin par jour, c’est bon pour la santé ?',
+  'L’alcool, ça réchauffe ?',
+  'Naturel, donc plus sûr ?',
+  'Accro dès la première prise ?',
+  'Le placebo, ça marche vraiment ?',
+  'Quelle drogue fait le plus de dégâts ?'
+]
+
+const parts = [
+  { title: 'Bien raisonner', text: 'Mythes, heuristiques, biais, sophismes : pourquoi on se trompe sur les drogues, et comment corriger une croyance sans braquer.' },
+  { title: 'Comprendre la science', text: 'Ce qu’est une preuve, la différence entre corrélation et causalité, comment lire une étude.' },
+  { title: 'Les idées reçues', text: 'Dry January, prix de l’alcool, verre de vin, sucre, naturel, contamination par contact, GHB, chemsex, RC.' },
+  { title: 'Le corps et le cerveau', text: 'Synapses et neurotransmetteurs, tolérance, cerveau de 15 à 25 ans, ce que devient une substance dans le corps.' },
+  { title: 'Les produits', text: 'Classifications des substances par effets, par dommages et par statut légal.' },
+  { title: 'Les risques', text: 'Sommeil, sexualité et consentement, chaleur et hydratation, badtrip, overdose, mélanges, testing, descente et addiction.' }
+]
+</script>
+
 <template>
-  <section class="risk-home">
-    <header class="risk-hero">
-      <div class="risk-hero-copy">
-        <p class="risk-kicker">Traité documentaire</p>
-        <h1>Réduction des risques et des dommages</h1>
-        <p class="risk-lead">
-          Une lecture structurée du traité : commencer par le cadre, suivre les parties
-          dans l'ordre, ou retrouver directement un passage précis.
-        </p>
-        <div class="risk-hero-actions" aria-label="Action principale">
-          <a class="risk-button risk-button--primary" href="/lire">Commencer la lecture</a>
-          <a class="risk-text-link" href="/sommaire">Sommaire complet</a>
-          <a class="risk-text-link" href="/traite-rdr.pdf">PDF</a>
+  <div class="rk-home">
+    <section class="rk-hero">
+      <div class="rk-hero-inner">
+        <div class="rk-hero-copy">
+          <p class="rk-brand">risky</p>
+          <h1>Le traité de <mark>réduction des risques</mark></h1>
+          <p class="rk-lead">
+            Substances psychoactives &amp; santé : comprendre sans bac+5.
+            Factuel, sourcé, sans jugement.
+          </p>
+          <div class="rk-actions">
+            <a class="rk-btn rk-btn--anis" href="#lire">Lire le traité</a>
+            <a class="rk-btn rk-btn--ghost" :href="pdf" download>Télécharger le PDF</a>
+          </div>
+        </div>
+        <div class="rk-hero-koala" aria-hidden="true">
+          <img src="/koala.webp" alt="" width="512" height="512">
         </div>
       </div>
-
-      <aside class="risk-search-panel" aria-label="Recherche dans le traité">
-        <div>
-          <p class="panel-eyebrow">Recherche</p>
-          <h2>Retrouver une notion</h2>
-          <p>Produit, interaction, risque, preuve, figure ou chapitre.</p>
-        </div>
-        <SearchLauncher />
-      </aside>
-    </header>
-
-    <section class="home-reading-map" aria-labelledby="reading-map-title">
-      <div class="home-reading-intro">
-        <p class="section-kicker">Prise de lecture</p>
-        <h2 id="reading-map-title">Lire par parties du traité</h2>
-        <p>
-          Ces entrées ne remplacent pas le sommaire : elles donnent une progression
-          lisible dans le corpus, depuis le cadre jusqu'aux situations concrètes.
-        </p>
-      </div>
-
-      <ol class="home-reading-list">
-        <li>
-          <a href="/01_source_canonique/01_introduction_cadre_objectif_sources">
-            <span class="home-step">01</span>
-            <strong>Cadre, sources et posture RDR</strong>
-            <span>Comprendre le périmètre du traité et son mode de lecture.</span>
-          </a>
-        </li>
-        <li>
-          <a href="/01_source_canonique/02_mythes_croyances_heuristiques_biais_sophismes">
-            <span class="home-step">02</span>
-            <strong>Croyances, biais et réception de l'information</strong>
-            <span>Identifier les raccourcis mentaux et les freins à une information utile.</span>
-          </a>
-        </li>
-        <li>
-          <a href="/01_source_canonique/04_comprendre_science_preuves_causalite">
-            <span class="home-step">03</span>
-            <strong>Preuves, science et gestion des risques</strong>
-            <span>Distinguer ce qui est établi, incertain, probable ou seulement rapporté.</span>
-          </a>
-        </li>
-        <li>
-          <a href="/01_source_canonique/09_cerveau_synapses_neurotransmetteurs_circuits">
-            <span class="home-step">04</span>
-            <strong>Corps, cerveau, effets et classifications</strong>
-            <span>Lire les bases biologiques, pharmacologiques et les classifications.</span>
-          </a>
-        </li>
-        <li>
-          <a href="/01_source_canonique/14_risques_generiques_sommeil_juridique">
-            <span class="home-step">05</span>
-            <strong>Risques transversaux et situations critiques</strong>
-            <span>Sommeil, sexualité, thermie, badtrip, overdose et vulnérabilités.</span>
-          </a>
-        </li>
-        <li>
-          <a href="/01_source_canonique/18_interactions_melanges">
-            <span class="home-step">06</span>
-            <strong>Interactions, testing, descente et dépendance</strong>
-            <span>Comprendre les mélanges, les analyses, les suites et les usages problématiques.</span>
-          </a>
-        </li>
-      </ol>
     </section>
 
-    <nav class="home-reference-row" aria-label="Index secondaires">
-      <a href="/essentiels">
-        <strong>Passages essentiels</strong>
-        <span>Une entrée courte pour s'orienter.</span>
-      </a>
-      <a href="/figures">
-        <strong>Figures</strong>
-        <span>Schémas et infographies contextualisés.</span>
-      </a>
-      <a href="/substances">
-        <strong>Substances citées</strong>
-        <span>Retrouver les passages par produit mentionné.</span>
-      </a>
-    </nav>
+    <section class="rk-section">
+      <p class="rk-pill">Le projet</p>
+      <h2>Ce qu’on aurait aimé <mark>savoir plus tôt</mark></h2>
+      <div class="rk-about">
+        <p>
+          Les infos sur les drogues sont souvent fausses, trop techniques ou trop simplifiées.
+          Ce traité rassemble les bases scientifiques utiles pour réduire les risques : ce que
+          fait une substance dans le corps, pourquoi certaines croyances sont dangereuses, et
+          quoi faire quand ça se passe mal.
+        </p>
+        <p>
+          Commencé en 2020 par l’association Risky, il est enrichi d’échanges avec des médecins
+          et des associations de réduction des risques. Il ne dit pas quoi faire : il donne de quoi
+          choisir en connaissance de cause.
+        </p>
+      </div>
+    </section>
 
-    <p class="reader-note">
-      Ressource documentaire de réduction des risques. Information générale, non incitative,
-      non médicale personnalisée.
-    </p>
-  </section>
+    <section class="rk-section">
+      <p class="rk-pill">Au sommaire</p>
+      <h2>Ce que tu trouves <mark>dedans</mark></h2>
+      <ul class="rk-parts">
+        <li v-for="part in parts" :key="part.title">
+          <strong>{{ part.title }}</strong>
+          <span>{{ part.text }}</span>
+        </li>
+      </ul>
+    </section>
+
+    <section class="rk-section">
+      <p class="rk-pill">Les idées reçues</p>
+      <h2>Des questions qu’on se pose <mark>en soirée</mark></h2>
+      <p class="rk-sub">Le traité y répond, sources à l’appui. On en traite une par semaine sur Instagram.</p>
+      <ul class="rk-questions">
+        <li v-for="q in questions" :key="q" class="rk-question">{{ q }}</li>
+      </ul>
+    </section>
+
+    <section id="lire" class="rk-section rk-reader">
+      <p class="rk-pill">Lire</p>
+      <h2>Le traité, <mark>en entier</mark></h2>
+      <div class="rk-reader-actions">
+        <a class="rk-btn rk-btn--sapin" :href="pdf" target="_blank" rel="noopener">Ouvrir en plein écran</a>
+        <a class="rk-btn rk-btn--line" :href="pdf" download>Télécharger le PDF</a>
+      </div>
+      <div class="rk-pdf">
+        <iframe :src="`${pdf}#view=FitH`" title="Traité de réduction des risques (PDF)" loading="lazy"></iframe>
+      </div>
+      <p class="rk-sub rk-pdf-mobile">Sur téléphone, ouvre le PDF en plein écran ou télécharge-le pour le lire tranquillement.</p>
+    </section>
+
+    <section class="rk-insta">
+      <div>
+        <p class="rk-brand rk-brand--small">risky</p>
+        <h2>Une idée reçue par semaine sur Instagram</h2>
+        <p>Des carrousels courts, tirés du traité. Comprendre pour mieux choisir.</p>
+      </div>
+      <a class="rk-btn rk-btn--anis" href="https://www.instagram.com/risky.asso/" target="_blank" rel="noopener">Suivre @risky.asso</a>
+    </section>
+  </div>
 </template>

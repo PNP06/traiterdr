@@ -38,10 +38,10 @@ aujourd’hui. Affirmer par exemple que la dépression est due uniquement à
 l'activation de certaines zones cérébrales est erroné. Cela explique (notamment)
 pourquoi l'IRM n'est pas utilisée pour le diagnostic en psychiatrie.
 
-Le constructivisme [147]
+Le constructivisme [[147]](/references#ref-147)
 qui considère le cerveau comme un organe dépendant des sensations, du contexte
 et du corps dans son ensemble. Pour illustrer ce point de vue, prenons
-l'exemple du striatum, la « zone du plaisir ». Certains affirment [148]
+l'exemple du striatum, la « zone du plaisir ». Certains affirment [[148]](/references#ref-148)
 que cette région cérébrale expliquerait notre inaction face au changement
 climatique en privilégiant des comportements guidés par le plaisir.
 
@@ -67,7 +67,7 @@ remise en question par la communauté scientifique. Le Royal College de Londres
 a retiré toute mention de cette théorie de son site internet.
 
 De même, une revue exhaustive de la littérature
-scientifique menée par l'University College de Londres [149] conclut qu'il
+scientifique menée par l'University College de Londres [[149]](/references#ref-149) conclut qu'il
 n'existe pas de preuves solides établissant un lien direct entre les niveaux de
 sérotonine et la dépression.
 
@@ -90,11 +90,9 @@ En conclusion, chaque approche regarde l’ombre d’une forme,
 sans la décrire directement.
 
 <figure class="doc-figure">
-  <img src="../05_assets_visuels/p105_figure_01_cerveau_synapses_neurotransmetteur.png" alt="Cerveau Synapses Neurotransmetteur">
-  <figcaption>Figure p. 105 : Cerveau Synapses Neurotransmetteur.</figcaption>
+  <img src="../05_assets_visuels/p105_figure_01_cerveau_synapses_neurotransmetteur.png" alt="Figure 11. Illustration de la dualité">
+  <figcaption>Figure 11. Illustration de la dualité.</figcaption>
 </figure>
-
-Figure 11. Illustration de la dualité (source:dreamstime)
 
 ### Le fonctionnement des synapses
 
@@ -104,36 +102,23 @@ besoin de messagers : ce sont les neurotransmetteurs. De façon simplifiée,
 toutes nos émotions et pensées sont portées par des neurotransmetteurs. .
 
 <figure class="doc-figure">
-  <img src="../05_assets_visuels/p106_figure_01_cerveau_synapses_neurotransmetteur.png" alt="Cerveau Synapses Neurotransmetteur">
-  <figcaption>Figure p. 106 : Cerveau Synapses Neurotransmetteur.</figcaption>
+  <img src="../05_assets_visuels/p106_figure_02_cerveau_synapses_neurotransmetteur.png" alt="Figure 12. Schéma de neurone">
+  <figcaption>Figure 12. Schéma de neurone.</figcaption>
 </figure>
-
--
-
-Figure 12.
-Schéma de neurone [150]
 
 La jonction entre les neurones s’appelle la synapse
 et c’est à travers elle que les neurones communiquent.
 
 <figure class="doc-figure">
-  <img src="../05_assets_visuels/p106_figure_02_cerveau_synapses_neurotransmetteur.png" alt="Cerveau Synapses Neurotransmetteur">
-  <figcaption>Figure p. 106 : Cerveau Synapses Neurotransmetteur.</figcaption>
+  <img src="../05_assets_visuels/p106_figure_01_cerveau_synapses_neurotransmetteur.png" alt="Figure 13. Schéma d’une synapse">
+  <figcaption>Figure 13. Schéma d’une synapse.</figcaption>
 </figure>
-
-Figure 13.
-Schéma d’une synapse
 
 Pour expliquer le mécanisme de base, nous allons prendre un
 exemple : le Nutella.
 
 Lorsque vous craquez et que vous plongez votre cuillère dans
 le pot de Nutella, il se passe la chose suivante :
-
-<figure class="doc-figure">
-  <img src="../05_assets_visuels/p107_figure_01_cerveau_synapses_neurotransmetteur.png" alt="Cerveau Synapses Neurotransmetteur">
-  <figcaption>Figure p. 107 : Cerveau Synapses Neurotransmetteur.</figcaption>
-</figure>
 
 1. L’influx
 électrique –
@@ -142,23 +127,12 @@ suite à la première cuillère, avec l’information : « C’est trop
 bon, fait péter la dopamine (neurotransmetteur du plaisir) on est trop bien
 là !»
 
-<figure class="doc-figure">
-  <img src="../05_assets_visuels/p113_figure_01_cerveau_synapses_neurotransmetteur.png" alt="Cerveau Synapses Neurotransmetteur">
-  <figcaption>Figure p. 113 : Cerveau Synapses Neurotransmetteur.</figcaption>
-</figure>
-
 2. Libération
  —
 Le neurone 1, qui est malin, a des stocks de dopamine en réserve : les vésicules .
 Il va dès lors les libérer dans la synapse pour prévenir les autres neurones.
 
-<figure class="doc-figure">
-  <img src="../05_assets_visuels/p114_figure_01_cerveau_synapses_neurotransmetteur.png" alt="Cerveau Synapses Neurotransmetteur">
-  <figcaption>Figure p. 114 : Cerveau Synapses Neurotransmetteur.</figcaption>
-</figure>
-
 3. Liaison
- –
 La dopamine libérée (le messager), va se fixer sur des récepteurs sur le
 neurone 2 pour donner le message et générer un influx électrique.
 
@@ -204,8 +178,10 @@ Nous allons prendre dans cet exemple des
 neurones à sérotonine (pour faire simple, c’est le neurotransmetteur du
 bonheur) et des substances qui agissent dessus.
 
-Figure 14.
-Exemple d’actions sur les neurones sérotoninergiques
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p107_figure_01_cerveau_synapses_neurotransmetteur.png" alt="Figure 14. Exemple d’actions sur les neurones sérotoninergiques">
+  <figcaption>Figure 14. Exemple d’actions sur les neurones sérotoninergiques.</figcaption>
+</figure>
 
 A l’attaque :
 
@@ -240,8 +216,7 @@ C’est un
 mécanisme assez doux : le bien-être n’est pas forcé, il est prolongé.
 
 3. Empêcher
-la dégradation [151]
- –
+la dégradation [[151]](/references#ref-151)
 Il est possible de bloquer la protéine qui dégrade le neurotransmetteur. Pour
 qu’il agisse plus longtemps.
 
@@ -289,7 +264,7 @@ sérotonine se fixe de façon indifférenciée sur tous les récepteurs.
 Certaines molécules
 hallucinogènes vont surtout se fixer sur les récepteurs dits
 « 5-HT2A » (utile si vous cherchez un bon mot de passe J ). C’est la suractivation de ce type de
-récepteurs qui engendre des effets hallucinogènes [152] .
+récepteurs qui engendre des effets hallucinogènes [[152]](/references#ref-152) .
 
 #### Point sur les interactions
 
@@ -337,7 +312,7 @@ mélanges.
 #### Les messagers
 
 Il y a donc différents messagers et autant de systèmes à
-hacker. Voici les principaux, pour vous donner une idée [153] .
+hacker. Voici les principaux, pour vous donner une idée [[153]](/references#ref-153) .
 
 | Neurotransmetteurs | Image | Action | Exemple de drogue qui agit dessus |
 | --- | --- | --- | --- |
@@ -354,7 +329,7 @@ hacker. Voici les principaux, pour vous donner une idée [153] .
 Tableau 14.
 Tableau des neurotransmetteurs
 
-C’est extrêmement résumé [154] .
+C’est extrêmement résumé [[154]](/references#ref-154) .
 Un même neurotransmetteur dans le cerveau peut avoir différents rôles. Plus
 encore, ces neurotransmetteurs ont des rôles dans le reste de l’organisme. Par
 exemple, l’acétylcholine sert dans le mécanisme de contraction des muscles.
@@ -439,12 +414,12 @@ En plus d’avoir des actions spécifiques (sur
 des récepteurs), l’alcool a une action non spécifique (généralisée). En effet,
 il perturbe l’équilibre des membranes ce qui modifie de nombreuses fonctions
 cellulaires et systèmes de neurotransmetteurs. Cette action non spécifique est
-à l’origine de son pouvoir désinfectant [155] :
+à l’origine de son pouvoir désinfectant [[155]](/references#ref-155) :
 concentré, il détruit les membranes des bactéries et les virus.
 
 Pour en revenir aux effets sur le cerveau, l’alcool impact
-de façon direct ou indirect l’ensemble des neurotransmetteurs [156]
- [157] .
+de façon direct ou indirect l’ensemble des neurotransmetteurs [[156]](/references#ref-156)
+ [[157]](/references#ref-157) .
 
 Figure 15.
 Systèmes impactés par l'alcool
@@ -497,8 +472,7 @@ GBL, Benzodiazépines, anesthésiant) ou d’autres dépresseurs.
 Il faut être transparent sur
 sa consommation d’alcool avec ses médecins, surtout en cas d’opération.
 
-##### Acétylcholine : pourquoi l’alcool
-« appelle » le tabac ?
+##### Acétylcholine : pourquoi l’alcool « appelle » le tabac ?
 
 L’alcool active certains récepteurs de l’acétylcholine, les
 mêmes que la nicotine. L'acétylcholine intervient dans le contrôle des
@@ -515,7 +489,7 @@ Dans l’idée ce serait comme tirer une taffe de cigarette.
 
 La deuxième considère que l’envie
 de fumer apparaît pour stimuler le cerveau (afin de contrer l’effet de
-l’alcool) [158] .
+l’alcool) [[158]](/references#ref-158) .
 
 La troisième est liée à
 l’activation du circuit de récompense par les deux drogues. Lorsque
@@ -523,25 +497,25 @@ l’activation de ce circuit à lieu, il pousse à consommer tous types de
 substances.
 
 Les trois théories ne sont pas vraiment démontrées.
-Cependant les études permettent de retirer plusieurs points intéressants [159] :
+Cependant les études permettent de retirer plusieurs points intéressants [[159]](/references#ref-159) :
 
--Les fumeurs sont 4 fois plus susceptibles
+- Les fumeurs sont 4 fois plus susceptibles
 d’être addictes à l’alcool,
 
--Les buveurs ont 3 fois plus de chances de
+- Les buveurs ont 3 fois plus de chances de
 fumer,
 
--Si l’alcool et la nicotine sont consommés en
+- Si l’alcool et la nicotine sont consommés en
 même temps, leurs effets sur la dopamine (le plaisir) s’additionne,
 
--Si le tabac est consommé avant la
+- Si le tabac est consommé avant la
 consommation de l’alcool, alors l’effet positif de l’alcool sur la dopamine
 n’est pas ressenti,
 
--Une fois que la consommation d’alcool a
+- Une fois que la consommation d’alcool a
 commencée, le fait de fumer augmente l’envie de boire,
 
--Fumer ne diminue pas l’alcoolémie,
+- Fumer ne diminue pas l’alcoolémie,
 
 - Les effets sur le rythme cardiaques
 s’additionnent : les deux augmentent le rythme cardiaque.
@@ -554,12 +528,12 @@ les neurones par le biais des neurotransmetteurs. Ce premier niveau de
 compréhension est suivi par celui des circuits cérébraux, où l'organisation et
 l'interaction des cellules nerveuses sont observées à un niveau supérieur.
 
--Les circuits cérébraux sont
+- Les circuits cérébraux sont
 imaginés comme un réseau complexe de routes entrelacées sur une carte, où
 chaque route représente une voie de communication neuronale et chaque
 intersection est un neurone.
 
--Les routes sont soigneusement
+- Les routes sont soigneusement
 tracées et interconnectées pour permettre le flux d'informations à travers le
 cerveau, orchestrant ainsi des fonctions telles que la mémoire, le contrôle et
 les sensations de plaisir. Une étude des circuits cérébraux nous offre un
@@ -582,8 +556,10 @@ boire,
 Le signal passe par plusieurs zones du cerveau en utilisant la
 dopamine .
 
-Figure 16. Zones du cerveau impliquées dans le système de récompense : extrait de la
-vidéo MAAD Digital « système de récompense et addiction » [160]
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p113_figure_01_cerveau_synapses_neurotransmetteur.png" alt="Figure 16. Zones du cerveau impliquées dans le système de récompense">
+  <figcaption>Figure 16. Zones du cerveau impliquées dans le système de récompense.</figcaption>
+</figure>
 
 Prenons un exemple : vous voyez quelqu’un fumer, le cortex
 envoie l’information au noyau accumbens.
@@ -619,7 +595,10 @@ nous évite de frapper les personnes qui nous énervent, même si cela nous
 soulagerait, temporairement. Il permet également de nous raisonner lorsque nous
 abusons d’une substance.
 
-Figure 17. Les circuits cérébraux impliqués dans l’addiction @laurentKarila
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p114_figure_01_cerveau_synapses_neurotransmetteur.png" alt="Figure 17. Circuits cérébraux impliqués dans l’addiction">
+  <figcaption>Figure 17. Les circuits cérébraux impliqués dans l’addiction.</figcaption>
+</figure>
 
 Le processus ressemble donc à cela :
 
@@ -630,7 +609,7 @@ pour ressentir un plaisir intense
 2- Le circuit
 de la mémoire enregistre « drogue = plaisir +++ », et cela
 s’accentue au fur et à mesure que l’on en consomme. Le phénomène s’appelle la
-mémoire pathologique [161] .
+mémoire pathologique [[161]](/references#ref-161) .
 Même après un arrêt de la consommation durant un temps long, le cerveau
 garde cette association.
 
@@ -647,4 +626,4 @@ qu’elles soient d’une substance ou d’un comportement. Toutes les drogues n
 pas une action directe et importante sur la dopamine et peuvent donc être plus
 ou moins addictogènes.
 
-è
+→

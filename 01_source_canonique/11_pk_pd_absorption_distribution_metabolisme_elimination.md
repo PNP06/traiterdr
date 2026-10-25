@@ -49,11 +49,6 @@ Deux mécanismes expliquent pourquoi il n’est pas possible de
 « rester perché » : le premier est la tolérance aiguë (tachyphylaxie), et le
 second est la dégradation des principes actifs par l'organisme.
 
-<figure class="doc-figure">
-  <img src="../05_assets_visuels/p127_figure_01_pk_pd_adme.png" alt="Pk Pd Adme">
-  <figcaption>Figure p. 127 : Pk Pd Adme.</figcaption>
-</figure>
-
 Le
 corps réussit toujours à transformer et à éliminer les substances ; la notion
 de « rester perché » n'est pas liée à un effet intrinsèque de la drogue
@@ -82,19 +77,14 @@ est aussi vite éliminée par le corps. À l'inverse, plus il y a d'organes
 intermédiaires, plus l'effet à dose égale sera moins intense mais plus prolongé .
 
 <figure class="doc-figure">
-  <img src="../05_assets_visuels/p127_figure_02_pk_pd_adme.png" alt="Pk Pd Adme">
-  <figcaption>Figure p. 127 : Pk Pd Adme.</figcaption>
+  <img src="../05_assets_visuels/p127_figure_01_pk_pd_adme.png" alt="Figure 23. Vitesse d'apparition des effets de la cocaïne selon la voie d'administration">
+  <figcaption>Figure 23. Vitesse d'apparition des effets de la cocaïne en fonction de la voie d'administration.</figcaption>
 </figure>
-
-Figure 23.Vitesse d'apparition des effets de la cocaïne en fonction de la voie d'administration [174]
 
 <figure class="doc-figure">
-  <img src="../05_assets_visuels/p129_figure_01_pk_pd_adme.png" alt="Pk Pd Adme">
-  <figcaption>Figure p. 129 : Pk Pd Adme.</figcaption>
+  <img src="../05_assets_visuels/p127_figure_02_pk_pd_adme.png" alt="Figure 24. Concentration dans le sang selon la voie d'administration">
+  <figcaption>Figure 24. Schéma de la concentration dans le sang en fonction de la voie d'administration.</figcaption>
 </figure>
-
-Figure 24.
-Schéma de la concentration dans le sang en fonction de la voie d'administration
 
 Point intéressant, bien que non représenté dans le schéma,
 est l'existence de connexions entre les organes. Par exemple, une partie de
@@ -104,7 +94,7 @@ des particules jusqu'à l'œsophage, un processus connu sous le nom de remontée
 mucociliaire. Il en va de même pour ce qui est sniffé : le nez est continuellement
 nettoyé en poussant les particules vers l'arrière, jusqu'à ce qu'elles
 atteignent le système digestif. C’est pour cette raison que les fumeurs
-augmentent également leurs risques de cancer de l’estomac [175] .
+augmentent également leurs risques de cancer de l’estomac [[175]](/references#ref-175) .
 
 L'efficacité de certaines substances peut également varier
 selon le mode d'administration. Par exemple, la Salvia , une substance
@@ -162,7 +152,7 @@ pour obtenir les mêmes effets qu’une injection.
 |  | Nasale | 83% | 60.2 mg |
 |  | Intraveineuse | 100% | 55 mg |
 
-Tableau 17. Equivalence approximative des doses en fonction du mode d'administration [176] [177]
+Tableau 17. Equivalence approximative des doses en fonction du mode d'administration [[176]](/references#ref-176) [[177]](/references#ref-177)
 
 La biodisponibilité varie également selon les individus. Des
 facteurs tels que l’âge, le sexe, le poids, l’état de santé et même la
@@ -172,7 +162,7 @@ impossible de définir une dose universelle. Chaque cas nécessite une évaluati
 pour minimiser les risques et maximiser l’efficacité.
 
 L’influence de l’âge est importante. Par exemple, le
-diazépam [178] ,
+diazépam [[178]](/references#ref-178) ,
 une benzodiazépine couramment utilisée pour ses propriétés anxiolytiques et
 sédatives, illustre bien cette variation.
 
@@ -186,11 +176,6 @@ retardé, nécessitant environ 4 heures pour être atteint. De plus, la vitesse
 d’élimination est réduite, prolongeant la présence du diazépam dans
 l’organisme. Cela allonge la durée d’action et augmente les risques de sédation
 prolongée ou d’autres effets indésirables.
-
-<figure class="doc-figure">
-  <img src="../05_assets_visuels/p131_figure_01_pk_pd_adme.png" alt="Pk Pd Adme">
-  <figcaption>Figure p. 131 : Pk Pd Adme.</figcaption>
-</figure>
 
 L’adaptation des doses en
 fonction de la biodisponibilité est particulièrement importante dans un
@@ -215,12 +200,9 @@ en base libre (forme organique). C'est donc une légère différence d'état
 physique qui permet de la fumer, mais qui ne modifie pas le mécanisme d'action.
 
 <figure class="doc-figure">
-  <img src="../05_assets_visuels/p132_figure_01_pk_pd_adme.png" alt="Pk Pd Adme">
-  <figcaption>Figure p. 132 : Pk Pd Adme.</figcaption>
+  <img src="../05_assets_visuels/p129_figure_01_pk_pd_adme.png" alt="Figure 25. Cocaïne fumée et cocaïne sniffée">
+  <figcaption>Figure 25. Cocaïne fumée (crack) à gauche, cocaïne sniffée à droite.</figcaption>
 </figure>
-
-Figure 25.
-Cocaïne fumée (crack) à gauche, Cocaïne sniffée à droite
 
 La cocaïne sniffée a une durée d'action d'environ 70
 minutes, tandis qu'en la fumant sous forme de crack, l'ensemble des effets est
@@ -239,17 +221,12 @@ ou d'autres substances anesthésiantes.
 Les modes
 d’administration font varier :
 
-<figure class="doc-figure">
-  <img src="../05_assets_visuels/p133_figure_01_pk_pd_adme.png" alt="Pk Pd Adme">
-  <figcaption>Figure p. 133 : Pk Pd Adme.</figcaption>
-</figure>
-
--le
+- le
 temps de montée,
 
--les effets,
+- les effets,
 
--la durée.
+- la durée.
 
 Le mode d’administration
 est donc déterminant pour comprendre les effets et les risques associés.
@@ -258,7 +235,7 @@ est donc déterminant pour comprendre les effets et les risques associés.
 
 En termes de gestion des risques, l'illégalité des drogues
 et leur qualité variable rendent certains modes d'administration plus ou moins
-risqués [179] .
+risqués [[179]](/references#ref-179) .
 
 | Voie <br> d'administration | Montée des <br> effets | Risques | Parades |
 | --- | --- | --- | --- |
@@ -277,11 +254,9 @@ Le premier passage dans le foie permet de faire un lien
 entre l’absorption et la métabolisation.
 
 <figure class="doc-figure">
-  <img src="../05_assets_visuels/p135_figure_01_pk_pd_adme.png" alt="Pk Pd Adme">
-  <figcaption>Figure p. 135 : Pk Pd Adme.</figcaption>
+  <img src="../05_assets_visuels/p131_figure_01_pk_pd_adme.png" alt="Figure 26. Schéma des voies d'administration">
+  <figcaption>Figure 26. Schéma des voies d'administration.</figcaption>
 </figure>
-
-Figure 26.Schéma des voies d'administration
 
 Dans le cas d'une prise sublinguale, nasale, intraveineuse
 ou sous-cutanée, la molécule contourne le foie pour aller directement dans le
@@ -300,7 +275,7 @@ drogue selon deux modes d'administration est la MDMA. Avec une administration
 orale, le foie transforme une partie de la MDMA en molécule actives et
 hallucinogènes (comme MDA, HMDA, etc.) avant qu’elle arrive au cerveau. En
 revanche, lorsqu'elle est sniffée, la MDMA contourne cette étape et atteint
-directement le système sanguin. Les effets ressentis sont donc un peu différents [180] .
+directement le système sanguin. Les effets ressentis sont donc un peu différents [[180]](/references#ref-180) .
 
 Le premier passage hépatique peut aussi servir à activer
 certains médicaments ou drogues. C'est le cas de la codéine, qui est doit
@@ -344,12 +319,9 @@ plus facile à éliminer par l’urine ou la bile. Ces réactions se déroulent 
 principalement dans le foie.
 
 <figure class="doc-figure">
-  <img src="../05_assets_visuels/p137_figure_01_pk_pd_adme.png" alt="Pk Pd Adme">
-  <figcaption>Figure p. 137 : Pk Pd Adme.</figcaption>
+  <img src="../05_assets_visuels/p132_figure_01_pk_pd_adme.png" alt="Figure 27. Schéma simplifié de la métabolisation">
+  <figcaption>Figure 27. Schéma simplifié de la métabolisation.</figcaption>
 </figure>
-
-Figure 27.
-Schéma simplifié de la métabolisation
 
 Cependant, dans le contexte des drogues, la Phase II est
 souvent moins déterminante que la Phase I, car elle intervient principalement
@@ -363,10 +335,10 @@ Comprendre comment l’organisme digère l’alcool
 interactions avec d’autres drogues et médicaments.
 
 Le corps humain fabrique de l’alcool en très faible
-quantité de l’ordre de 0.0001 à 0.1 grammes par jours [181] , il n’est pas adapté à la
+quantité de l’ordre de 0.0001 à 0.1 grammes par jours [[181]](/references#ref-181) , il n’est pas adapté à la
 métabolisation d’une grande quantité.
 
-##### Les voies de dégradation principales [182]
+##### Les voies de dégradation principales [[182]](/references#ref-182)
 
 Le corps peut utiliser deux moyens pour modifier l’alcool
 (phase1). Le premier par des molécules spécialisés (ADH et ALDH) et l’autre par
@@ -374,8 +346,10 @@ des molécules généralistes (les cytochromes).
 
 ###### Les molécules spécialisées
 
-Figure 28 .Métabolisation de l'alcool par l'ADH et l'ALDH
-(C=carbone, O=Oxygène, H=Hydrogène)
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p133_figure_01_pk_pd_adme.png" alt="Figure 28. Métabolisation de l'alcool par l'ADH et l'ALDH">
+  <figcaption>Figure 28. Métabolisation de l'alcool par l'ADH et l'ALDH.</figcaption>
+</figure>
 
 Environ 90% de l’alcool consommé est métabolisé par cette
 voie. La phase 1 est réalisée en plusieurs réactions.
@@ -408,10 +382,10 @@ transformé acétyl-coA qui rentre dans le cycle de Krebs). C’est pour cela
 que l’alcool est calorique.
 
 Pour 1 gramme, l'alcool produit 7,1 calories alors que le
-sucre seulement 4 et le gras 9 [183] .
+sucre seulement 4 et le gras 9 [[183]](/references#ref-183) .
 Le corps va se concentrer sur la digestion de l’alcool et va donc utiliser ces
 calories en priorité. Pendant ce temps, les sucres et le gras vont être
-directement stockés [184] .
+directement stockés [[184]](/references#ref-184) .
 
 Cela veut dire que pour 10 grammes d’alcool (un verre
 standard), l’apport calorique est de 71 calories (sans compter le sucre présent
@@ -453,7 +427,7 @@ des fruits pourris et donc facilitait l’accès à la nourriture. Puis, lors du
 développement de l’agriculture donnant accès à une nourriture plus abondante,
 consommé de l’alcool est devenu un désavantage. Il y a plus de chances de
 survie si cette enzyme est surexprimée car cela provoque un dégout pour
-l’alcool diminuant donc la consommation et donc la mortalité [185] . En France, 5% de la
+l’alcool diminuant donc la consommation et donc la mortalité [[185]](/references#ref-185) . En France, 5% de la
 population serait intolérante à l’alcool.
 
 Sur cette base, afin de rendre intolérants les alcooliques,
@@ -470,7 +444,7 @@ sont accaparées pour métaboliser l’alcool, le gras s’accumule dans le foie
 on obtient ce que l’on appelle une stéatose hépatique, communément appelé “ foie
 gras ”. Une autre conséquence est une acidose lactique, qui est indirectement
 responsable de la goutte , cette inflammation des articulations
-douloureuses [186] .
+douloureuses [[186]](/references#ref-186) .
 
 La majorité de la toxicité
 de l’alcool provient de l’éthanal, produit de décomposition dans l’organisme. Un
@@ -491,8 +465,7 @@ consommations.
 Les personnes
 « résistantes » tombent plus facilement dans l’addiction.
 
-##### Les molécules généralistes : les
-cytochromes P450
+##### Les molécules généralistes : les cytochromes P450
 
 Les cytochromes P450 (CYP) sont une famille d'enzymes
 présentes surtout dans le foie. Elles jouent un rôle important dans le
@@ -511,7 +484,10 @@ différences génétiques (c’est le polymorphisme).
 Le principal cytochrome impliqué dans la transformation de
 l’alcool en éthanal est le CYP2E1.
 
-Figure 29 . Métabolisation de l'alcool par les cytochrome
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p135_figure_01_pk_pd_adme.png" alt="Figure 29. Métabolisation de l'alcool par les cytochromes">
+  <figcaption>Figure 29. Métabolisation de l'alcool par les cytochromes.</figcaption>
+</figure>
 
 Cette voie est problématique car elle produit des formes
 d’éthanal hyper réactifs (radicalaires) qui conduisent, plus que la forme
@@ -519,7 +495,7 @@ normale, à la perturbation des membranes cellulaires, dénaturation de certaine
 protéines, des mutations de l’ADN (mécanisme pouvant provoquer le cancer) et la
 mort des cellules du foie.
 
-Il s’avère que l’on retrouve des CYP2E1 dans le cerveau [187] , d’où la neurotoxicité
+Il s’avère que l’on retrouve des CYP2E1 dans le cerveau [[187]](/references#ref-187) , d’où la neurotoxicité
 de l’alcool !
 
 ###### Introduction aux interactions
@@ -546,7 +522,7 @@ Lors de la prochaine consommation, le corps aura plus de
 réserve et métabolisera plus vite. Le nom de cet effet est “l’induction
 enzymatique”. La tolérance à l’alcool augmente donc sa toxicité !
 La consommation d’alcool chronique multiplie les risques et ne les additionnes
-pas [188] .
+pas [[188]](/references#ref-188) .
 Les buveurs réguliers peuvent présenter jusqu’à 10 fois plus de CYP2E1 !
 
 ###### Induction enzymatique et interaction médicamenteuse
@@ -555,7 +531,7 @@ Il y a effet dangereux de cette induction enzymatique. Le
 CYP2E1 sert aussi à métaboliser le paracétamol. Sans l’induction enzymatique de
 l’alcool, seul une petite partie du paracétamol suit cette voie. Lorsque le
 paracétamol agit avec le CYP2E1 un produit hautement toxique est créer (le
-NAPQI) [189] .
+NAPQI) [[189]](/references#ref-189) .
 
 Donc, lors d’une consommation régulière d’alcool notamment
 une alcoolisation importante, la quantité de CYP2E1 augmente, en cas de prise
@@ -597,7 +573,7 @@ consommation chronique d'alcool.
 La capacité à mesurer ces produits de dégradation a ouvert
 la voie à diverses applications en médecine légale. Par exemple, dans le cas
 d'un accident du travail, il est possible de vérifier si la personne était sous
-l'influence de l'alcool, même si l'alcool lui-même n'est plus détectable [190] .De plus,
+l'influence de l'alcool, même si l'alcool lui-même n'est plus détectable [[190]](/references#ref-190) .De plus,
 dans les analyses post-mortem, il est possible de différencier l'alcool
 consommé avant le décès et l'alcool produit par la décomposition du corps.
 
@@ -606,12 +582,15 @@ informations précieuses pour les professionnels de la santé et la justice.
 
 #### Prodrogue : Exemple de la codéine
 
-Figure 30.Schéma simplifié de la métabolisation de la codéine
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p137_figure_01_pk_pd_adme.png" alt="Figure 30. Schéma simplifié de la métabolisation de la codéine">
+  <figcaption>Figure 30. Schéma simplifié de la métabolisation de la codéine.</figcaption>
+</figure>
 
 Un exemple intéressant est celui de la codéine, un
 médicament qui n’est pas vraiment actif en lui-même. Pour produire ses effets,
 elle doit être métabolisée dans le corps. La codéine suit trois voies
-principales de métabolisation [191]
+principales de métabolisation [[191]](/references#ref-191)
 :
 
 Autrement dit, seule une petite partie de la codéine (5 à 10
@@ -689,12 +668,12 @@ il est possible de reprendre une dose, et est donc pris en compte pour fixer
 les posologies.
 
 Par exemple, la demi-vie de la caféine est d'environ 5
-heures [192] .
+heures [[192]](/references#ref-192) .
 Cela signifie qu'il faut 5 heures pour éliminer 50 % de la caféine consommée.
 Puis, il faut encore 5 heures pour éliminer 50 % du reste (soit 75 % éliminés
 du total de caféine consommée), et ainsi de suite.
 
-Au bout de 5 périodes [193] ,
+Au bout de 5 périodes [[193]](/references#ref-193) ,
 97 % de la caféine a été éliminée par l'organisme. L'élimination est rapide au
 début, car la concentration est élevée et le corps réagit en conséquence ; avec
 le temps, le taux d'élimination diminue.
@@ -728,7 +707,7 @@ demi-vie, seule la moitié est éliminée).
 
 La réponse à cette question n'est pas aisée et peut varier
 selon les domaines considérés. En cas de contamination radioactive, la
-référence est plutôt de 10 périodes ; en pharmacologie, elle est de 7 périodes [194] ,
+référence est plutôt de 10 périodes ; en pharmacologie, elle est de 7 périodes [[194]](/references#ref-194) ,
 soit environ 99,2 % d'élimination.
 
 Autrement dit si un médicament est incompatible avec la

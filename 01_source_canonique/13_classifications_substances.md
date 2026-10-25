@@ -23,9 +23,7 @@ nécessaire de prendre en compte plusieurs facteurs tels que leur mécanisme
 d'action sur le cerveau et le corps, leur potentiel addictif, leur dangerosité,
 la dose efficace, et bien plus encore, en plus de leurs effets subjectifs.
 
--
-
--Il est important de souligner qu'aucune classification
+Il est important de souligner qu'aucune classification
 basée uniquement sur les effets des drogues n'est universellement acceptée, car
 les effets peuvent varier en fonction des individus et des circonstances, et
 que certains mécanismes d'action peuvent être complexes.
@@ -36,13 +34,13 @@ famille et de mieux appréhender la toxicité potentielle de certains mélanges.
 De plus, toutes les drogues et substances agissant sur le cerveau peuvent être
 classées dans cette classification.
 
-En 2003, un ingénieur nommé Derek Snider [237]
+En 2003, un ingénieur nommé Derek Snider [[237]](/references#ref-237)
 a proposé une classification en prenant en compte 4 types d'effets majeurs et
 en créant un diagramme logique. Ce type de diagramme est connu sous le nom de «
 diagramme de Venn ». Parfois, cette classification est seulement présentée
 comme diagramme de Venn. Cette classification est souvent reprise, elle a également
 été adoptée par la Commission globale de politique en matière de drogues en
-2019 [238] .
+2019 [[238]](/references#ref-238) .
 
 ### Les quatre grandes catégories
 
@@ -52,9 +50,9 @@ dépresseurs et perturbateurs (anciennement appelés hallucinogènes).
 
 |  | Stimulant | Neuroleptique | Dépresseur | Perturbateur |
 | --- | --- | --- | --- | --- |
-| Action | Stimulation des fonctions psychiques (éveil, activité du <br> cerveau, etc.) | Aussi appelé Antipsychotique ou <br> « tranquillisant » Neutralité émotionnelle et affective <br> Effet sédatif [239] . | Diminution des fonctions psychiques. Diminution de <br> l’activité cérébrale et perte de la mémoire. <br> Soulagement de l’anxiété | Modification de la conscience et de la perception. <br> Souvent, les perturbateurs sont euphorisants. |
+| Action | Stimulation des fonctions psychiques (éveil, activité du <br> cerveau, etc.) | Aussi appelé Antipsychotique ou <br> « tranquillisant » Neutralité émotionnelle et affective <br> Effet sédatif [[239]](/references#ref-239) . | Diminution des fonctions psychiques. Diminution de <br> l’activité cérébrale et perte de la mémoire. <br> Soulagement de l’anxiété | Modification de la conscience et de la perception. <br> Souvent, les perturbateurs sont euphorisants. |
 | Ce que je ressens | Mes pensées s’accélèrent. Je suis plein d’énergie | Mes émotions sont moins fortes (joie et tristesse). Je <br> suis moins motivé. Je suis moins anxieux. | Je suis dans le gaz. J’ai moins <br> mal. | Mes raisonnements sont différents. Mes sens sont modifiés <br> (les couleurs, le touché, la perception du temps) |
-| Exemple [240] | Cocaïne | CBD | Alcool | Champignon hallucinogène |
+| Exemple [[240]](/references#ref-240) | Cocaïne | CBD | Alcool | Champignon hallucinogène |
 
 Tableau 21.Les 4 grands types d'effets des drogues
 
@@ -82,11 +80,9 @@ précis, le terme de perturbateur est utilisé.
 ### Classification générale de Derek Snider
 
 <figure class="doc-figure">
-  <img src="../05_assets_visuels/p160_figure_01_classifications_substances.png" alt="Classifications Substances">
-  <figcaption>Figure p. 160 : Classifications Substances.</figcaption>
+  <img src="../05_assets_visuels/p160_figure_01_classifications_substances.png" alt="Figure 33. Classification simplifiée de Derek Snider">
+  <figcaption>Figure 33. Classification simplifiée de Derek Snider.</figcaption>
 </figure>
-
-Figure 33.Classification simplifiée de Derek Snider
 
 #### Limite s
 
@@ -122,11 +118,6 @@ traitement de Diazépam, les effets du LSD pourraient être atténués.
 La classification permet également d’avoir une
 première approche lors des poly consommation (prise de plusieurs substances).
 
-<figure class="doc-figure">
-  <img src="../05_assets_visuels/p162_figure_01_classifications_substances.png" alt="Classifications Substances">
-  <figcaption>Figure p. 162 : Classifications Substances.</figcaption>
-</figure>
-
 Dans
 une première approche :
 
@@ -155,7 +146,7 @@ effet antalgique peu donner l’impression d’avoir plus de force. En fait, non
 vous ne sentez juste pas la douleur. Plus de détails seront présents dans la
 partie dédiée à cette drogue (préciser quel chapitre/partie).
 
-#### Cas particulier du cannabis [241]
+#### Cas particulier du cannabis [[241]](/references#ref-241)
 
 Le cannabis n’est pas une
 substance mais un mélange de substances actives (CBD, THC et d’autres molécules
@@ -184,11 +175,9 @@ Pour mieux appréhender ces termes, il faut aller un peu plus
 loin dans la classification, et chercher des sous-familles :
 
 <figure class="doc-figure">
-  <img src="../05_assets_visuels/p168_figure_01_classifications_substances.png" alt="Classifications Substances">
-  <figcaption>Figure p. 168 : Classifications Substances.</figcaption>
+  <img src="../05_assets_visuels/p162_figure_01_classifications_substances.png" alt="Figure 34. Principales sous-familles de la classification de Derek Snider">
+  <figcaption>Figure 34. Principales sous-familles de la classification de Derek Snider.</figcaption>
 </figure>
-
-Figure 34. Principales sous-familles de la classification de Derek Snider
 
 #### Les dissociatifs
 
@@ -196,7 +185,7 @@ Les dissociatifs donnent la sensation
 d’être déconnecté de son corps . C’est la « décorporation » :
 le corps et l’esprit sont dissociés. A dose faible, il est toujours possible de
 contrôler, bien que difficilement, ses mouvements. Le risque de chute reste
-considérable, et c’est l’un des dangers bien connus de cette sous-famille [242] .
+considérable, et c’est l’un des dangers bien connus de cette sous-famille [[242]](/references#ref-242) .
 A forte dose, les dissociatifs peuvent être utilisés comme anesthésiant ,
 c’est le cas de la kétamine et du protoxyde d’azote.
 
@@ -234,7 +223,7 @@ dérivés de la morphine.
 
 Le terme psychédélique a été inventé par
 Humphry Osmond, un pionnier de la recherche sur le sujet aux États-Unis. Cela
-pourrait se traduire par « Dévoilant ou déployant l’âme » [243] .
+pourrait se traduire par « Dévoilant ou déployant l’âme » [[243]](/references#ref-243) .
 
 Pour décrire cela de façon plus
 pragmatique, les psychédéliques se caractérisent par des effets psychologiques
@@ -263,20 +252,17 @@ ou encore en tant que sédatifs puisqu’ils présentent moins d’effets second
 que les benzodiazépines. Il y a de grandes chances que vous en ayez déjà pris
 au cours de votre vie d’ailleurs, à faible dose, évidement.
 
-## Classification selon les dommages causés à soi et
-aux autres
+## Classification selon les dommages causés à soi et aux autres
 
 Dans les années 70 la guerre
 contre les drogues débute avec une règlementation de l’ONU, de la naîtra cette
 classification drogue dure et drogue douce.
 
--La notion de drogues douces et
+La notion de drogues douces et
 dures est souvent utilisée pour différencier les drogues. L’alcool, le cannabis
 et le tabac sont présentées comme des drogues moins « graves »
 (douces) par rapport à toutes les autres qui elles seraient « vraiment »
 dangereuses (fort potentiel addictif, forte potence etc.).
-
--
 
 Imaginons que la notion de drogue
 douce et dure est du sens : Est-ce que l’alcool, le tabac et le cannabis
@@ -288,9 +274,9 @@ et souvent demandé par les politiques.
 
 Il existe plusieurs
 classifications par dangerosité. Parmi les plus connues il y a le rapport
-Roques de l’Assemblée Nationale en 1998 [244]
-et celle de David Nutt de 2007 [245]
-(cartographie Dépendances/Dommages utilisé régulièrement dans les forum de RDR) [246] .
+Roques de l’Assemblée Nationale en 1998 [[244]](/references#ref-244)
+et celle de David Nutt de 2007 [[245]](/references#ref-245)
+(cartographie Dépendances/Dommages utilisé régulièrement dans les forum de RDR) [[246]](/references#ref-246) .
 Ces classifications sont assez basiques. Depuis, David Nutt, a poussé la
 réflexion et a co-développé une classification beaucoup plus détaillée parue en
 2010 puis reprise et validée dans plusieurs pays jusqu’en 2021.
@@ -319,9 +305,9 @@ QUAND : 2010
 
 COMMENT : Utilisation d’une méthode scientifique
 qui permet de définir des critères et des pondérations de façon cadrée.
-(méthode MCDA [247] )
+(méthode MCDA [[247]](/references#ref-247) )
 À titre d’exemple, cette méthode a été utilisée pour conseiller les
-gouvernements sur la gestion des déchets nucléaires [248]
+gouvernements sur la gestion des déchets nucléaires [[248]](/references#ref-248)
 
 COMBIEN : 20 substances, 16 critères,
 2 séminaires nationaux
@@ -339,18 +325,18 @@ simple à dire, mais complexe à réaliser.
 L’étude a été faite au
 Royaume-Uni en 2010, mais les travaux ont été repris en 2015 au niveau européen
 avec la même méthode : cette fois avec 30 spécialistes de 20 pays et les
-résultats sont similaires [249]
+résultats sont similaires [[249]](/references#ref-249)
 (nous la prendrons également en compte). Depuis, elle a été citée dans environ
 1000 publications scientifiques, qui l’utilisent souvent en point de
-départ, par la Commission globale de politique en matière de drogues en 2019 [250]
+départ, par la Commission globale de politique en matière de drogues en 2019 [[250]](/references#ref-250)
 et présentée encore en 2022 dans les cours d’addictologie. D’autres études sur
 des approches différentes obtiennent des résultats similaires. Par exemple, en
 regardant la différence pour chaque substance entre la dose létale et la dose
-usuelle [251]
-ou par l’étude de consommateurs [252] .
+usuelle [[251]](/references#ref-251)
+ou par l’étude de consommateurs [[252]](/references#ref-252) .
 
 Néanmoins, la méthode peut être
-critiquée [253] .
+critiquée [[253]](/references#ref-253) .
 En effet, les résultats bruts associent des critères pharmacologiques et des
 considérations sociétales beaucoup plus larges. Cela sera pris en compte dans
 la présentation de l’étude.
@@ -370,8 +356,7 @@ Enfin, seuls les dommages sont étudiés ici, alors qu’il peut
 exister des aspects positifs également (utilisation médicale, création
 d’emploi, culture, etc).
 
-#### « ça dépend de la
-dose »
+#### « ça dépend de la dose »
 
 Le premier réflexe lorsque cette
 étude est présentée est de se dire : « oui, mais ça dépend de la dose
@@ -408,8 +393,7 @@ atteignable ?
 Après avoir répondu à toutes ces questions, il faut définir
 quel poids donner à chaque question en appliquant un coefficient.
 
-### Le baccalauréat TNIC « Techniques de Nuisances
-Individuelles et Collectives »
+### Le baccalauréat TNIC « Techniques de Nuisances Individuelles et Collectives »
 
 L’approche de l’étude revient à
 considérer les drogues comme des élèves passant un bac. Nous avons donc 20
@@ -448,7 +432,7 @@ pourra sûrement avoir le même résultat. En gros, à type de consommation
 ### Les critères et pondérations
 
 La première étape réalisée par
-les chercheurs [254]
+les chercheurs [[254]](/references#ref-254)
 a consisté à définir les critères « pour soi et les autres (la société en
 générale) » et à leur attribuer à chacun d’eux un coefficient.
 
@@ -505,15 +489,12 @@ Pour reprendre l’analogie avec le
 Bac : l’éducation nationale a défini les matières et les coefficients, au
 tour des professeurs d’évaluer les élèves. Voici les résultats d’analyse de
 20 substances par des experts du Comité Scientifique Indépendant sur les
-Drogues [255] .
+Drogues [[255]](/references#ref-255) .
 
 <figure class="doc-figure">
-  <img src="../05_assets_visuels/p169_figure_01_classifications_substances.png" alt="Classifications Substances">
-  <figcaption>Figure p. 169 : Classifications Substances.</figcaption>
+  <img src="../05_assets_visuels/p168_figure_01_classifications_substances.png" alt="Figure 35. Classement Royaume-Uni selon David Nutt">
+  <figcaption>Figure 35. Classement Royaume-Uni (UK), étude David Nutt.</figcaption>
 </figure>
-
-Figure 35. Classement Royaume-Uni (UK) (étude David
-Nutt)
 
 Premièrement il semble important
 de remettre le contexte des substances étudiées car certaines drogues
@@ -523,7 +504,7 @@ la médecine : l’héroïne pour la tuberculose, la cocaïne comme
 anesthésiant local, les amphétamines comme coupe-faim ou traitement de certains
 troubles psychiatriques, le tabac comme cicatrisant, la kétamine comme
 anesthésiant, la MDMA et le LSD en psychiatrie, le GHB pour le traitement de la
-narcolepsie et l’alcoolisme [256] ,
+narcolepsie et l’alcoolisme [[256]](/references#ref-256) ,
 etc.
 
 Pour les études anglaise et
@@ -549,11 +530,9 @@ individuels et laisser les aspects sociétaux de côté. Voici donc la
 classification par rapport aux dommages individuels uniquement.
 
 <figure class="doc-figure">
-  <img src="../05_assets_visuels/p178_figure_01_classifications_substances.png" alt="Classifications Substances">
-  <figcaption>Figure p. 178 : Classifications Substances.</figcaption>
+  <img src="../05_assets_visuels/p169_figure_01_classifications_substances.png" alt="Figure 36. Classement par dommages pour soi uniquement">
+  <figcaption>Figure 36. Classement par dommages pour soi uniquement (Nutt 2010).</figcaption>
 </figure>
-
-Figure 36. Classement par dommages pour soi uniquement (Nutt 2010)
 
 L’alcool passe en quatrième
 position et quatre sous-groupes peuvent être identifiés en fonction des
@@ -591,30 +570,30 @@ trois drogues n’ont rien de doux, comme toutes les drogues.
 
 La distinction très populaire
 entre drogues douces et dures ne repose sur rien et est réfutés par les scientifiques
-et les autorités sanitaires [257] .
+et les autorités sanitaires [[257]](/references#ref-257) .
 
 En réalité, c’est l’usage, le contexte et l’individu qui
 rendent une drogue plus ou moins dangereuse .
 
 La dichotomie drogue dure, drogue douce en plus d’être
-fausse est dangereuse puisqu’elle [258]
+fausse est dangereuse puisqu’elle [[258]](/references#ref-258)
 :
 
--Stigmatise les consommateurs de drogues illégales, et
+- Stigmatise les consommateurs de drogues illégales, et
 participe activement à instaurer une toxicophobie,
 
--Minimise les risques liés aux usages des drogues
+- Minimise les risques liés aux usages des drogues
 socialement acceptées,
 
--Retarde la détection et la prise en charge des addictions
+- Retarde la détection et la prise en charge des addictions
 aux drogues socialement plus acceptées : alcool, cannabis et tabac
 principalement,
 
--A retardé la prise en charge médico-sociale adéquate des
+- A retardé la prise en charge médico-sociale adéquate des
 personnes toxicomanes, en distinguant jusqu’en 2014 les structures de soins et
 prise en charge des alcooliques et usagers d’autres drogues,
 
--Perpétue des idées reçues et retarde l’évolution de la
+- Perpétue des idées reçues et retarde l’évolution de la
 société et des règlementations en matière de stupéfiants.
 
 Ce n’est pas la substance
@@ -632,19 +611,19 @@ risques, cette classification permet d’avoir une première vision générale
 des dommages qui peuvent être causés . Par exemple, quelqu’un qui consomme
 de la cocaïne peut identifier qu’il risque :
 
--une mortalité spécifique
+- une mortalité spécifique
 (overdose)
 
--mais pourra en mourir pour une
+- mais pourra en mourir pour une
 raison indirecte (problème cardiovasculaire, accident),
 
--des maladies (hépatites à cause
+- des maladies (hépatites à cause
 de la prise par exemple),
 
--une dépendance (deux fois plus
+- une dépendance (deux fois plus
 qu’avec l’alcool mais deux fois moins que le tabac),
 
--des troubles psychologiques et
+- des troubles psychologiques et
 sociaux.
 
 Il est aussi possible de comparer des substances entre elles.
@@ -664,9 +643,7 @@ devient possible d'appréhender visuellement des sous-catégories. En effet, la
 taille de chaque critère est représentée dans un graphique à barres, facilitant
 ainsi la compréhension de divers aspects tels que la dépendance.
 
--
-
--D'autres systèmes de
+D'autres systèmes de
 classification offrent la possibilité de se concentrer sur des aspects
 spécifiques qui n'ont pas été abordés ou d'examiner certains détails plus en
 profondeur. Parmi les différentes classifications présentées, on peut citer :
@@ -734,7 +711,7 @@ international de contrôle, a créé des perceptions déformées et chargées de
 morale autour d’une prétendue distinction entre le « bien et le mal » séparant
 les drogues légales et illégales.
 
-Pourtant, le parlement [259] du
+Pourtant, le parlement [[259]](/references#ref-259) du
 Royaume-Uni a reconnu en 2006 que « la distinction entre substances légales
 et illégales n’est pas clairement fondée sur la pharmacologie, l’économie ou
 l’analyse coûts-avantages ». Jugeant impossible l’adoption d’une «
@@ -748,14 +725,14 @@ l’esprit (qui vont de la caféine à l’alcool en passant par le tabac). La
 régulation des substances légales s’effectue donc par d’autres moyens. »
 
 En France, durant l’année 1998, un pavé est jeté dans la
-mare en France avec le rapport Roques [260] ,
+mare en France avec le rapport Roques [[260]](/references#ref-260) ,
 qui va notamment faire s’effondrer la notion de drogue dure et douce . Le
 professeur Roques, directeur de l’unité des Sciences Pharmaceutiques et
 Biologiques, a été saisi par le gouvernement pour rédiger un rapport sur la
 dangerosité des produits. Il s’est entouré d’un groupe d’experts français et
 étrangers pour rédiger le document et le fournir à l’Assemblée nationale. À
 l’époque, cela avait provoqué l’émotion des professionnels de la filière « vins
-et alcools » qui n’avaient pas apprécié les résultats [261] …
+et alcools » qui n’avaient pas apprécié les résultats [[261]](/references#ref-261) …
 
 |  | Héroïne | Cocaïne | MDMA | Alcool | Benzodiazepines | Cannabis | Tabac |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -769,7 +746,7 @@ Tableau 23.
 Résultats du rapport ROQUES, 1998
 
 Afin de comprendre les enjeux et les conséquences de ce
-rapport, un extrait d’un entretien [262]
+rapport, un extrait d’un entretien [[262]](/references#ref-262)
 avec le professeur Roques réalisé plus de 10 ans après permet de cerner les
 enjeux et conséquences :
 
@@ -816,16 +793,13 @@ Elles découlent de la lettre de mission. Nous avons
 décidé de comparer la « dangerosité des drogues », selon les termes mêmes du
 titre du rapport, en prenant en compte :
 
-·
- la dangerosité sur le système nerveux central (atteintes
+- la dangerosité sur le système nerveux central (atteintes
 neuronales, par exemple)
 
-·
- la dangerosité générale pour l’organisme qu’on
+- la dangerosité générale pour l’organisme qu’on
 peut aussi définir comme la toxicité générale
 
-·
- la dangerosité individuelle , le risque pour
+- la dangerosité individuelle , le risque pour
 l’individu (par exemple le risque de cancer dans le cas du tabac) et la dangerosité
 interindividuelle, le risque causé à autrui après la consommation
 (accidents de la route pour le cannabis, par exemple) ou à l’occasion de la
@@ -920,20 +894,16 @@ l’augmentation de la consommation d’alcool chez les jeunes et elle a eu le
 courage de prendre quelques mesures pour tenter de réduire cette
 surconsommation :
 
-·
- retirer progressivement de la vente les boissons alcoolisées
+- retirer progressivement de la vente les boissons alcoolisées
 sur les autoroutes ou les stations-service à partir d’une certaine heure,
 
-·
- interdire la vente d’alcool aux moins de 16 ans en particulier
+- interdire la vente d’alcool aux moins de 16 ans en particulier
 dans les supermarchés,
 
-·
- lutter contre la pratique des happy hours qui incitent à la
+- lutter contre la pratique des happy hours qui incitent à la
 surconsommation par réduction des prix de la deuxième consommation,
 
-·
- inciter les alcooliers à supprimer leur soutien aux fêtes
+- inciter les alcooliers à supprimer leur soutien aux fêtes
 étudiantes par la fourniture de boissons alcoolisées gratuites, notamment les
 prémix très dangereux car dissimulant l’alcool et de plus très sucrés.
 
@@ -1031,7 +1001,7 @@ lors de l’achat ou de prévention par le vendeur, etc.
 Or, la liste des produits classés par l’ONU évolue
 lentement. 50 substances étaient classées en 1948 et 274 en 2018. De l’autre
 côté, les dérivés de drogues légales (Nouveaux Produits de Synthèses) ont
-explosé de 130 en 2018 à 803 en 2018 [263] .
+explosé de 130 en 2018 à 803 en 2018 [[263]](/references#ref-263) .
 
 La législation est donc un sujet complexe qui ne se
 concentre pas sur la santé ni la réduction des risques, mais sur la culture,
@@ -1077,7 +1047,7 @@ Il existe de nombreuses façons d’évaluer les risques et
 dangers des substances. Deux publications qui utilisent deux critères
 différents sont utilisées pour cette partie.
 
-Le premier critère [264]
+Le premier critère [[264]](/references#ref-264)
 évalue le danger intrinsèque des substances en calculant le nombre de fois
 qu'il est nécessaire de prendre la dose minimale efficace (DE50) pour atteindre
 la dose létale (DL50). Cet indice est souvent appelé "indice
@@ -1089,7 +1059,7 @@ qualité de la substance, par exemple. Toutefois, la limitation de cette
 approche est que les doses auxquelles les consommateurs sont réellement exposés
 ne sont pas prises en compte.
 
-Le second critère [265]
+Le second critère [[265]](/references#ref-265)
 se concentre sur l'évaluation du risque en mesurant le rapport entre la dose
 provoquant des effets secondaires et les doses moyennes auxquelles les
 individus sont exposés lors de la consommation. Dans ce cas, l'évaluation est
@@ -1184,10 +1154,10 @@ Dans ce contexte, l'exposition à la substance en question
 est prise en compte, ce qui en fait une évaluation du risque plutôt que du
 danger.
 
-Tableau 26. Classement par marge d'exposition selon l'étude
-de Dirk W Lachenmeier 2015. Rouge: moyenne, Barre: ecart-type, Gris: cas de
-personne ayant une tolérance, Rond noir (alcool): moyenne basée uniquement sur
-les cas humains.
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p178_figure_01_classifications_substances.png" alt="Tableau 26. Classement par marge d'exposition">
+  <figcaption>Tableau 26. Classement par marge d'exposition selon l'étude de Dirk W. Lachenmeier, 2015.</figcaption>
+</figure>
 
 La "Marge d'Exposition" (MOE) a été calculée pour
 l'exposition individuelle et l'exposition basée sur la population. Dans les
@@ -1286,7 +1256,7 @@ d'interactions (selon le livre "la toxicomanie" de Mohamed BEN AMAR
 ### Criminogène
 
 L'auteur Mohamed Ben Amar, dans son livre "La
-Toxicomanie [266] ,"
+Toxicomanie [[266]](/references#ref-266) ,"
 identifie et classe les drogues par leur potentiel criminogène après une
 analyse de la littérature. En effet, toutes les drogues ne sont pas criminogènes.
 Cette relation complexe entre la consommation de drogues et le comportement
@@ -1331,7 +1301,7 @@ criminels associés.
 
 | Substance | Type de Criminogénicité | Exemples de Comportements Criminels | Observations Complémentaires |
 | --- | --- | --- | --- |
-| Alcool | Direct | Violences, agressions sexuelles, comportements à <br> risque | La consommation d'alcool entraine une dérégulation <br> du circuit cérébral du contrôle inhibiteur [267] <br> même pour les personnes tolérantes (dans 40% des viols l’agresseur est <br> alcoolisé [268] ) |
+| Alcool | Direct | Violences, agressions sexuelles, comportements à <br> risque | La consommation d'alcool entraine une dérégulation <br> du circuit cérébral du contrôle inhibiteur [[267]](/references#ref-267) <br> même pour les personnes tolérantes (dans 40% des viols l’agresseur est <br> alcoolisé [[268]](/references#ref-268) ) |
 | Amphétamines | Direct | Violences, agressions | / |
 | Cocaïne | Direct & Indirect | Violences, vols | / |
 | Phencyclidine (PCP) | Direct | Violences, agressions | / |

@@ -4,8 +4,7 @@
 
 ## La sexualité
 
-### Soumission et
-vulnérabilité
+### Soumission et vulnérabilité
 
 La soumission chimique est
 l’administration, à l’insu ou par la contrainte , de substance active
@@ -26,19 +25,19 @@ volontairement des doses plus ou moins massives d’alcool. Dans ce cas les
 effets des produits se multiplient et ne s’additionne pas.
 
 De plus « Le verre de
-trop » peut également conduire à une amnésie et une perte de connaissance [277] .
+trop » peut également conduire à une amnésie et une perte de connaissance [[277]](/references#ref-277) .
 Il est fréquent que des consommateurs perdent la maitrise de leur consommation
 et estime avoir été drogué.
 
 A eux seuls, les résultats des analyses toxicologiques ne
 permettent pas donc pas toujours de répondre à cette question et doivent être
-dès lors confrontés aux déclarations des victimes et des témoins [278] .
+dès lors confrontés aux déclarations des victimes et des témoins [[278]](/references#ref-278) .
 
 En
 aucun cas une vulnérabilité chimique ne justifie une agression . Soumission
 ou vulnérabilité, le problème n’est ni la victime, ni la substance mais
 l’agresseur, donc le criminel. Dans les deux cas, cela est une
-circonstance aggravante [279] .
+circonstance aggravante [[279]](/references#ref-279) .
 
 De façon plus général, et par
 principe, il faudrait intégrer que :
@@ -54,25 +53,20 @@ prévention.
 
 L’agence nationale de sécurité du
 médicament (ANSM) et l’association française des centres d’addictovigilance
-enquêtent tous les ans sur les cas de soumission et vulnérabilité chimique [280] .
+enquêtent tous les ans sur les cas de soumission et vulnérabilité chimique [[280]](/references#ref-280) .
 
 Elles sont chargées de recueillir
 et d’analyser les données remontant des services suivants :
 
-·
- Les services de Médecine Légale,
+- Les services de Médecine Légale,
 
-·
- Les laboratoires de toxicologie experts,
+- Les laboratoires de toxicologie experts,
 
-·
- Les services de police/gendarmerie,
+- Les services de police/gendarmerie,
 
-·
- Les services d'urgences générales et de réanimation
+- Les services d'urgences générales et de réanimation
 
-·
- Les structures de téléconseil (Centre Anti-Poison, dispositif
+- Les structures de téléconseil (Centre Anti-Poison, dispositif
 Drogue info Service (DIS)...)
 
 Bien que tous les cas ne soient pas forcément déclarés, cela
@@ -133,22 +127,22 @@ diminue considérablement les chances de prouver l’agression. Si les
 victimes pensent que la drogue utilisée est du GHB et qu’elles croient qu’il
 n’est pas détectable, elles penseront qu’il est inutile de faire des tests.
 
-è Les résultats sont
+→ Les résultats sont
 écrasants : les médicaments sont les principaux produits utilisés pour
 les actes de soumission chimique.
 
-è En ce qui concerne les
+→ En ce qui concerne les
 drogues, si le GHB a la réputation d’être la drogue du viol, la MDMA ou
 l’alcool devraient aussi l’avoir .
 
-è En termes de prévention ,
+→ En termes de prévention ,
 se focaliser sur le GHB est une erreur et conduit à une perte de chance pour les
 victimes , qui penseront, à tord que la substance n’est pas mesurable et
 donc qu’il n’y a pas de preuve
 
 Les informations fournies par l'ANSM, présentées ici, sont
 en accord avec diverses études internationales. Le Laboratoire de Sciences
-Judiciaires et de Médecine Légale du Québec a analysé les résultats de 1274 [281]
+Judiciaires et de Médecine Légale du Québec a analysé les résultats de 1274 [[281]](/references#ref-281)
 personnes agressées qui ont passé des tests biologiques. Il s'est avéré que 30%
 d'entre elles n'avaient rien consommées à leur insu. Sept cas de soumission
 chimique ont été détectés, dont cinq impliquant des médicaments et aucun avec
@@ -163,7 +157,7 @@ indication représentative des tendances observées.
 
 Suite à l’affaire Dominique Pélicot (décembre 2024), où des
 anxiolytiques ont été utilisés pendant des années pour commettre des viols,
-l'ANSM (Agence nationale de sécurité du médicament) a annoncé [282] ,
+l'ANSM (Agence nationale de sécurité du médicament) a annoncé [[282]](/references#ref-282) ,
 dès janvier 2025, une série de mesures destinées à limiter le détournement de
 médicaments à risque de soumission chimique.
 
@@ -218,17 +212,17 @@ L’idée
 n’est pas de culpabiliser les victimes. L’objectif est de prendre conscience
 de deux points :
 
-è La prise de drogue
+→ La prise de drogue
 (comprenant l’alcool) n’est pas une activité anodine. Cela nous rend plus
 fragiles, plus vulnérables ;
 
-è Il y a plus de chance
+→ Il y a plus de chance
 d’être agressé dans le cadre d’une prise volontaire que d’être drogué par un
 agresseur. Dans les deux cas, l’agresseur est toujours en tord et la victime
 n’est pas en cause.
 
 En outre, la vulnérabilité peut
-parfois être trompeuse [283] .
+parfois être trompeuse [[283]](/references#ref-283) .
 Par exemple, l'alcool a un effet insidieux et un verre de trop peut provoquer ,
 d’un coup, une perte de lucidité, altérer profondément les perceptions et
 amener les personnes concernées à croire, à tort, qu'elles ont été droguées
@@ -240,7 +234,7 @@ substances que celles qu’elles avaient consommées.
 Dans le contexte de la vulnérabilité chimique, les
 statistiques se concentrent sur la consommation de la victime. D'un point de
 vue général , dans 40% des cas de viol ou de tentative de viol, l'agresseur
-était sous l'influence de l'alcool [284] .
+était sous l'influence de l'alcool [[284]](/references#ref-284) .
 
 Le terme « drogue du viol » accolé au GHB pose un problème
 majeur dans la perception des agressions chimiques. En concentrant l’attention
@@ -312,53 +306,45 @@ ne peut excuser une agression, et que c’est un facteur aggravant pénalement.
 Certains moyens de prévention peuvent être envisagé pour
 prévenir l’agressions, du côté de l’agresseur :
 
-·
- Définir ses limites avant de consommer
+- Définir ses limites avant de consommer
 
 Fixez un seuil (nombre de verres, temps de
 consommation) avant de commencer. Respectez-le.
 
-·
- Éviter les situations à risque
+- Éviter les situations à risque
 
 Si vous vous fixez sur une personne, fuyez
 les moments d’isolement où les pulsions peuvent prendre le dessus.
 
-·
- Garder un ami vigilant
+- Garder un ami vigilant
 
 Prévenez un proche de votre état d’esprit.
 Il pourra vous alerter si votre comportement devient dangereux.
 
-·
- Faire une pause
+- Faire une pause
 
 Si vous sentez que vous perdez le contrôle,
 éloignez-vous de la fête, hydratez-vous, laissez retomber la pression.
 
-·
- Masturbez-vous pour canaliser un désir incontrôlable
+- Masturbez-vous pour canaliser un désir incontrôlable
 
 Lorsque l’envie sexuelle devient trop
 forte, la masturbation peut aider à apaiser la tension sans risquer de blesser
 qui que ce soit. Cela ne règle pas tout, mais diminue parfois l’élan
 d’agression sexuelle lié à un désir brutal.
 
-·
- Garder à l’esprit les conséquences
+- Garder à l’esprit les conséquences
 
 Aucune prise de substance ne disculpe un
 agresseur. Les actes restent volontaires et engagent votre responsabilité.
 
-·
- Prendre au sérieux ses pulsions
+- Prendre au sérieux ses pulsions
 
 Si vous ressentez souvent des impulsions
 violentes ou incontrôlables sous substances, envisagez de consulter un
 professionnel.
 
-·
- Respecter le consentement
+- Respecter le consentement
 
 Le consentement n’est pas ambigu. Un
 « oui » clair vaut seulement au moment où il est donné. Un
@@ -370,7 +356,7 @@ n’existe pas.
 
 Certaines campagnes de prévention mettent en avant des
 dispositifs comme des vernis à ongles ou des bracelets capables de détecter la
-présence de GHB [285] .
+présence de GHB [[285]](/references#ref-285) .
 D'autres tests, comme CheckYourDrink , évoquent la possibilité de
 détecter plusieurs dizaines de drogues. Cependant, les certifications et les
 détails ne sont pas clairs ni communiqués. Par exemple, les taux de faux
@@ -404,7 +390,7 @@ Un test parfait a donc un intérêt discutable. En pratique,
 aucun test actuellement disponible n’est assez fiable pour détecter
 l’ensemble des substances susceptibles d’être utilisées dans une soumission
 chimique . De plus, il n’existe pas de transparence sur leur fiabilité et ce
-malgré un test de remboursement en pharmacie en 2024 [286] .
+malgré un test de remboursement en pharmacie en 2024 [[286]](/references#ref-286) .
  Un test négatif conduit donc à un faux sentiment de sécurité.
 
 Autre exemple, certaines capotes à verre sont financées par
@@ -426,7 +412,7 @@ créent un faux sentiment de sécurité , favorisant des comportements à
 risques.
 
 Si les associations et le CRAFS alertent régulièrement sur
-ce type de tests, un rapport parlementaire de 2025 sur la soumission chimique [287]
+ce type de tests, un rapport parlementaire de 2025 sur la soumission chimique [[287]](/references#ref-287)
 l’énonce noir sur blanc :
 
 « À des fins de prévention, il est essentiel qu’une
@@ -459,19 +445,19 @@ Elles peuvent être utiles mais
 restent insuffisantes. Leur distribution doit s’accompagner de
 sensibilisations sur la vulnérabilité et les comportements à risque .
 
-· Aucun
+- Aucun
 dispositif (capote à verre, paille, test) n'empêche totalement les agressions.
 
-· Leur
+- Leur
 efficacité est incertaine et peut créer un faux sentiment de sécurité.
 
-· Ce
+- Ce
 faux sentiment augmente la vulnérabilité.
 
-· Toujours
+- Toujours
 considérer à la fois la soumission chimique et la vulnérabilité.
 
-· Ne
+- Ne
 pas oublier que l’agresseur est dans la majorité connue de la victime
 (confiance trahie).
 
@@ -494,7 +480,7 @@ setting pour se protéger des soumissions/vulnérabilités chimiques mais
 | --- | --- |
 | Avant la soirée | Organisez-vous pour pouvoir vous exfiltrer de la soirée et <br> prévoyez une gestion de crise : <br> Prévenir un proche de sa soirée (y compris chez des amis) <br> afin qu’il puisse venir en cas de besoin, <br> Connaitre les numéros d’urgence, <br> Installer des applications de géolocalisation et d’urgence <br> (Mon chaperon, Ice GeoAlert, life360), En festival, utiliser l’application <br> Safer. <br> Choisir un SAM (une personne qui restera sobre dans la <br> soirée), <br> Discuter du sujet avec vos ami(e)s. |
 | Durant la soirée | Identifier les personnes de la sécurité. <br> Identifier les sorties de secours. <br> Ne pas reconsommer si la précédente prise n’est pas encore <br> montée. <br> Identifier une incohérence entre la quantité d’alcool bu <br> et les effets ressentis (ivresse importante pour un ou deux verres) <br> Considérer les personnes insistantes sur les consommations <br> comme malveillante <br> Espacer les prises |
-| En cas de doute | En cas de perte de contrôle (y compris si un verre de <br> trop): prévenez tant que vous le pouvez la sécurité et/ou vos proches. <br> Restez avec une amie, jamais seule. <br> Certains toxicologues <br> conseillent d’uriner dans une bouteille [288] <br> pour identifier plus facilement les substances (les tests sur les cheveux <br> sont plus longs). Sachant que dans plus de 85% des cas les substances <br> seront détectables 3 jours dans le sang ou/et urines. <br> <br> Si vous avez un doute <br> le lendemain de la soirée : <br> - Contactez le CRAFS, qui <br> est une plateforme dédiée à la prise en charge des soumissions et <br> vulnérabilité chimique : https://lecrafs.com/prise-en-charge/ <br> ou par téléphone : 01 40 05 42 70 <br> -contactez le centre <br> d’addictovigilance, ce sont des personnes formées qui pourront orienter. https://ansm.sante.fr/page/liste-des-centres-devaluation-et-dinformation-sur-la-pharmacodependance-addictovigilance-ceip-a <br> - Violences femmes info <br> (7j/h - 24h/24) : 3919 |
+| En cas de doute | En cas de perte de contrôle (y compris si un verre de <br> trop): prévenez tant que vous le pouvez la sécurité et/ou vos proches. <br> Restez avec une amie, jamais seule. <br> Certains toxicologues <br> conseillent d’uriner dans une bouteille [[288]](/references#ref-288) <br> pour identifier plus facilement les substances (les tests sur les cheveux <br> sont plus longs). Sachant que dans plus de 85% des cas les substances <br> seront détectables 3 jours dans le sang ou/et urines. <br> <br> Si vous avez un doute <br> le lendemain de la soirée : <br> - Contactez le CRAFS, qui <br> est une plateforme dédiée à la prise en charge des soumissions et <br> vulnérabilité chimique : https://lecrafs.com/prise-en-charge/ <br> ou par téléphone : 01 40 05 42 70 <br> -contactez le centre <br> d’addictovigilance, ce sont des personnes formées qui pourront orienter. https://ansm.sante.fr/page/liste-des-centres-devaluation-et-dinformation-sur-la-pharmacodependance-addictovigilance-ceip-a <br> - Violences femmes info <br> (7j/h - 24h/24) : 3919 |
 
 Tableau 33.
 Pistes de prévention des risques de soumission et vulnérabilité chimique
@@ -507,10 +493,10 @@ tout de même, de mieux réagir.
 Quel que soit le risque considéré (soumission, accident,
 badtrip), si l’on souhaite l’éviter, mieux vaut le prévenir et s’y préparer.
 
-· Prévention :
+- Prévention :
 préparation, connaissance du sujet, discussion avec les amis
 
-· En
+- En
 cas de doute : Contactez le CRAFS 01 40 05 42 70
 
 #### Zoom sur les piqures sauvages
@@ -524,7 +510,7 @@ il n’y a pas de rapport ou d’étude officielle sur le sujet. Il semblerait q
 la plupart des piqûres soient sans substances et non suivis d’agressions. Les
 motivations sont difficiles à comprendre. Des mesures de préventions sont
 prises par les gouvernements et les premières arrestations ont lieu. La
-soumission par piqure reste plus rare que la contamination d’un verre [289] .
+soumission par piqure reste plus rare que la contamination d’un verre [[289]](/references#ref-289) .
 En cas de piqure, les mêmes conseils de protection s’appliquent qu’avec un
 risque de maladies infectieuses (VIH, Hépatite).
 
@@ -553,27 +539,23 @@ les affectera. Il est souvent cru que l'alcool augmente la sociabilité, réduit
 l'anxiété et la tension, augmente l'agressivité et améliore les réponses
 sexuelles. Cependant, de nombreux effets de l'alcool, en particulier à faibles
 doses, sont davantage dus aux attentes de l'individu qu'à l'effet
-pharmacologique de l’alcool. Cet effet à fait l’objet d’une étude [290] .
+pharmacologique de l’alcool. Cet effet à fait l’objet d’une étude [[290]](/references#ref-290) .
 
 L'expérience utilise un protocole de recherche en 2x2 pour
 étudier l'effet de l'attente sur le comportement des participants en lien avec
 la consommation d'alcool. Dans ce protocole, les participants sont répartis en
 quatre groupes :
 
-·
- Le premier groupe est informé qu'ils recevront de l'alcool et en
+- Le premier groupe est informé qu'ils recevront de l'alcool et en
 reçoivent effectivement.
 
-·
- Le deuxième groupe est informé qu'ils recevront de l'alcool, mais
+- Le deuxième groupe est informé qu'ils recevront de l'alcool, mais
 reçoivent en réalité un placebo.
 
-·
- Le troisième groupe est informé qu'ils recevront un placebo, mais
+- Le troisième groupe est informé qu'ils recevront un placebo, mais
 reçoivent en réalité de l'alcool.
 
-·
- Le quatrième groupe est informé qu'ils recevront un placebo et en
+- Le quatrième groupe est informé qu'ils recevront un placebo et en
 reçoivent effectivement.
 
 Dans cette étude, les étudiants ont regardé des vidéos
@@ -604,7 +586,7 @@ L'agression sexuelle, abordée dans la partie "les
 drogues du viol", est un risque majeur. L'alcool affaiblit nos inhibitions
 et altère notre jugement, entraînant des décisions impulsives en matière de
 sexualité, tels que les rapports non protégés, les partenaires multiples et les
-relations avec des inconnus. [291]
+relations avec des inconnus. [[291]](/references#ref-291)
 
 Ces comportements accroissent les risques d'IST et de
 grossesses non désirées, et peuvent engendrer regret, honte ou anxiété,
@@ -620,13 +602,13 @@ protégé, consulté un médecin, planning familial ou pharmacie
 
 Certains sites relaient l'information selon laquelle une
 consommation modérée d'alcool aurait un effet protecteur contre les troubles
-érectiles [292] .
+érectiles [[292]](/references#ref-292) .
 La consommation modérée d'alcool (1-3 verres par jour, soit environ 7,8 verres
 par semaine) serait associée à un risque réduit de dysfonction érectile.
 Cependant, une consommation élevée d'alcool (plus de 3 verres par jour, soit
 environ 23,1 verres par semaine) a l’effet inverse.
 
-Lorsque l'on examine les méta-analyses [293] citées dans le texte, il
+Lorsque l'on examine les méta-analyses [[293]](/references#ref-293) citées dans le texte, il
 apparaît que cela n'est pas vraiment le cas. Les chercheurs ont examiné
 l'association entre la consommation d'alcool et le risque de dysfonction
 érectile en utilisant différentes méthodes d'estimation : non ajustées,
@@ -654,7 +636,7 @@ consommation modérée. D’autant plus que l’effet placebo précédemment cit
 rentre en jeu à dose modérée.
 
 Pour autant, une consommation importante est clairement
-associée à des troubles érectiles [294] .
+associée à des troubles érectiles [[294]](/references#ref-294) .
 
 En ce qui concerne les femmes, il n'a pas été démontré de
 manière concluante que la consommation d'alcool est associée à une dysfonction
@@ -669,7 +651,7 @@ importante d’alcool provoque des problèmes sexuels
 #### Effet physiologique
 
 Le comportement sexuel des hommes peut être fortement
-affecté par une consommation excessive d'alcool. La plupart des études [295] [296] ont montré
+affecté par une consommation excessive d'alcool. La plupart des études [[295]](/references#ref-295) [[296]](/references#ref-296) ont montré
 que la consommation d'alcool, tant régulière ou aiguë, inhibe la production
 de testostérone dans les testicules . Cela serait dû au métabolisme de
 l'alcool (voir partie concernée) qui réduit la quantité d’une molécule qui sert
@@ -682,14 +664,14 @@ néfastes sur la performance sexuelle masculine. Des études ont été menées,
 indiquant que des niveaux croissants d'intoxication alcoolique entraînent une
 dégradation significative de l'efficacité de la masturbation masculine
 (problèmes d'érection, une diminution de la sensibilité ou une incapacité à
-atteindre l'orgasme) [297] .
+atteindre l'orgasme) [[297]](/references#ref-297) .
 Cette dégradation a été mesurée en évaluant la concentration d'alcool dans le
 sang et la latence de l'éjaculation. L'intoxication alcoolique peut diminuer
 l'excitation sexuelle, réduire le plaisir et l'intensité de l'orgasme, et
-augmenter la difficulté à atteindre l'orgasme. [298]
+augmenter la difficulté à atteindre l'orgasme. [[298]](/references#ref-298)
 
 Les mêmes effets sont rencontrés pour les femmes avec une
-latence a l’orgasme [299] [300]
+latence a l’orgasme [[299]](/references#ref-299) [[300]](/references#ref-300)
 
 Lors
 d’une consommation régulière ou de consommation importantes, il y a une baisse
@@ -702,7 +684,7 @@ pour atteindre l’orgasme et diminue sont intensité.
 
 L'alcool à diverses conséquences sur la fertilité des
 femmes, notamment en affectant la fécondabilité de l'ovule différemment selon
-la phase du cycle menstruel pendant laquelle la consommation a lieu. Une étude [301] portant
+la phase du cycle menstruel pendant laquelle la consommation a lieu. Une étude [[301]](/references#ref-301) portant
 sur 413 femmes souhaitant concevoir a analysé l'impact de la consommation
 d'alcool sur la fertilité.
 
@@ -721,7 +703,7 @@ Aucune différence notable n'a été observée entre les
 différents types de boissons alcoolisées.
 
 Chez les hommes, la consommation d'alcool peut affecter la
-qualité et la quantité de spermatozoïdes. Une méta-analyse [302] a révélé que cet effet
+qualité et la quantité de spermatozoïdes. Une méta-analyse [[302]](/references#ref-302) a révélé que cet effet
 semble être limité aux consommateurs d'alcool quotidiens. D'un autre côté, les
 consommateurs occasionnels d'alcool semblent présenter des caractéristiques
 comparables aux non-consommateurs en termes de volume et de morphologie normale
@@ -729,7 +711,7 @@ des spermatozoïdes. Cependant, l'étude souligne une disparité des résultats
 parmi les recherches analysées, ce qui implique que l'interprétation de ces
 conclusions doit être abordée avec prudence.
 
-Des preuves récentes [303]
+Des preuves récentes [[303]](/references#ref-303)
 indiquent que la consommation d'alcool durant les périodes de préconception et
 de conception (pour les hommes et les femmes) est associée à un risque plus
 élevé de malformations cardiaques pour les bébés, surtout avec une consommation

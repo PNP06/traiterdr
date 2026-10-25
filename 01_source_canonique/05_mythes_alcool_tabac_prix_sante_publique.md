@@ -1,7 +1,6 @@
 # Mythes alcool, tabac, sante publique et prix
 
-## Le mois sans
-alcool/sans tabac est inutile
+## Le mois sans alcool/sans tabac est inutile
 
 Le Dry January ou "Janvier
 Sobre" est une campagne de sensibilisation annuelle qui a pour but
@@ -13,18 +12,14 @@ L’objectif du Dry January est avant
 tout de prendre conscience de sa relation avec l’alcool et d’identifier des
 comportements à risque en essayant de diminuer sa consommation :
 
-·
- Pourquoi consomme-t-on ?
+- Pourquoi consomme-t-on ?
 
-·
- Quand consomme-t-on ?
+- Quand consomme-t-on ?
 
-·
- Mieux appréhender la gestion de la pression sociale à consommer
+- Mieux appréhender la gestion de la pression sociale à consommer
 de l’alcool,
 
-·
- Prendre conscience de sa propre capacité à contrôler son
+- Prendre conscience de sa propre capacité à contrôler son
 comportement.
 
 Les études montrent que la
@@ -55,12 +50,9 @@ amélioration de la santé physique et mentale, une réduction des risques de
 maladies liées à l'alcool, et des économies financières.
 
 <figure class="doc-figure">
-  <img src="../05_assets_visuels/p052_figure_01_alcool_tabac_sante_publique_prix.png" alt="Alcool Tabac Sante Publique Prix">
-  <figcaption>Figure p. 52 : Alcool Tabac Sante Publique Prix.</figcaption>
+  <img src="../05_assets_visuels/p052_figure_01_alcool_tabac_sante_publique_prix.png" alt="Tableau 1. Bénéfices rapportés par les participants au Dry January">
+  <figcaption>Tableau 1. Bénéfices rapportés par les participants au Dry January d’après des enquêtes en ligne en 2018 (INSERM).</figcaption>
 </figure>
-
-Tableau 1.Bénéfices rapportés par les participants au Dry
-January d’après des enquêtes en ligne en 2018 (INSERM)
 
 La littérature scientifique
 montre que la consommation d'alcool est liée à de nombreuses pathologies, mais
@@ -79,19 +71,12 @@ est un facteur clé de la réussite de ces campagnes et même les participants
 qui ne réussissent pas le défi de l'abstinence pendant un mois peuvent
 présenter des effets bénéfiques à long terme.
 
-<figure class="doc-figure">
-  <img src="../05_assets_visuels/p062_figure_01_alcool_tabac_sante_publique_prix.png" alt="Alcool Tabac Sante Publique Prix">
-  <figcaption>Figure p. 62 : Alcool Tabac Sante Publique Prix.</figcaption>
-</figure>
-
 Il y a
 donc un intérêt individuel à entreprendre cette démarche, en particulier
 pour :
 
--
 Analyser sa propre relation à l’alcool,
 
--
 Tirer rapidement des bénéfices concrets de l’expérience.
 
 ### Effet sur la santé publique
@@ -117,7 +102,7 @@ plus élevé, la contribution totale des buveurs modérés est largement supéri
 en raison de leur nombre.
 
 Il existe suffisamment de données pour établir la quantité
-de maladies par type de buveurs [39] .
+de maladies par type de buveurs [[39]](/references#ref-39) .
 Ici seul le cancer est considéré.
 
 En France, environ 42,8 millions de personnes
@@ -157,7 +142,7 @@ collectif, comme un allègement des urgences et du système de santé.
 
 Fin 2019, Santé publique France, qui était engagée dans
 l’organisation d’un Dry January en 2020, a dû renoncer à sa mise en œuvre à la
-suite de décisions gouvernementales [40] .
+suite de décisions gouvernementales [[40]](/references#ref-40) .
 Cette décision a déclenché une vive réaction des associations et fédérations
 impliquées dans le domaine de l’addictologie. Elles ont alors décidé de lancer
 leur propre campagne, nommée Le Défi De Janvier (#LeDéfiDeJanvier), avec
@@ -177,7 +162,7 @@ d'impôts qui en découlent.
 
 En se concentrant sur les finances publiques, il est évident
 que l’alcool a un impact déficitaire malgré les taxes. Selon les données de
-Kopp (2015) et l’analyse de l’OFDT [41]
+Kopp (2015) et l’analyse de l’OFDT [[41]](/references#ref-41)
 (observatoire français des drogues et toxicomanies) qui sont cohérents avec
 l’expertise collective de l’INSERM, les coûts pour les finances publiques en
 2010 sont résumés dans le tableau ci-dessous :
@@ -233,7 +218,7 @@ les estimations actuelles ne reflètent qu'une partie de cette mobilisation.
 Point important, L’analyse
 des données du programme de médicalisation des systèmes d’information (PMSI) de
 2012 montre que la consommation d’alcool est la première cause
-d’hospitalisations en France [42] .
+d’hospitalisations en France [[42]](/references#ref-42) .
 
 D’autres coûts sont omis comme ceux liés au syndrome
 d'alcoolisation fœtale (SAF), qui peuvent générer des coûts importants mais qui
@@ -266,7 +251,7 @@ drogues : des approches similaires sont utilisées dans d’autres domaines, com
 le nucléaire, où elles permettent de calculer le coût social d’une unité de
 dose reçue. L’OFDT s’appuie ainsi sur des méthodologies éprouvées et largement
 reconnues, déjà appliquées dans d’autres secteurs pour garantir la rigueur et
-la fiabilité des résultats. A titre d’exemple, le rapport Quinet [43]
+la fiabilité des résultats. A titre d’exemple, le rapport Quinet [[43]](/references#ref-43)
 permet d’évaluer la valeur d’une vie humaine.
 
 #### Valeur économique de la vie humaine
@@ -287,8 +272,7 @@ L'évaluation intègre plusieurs dimensions mesurables :
 
 La valeur économique de la production perdue :
 
-·
- Les décès prématurés entraînent une perte de production
+- Les décès prématurés entraînent une perte de production
 économique. Cette perte est calculée selon la méthode du "capital
 humain", qui considère la valeur actualisée des revenus futurs qu'une
 personne aurait pu générer (PIB, impôts, taxes) si elle avait vécu. En moyenne,
@@ -297,8 +281,7 @@ selon l'Institut national du cancer (INCa, 2007).
 
 La qualité de vie perdue :
 
-·
- La dégradation de la qualité de vie chez les personnes malades
+- La dégradation de la qualité de vie chez les personnes malades
 est prise en compte. Une année vécue avec une maladie grave (par exemple, un
 cancer ou une maladie cardiovasculaire) est pondérée par un coefficient de
 perte de qualité de vie. Ces coefficients sont fournis par l’Organisation
@@ -308,8 +291,7 @@ personne en bonne santé.
 
 La perte en termes de vie humaine :
 
-·
- Chaque décès prématuré est associé à une valeur socio-économique
+- Chaque décès prématuré est associé à une valeur socio-économique
 pour les années de vie perdues. Le coût est obtenu en multipliant la valeur
 d’une année de vie (115 000 euros) par le nombre d'années de vie non réalisées,
 actualisé pour tenir compte du temps (avec un taux d'actualisation de 4 % dans
@@ -485,7 +467,7 @@ Tableau 5.Multiplication des taxes sur l’alcool pour
 ##### Pour le tabac
 
 Pour un paquet à 11€, 0,64€ vont
-à l’industriel et 1,11€ au vendeur le reste correspond aux taxes [44] .
+à l’industriel et 1,11€ au vendeur le reste correspond aux taxes [[44]](/references#ref-44) .
 Avec 1,5 milliards de paquet vendus, l’équilibre fiscal serait atteint avec un
 prix du paquet fixé à environ 12 € .
 Pour atteindre l’équilibre de l’effet sur le bien-être, le prix devrait être
@@ -508,54 +490,45 @@ Pour le calcul précédent, des hypothèses ont été prises en
 compte pour déterminer le prix du paquet de cigarettes permettant d'atteindre
 l'équilibre :
 
-·
- Salaire des consommateurs constant,
+- Salaire des consommateurs constant,
 
-·
- Inflation nulle,
+- Inflation nulle,
 
-·
- Consommation constante
+- Consommation constante
 
 Or, contrairement à un mythe répandu :
 
 L’augmentation des prix a un
 effet très important sur la consommation des produits toxiques.
 
-D’après le Baromètre de Santé Publique France 2018 [45]
+D’après le Baromètre de Santé Publique France 2018 [[45]](/references#ref-45)
 :
 
-·
- 40 % des anciens fumeurs quotidiens affirment que l’augmentation
+- 40 % des anciens fumeurs quotidiens affirment que l’augmentation
 des taxes sur le prix du tabac a été une motivation à leur arrêt.
 
-·
- 43,6 % des fumeurs déclarent que les augmentations des taxes les
+- 43,6 % des fumeurs déclarent que les augmentations des taxes les
 motivent à arrêter de fumer.
 
 Des études scientifiques ont évalué le concept
 d’élasticité-prix, qui mesure la sensibilité des consommateurs aux variations
 de prix avec ces conclusions sur le tabac :
 
-·
- En moyenne, une hausse de 10 % du prix entraîne une réduction
+- En moyenne, une hausse de 10 % du prix entraîne une réduction
 de la consommation d’environ 3 à 7 %, selon les régions et les groupes
-démographiques [46] ,
+démographiques [[46]](/references#ref-46) ,
 
-·
- Chez les jeunes [47] ,
+- Chez les jeunes [[47]](/references#ref-47) ,
 une augmentation de 10 % du prix entraîne une diminution de 15 %
 de la consommation aussi bien dans les pays à faible revenu que dans ceux à
 haut revenu,
 
-·
- La hausse des revenus a parfois compensé les effets des
-augmentations de prix [48] .
+- La hausse des revenus a parfois compensé les effets des
+augmentations de prix [[48]](/references#ref-48) .
 Pour être efficace, l’augmentation de prix doit tenir compte de l’augmentation
 du pouvoir d’achat.
 
-·
- Enfin, sur le long terme [49] ,
+- Enfin, sur le long terme [[49]](/references#ref-49) ,
 une étude couvrant trois décennies a révélé qu’une augmentation de 1 % du prix
 des cigarettes réduit la consommation de 0,43 %.
 
@@ -566,14 +539,9 @@ contextes économiques.
 
 ## Boire un verre de vin est bon pour la santé
 
-<figure class="doc-figure">
-  <img src="../05_assets_visuels/p064_figure_01_alcool_tabac_sante_publique_prix.png" alt="Alcool Tabac Sante Publique Prix">
-  <figcaption>Figure p. 64 : Alcool Tabac Sante Publique Prix.</figcaption>
-</figure>
-
 La
-réponse simple est : NON. L’expertise collective de l’INSERM [50] de 2021
-l’explique [51] ,
+réponse simple est : NON. L’expertise collective de l’INSERM [[50]](/references#ref-50) de 2021
+l’explique [[51]](/references#ref-51) ,
 toute consommation d’alcool entraine des risques pour la santé.
 
 Autrement dit : même un
@@ -601,11 +569,10 @@ Au-delà de considérations culturelles et d’arguments qui
 nous servent à légitimer nos consommations, une réelle évolution scientifique
 sur le sujet a eu lieu. Surtout, beaucoup de lobbys ont œuvré pour faire et
 mettre en avant ce type d’études. Pour aller plus loin sur ce sujet, un cash
-investigation [52]
+investigation [[52]](/references#ref-52)
 a été réalisé sur le sujet,ce livre abordera l’aspect scientifique.
 
-### Le problème
-général : prouver le lien de causalité
+### Le problème général : prouver le lien de causalité
 
 Pour comprendre l’évolution sur le sujet, il faut répondre à
 une question : comment les chercheurs arrivent à faire le lien entre la
@@ -621,11 +588,9 @@ suicides par strangulation et le budget alloué à la science, l’espace et la
 technologie aux USA.
 
 <figure class="doc-figure">
-  <img src="../05_assets_visuels/p065_figure_01_alcool_tabac_sante_publique_prix.png" alt="Alcool Tabac Sante Publique Prix">
-  <figcaption>Figure p. 65 : Alcool Tabac Sante Publique Prix.</figcaption>
+  <img src="../05_assets_visuels/p062_figure_01_alcool_tabac_sante_publique_prix.png" alt="Figure 3. Corrélation entre suicide et budget science et technologie des USA">
+  <figcaption>Figure 3. Corrélation entre suicide et budget science et technologie des USA.</figcaption>
 </figure>
-
-Figure 3. Corrélation entre suicide et budget science et technologie des USA [53]
 
 Il y a une corrélation à 99,8 %. Est-ce que l’un cause
 l’autre ? Sans effectuer des recherches poussées, il semble évident que
@@ -638,7 +603,7 @@ augmente l'impôt donc plus de budget et statistiquement plus de suicides, car
 plus de personnes dans le pays…
 
 Un premier exemple avec l’alcool est celui des cas de
-suicides. Une étude a révélé que dans 69% des cas de suicide [54] , il y avait une consommation
+suicides. Une étude a révélé que dans 69% des cas de suicide [[54]](/references#ref-54) , il y avait une consommation
 d'alcool. Il existe donc une corrélation, c'est-à-dire que les individus qui se
 suicident ont une forte propension à consommer de l'alcool. Cependant, affirmer
 que c'est la consommation d'alcool qui a poussé la personne à se suicider,
@@ -696,7 +661,7 @@ traitements de l’addiction alcoolique, mais pas pour l’étude de la mortalit
 aux faibles doses. Cela cause des problèmes éthiques, on ne peut pas faire
 boire des volontaires et voir quand ils meurent.
 
-En 2018 [55] ,
+En 2018 [[55]](/references#ref-55) ,
 une étude de ce type, visant à démontrer un effet protecteur de l’alcool sur la
 santé cardiovasculaire et le diabète a été financée à hauteur de
 100 millions $, principalement par l’industrie de l’alcool. Elle a
@@ -745,11 +710,10 @@ relation de causalité.
 Pendant 25 ans, ce sont majoritairement des études de
 ce type qui montraient les bienfaits potentiels de l’alcool.
 
-#### L’origine : Le French
-Paradox
+#### L’origine : Le French Paradox
 
 Tout est parti d’une étude de suivi des décès liés aux
-maladies cardiovasculaires : le projet MONICA [56] , piloté par l’OMS en 1986. Le
+maladies cardiovasculaires : le projet MONICA [[56]](/references#ref-56) , piloté par l’OMS en 1986. Le
 titre de l’étude est « variation géographique de la mortalité par
 maladie cardiovasculaire », soit : dans quels pays meurt-on le plus
 de maladies cardiaques ?
@@ -764,18 +728,18 @@ Le « french paradox » est né, et avec, la course
 au « facteur qui sauve les Français de la crise cardiaque ».
 
 Pour certains, c’est la consommation de fromage qui nous
-sauve [57] ,
-pour d’autres c’est le fait de manger doucement et moins en quantité [58] . Forcément, pour
+sauve [[57]](/references#ref-57) ,
+pour d’autres c’est le fait de manger doucement et moins en quantité [[58]](/references#ref-58) . Forcément, pour
 beaucoup, c’est la consommation de vin qui est supposée être plus importante
 que dans les autres pays.
 
 Déjà ici, c’est une erreur de penser que les Français
 sont les plus importants consommateurs de vin par habitant . Le Portugal et
-l’Italie par exemple en consomme autant que nous [59] .
+l’Italie par exemple en consomme autant que nous [[59]](/references#ref-59) .
 
 La machine est lancée et va être relayée dans les
-médias encore jusqu’en 2014 [60]
-malgré quelques émissions télévisées qui contre déjà le sujet en 2016 [61]
+médias encore jusqu’en 2014 [[60]](/references#ref-60)
+malgré quelques émissions télévisées qui contre déjà le sujet en 2016 [[61]](/references#ref-61)
 
 Si à forte dose nous savons que l’alcool est mauvais pour la
 santé, tout le problème est à doses dites « modérées ». Aujourd’hui
@@ -795,12 +759,9 @@ Il y a bon nombre d’études observationnelles qui montrent
 une courbe en J.
 
 <figure class="doc-figure">
-  <img src="../05_assets_visuels/p066_figure_01_alcool_tabac_sante_publique_prix.png" alt="Alcool Tabac Sante Publique Prix">
-  <figcaption>Figure p. 66 : Alcool Tabac Sante Publique Prix.</figcaption>
+  <img src="../05_assets_visuels/p064_figure_01_alcool_tabac_sante_publique_prix.png" alt="Figure 4. Risque relatif de la consommation d’alcool pour les maladies cardiaques ischémiques">
+  <figcaption>Figure 4. Risque relatif de la consommation d’alcool pour les maladies cardiaques ischémiques.</figcaption>
 </figure>
-
-Figure 4. Risque relatif de la consommation d’alcool
-pour les maladies cardiaques ischémiques [62]
 
 À l’horizontale, c’est le nombre de verres standards
 consommés par semaines. À la verticale, c’est le risque relatif. C’est le
@@ -827,8 +788,10 @@ passe-t-il pour les autres maladies ? Pour savoir, les chercheurs font
 des « meta-analyses », ils analysent des centaines de publications
 pour en faire une globale.
 
-Figure 5.
-Risque relatif de la consommation d’alcool [63]
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p065_figure_01_alcool_tabac_sante_publique_prix.png" alt="Figure 5. Risque relatif de la consommation d’alcool">
+  <figcaption>Figure 5. Risque relatif de la consommation d’alcool.</figcaption>
+</figure>
 
 Tous les autres risques augmentent même à faibles dose. Il
 faut donc pousser la réflexion plus loin. Est-ce que les bienfaits cardiaques
@@ -839,9 +802,10 @@ facteurs de mortalité de l’alcool et en intégrant cette fameuse courbe en J
 pour certains problèmes cardiaques. Cette étude est co-signée par des centaines
 de chercheurs du monde entier.
 
-Figure 6.
-Risque relatif de décès lié à l’alcool en fonction de la consommation de verres
-standards par jour [64]
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p066_figure_01_alcool_tabac_sante_publique_prix.png" alt="Figure 6. Risque relatif de décès lié à l’alcool en fonction de la consommation de verres standards par jour">
+  <figcaption>Figure 6. Risque relatif de décès lié à l’alcool en fonction de la consommation de verres standards par jour.</figcaption>
+</figure>
 
 En dessous d’un verre standard par jour, il ne semble pas y
 avoir plus de risque que les non-buveurs. Au-dessus, le risque augmente.
@@ -896,7 +860,7 @@ entière font partie d’un sous-groupe spécifique de la société (religion,
 catégorie socioprofessionnelle, etc.).
 
 Tous ces problèmes sont à prendre en compte si l’on souhaite
-interpréter les résultats. Une analyse [65]
+interpréter les résultats. Une analyse [[65]](/references#ref-65)
 de plusieurs études (« meta-analyse »), intégrant 4 millions
 de personnes, a trié les données et remarque que si les sources d’erreurs
 sont prises en compte , l'idée d'effet protecteur de l’alcool à dose
@@ -904,7 +868,7 @@ sont prises en compte , l'idée d'effet protecteur de l’alcool à dose
 
 #### La confirmation : l’apport de la génétique
 
-Un nouveau type d’étude est venu bousculer la science [66] , elle consiste à
+Un nouveau type d’étude est venu bousculer la science [[66]](/references#ref-66) , elle consiste à
 prendre en compte la génétique dans les études épidémiologiques.
 
 À la naissance, nous héritons tous aléatoirement de gènes
@@ -933,13 +897,13 @@ classique et l’étude en double aveugle.
 Ces nouvelles études qui évitent de nombreux biais, et
 montrent qu’il n’y a pas de facteurs de protection de l’alcool à faible dose, y
 compris pour les maladies cardiovasculaires. Le risque est augmenté même
-avec un verre par jour [67] [68] .
+avec un verre par jour [[67]](/references#ref-67) [[68]](/references#ref-68) .
 
 ### Conclusion
 
 Pour conclure, il est intéressant de citer un extrait de la
 « fiche points clés — Comment repérer et accompagner les consommations
-d’alcool ? » de la Haute Autorité de Santé (HAS) [69] . Dans le cadre
+d’alcool ? » de la Haute Autorité de Santé (HAS) [[69]](/references#ref-69) . Dans le cadre
 d’une évolution des recommandations de consommation d’alcool (qui seront
 détaillées dans la partie sur l’estimation des risques), l’HAS précise :
 
@@ -983,22 +947,19 @@ particulier par rapport aux autres alcools ?
 Voici un résumé de l'évolution des connaissances sur la
 toxicité de l'alcool à faible dose :
 
-·
- Connaissances antérieures : Il y avait une croyance répandue
+- Connaissances antérieures : Il y avait une croyance répandue
 selon laquelle une consommation modérée d'alcool, en particulier le vin rouge,
 pourrait avoir des effets bénéfiques sur la santé, notamment en réduisant le
 risque de maladies cardiovasculaires. Cette idée est souvent appelée l'«
 hypothèse française » ou le « paradoxe français ».
 
-·
- Remise en question : Au fil des années, de nouvelles études ont
+- Remise en question : Au fil des années, de nouvelles études ont
 remis en question cette hypothèse. La méthodologie et la qualité des études qui
 soutenaient les effets bénéfiques de la consommation modérée d'alcool ont été
 critiquées, notamment en raison de biais potentiels dans la sélection des
 groupes de participants et l'analyse des données.
 
-·
- Effets à faible dose : La recherche actuelle suggère que même une
+- Effets à faible dose : La recherche actuelle suggère que même une
 consommation d'alcool à faible dose peut être nocive pour la santé. Les effets
 nocifs potentiels comprennent une augmentation du risque de certains types de
 cancer, d'accidents vasculaires cérébraux et de troubles du système nerveux
@@ -1006,8 +967,7 @@ central. Les études ont également montré que les effets de l'alcool sur la
 santé varient selon les individus en fonction de facteurs génétiques,
 environnementaux et sociaux.
 
-·
- Pas de seuil de consommation sans risque : Les experts
+- Pas de seuil de consommation sans risque : Les experts
 s'accordent aujourd'hui pour dire qu'il n'existe pas de seuil de consommation
 d'alcool sans risque pour la santé. Cela signifie que même une consommation
 occasionnelle ou modérée peut entraîner des effets indésirables sur la santé à
@@ -1025,14 +985,14 @@ boisson est la plus toxique ?
 Dans une première étape, les différences vont principalement
 être :
 
--La quantité d’eau,
+- La quantité d’eau,
 
--Les « congénères », ce sont les molécules
+- Les « congénères », ce sont les molécules
 parasites créées par les levures (méthanol, aldéhydes etc),
 
--La présence d’antioxydant,
+- La présence d’antioxydant,
 
--L’apport énergétique (sucre + éthanol)
+- L’apport énergétique (sucre + éthanol)
 
 #### La présence d’antioxydant (cas du vin)
 
@@ -1050,17 +1010,17 @@ publique, c’est exactement la même chose de boire du vin, de la bière, de la
 vodka ou du whisky. Il y a zéro différence. On laisse penser à la population
 française que le vin serait protecteur, apporterait des bienfaits que ne
 conféreraient pas les autres alcools : c’est faux. Scientifiquement, le vin est
-un alcool comme un autre . » [70]
+un alcool comme un autre . » [[70]](/references#ref-70)
 
 Les antioxydants sont bons pour la santé car ils protègent
 l’ADN des attaques, donc du cancer entre autres. Le vin en contient, notamment
 un: le resvératrol.
 
 Or, pour obtenir une dose de resvératrol ayant un effet sur
-l’organisme, il faudrait boire environ 111 verres de vin [71] (le 111 n’est pas une faute
+l’organisme, il faudrait boire environ 111 verres de vin [[71]](/references#ref-71) (le 111 n’est pas une faute
 de frappe).
 
-A titre d’exemple, une étude [72] à comparer les effets
+A titre d’exemple, une étude [[72]](/references#ref-72) à comparer les effets
 antioxydant du vin, du jus de raisin et de solution de resvératrol sur des rats
 ayant une alimentation grasse. Cela reproduit le French Paradox.
 
@@ -1085,7 +1045,7 @@ C. La cocaïne est vraiment coupée avec de la vitamine C.
 Les congénères présents dans les boissons alcoolisées, tels
 que le méthanol, l'éthanal, arsenic, peuvent être particulièrement toxiques.
 Par conséquent, les boissons contenant davantage de congénères pourraient être
-plus nocives pour la santé, comme le suggèrent certaines études [73] . On observe par exemple que
+plus nocives pour la santé, comme le suggèrent certaines études [[73]](/references#ref-73) . On observe par exemple que
 les alcools distillés, comme la vodka, seraient moins toxiques que les boissons
 non distillées, comme le vin, qui contiennent davantage de dérivés toxiques.
 
@@ -1093,12 +1053,12 @@ Cependant, des études plus récentes ont montré que, dans le
 cas des boissons alcoolisées vendues dans le commerce, c'est uniquement
 l'éthanol qui dépasse la dose toxique. Ainsi, même si certaines boissons
 contiennent plus de congénères que d'autres, leur teneur en éthanol reste le
-facteur déterminant pour évaluer leur toxicité [74] .
+facteur déterminant pour évaluer leur toxicité [[74]](/references#ref-74) .
 
 #### Conclusion
 
 Au sujet des études montrant de potentiels bienfaits de
-l’alcool l’INSERM [75]
+l’alcool l’INSERM [[75]](/references#ref-75)
 précise : « Ces effets ont été rapportés quel que soit le type de
 boisson, vin, bière ou spiritueux. »
 

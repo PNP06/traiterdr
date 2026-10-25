@@ -47,7 +47,7 @@ spécialiste des drogues, la comparaison de celles-ci avec le sucre est
 absurde.
 
 Pour comprendre l’ « addiction » au sucre, une
-étude récente intitulée "Sugar addiction: the state of the science [76] "
+étude récente intitulée "Sugar addiction: the state of the science [[76]](/references#ref-76) "
 fait un point exhaustif sur l'état actuel des connaissances concernant
 l'addiction au sucre et sa comparaison avec l'addiction aux drogues.
 
@@ -62,7 +62,7 @@ activer le circuit de récompense.
 En ce qui concerne les études, très médiatisées, qui
 montrent que les rats ont tendances à prendre de façon préférentiel le sucre à
 la cocaïne, sont en fait peu reproductible et les résultats dépendent de
-comment ont été conditionnés les rats [77]
+comment ont été conditionnés les rats [[77]](/references#ref-77)
 (privation alimentaire, le délai entre la visualisation des choix et l’accès
 aux produits, etc).
 
@@ -177,7 +177,7 @@ aujourd’hui un moyen de dédramatiser sa consommation de drogue ou à minima d
 minimiser les risques et dommages en plaçant le sucre au premier plan.
 
 Pour finir, lors du 8ème Congrès sur les Addictions (E-ADD
-2024), qui s'est tenu le 19 mars 2024, une conférence [78]
+2024), qui s'est tenu le 19 mars 2024, une conférence [[78]](/references#ref-78)
 sur les addictions alimentaires a été animée par Philippe Gorwood, Laurent
 Karila, et Jean-Michel Cohen. Ils ont discuté de l'évolution potentielle du
 DSM, qui pourrait à l'avenir inclure un trouble spécifiquement dédié aux
@@ -189,30 +189,25 @@ utilisé de manière pratique pour décrire certains comportements qui ont des s
 traités de la même manière que les addictions traditionnelles, car ils
 n'activent pas les mêmes mécanismes dans le cerveau.
 
-<figure class="doc-figure">
-  <img src="../05_assets_visuels/p078_figure_01_sucre_naturel_reste_perche_contact.png" alt="Sucre Naturel Reste Perche Contact">
-  <figcaption>Figure p. 78 : Sucre Naturel Reste Perche Contact.</figcaption>
-</figure>
-
-· Certaines
+- Certaines
 conséquences des addictions, comme l'isolement social et le délaissement
 d’activités au profit de la consommation sont similaires quel que soit l'objet
 de l'addiction. Mais la toxicité de l’objet de l’addiction cause des problèmes
 de santé plus ou moins grave
 
-· Il
+- Il
 n'existe pas de preuves solides d'une véritable addiction au sucre chez les
 humains
 
-· Les
+- Les
 mécanismes cérébraux sont différents entre le sucre (essentiel à la vie) et les
 drogues
 
-· Les
+- Les
 troubles alimentaires et l'addiction alimentaire pourraient être inclus dans le
 DSM à l'avenir, mais ils ne fonctionnent pas comme les addictions aux drogues
 
-· Les
+- Les
 traitements pour un trouble du comportement lié au sucre ne sont pas les mêmes
 que pour les addictions
 
@@ -226,11 +221,6 @@ leur sécurité et leur efficacité.
 Cette dichotomie s'avère particulièrement problématique dans
 le domaine des drogues, où la perception de la naturalité peut fausser la
 compréhension de la toxicité et des risques associés.
-
-<figure class="doc-figure">
-  <img src="../05_assets_visuels/p081_figure_01_sucre_naturel_reste_perche_contact.png" alt="Sucre Naturel Reste Perche Contact">
-  <figcaption>Figure p. 81 : Sucre Naturel Reste Perche Contact.</figcaption>
-</figure>
 
 Or,
 il est important de comprendre que, quelle que soit l’origine (naturelle ou
@@ -246,21 +236,18 @@ prendre des décisions de manière efficace sans mobiliser beaucoup de ressource
 mentales.
 
 Trois raisonnements sont identifiés comme brouillant le
-jugement concernant les substances chimiques [79] :
+jugement concernant les substances chimiques [[79]](/references#ref-79) :
 
-·
- L'heuristique du "naturel est meilleur" : Cette
+- L'heuristique du "naturel est meilleur" : Cette
 croyance repose sur l'idée que le naturel est inoffensif, en opposition à
 l'idée que le synthétique est dangereux.
 
-·
- L'heuristique de la "contagion" : L'idée fausse
+- L'heuristique de la "contagion" : L'idée fausse
 qu'une présence, même minime, d'un composé non naturel rend l’ensemble du
 produit dangereux, négligeant la maxime toxicologique essentielle selon
 laquelle "c’est la dose qui fait le poison".
 
-·
- L'heuristique de la "confiance" : Une tendance à
+- L'heuristique de la "confiance" : Une tendance à
 se fier aveuglément à des entités ou des produits en raison de leur caractère
 naturel, sans évaluation fondée sur des preuves scientifiques.
 
@@ -270,22 +257,20 @@ c’est-à-dire les mélanges dans le produit fini, sont généralement beaucoup
 mieux contrôlées.
 
 Dans l'analyse des perceptions publiques réalisée en Europe concernant
-les substances chimiques [80]
- [81] ,
+les substances chimiques [[80]](/references#ref-80)
+ [[81]](/references#ref-81) ,
 des données révélatrices sont mises en évidence :
 
-·
- 70% des personnes interrogées ne sont pas conscients que la
+- 70% des personnes interrogées ne sont pas conscients que la
 structure chimique du sel (NaCl) demeure identique, que le sel soit d'origine
 naturelle ou synthétique.
 
-·
- 81% des personnes interrogées, pensent qu’un composé chimique
+- 81% des personnes interrogées, pensent qu’un composé chimique
 synthétique est toujours dangereux, indépendamment du niveau d'exposition.
 
 La chimiophobie est devenue un levier marketing tant pour
 les produits de consommation courante que pour les drogues. Ce phénomène repose
-sur le sophisme de l'appel à la nature [82] ,
+sur le sophisme de l'appel à la nature [[82]](/references#ref-82) ,
 une tactique de persuasion qui suggère que tout ce qui est naturel est
 automatiquement bon. Un sophisme est un argument fallacieux, c'est-à-dire un
 raisonnement biaisé utilisé pour convaincre. Ce type de raisonnement est
@@ -321,14 +306,14 @@ professionnels de santé. Un exemple est l’utilisation du violet de gentiane ,
 une molécule extraite d’une fleur, souvent recommandé par des pharmacies à des
 mères allaitantes pour traiter les candidoses. Cette pratique s’appuie
 fréquemment sur les recommandations de groupes ou d’associations d’allaitement,
-comme La Leche League France [83] ,
+comme La Leche League France [[83]](/references#ref-83) ,
 qui mentionne le violet de gentiane comme un traitement local efficace et peu
 coûteux et ne nécessitant pas de consultation médicale. Toutefois, cette
 approche soulève des questions majeures de sécurité .
 
 Le violet de gentiane est connu pour ses propriétés
 antifongiques. Toutefois, son caractère cancérigène a été démontré dans
-plusieurs études animales depuis les années 70 [84] .
+plusieurs études animales depuis les années 70 [[84]](/references#ref-84) .
 Par ailleurs, l’ Organisation mondiale de la santé (OMS) déconseille
 son usage dans l’alimentation animale, en raison de son effet génotoxique .
 Pourtant, son utilisation en première intention chez les mères allaitantes
@@ -373,15 +358,13 @@ partie grâce à sa perception comme un produit naturel et spirituel.
 Elle est souvent consommée dans le cadre de cérémonies dites
 « thérapeutiques » ou « chamaniques » et bénéficie d’une popularité croissante
 auprès de ceux en quête d’expériences introspectives. Cette boisson est
-composée principalement de deux plantes [85]
+composée principalement de deux plantes [[85]](/references#ref-85)
 :
 
-·
- La liane Banisteriopsis caapi, qui contient des
+- La liane Banisteriopsis caapi, qui contient des
 inhibiteurs de la monoamine oxydase (IMAO),
 
-·
- Des feuilles de Psychotria viridis, riches en
+- Des feuilles de Psychotria viridis, riches en
 diméthyltryptamine (DMT).
 
 Cette recette de base peut faire l’objet d’adaptation avec
@@ -400,7 +383,7 @@ En termes pharmacologiques, consommer de l’Ayahuasca revient
 à ingérer un mélange de DMT (agoniste des récepteurs à la sérotonine), une substance
 puissante et illégale dans de nombreux pays, et d’IMAO, une classe
 d’antidépresseurs historiquement utilisée, mais utilisés aujourd’hui en 3 ou 4 ème
-a causes de leurs effets secondaires [86] .
+a causes de leurs effets secondaires [[86]](/references#ref-86) .
 Ces derniers incluent notamment des interactions alimentaires potentiellement
 mortelles (syndrome sérotoninergique), ce qui impose des restrictions
 alimentaires et un encadrement médical strict.
@@ -435,7 +418,7 @@ sélectifs de la recapture de la sérotonine (ISRS) comme la Fluoxétine (Prozac
 prescrit par leur médecin , considérés comme « chimiques ».
 
 Bien que le millepertuis renferme des substances actives
-telles que l’hyperforine et l’hypéricine [87] ,
+telles que l’hyperforine et l’hypéricine [[87]](/references#ref-87) ,
 qui agissent sur plusieurs neurotransmetteurs (sérotonine, dopamine,
 noradrénaline, etc.), il n’est pas exempt de risques. Les études montrent qu’il
 peut entraîner de nombreuses interactions médicamenteuses et alimentaires
@@ -488,7 +471,7 @@ nature met déjà à disposition. La frontière entre « naturel » et « synth�
 
 Le chimiste et
 psychopharmacologue Alexander Shulgin, dans son ouvrage emblématique TIHKAL
-(Tryptamines I Have Known And Loved [88] ),
+(Tryptamines I Have Known And Loved [[88]](/references#ref-88) ),
 présente une série d’expériences fascinantes menées en Allemagne concernant la
 capacité du mycélium de champignons du genre Psilocybe à transformer des
 molécules psychoactives. Voici comment il décrit cette découverte dans la
@@ -541,11 +524,9 @@ Dans la mesure où la molécule active n’est pas celle produite par la plante,
 est ce que cela est naturel ?
 
 <figure class="doc-figure">
-  <img src="../05_assets_visuels/p089_figure_01_sucre_naturel_reste_perche_contact.png" alt="Sucre Naturel Reste Perche Contact">
-  <figcaption>Figure p. 89 : Sucre Naturel Reste Perche Contact.</figcaption>
+  <img src="../05_assets_visuels/p078_figure_01_sucre_naturel_reste_perche_contact.png" alt="Figure 7. Transformation du THCa en THC">
+  <figcaption>Figure 7. Transformation du THCa en THC.</figcaption>
 </figure>
-
-Figure 7.Transformation du THCa en THC
 
 Un autre exemple est celui du LSD, souvent qualifié de
 substance semi-synthétique ou semi-naturelle.
@@ -572,14 +553,14 @@ Autrement dit :
 Le CBD est légal dans de nombreux pays, mais la législation impose
 généralement une limite stricte sur la quantité de THC présente dans les
 produits. En France, par exemple, le taux de THC autorisé dans les produits à
-base de CBD ne doit pas dépasser 0,3 % [89] .
+base de CBD ne doit pas dépasser 0,3 % [[89]](/references#ref-89) .
 En revanche, certains dérivés du THC, qui peuvent être aussi actifs, voire
 plus, que le THC lui-même, restent parfois légaux jusqu’à leur interdiction
 explicite.
 
 C’est notamment le cas du HHC
 (hexahydrocannabinol), une molécule dérivée du THC. Le HHC est produit en
-laboratoire via une transformation chimique appelée hydrogénation [90] ,
+laboratoire via une transformation chimique appelée hydrogénation [[90]](/references#ref-90) ,
 qui consiste à ajouter des atomes d’hydrogène à la structure du THC. Cette
 modification confère au HHC des propriétés psychoactives similaires au THC,
 tout en le rendant potentiellement plus stable et difficile à détecter par les
@@ -635,14 +616,12 @@ perçus comme des alternatives qui ne seraient pas forcément meilleures. Sur ce
 point, deux types d'oppositions récurrentes apparaissent souvent dans le débat
 public :
 
-·
- D’une part, le sujet de l’addiction : « Ça ne sert à rien, on
+- D’une part, le sujet de l’addiction : « Ça ne sert à rien, on
 reste accro à la nicotine ». Cet argument reflète une confusion entre
 dépendance et dangerosité . Or, le principal risque sanitaire du tabac vient
 de la combustion, pas de la nicotine elle-même.
 
-·
- D’autre part, en ce qui concerne la cigarette électronique,
+- D’autre part, en ce qui concerne la cigarette électronique,
 certains invoquent des risques de toxicité potentiels à long terme, souvent
 formulés comme : « Vous verrez dans 30 ans ». Cette prudence peut se
 comprendre, mais elle manque souvent de mise en perspective avec les risques
@@ -678,7 +657,7 @@ substance, est toxique et cancérigène et n’est pas une pratique naturelle.
 Le problème de la combustion est très important et
 pose également un problème de santé avec le barbecue ou encore les bougies.
 
-Un rapport de l’ADEME [91]
+Un rapport de l’ADEME [[91]](/references#ref-91)
 (Agence de l’Environnement) montre que brûler trois bougies (même « naturelle »)
 dans une pièce non ventilée pendant deux équivaut à s’exposer à des niveaux
 de pollution similaires à ceux observés dans le trafic d’une autoroute .
@@ -735,8 +714,13 @@ dont certains peuvent être toxiques.
 Ces produits de fabrications secondaires s’appellent des
 congénères.
 
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p081_figure_01_sucre_naturel_reste_perche_contact.png" alt="Schéma p. 81. Teneur en congénères selon les boissons alcoolisées">
+  <figcaption>Schéma p. 81. Teneur en congénères selon les boissons alcoolisées.</figcaption>
+</figure>
+
 Il semblerait que les boissons contenant plus de congénères
-produisent plus de gueule de bois [92] ,
+produisent plus de gueule de bois [[92]](/references#ref-92) ,
 mais les recherches doivent se poursuivre. Malgré cela, c’est surtout la
 quantité d’éthanol qui reste la principale cause de gueule de bois.
 
@@ -753,7 +737,7 @@ le détournement d’alcools ménagers ou parfums.
 Avant de pouvoir consommer une boisson alcoolisée, un
 procédé doit être respecté pour retirer le méthanol. Le méthanol bout à 65°C et
 l’éthanol à 78°C. En chauffant le mout après fermentation ou en faisant une
-bonne distillation [93] ,
+bonne distillation [[93]](/references#ref-93) ,
 il est possible d’évacuer le méthanol sans enlever l’éthanol.
 
 Si dans les boissons du commerce les contrôles sont réalisés
@@ -764,7 +748,7 @@ Bernard Basset, vice-président de l’Association nationale de
 prévention en alcoologie et en addictologie précise : « De façon
 générale, la consommation d’alcool artisanal est fortement déconseillée, c’est
 clairement une prise de risques. Mieux vaut boire de l’alcool dont la qualité
-est garantie » [94] ,
+est garantie » [[94]](/references#ref-94) ,
 
 Pour les alcools non destinés à la consommation, ce procédé
 n’est pas forcément réalisé et les normes ne sont pas les mêmes : ce sont
@@ -780,18 +764,18 @@ produits ménager, sanitaire ou cosmétique contenant de l’alcool : ils
 contiennent plus de méthanol
 
 Dans les pays en voie de développement ou interdisant
-l’alcool, la vente de contrebande à des conséquences dramatiques, [95]
+l’alcool, la vente de contrebande à des conséquences dramatiques, [[95]](/references#ref-95)
 car non seulement les dealers n’enlèvent pas le méthanol présent, mais ils en
 rajoutent (car moins cher).
 
 Il est aussi possible d’avoir de mauvaises surprises comme
 en Israël en 2019. Le site du ministère de la Santé alerte sur des décès liés à
-la consommation d’alcool frelaté vendu en supermarchés et en kiosques [96] .
+la consommation d’alcool frelaté vendu en supermarchés et en kiosques [[96]](/references#ref-96) .
 
 Le méthanol est l’alcool le plus impactant sur la santé dans
 les non-qualités, mais les alcools dits « lourds » comme le propanol
 est aussi réglementé. Ils peuvent accroitre les maladies du foie, bien qu’ils
-jouent un rôle important dans la saveur de la boisson alcoolisée [97] .
+jouent un rôle important dans la saveur de la boisson alcoolisée [[97]](/references#ref-97) .
 
 En résumé, l’alcool, souvent considéré comme naturel,
 contient des centaines de molécules plus ou moins toxiques et nécessite un
@@ -818,7 +802,7 @@ Voici quelques exemples :
 Les compléments alimentaires sont peu réglementés et les
 consommateurs ne sont pas informés des risques pour la santé ni des
 interactions possibles avec des médicaments. Ce dernier point à fait l’objet
-d’une alerte de l’agence nationale de sécurité sanitaire. [103]
+d’une alerte de l’agence nationale de sécurité sanitaire. [[103]](/references#ref-103)
 
 Au-delà de ce manque d’information, il est important de
 souligner que les allégations de santé telles que « augmente l’énergie » ou «
@@ -834,7 +818,7 @@ Cependant, malgré ce cadre réglementaire, des enquêtes
 menées par la Direction générale de la concurrence, de la consommation et de
 la répression des fraudes (DGCCRF) ont révélé des taux significatifs de
 non-conformité sur les sites internet proposant des compléments alimentaires.
-Par exemple, une enquête a démontré que 76 % [104]
+Par exemple, une enquête a démontré que 76 % [[104]](/references#ref-104)
 des sites contrôlés présentaient des anomalies , notamment l’utilisation
 d’allégations de santé non autorisées ou employées de manière non conforme.
 Cela inclut des promesses exagérées ou infondées qui peuvent induire en erreur
@@ -912,17 +896,17 @@ avoir un changement de comportement est effectivement possible.
 
 Si ces problèmes sont souvent associés aux psychédéliques
 tels que la MDMA, le LSD ou les champignons. Il est important de souligner
-que le cannabis [105] ,
-l’alcool [106] [107] et
+que le cannabis [[105]](/references#ref-105) ,
+l’alcool [[106]](/references#ref-106) [[107]](/references#ref-107) et
 d'autres substances peuvent également créer des problèmes similaires.
 
 Le fait de dire « resté perché » peut en réalité
 faire référence a différentes causes, mais tout ne s’explique pas par une
-dose trop forte [108] .
+dose trop forte [[108]](/references#ref-108) .
 
 ### Badtrip traumatisant
 
-Un badtrip [109]
+Un badtrip [[109]](/references#ref-109)
 (pour le cannabis, le badtrip est appelé « la crise blanche ») peut
 entraîner des répercussions à long terme. Durant ces épisodes, il est possible
 d'observer des choses effrayantes ou d'éprouver des angoisses intenses. Bien
@@ -948,7 +932,7 @@ sur le badtrip.
 ### Trouble sous-jacent
 
 Une autre cause possible réside dans l'existence d'un
-trouble psychologique préexistant [110] [111] .
+trouble psychologique préexistant [[110]](/references#ref-110) [[111]](/references#ref-111) .
 Par exemple, une personne peut présenter des symptômes schizophréniques après
 avoir consommé une drogue. Dans ces cas, il n’est pas possible de prouver la
 relation de causalité, c'est-à-dire que la drogue n'est pas à l'origine de la
@@ -1006,7 +990,7 @@ De façon général en psychiatrie, il n’y a pas de trouble
 s’il n’y a pas de conséquences négative sur la vie du patient. Il ne faudrait
 donc pas parler de HPPD si la personne n’est pas gênée par les symptômes.
 Plusieurs études tendent à faire deux sous catégories de HPPD en fonction de la
-gravité [112] .
+gravité [[112]](/references#ref-112) .
 Le HPPD 1 qui serait réversible rapidement et le HPPD 2 irréversible ou peu
 réversible.
 
@@ -1019,7 +1003,7 @@ pourraient présenter ce trouble, tandis que certaines études indiquent que ce
 trouble n'est pas nécessairement lié à la consommation de substances. Enfin,
 certaines recherches suggèrent que le développement du HPPD est moins probable
 dans le cadre de thérapies psychédéliques qu'en cas d'usage récréatif de ces
-substances [113] .
+substances [[113]](/references#ref-113) .
 
 Il est difficile de classer les flashbacks et le HPPD
 dans des catégories définies, il est donc préférable de rester vague, étant
@@ -1027,13 +1011,13 @@ donné que les recherches sont peu avancées.
 
 À l'heure actuelle, il est généralement admis que le HPPD
 et flashback peuvent être déclenché par plusieurs substances psychoactives :
-les antidépresseurs [114] ,
-le LSD, le cannabis [115]
- [116]
+les antidépresseurs [[114]](/references#ref-114) ,
+le LSD, le cannabis [[115]](/references#ref-115)
+ [[116]](/references#ref-116)
 et la MDMA.
 
 Pour certains, le HPPD serait en réalité l'explication
-derrière le phénomène de flashback [117] .
+derrière le phénomène de flashback [[117]](/references#ref-117) .
 Dans les conversations au sein des associations de réduction des risques, le
 HPPD est généralement associé à des troubles visuels occasionnels qui
 persistent dans le temps. Le flashback, quant à lui, fait référence à la
@@ -1043,7 +1027,6 @@ plus ponctuel.
 Pour résumer, il est
 important de retenir que :
 
--
 La consommation de substances psychoactives (LSD, MDMA, antidépresseurs,
 cannabis) peut entraîner des effets de rémanence.
 
@@ -1059,7 +1042,7 @@ Un usage chronique de drogues peut également entraîner des
 dommages significatifs au cerveau, provoquant des changements de comportement.
 Par exemple, la consommation chronique d'alcool ou de protoxyde d’azote, qui
 causent une carence en vitamine B1, peuvent mener à une affection appelée
-psychose de Korsakoff [118] .
+psychose de Korsakoff [[118]](/references#ref-118) .
 Cette maladie se caractérise par des symptômes tels que des changements
 émotionnels, de l'apathie et de l'amnésie qui peut être vu comme le fait d’être
 bloqué.
@@ -1159,7 +1142,7 @@ facteur ne suffit pas, à lui seul, à entraîner une addiction.
 
 Par exemple, la nicotine, souvent considérée comme la drogue
 la plus addictive selon les analyses actuelles, n’entraîne une dépendance que
-chez environ 60 % [119]
+chez environ 60 % [[119]](/references#ref-119)
 des consommateurs réguliers.
 
 Cette idée simplifie à l'excès la complexité des mécanismes
@@ -1169,8 +1152,10 @@ Ces notions sont développées dans les différentes sections
 du livre, notamment dans la classification des substances et la partie dédiée à
 l’addiction.
 
-Figure 10.
-Parcours de l'addiction. Dr.CHIPI et Dr.LAJZEROWICZ [120]
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p089_figure_01_sucre_naturel_reste_perche_contact.png" alt="Figure 10. Parcours de l'addiction">
+  <figcaption>Figure 10. Parcours de l'addiction, d’après Dr CHIPI et Dr LAJZEROWICZ.</figcaption>
+</figure>
 
 L’addiction est un processus
 complexe, qui « s’apprend »
@@ -1178,7 +1163,7 @@ complexe, qui « s’apprend »
 Ce mythe présente des dangers concrets :
 
 Selon l'Observatoire Français des Drogues et des Tendances
-Addictives (OFDT) [121] ,
+Addictives (OFDT) [[121]](/references#ref-121) ,
 la majorité des usagers de drogues ne deviennent pas dépendants. Pour le
 cannabis, environ 9 % des consommateurs développent une dépendance. Ce chiffre
 augmente à 16 % pour les personnes ayant commencé leur consommation à
@@ -1186,7 +1171,7 @@ l’adolescence et atteint 25 à 50 % chez les usagers quotidiens.
 
 Une publication dans The Lancet estime qu’environ 10
 % des usagers de drogues développent une addiction, toutes substances
-confondues [122] .
+confondues [[122]](/references#ref-122) .
 
 La plupart des usagers ne développent pas d’addiction.
 L’enjeu principal est donc de les accompagner pour qu’ils maintiennent cette
@@ -1199,7 +1184,7 @@ livre.
 Pour aller plus loin, le taux de conversion permet d’y voir
 plus clair. Dans le champ de l’addictologie, le taux de conversion désigne la
 probabilité qu’une personne ayant déjà expérimenté une substance psychoactive
-développe ultérieurement un trouble de l’usage (selon le DSM-5 [123] )
+développe ultérieurement un trouble de l’usage (selon le DSM-5 [[123]](/references#ref-123) )
 ou une dépendance (selon le DSM-IV). Il s’agit d’une probabilité
 conditionnelle, calculée parmi les consommateurs , et non dans la
 population générale totale.
@@ -1254,8 +1239,8 @@ l’usage)
 Ces estimations reposent principalement sur des enquêtes
 telles que la National Comorbidity Survey et la National Epidemiologic Survey
 on Alcohol and Related Conditions, et ont été synthétisées dans plusieurs
-analyses comparatives (Anthony et al., 1994 [124] ;
-Lopez-Quintero et al., 2011 [125] ).Ces
+analyses comparatives (Anthony et al., 1994 [[124]](/references#ref-124) ;
+Lopez-Quintero et al., 2011 [[125]](/references#ref-125) ).Ces
 estimations reposent sur des données déclaratives rétrospectives, exposées à
 des biais de mémoire, de désirabilité sociale et à une sous-déclaration des
 usages anciens, en particulier pour les substances illicites.
@@ -1280,7 +1265,7 @@ sur des populations cliniques. En population générale, et lorsque les
 amphétamines sont distinguées de la méthamphétamine, le taux de conversion
 apparaît plus modéré, généralement compris entre 10 et 20 %. La méthamphétamine
 constitue un cas spécifique, associé à une progression plus rapide vers des
-formes sévères de trouble de l’usage [126] .
+formes sévères de trouble de l’usage [[126]](/references#ref-126) .
 
 Il doit enfin être rappelé que ces taux représentent des
 moyennes populationnelles. Le passage vers l’addiction est fortement influencé

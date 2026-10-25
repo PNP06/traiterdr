@@ -9,3 +9,44 @@
   for = "/assets/*"
   [headers.values]
     Cache-Control = "public, max-age=31536000, immutable"
+
+# Le site tient sur une page : les anciennes pages de lecture renvoient vers l'accueil.
+[[redirects]]
+  from = "/01_source_canonique/*"
+  to = "/#lire"
+  status = 301
+
+[[redirects]]
+  from = "/lire"
+  to = "/#lire"
+  status = 301
+
+[[redirects]]
+  from = "/sommaire"
+  to = "/#lire"
+  status = 301
+
+[[redirects]]
+  from = "/essentiels"
+  to = "/"
+  status = 301
+
+[[redirects]]
+  from = "/figures"
+  to = "/"
+  status = 301
+
+[[redirects]]
+  from = "/substances"
+  to = "/"
+  status = 301
+
+[[redirects]]
+  from = "/themes"
+  to = "/"
+  status = 301
+
+[[redirects]]
+  from = "/references"
+  to = "/"
+  status = 301

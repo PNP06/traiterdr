@@ -5,9 +5,9 @@
 Le problème avec les mécanismes précédents, c'est qu'ils
 peuvent endommager les neurones par surstimulation. Les neurones vont donc
 s'adapter pour survivre. Cette adaptation va ainsi diminuer les effets
-ressentis pour une même dose : c’est la Tolérance [162]
- [163]
- [164] .
+ressentis pour une même dose : c’est la Tolérance [[162]](/references#ref-162)
+ [[163]](/references#ref-163)
+ [[164]](/references#ref-164) .
  Dont il existe plusieurs types qui seront détaillés.
 
 La tolérance, l’accoutumance, la dépendance et l'addiction
@@ -18,11 +18,6 @@ car ils ont des implications différentes pour le diagnostic et le traitement.
 
 Tolérance = diminution de
 l’effet de la substance par l’adaptation de l’organisme
-
-<figure class="doc-figure">
-  <img src="../05_assets_visuels/p115_figure_01_tolerance_developpement_15_25_corp.png" alt="Tolerance Developpement 15 25 Corp">
-  <figcaption>Figure p. 115 : Tolerance Developpement 15 25 Corp.</figcaption>
-</figure>
 
 Dépendance=
 C’est un besoin vital de reprendre une substance , cette notion est
@@ -46,18 +41,11 @@ surstimulation, une mort cellulaire du neurone 2 peut survenir; plusieurs
 moyens de protection sont donc employés par ce dernier.
 
 <figure class="doc-figure">
-  <img src="../05_assets_visuels/p119_figure_01_tolerance_developpement_15_25_corp.png" alt="Tolerance Developpement 15 25 Corp">
-  <figcaption>Figure p. 119 : Tolerance Developpement 15 25 Corp.</figcaption>
+  <img src="../05_assets_visuels/p115_figure_01_tolerance_developpement_15_25_corp.png" alt="Figure 18. Schéma des mécanismes de tolérance">
+  <figcaption>Figure 18. Schéma des mécanismes de tolérance.</figcaption>
 </figure>
-
-Figure 18 .Schéma des mécanismes de tolérance
 
 Voici les principaux :
-
-<figure class="doc-figure">
-  <img src="../05_assets_visuels/p120_figure_01_tolerance_developpement_15_25_corp.png" alt="Tolerance Developpement 15 25 Corp">
-  <figcaption>Figure p. 120 : Tolerance Developpement 15 25 Corp.</figcaption>
-</figure>
 
 1.
  Cacher(internalisé) –
@@ -216,7 +204,7 @@ Elle pourrait s’expliquer par les mécanismes
 d’internalisation, de déplétion ou encore d’autorégulation des neurones.
 
 Il existe des calculateurs pour
-ce type de tolérance (pour le LSD et le cannabis notamment [165] ) , mais il est difficile
+ce type de tolérance (pour le LSD et le cannabis notamment [[165]](/references#ref-165) ) , mais il est difficile
 d’avoir un résultat fiable.
 
 La
@@ -254,7 +242,10 @@ Ci-après, un graphique illustrant les deux notions
 (tolérance aiguë et accoutumance). En ordonnée, c'est la quantité à prendre
 pour obtenir les effets équivalents à une première prise d’un gramme
 
-Figure 19.Tachyphylaxie (orange) , accoutumance (noir), pour un médicament X
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p119_figure_01_tolerance_developpement_15_25_corp.png" alt="Figure 19. Tachyphylaxie et accoutumance">
+  <figcaption>Figure 19. Tachyphylaxie (orange) et accoutumance (noir) pour un médicament X.</figcaption>
+</figure>
 
 En résumé, dans le cadre d'une administration unique d'un
 médicament ou d'une substance, c'est le mécanisme de tachyphylaxie, représenté
@@ -275,7 +266,6 @@ Tolérances :
 (Tachyphylaxie) : Apparaît rapidement à chaque prise et est généralement
 constante d'un consommateur à l'autre.
 
--
  Tolérance Longue (Accoutumance) : Se développe sur des prises répétées
 et persiste dans le temps. Elle est la cause principale des syndromes de
 sevrage pour certaines drogues. Cette tolérance varie selon les
@@ -325,11 +315,13 @@ part, elle a bien une explication neurologique.
 Tout le cerveau se « refait», c’est ce que l’on appelle
 la maturation cérébrale .
 
-Figure 20.
-Maturation du cerveau
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p120_figure_01_tolerance_developpement_15_25_corp.png" alt="Figure 20. Maturation du cerveau">
+  <figcaption>Figure 20. Maturation du cerveau.</figcaption>
+</figure>
 
 Cette « refonte du
-cerveau » se fait dans un certain ordre. Elle commence par le cervelet [166] ,
+cerveau » se fait dans un certain ordre. Elle commence par le cervelet [[166]](/references#ref-166) ,
 qui contrôle l’équilibre et coordonne les mouvements. Cela explique
 notamment pourquoi nous sommes maladroits au début de l’adolescence.
 
@@ -338,7 +330,7 @@ est le cortex préfrontal , c’est l’une des parties les plus importantes
 pour l’intelligence. En comparaison avec les animaux, les Hommes et les gros
 primates ont un cortex préfrontal beaucoup plus développé. Elle nous permet
 (entre autres) d’anticiper les conséquences de nos actes et de maitriser
-nos émotions [167] ,
+nos émotions [[167]](/references#ref-167) ,
 de résoudre des problèmes, de planifier des actions, autrement dit : de
 prendre les décisions qui nous semblent bonnes. (C’est tout de même déroutant
 de se dire que cette partie n’est pleinement opérationnelle qu’à parti de l’âge
@@ -347,13 +339,13 @@ de 25ans !)
 Certaines substances
 freinent ou perturbent la maturation du cerveau. L’usage régulier
 de nicotine par exemple dégrade la mémoire de travail (la mémoire à court
-terme) et rend plus impulsif [168] .
+terme) et rend plus impulsif [[168]](/references#ref-168) .
 Le cannabis, lui, atteint le cortex frontal et peut faire perdre 10 à 15 points
-de QI à l’âge adulte [169] .
+de QI à l’âge adulte [[169]](/references#ref-169) .
 
 De façon plus générale, plus la
 première consommation arrive jeune (quelle que soit la quantité) plus les
-chances d’être addict augmentent à l’âge adulte [170] .
+chances d’être addict augmentent à l’âge adulte [[170]](/references#ref-170) .
 
 Malheureusement, la période de 15
 à 25 ans est celle où nous sommes le plus enclins à avoir des comportements à
@@ -387,11 +379,9 @@ spécifique. Cependant, il existe aussi des systèmes plus vastes qui ne se
 limitent pas seulement au cerveau, mais qui exercent leur influence sur l'ensemble
 du corps.
 
--Parmi ceux-ci, il y a le système
+Parmi ceux-ci, il y a le système
 nerveux et le système endocannabinoïde. Ces systèmes étendus jouent un rôle
 essentiel dans l'orchestration de divers processus biologiques.
-
--
 
 ### Le système nerveux
 
@@ -443,13 +433,13 @@ système nerveux. En effet, dans notre langage courant, cet adjectif évoque
 plutôt la sympathie ou quelque chose qui suscite la sympathie. Cependant, dans
 le contexte médical qui sera développé ici, il prend un sens peut-être plus en
 rapport avec l'idée d'une action indirecte, semblable à l'encre sympathique ou
-à la magie sympathique utilisée dans certaines pratiques vaudou [171] .
+à la magie sympathique utilisée dans certaines pratiques vaudou [[171]](/references#ref-171) .
 
 |  | Système Parasympathique | Système Sympathique |
 | --- | --- | --- |
 | Rôle | Conserver <br> l’énergie durant les périodes de repos | Adaptation au <br> stress ou émotions fortes. Prépare le corps à l’action |
 | Molécule <br> associée | Acétylcholine | Adrénaline <br> aussi appelée épinéphrine, noradrénaline |
-| Effets | Rétrécissement <br> des pupilles <br> <br> Diminution <br> rythme cardiaque <br> <br> Augmentation du <br> volume de salive <br> <br> Conservation de <br> sucre et d’acide gras <br> <br> Irrigation <br> importante des organes internes (foie, intestins etc) <br> <br> Envie d’uriner <br> et stimulation de la digestion <br> <br> Rétrécissement <br> des bronches <br> <br> Appétit <br> <br> Erection <br> (clitoris et penis) <br> <br> Synthèse <br> d’insuline (digestion du sucre) | Dilatation <br> pupilles <br> <br> Augmentation rythme <br> cardiaque <br> <br> Diminution de <br> la salive <br> <br> Libération de <br> sucre et d’acides gras <br> <br> Irrigation <br> importante des muscles et vasoconstriction un niveau de la peau <br> <br> Rétention <br> urinaire et blocage de la digestion <br> <br> Dilatation des <br> bronches <br> <br> Perte d’appétit <br><br> Blocage de <br> l’érection [172] <br><br> Orgasme <br> <br> Synthèse de <br> glucagon (transformation graisse en sucre) [173] <br> <br> Augmentation <br> de la température corporelle <br> <br> Sudation <br> importante |
+| Effets | Rétrécissement <br> des pupilles <br> <br> Diminution <br> rythme cardiaque <br> <br> Augmentation du <br> volume de salive <br> <br> Conservation de <br> sucre et d’acide gras <br> <br> Irrigation <br> importante des organes internes (foie, intestins etc) <br> <br> Envie d’uriner <br> et stimulation de la digestion <br> <br> Rétrécissement <br> des bronches <br> <br> Appétit <br> <br> Erection <br> (clitoris et penis) <br> <br> Synthèse <br> d’insuline (digestion du sucre) | Dilatation <br> pupilles <br> <br> Augmentation rythme <br> cardiaque <br> <br> Diminution de <br> la salive <br> <br> Libération de <br> sucre et d’acides gras <br> <br> Irrigation <br> importante des muscles et vasoconstriction un niveau de la peau <br> <br> Rétention <br> urinaire et blocage de la digestion <br> <br> Dilatation des <br> bronches <br> <br> Perte d’appétit <br><br> Blocage de <br> l’érection [[172]](/references#ref-172) <br><br> Orgasme <br> <br> Synthèse de <br> glucagon (transformation graisse en sucre) [[173]](/references#ref-173) <br> <br> Augmentation <br> de la température corporelle <br> <br> Sudation <br> importante |
 | Drogues et <br> médicaments | Nicotine <br> Alcool <br> (partiellement) <br> Opiacés(codéine, <br> etc) <br> Bethanechol <br> (utilisé pour les problèmes de vessie) | Cocaïne <br> MDMA <br> Amphétamine <br> Cathinone <br> Ritaline <br> <br> Pseudoéphédrine <br> (utilisée comme décongestionnant) <br> <br> Phénéphrine <br> (utilisée comme vasoconstricteur dans certains médicaments pour le rhume) |
 
 Figure 22.Système nerveux sympathique et parasympathique
@@ -487,15 +477,14 @@ Les drogues agissant sur le
 système nerveux sympathique causent des effets secondaires dont deux risques
 majeurs :
 
--hyperthermie
+- hyperthermie
 
--trouble
+- trouble
 cardiaque
 
 Il existe un risque d’interaction
 important en cas de prise de médicament
 
-### Le système
-cannabinoïde endogène
+### Le système cannabinoïde endogène
 
 ### Le système opioïde endogène

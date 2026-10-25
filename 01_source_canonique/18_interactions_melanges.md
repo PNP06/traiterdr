@@ -27,11 +27,6 @@ priorités doit être la sensibilisation aux interactions. Pour bien comprendre
 les interactions, il est important d’avoir lu la partie sur le métabolisme des
 drogues.
 
-<figure class="doc-figure">
-  <img src="../05_assets_visuels/p252_figure_01_interactions_melanges.png" alt="Interactions Melanges">
-  <figcaption>Figure p. 252 : Interactions Melanges.</figcaption>
-</figure>
-
 Il
 est également important de comprendre que ces interactions ne se limitent pas
 aux substances psychoactives. Les aliments, les huiles essentielles,
@@ -46,12 +41,12 @@ plus nocives que d’autres : il faut s’informer
 ### Exemple de l’alcool
 
 Il est connu qu’il ne faut pas prendre de l’alcool avec des
-médicaments. Le tableau ci-après en présente les raisons [370] .
+médicaments. Le tableau ci-après en présente les raisons [[370]](/references#ref-370) .
 
 | Type de médicament/drogue | Mécanisme | Effet |
 | --- | --- | --- |
 | Antibiotique | Réduit l’activité de l’ALDH | Augmentation de la concentration en Ethanal. Effet <br> désagréable avec des consommations faibles |
-| Antidépresseurs <br> de type ISRS (prozac/fluoxétine) | Non connu | Une étude [371] <br> montre des effets négatifs avec ce mélange |
+| Antidépresseurs <br> de type ISRS (prozac/fluoxétine) | Non connu | Une étude [[371]](/references#ref-371) <br> montre des effets négatifs avec ce mélange |
 | Antidépresseur IMAO | Interaction avec la tyramine du vin rouge | Élévation BRUTALE de la pression sanguine |
 | Antihistaminique <br> de première génération (mal des transports notamment) | Synergie d’effet <br> sédatif | Sédation importante |
 | Antihistaminique de deuxième génération (utilisé pour les <br> troubles gastrique) | Réduit l’activité de l’ADH | Augmentation de l’alcoolémie |
@@ -59,8 +54,8 @@ médicaments. Le tableau ci-après en présente les raisons [370] .
 | Aspirine | Possible réduction de la métabolisation de l’alcool | Alcoolémie plus importante |
 | Benzodiazépine <br> (valium, alprazolam, diazépam, etc) | -effets similaires <br> -élimination par <br> cytochrome (concurrence pour l’élimination) | -Synergie des effets <br> -Élimination plus longue |
 | Opiacés (codéine, morphine etc) | -effets similaires <br> -élimination par cytochrome (concurrence pour <br> l’élimination) | -Synergie des effets <br> -Élimination plus longue |
-| Paracétamol | L’alcool augmente <br> la quantité de CYP2E1 qui transforme le paracétamol en molécule très toxique <br> pour le foie [372] | Augmentation importante de la toxicité <br> pour le foie |
-| MDMA | L’alcool dérégule le contrôle de température et la MDMA <br> l’augmente | Risque d’Hyperthermie supérieur aux deux <br> substances seules [373] |
+| Paracétamol | L’alcool augmente <br> la quantité de CYP2E1 qui transforme le paracétamol en molécule très toxique <br> pour le foie [[372]](/references#ref-372) | Augmentation importante de la toxicité <br> pour le foie |
+| MDMA | L’alcool dérégule le contrôle de température et la MDMA <br> l’augmente | Risque d’Hyperthermie supérieur aux deux <br> substances seules [[373]](/references#ref-373) |
 | Cocaïne | L’alcool et la <br> cocaïne fusionnent pour créer du cocaéthylène | Le cocaéthylène est hallucinogène et augmente <br> le risque de crise cardiaque |
 
 Tableau 38.
@@ -164,11 +159,9 @@ comportements à risque, une surconsommation d’alcool ou même une intoxicatio
 sévère, car les effets dépressifs sont retardés mais pas annulés.
 
 <figure class="doc-figure">
-  <img src="../05_assets_visuels/p256_figure_01_interactions_melanges.png" alt="Interactions Melanges">
-  <figcaption>Figure p. 256 : Interactions Melanges.</figcaption>
+  <img src="../05_assets_visuels/p252_figure_01_interactions_melanges.png" alt="Tableau 40. Illustration de l'effet rebond alcool et cocaïne">
+  <figcaption>Tableau 40. Illustration de l'effet rebond (alcool et cocaïne).</figcaption>
 </figure>
-
-Tableau 40. Illustration de l'effet rebond (alcool et cocaïne)
 
 ##### Les antidotes
 
@@ -190,11 +183,6 @@ de substances peut transformer un usage jugé « acceptable » en une situation
 d’urgence médicale. Comprendre ces interactions, anticiper leurs risques et
 savoir comment les gérer (comme l’utilisation des antidotes) est essentiel pour
 prévenir les complications graves liées à la polyconsommation.
-
-<figure class="doc-figure">
-  <img src="../05_assets_visuels/p261_figure_01_interactions_melanges.png" alt="Interactions Melanges">
-  <figcaption>Figure p. 261 : Interactions Melanges.</figcaption>
-</figure>
 
 Les
 substances peuvent se potentialiser et une dose acceptable peut devenir dangereuse.
@@ -228,7 +216,7 @@ plus rapide des molécules.
 
 Avant de parvenir dans la circulation sanguine, une
 substance doit être absorbée, généralement au niveau de l’estomac ou de
-l’intestin [374] .
+l’intestin [[374]](/references#ref-374) .
 
 Ce processus dépend de plusieurs facteurs, tels que le temps
 de transit dans le tube digestif, le pH (acidité) local et la présence d’autres
@@ -292,7 +280,7 @@ Le métabolisme est l’étape où l’organisme transforme une
 substance, souvent grâce à des enzymes (principalement dans le foie) qui
 agissent comme de petits « ouvriers chimiques ». Ces enzymes découpent,
 modifient et rendent souvent les substances plus facilement éliminables. L’un
-des groupes d’enzymes les plus importants est celui des cytochromes P450 [375]
+des groupes d’enzymes les plus importants est celui des cytochromes P450 [[375]](/references#ref-375)
 (CYP), avec des membres comme CYP3A4, CYP2D6, CYP2E1, etc.
 
 Les variations génétiques dans les gènes des cytochromes
@@ -308,14 +296,9 @@ quantité et manière dont chaque individu métabolise les drogues.
 | CYP2E1 | 5-15% | Participe <br> au métabolisme de l’alcool et le paracétamol. |
 
 Tableau 42. Répartition des CYP dans le foie humain et rôle
-dans la métabolisation des médicaments [376]
+dans la métabolisation des médicaments [[376]](/references#ref-376)
 
 Plusieurs points peuvent être dégagés de ce tableau :
-
-<figure class="doc-figure">
-  <img src="../05_assets_visuels/p261_figure_02_interactions_melanges.png" alt="Interactions Melanges">
-  <figcaption>Figure p. 261 : Interactions Melanges.</figcaption>
-</figure>
 
 Le
 métabolisme varie d’une personne à l’autre. NOUS NE SOMME PAS EGAUX
@@ -326,12 +309,10 @@ INTERACTION
 
 Ces interactions peuvent être de deux types :
 
-·
- L’inhibition enzymatique : une des deux substances « bloque »
+- L’inhibition enzymatique : une des deux substances « bloque »
 les enzymes,
 
-·
- L’induction enzymatique : une des deux substances « augmente »
+- L’induction enzymatique : une des deux substances « augmente »
 les enzymes.
 
 ###### Inhibition enzymatique : exemple du pamplemousse
@@ -344,7 +325,7 @@ Lorsque ces enzymes sont inhibées, la dégradation des
 substances dépendantes ralentit, ce qui peut augmenter leur concentration dans
 le sang. Cette situation peut amplifier leurs effets ou conduire à des effets
 indésirables graves, comme une toxicité ou des surdoses. C’est le cas du
-pamplemousse [377] .
+pamplemousse [[377]](/references#ref-377) .
 
 Le pamplemousse contient des composés appelés furanocoumarines ,
 qui inhibent durablement l’enzyme CYP3A4, présente principalement dans
@@ -353,7 +334,7 @@ l’intestin et le foie. Cette enzyme est impliquée dans le métabolisme d’en
 d’être dégradés à leur rythme habituel, ce qui prolonge leur présence dans le
 sang et augmente leur concentration.
 
-La félodipine [378] ,
+La félodipine [[378]](/references#ref-378) ,
 un antihypertenseur, est un exemple emblématique de médicament fortement
 influencé par le CYP3A4.
 
@@ -363,8 +344,7 @@ atteint la circulation sanguine, le reste étant métabolisé par le CYP3A4 dans
 l’intestin et le foie, mais l’ingestion de pamplemousse empêche sa dégradation
 et la concentration augmente dans ces proportions :
 
-·
- Un verre de 200-250 ml de jus bu 4 heures avant la prise de
+- Un verre de 200-250 ml de jus bu 4 heures avant la prise de
 félodipine peut multiplier par 4 la concentration sanguine du médicament.
 
 Cette augmentation significative expose le patient à un
@@ -401,11 +381,9 @@ en majorité métabolisé par deux enzymes spécialisées : l’ADH et l’ALD. 
 il y a aussi les CYP2E1.
 
 <figure class="doc-figure">
-  <img src="../05_assets_visuels/p264_figure_01_interactions_melanges.png" alt="Interactions Melanges">
-  <figcaption>Figure p. 264 : Interactions Melanges.</figcaption>
+  <img src="../05_assets_visuels/p256_figure_01_interactions_melanges.png" alt="Figure 55. Métabolisation de l'alcool par les cytochromes">
+  <figcaption>Figure 55. Métabolisation de l'alcool par les cytochromes.</figcaption>
 </figure>
-
-Figure 55 . Métabolisation de l'alcool par les cytochromes
 
 Cette dernière voie est problématique car elle produit des
 formes d’éthanal hyper réactifs (radicalaires) qui conduisent à la perturbation
@@ -413,7 +391,7 @@ des membranes cellulaires, dénaturation de certaines protéines, des mutations
 de l’ADN (mécanisme pouvant provoquer le cancer) et la mort des cellules du
 foie.
 
-Il s’avère que l’on retrouve des CYP2E1 dans le cerveau [379] , cette
+Il s’avère que l’on retrouve des CYP2E1 dans le cerveau [[379]](/references#ref-379) , cette
 voie de métabolisation participe à la neurotoxicité de l’alcool.
 
 Il existe un stock de CYP2E1 dans l’organisme, si un
@@ -429,25 +407,20 @@ l’induction enzymatique, donc les effets seront moins fort. L’induction
 enzymatique va augmenter la tolérance à l’alcool, mais également sa toxicité
 (en augmentant la quantité d’alcool métabolisé par les CYP2E1) !
 
-Les buveurs réguliers peuvent présenter jusqu’à 10 fois plus [380] de CYP2E1,
+Les buveurs réguliers peuvent présenter jusqu’à 10 fois plus [[380]](/references#ref-380) de CYP2E1,
 et une consommation simple augmente suffit à créer une induction enzymatique.
 
 En plus d’augmenter la toxicité de l’alcool, cette induction
 enzymatique va rendre problématique la consommation de certains médicaments.
 
 Lorsque le paracétamol agit avec le CYP2E1 un produit
-toxique est créer (le NAPQI) [381] .
+toxique est créer (le NAPQI) [[381]](/references#ref-381) .
  En temps normal, c’est-à-dire sans induction enzymatique de l’alcool, le
 paracétamol est peu métabolisé par le CYP2E1.
 
 Donc, lors d’une consommation régulière d’alcool ou d’une
 consommation importante, la quantité de CYP2E1 augmente, en cas de prise de
 paracétamol il y a un risque de nécrose hépatique plus important .
-
-<figure class="doc-figure">
-  <img src="../05_assets_visuels/p265_figure_01_interactions_melanges.png" alt="Interactions Melanges">
-  <figcaption>Figure p. 265 : Interactions Melanges.</figcaption>
-</figure>
 
 La
 consommation importante ou chronique d’alcool peut rendre toxique la prise de
@@ -465,20 +438,16 @@ ou même du bois, contiennent des hydrocarbures aromatiques polycycliques (HAP).
 Ces produits se forment lors de la combustion qui est une réaction chimique
 très violente et incomplète. Ces HAP entrainent une augmentation importante du
 CYP1A2, ce qui accélère la dégradation de certaines substances (et donc
-l’efficacité), tels que [382]
+l’efficacité), tels que [[382]](/references#ref-382)
 :
 
-·
- La théophylline, utilisée dans le traitement de l'asthme ;
+- La théophylline, utilisée dans le traitement de l'asthme ;
 
-·
- La Clozapine, utilisé en psychiatrie ;
+- La Clozapine, utilisé en psychiatrie ;
 
-·
- La Flovoxamine, utilisé comme antidepresseur,
+- La Flovoxamine, utilisé comme antidepresseur,
 
-·
- La caféine.
+- La caféine.
 
 Lorsqu’un fumeur a besoin de prendre un antidépresseur, le
 médecin ajuste généralement la dose du médicament en tenant compte du fait que
@@ -511,11 +480,6 @@ Par ailleurs, la caféine est souvent utilisée comme marqueur
 pour évaluer l'activité de l'enzyme CYP1A2 dans un cadre clinique ou de
 recherche (Perera et al., 2012).
 
-<figure class="doc-figure">
-  <img src="../05_assets_visuels/p265_figure_02_interactions_melanges.png" alt="Interactions Melanges">
-  <figcaption>Figure p. 265 : Interactions Melanges.</figcaption>
-</figure>
-
 Arrêter
 de fumer (même en passant à la cigarette électronique) change le
 métabolisme : il faut en parler à un médecin
@@ -524,51 +488,39 @@ Exemple du Millepertuis (CYP3A4)
 
 Le millepertuis (Hypericum perforatum), également connu sous
 le nom de St. John's Wort ou iperico en espagnol, est une plante qui a le même
-mécanisme d’action que les antidepresseurs ISRS (comme la fluoxetine) [383] .
+mécanisme d’action que les antidepresseurs ISRS (comme la fluoxetine) [[383]](/references#ref-383) .
 Il est beaucoup utilisé en naturopathie et est en vente libre.
 
 C’est aussi un inducteur bien connu de plusieurs cytochromes,
 principalement CYP3A4 mais pas uniquement. Or, le CYP3A4 est largement utilisé
 par l’organisme pour beaucoup de médicaments et le millepertuis fait l’objet
-d’alertes régulière en santé publique [384] .
+d’alertes régulière en santé publique [[384]](/references#ref-384) .
 
-La liste d’interactions est particulièrement longue [385] :
+La liste d’interactions est particulièrement longue [[385]](/references#ref-385) :
 
-·
- Psychotropes : Antidépresseurs, anxiolytiques (ex. clozapine,
+- Psychotropes : Antidépresseurs, anxiolytiques (ex. clozapine,
 buspirone).
 
-·
- Immunosuppresseurs : Ciclosporine, tacrolimus.
+- Immunosuppresseurs : Ciclosporine, tacrolimus.
 
-·
- Antirétroviraux : Ritonavir, efavirenz.
+- Antirétroviraux : Ritonavir, efavirenz.
 
-·
- Contraceptifs : Estradiol, éthinylestradiol.
+- Contraceptifs : Estradiol, éthinylestradiol.
 
-·
- Anticoagulants : Warfarine.
+- Anticoagulants : Warfarine.
 
-·
- Cytotoxiques : Cyclophosphamide, irinotécan.
+- Cytotoxiques : Cyclophosphamide, irinotécan.
 
-·
- Cardiologie : Digoxine, vérapamil.
+- Cardiologie : Digoxine, vérapamil.
 
 Il est également utilisé en médicament à base de plantes
-pour le traitement à court terme des symptômes dépressifs légers [386] .
+pour le traitement à court terme des symptômes dépressifs légers [[386]](/references#ref-386) .
 
 L’induction enzymatique par le millepertuis ne se manifeste
 pas immédiatement. Quelques jours après le début de la prise, une augmentation
 progressive de l’activité enzymatique est observée. De plus, cet effet persiste
 environ une semaine après l’arrêt du millepertuis, nécessitant une attention
 particulière lors de l’interruption du traitement.
-
-<figure class="doc-figure">
-  <img src="../05_assets_visuels/p266_figure_01_interactions_melanges.png" alt="Interactions Melanges">
-  <figcaption>Figure p. 266 : Interactions Melanges.</figcaption>
-</figure>
 
 Les
 produits naturels peuvent également causer des interactions !
@@ -612,7 +564,7 @@ Une fois les produits suffisamment solubles, ils doivent être
 éliminé par le rein. Trois processus principaux interviennent :
 
 Un exemple est la consommation de MDMA avec des aliments
-qui réduisent le pH de l’urine [391] .
+qui réduisent le pH de l’urine [[391]](/references#ref-391) .
 La MDMA est une base faible dont l'élimination rénale dépend du pH urinaire. Un
 pH urinaire alcalin (supérieur à 7) réduit l'excrétion de la MDMA, prolongeant
 ainsi sa présence dans l'organisme et augmentant le risque de toxicité.
@@ -638,15 +590,13 @@ liés à la consommation combinée de drogues.
 Par ailleurs, deux autres ressources permettent de mieux
 comprendre les interactions avec des médicaments ou des plantes :
 
-·
- Drugs.com : un outil conçu pour identifier les
+- Drugs.com : un outil conçu pour identifier les
 interactions avec les médicaments. Détenu et exploité par le Drugsite Trust,
 une fiducie privée administrée par deux pharmaciens néo-zélandais, Karen Ann et
 Phillip James Thornton. Le site n'est affilié à aucune entreprise
 pharmaceutique, ce qui garantit son indépendance éditoriale.
 
-·
- Medscape : une base de données qui inclut également les
+- Medscape : une base de données qui inclut également les
 interactions entre médicaments et plantes médicinales. Medscape,
 y compris son outil "Drug Interaction Checker", est une filiale de
 WebMD, une entreprise privée américaine spécialisée dans l'information médicale
@@ -665,10 +615,15 @@ ressentis et les risques potentiels. Fournissant des informations rigoureuses
 et détaillées, le site s'appuie sur des sources fiables pour fournir des
 connaissances précises et actualisées aux utilisateurs.
 
-Figure 56.Page d'accueil mixtures.info
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p261_figure_01_interactions_melanges.png" alt="Figure 56. Page d'accueil Mixtures.info">
+  <figcaption>Figure 56. Page d'accueil Mixtures.info.</figcaption>
+</figure>
 
-Figure 57.
-Exemple du mélange cocaïne et alcool
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p261_figure_02_interactions_melanges.png" alt="Figure 57. Exemple du mélange cocaïne et alcool">
+  <figcaption>Figure 57. Exemple du mélange cocaïne et alcool.</figcaption>
+</figure>
 
 Aucune fiche ne pourra être exhaustive, mais pour les
 mélanges les plus courants mixtures.info permets d’avoir les principales
@@ -676,7 +631,7 @@ informations pour comprendre les risques.
 
 #### Le tableau croisé
 
-L’association tripsit [392] ,
+L’association tripsit [[392]](/references#ref-392) ,
 a réalisé un tableau pour estimer rapidement les impacts d’un mélange de
 substance sur la base des connaissances actuelles (Janvier 2023). L’association
 Nuit Blanche a complété et amélioré ce tableau.
@@ -712,6 +667,11 @@ application mobile.
 Tableau 44.Niveau de risque considérés dans le tableau
 TripSit & Nuit Blanche
 
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p264_figure_01_interactions_melanges.png" alt="Tableau croisé TripSit et Nuit Blanche des interactions de substances">
+  <figcaption>Tableau croisé TripSit et Nuit Blanche des interactions de substances.</figcaption>
+</figure>
+
 Pour faciliter la lecture du tableau les drogues sont
 classées en familles.
 
@@ -721,7 +681,12 @@ classées en familles.
 
 #### Le site Drugs.com
 
-Le site Drugs.com [393]
+Le site Drugs.com [[393]](/references#ref-393)
+
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p265_figure_01_interactions_melanges.png" alt="Capture Drugs.com de la fiche paracétamol">
+  <figcaption>Capture p. 265. Fiche Drugs.com du paracétamol.</figcaption>
+</figure>
 permet d’obtenir des informations détaillées sur un médicament et de consulter
 la liste de ses interactions. Par exemple, en sélectionnant le paracétamol,
 toutes ses caractéristiques sont affichées. Il est également possible de
@@ -731,11 +696,14 @@ médicaments mais est moins détaillé que mixtures.
 Bien que le site soit en anglais, il peut être traduit automatiquement à l’aide
 du navigateur Edge.
 
-Tableau 45.Exemple d'identification d'interaction paracétamol/alcool sur drugs.com
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p265_figure_02_interactions_melanges.png" alt="Tableau 45. Interaction paracétamol et alcool sur Drugs.com">
+  <figcaption>Tableau 45. Exemple d'identification d'interaction paracétamol/alcool sur Drugs.com.</figcaption>
+</figure>
 
 #### Le site Medscape interaction checker
 
-Le site Medscape [394]
+Le site Medscape [[394]](/references#ref-394)
 à l’avantage de contenir les données pour les plantes et compléments
 alimentaire mais ne contient pas toutes les drogues.
 
@@ -746,8 +714,10 @@ diminue la sédation. L’effet de l’interaction n’est pas clair, soyez prud
 Utilisez Prudence/Surveillez. » sans préciser que ce mélange peut
 engendrer une hyperthermie importante.
 
-Figure 58. Extrait du site Medscape.com pour l'interaction
-millepertuis/amphétamine/kétamine
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p266_figure_01_interactions_melanges.png" alt="Figure 58. Interaction millepertuis, amphétamine et kétamine sur Medscape">
+  <figcaption>Figure 58. Extrait du site Medscape pour l'interaction millepertuis/amphétamine/kétamine.</figcaption>
+</figure>
 
 ### Analyser des interactions
 
@@ -799,14 +769,14 @@ Il est rare, mais possible, qu’un mélange ne soit pas encore
 documenté. Dans ce cas, il est nécessaire d’effectuer des recherches pour
 identifier les mécanismes potentiels d’interaction. Cela peut se faire en
 consultant la littérature scientifique via des plateformes spécialisées telles
-que ScienceDirect [395]
-ou PubMed [396] ,
+que ScienceDirect [[395]](/references#ref-395)
+ou PubMed [[396]](/references#ref-396) ,
 qui regroupent un grand nombre de publications scientifiques.
 
 De plus, il est désormais possible d'utiliser des outils
 d’intelligence artificielle spécialisés dans l’analyse de la littérature
-scientifique, comme Consensus [397]
-ou Scholar GPT [398] .
+scientifique, comme Consensus [[397]](/references#ref-397)
+ou Scholar GPT [[398]](/references#ref-398) .
 
 Ces outils permettent, par exemple, de poser des questions
 spécifiques, telles que l’effet cardiaque d’une substance, et d’obtenir une
@@ -814,7 +784,7 @@ sélection de publications scientifiques pertinentes sur le sujet. Ces solutions
 facilitent l'accès à des informations précises et actualisées.
 
 Pour savoir quoi chercher, une méthode est proposée,
-inspirée par l’association Nuit Blanche [399] .
+inspirée par l’association Nuit Blanche [[399]](/references#ref-399) .
 Il est possible de se focaliser sur la toxicité des deux molécules sur les
 principaux organes : le cerveau, le foie, le cœur et les reins.
 
