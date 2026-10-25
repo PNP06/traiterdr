@@ -1,24 +1,22 @@
 <script setup lang="ts">
-import SearchLauncher from './SearchLauncher.vue'
-
-const base = '/01_source_canonique/'
+const pdf = '/traite-rdr.pdf'
 
 const questions = [
-  { q: 'Un verre de vin, c’est bon pour la santé ?', tag: 'Alcool', link: `${base}05_mythes_alcool_tabac_prix_sante_publique#boire-un-verre-de-vin-est-bon-pour-la-sante` },
-  { q: 'L’alcool, ça réchauffe ?', tag: 'Thermie', link: `${base}16_allergie_convulsions_hydratation_thermie#hyper-et-hypothermie` },
-  { q: 'Naturel, donc plus sûr ?', tag: 'Croyances', link: `${base}06_mythes_sucre_naturel_reste_perche_contact_addiction#naturel-plus-sur` },
-  { q: 'Accro dès la première prise ?', tag: 'Addiction', link: `${base}06_mythes_sucre_naturel_reste_perche_contact_addiction#accro-a-la-premiere-prise` },
-  { q: 'Le placebo, ça marche vraiment ?', tag: 'Psychologie', link: `${base}12_psychologie_placebo_nocebo_troubles_psychologiques#effets-placebo-et-nocebo` },
-  { q: 'Quelle drogue fait le plus de dégâts ?', tag: 'Classifications', link: `${base}13_classifications_substances#classification-selon-les-dommages-causes-a-soi-et-aux-autres` }
+  'Un verre de vin par jour, c’est bon pour la santé ?',
+  'L’alcool, ça réchauffe ?',
+  'Naturel, donc plus sûr ?',
+  'Accro dès la première prise ?',
+  'Le placebo, ça marche vraiment ?',
+  'Quelle drogue fait le plus de dégâts ?'
 ]
 
 const parts = [
-  { n: '01', title: 'Cadre, sources et posture RDR', text: 'Le périmètre du traité et comment le lire.', link: `${base}01_introduction_cadre_objectif_sources` },
-  { n: '02', title: 'Croyances, biais et idées reçues', text: 'Les raccourcis mentaux qui faussent nos choix.', link: `${base}02_mythes_croyances_heuristiques_biais_sophismes` },
-  { n: '03', title: 'Science et preuves', text: 'Distinguer l’établi, le probable et le rapporté.', link: `${base}04_comprendre_science_preuves_causalite` },
-  { n: '04', title: 'Corps, cerveau et produits', text: 'Synapses, tolérance, pharmacologie, classifications.', link: `${base}09_cerveau_synapses_neurotransmetteurs_circuits` },
-  { n: '05', title: 'Situations à risque', text: 'Sommeil, sexualité, chaleur, badtrip, overdose.', link: `${base}14_risques_generiques_sommeil_juridique` },
-  { n: '06', title: 'Mélanges, testing et après', text: 'Interactions, analyses, descente et dépendance.', link: `${base}18_interactions_melanges` }
+  { title: 'Bien raisonner', text: 'Mythes, heuristiques, biais, sophismes : pourquoi on se trompe sur les drogues, et comment corriger une croyance sans braquer.' },
+  { title: 'Comprendre la science', text: 'Ce qu’est une preuve, la différence entre corrélation et causalité, comment lire une étude.' },
+  { title: 'Les idées reçues', text: 'Dry January, prix de l’alcool, verre de vin, sucre, naturel, contamination par contact, GHB, chemsex, RC.' },
+  { title: 'Le corps et le cerveau', text: 'Synapses et neurotransmetteurs, tolérance, cerveau de 15 à 25 ans, ce que devient une substance dans le corps.' },
+  { title: 'Les produits', text: 'Classifications des substances par effets, par dommages et par statut légal.' },
+  { title: 'Les risques', text: 'Sommeil, sexualité et consentement, chaleur et hydratation, badtrip, overdose, mélanges, testing, descente et addiction.' }
 ]
 </script>
 
@@ -34,12 +32,8 @@ const parts = [
             Factuel, sourcé, sans jugement.
           </p>
           <div class="rk-actions">
-            <a class="rk-btn rk-btn--anis" href="/lire">Commencer la lecture</a>
-            <a class="rk-btn rk-btn--ghost" href="/sommaire">Sommaire</a>
-            <a class="rk-btn rk-btn--ghost" href="/pdf">PDF</a>
-          </div>
-          <div class="rk-search">
-            <SearchLauncher />
+            <a class="rk-btn rk-btn--anis" href="#lire">Lire le traité</a>
+            <a class="rk-btn rk-btn--ghost" :href="pdf" download>Télécharger le PDF</a>
           </div>
         </div>
         <div class="rk-hero-koala" aria-hidden="true">
@@ -49,48 +43,63 @@ const parts = [
     </section>
 
     <section class="rk-section">
-      <p class="rk-pill">Les idées reçues</p>
-      <h2>Commence par une <mark>question</mark></h2>
-      <p class="rk-sub">Les mêmes que sur Instagram, avec la réponse complète et ses sources.</p>
-      <div class="rk-questions">
-        <a v-for="item in questions" :key="item.q" class="rk-question" :href="item.link">
-          <span class="rk-question-tag">{{ item.tag }}</span>
-          <strong>{{ item.q }}</strong>
-          <span class="rk-question-cta">Lire la réponse →</span>
-        </a>
+      <p class="rk-pill">Le projet</p>
+      <h2>Ce qu’on aurait aimé <mark>savoir plus tôt</mark></h2>
+      <div class="rk-about">
+        <p>
+          Les infos sur les drogues sont souvent fausses, trop techniques ou trop simplifiées.
+          Ce traité rassemble les bases scientifiques utiles pour réduire les risques : ce que
+          fait une substance dans le corps, pourquoi certaines croyances sont dangereuses, et
+          quoi faire quand ça se passe mal.
+        </p>
+        <p>
+          Commencé en 2020 par l’association Risky, il est enrichi d’échanges avec des médecins
+          et des associations de réduction des risques. Il ne dit pas quoi faire : il donne de quoi
+          choisir en connaissance de cause.
+        </p>
       </div>
     </section>
 
     <section class="rk-section">
-      <p class="rk-pill">Le traité</p>
-      <h2>Lire par <mark>grandes parties</mark></h2>
-      <ol class="rk-parts">
-        <li v-for="part in parts" :key="part.n">
-          <a :href="part.link">
-            <span class="rk-part-n">{{ part.n }}</span>
-            <span>
-              <strong>{{ part.title }}</strong>
-              <span>{{ part.text }}</span>
-            </span>
-          </a>
+      <p class="rk-pill">Au sommaire</p>
+      <h2>Ce que tu trouves <mark>dedans</mark></h2>
+      <ul class="rk-parts">
+        <li v-for="part in parts" :key="part.title">
+          <strong>{{ part.title }}</strong>
+          <span>{{ part.text }}</span>
         </li>
-      </ol>
-      <div class="rk-links">
-        <a href="/essentiels">Passages essentiels</a>
-        <a href="/figures">Galerie des figures</a>
-        <a href="/substances">Substances citées</a>
-        <a href="/references">Références</a>
+      </ul>
+    </section>
+
+    <section class="rk-section">
+      <p class="rk-pill">Les idées reçues</p>
+      <h2>Des questions qu’on se pose <mark>en soirée</mark></h2>
+      <p class="rk-sub">Le traité y répond, sources à l’appui. On en traite une par semaine sur Instagram.</p>
+      <ul class="rk-questions">
+        <li v-for="q in questions" :key="q" class="rk-question">{{ q }}</li>
+      </ul>
+    </section>
+
+    <section id="lire" class="rk-section rk-reader">
+      <p class="rk-pill">Lire</p>
+      <h2>Le traité, <mark>en entier</mark></h2>
+      <div class="rk-reader-actions">
+        <a class="rk-btn rk-btn--sapin" :href="pdf" target="_blank" rel="noopener">Ouvrir en plein écran</a>
+        <a class="rk-btn rk-btn--line" :href="pdf" download>Télécharger le PDF</a>
       </div>
+      <div class="rk-pdf">
+        <iframe :src="`${pdf}#view=FitH`" title="Traité de réduction des risques (PDF)" loading="lazy"></iframe>
+      </div>
+      <p class="rk-sub rk-pdf-mobile">Sur téléphone, ouvre le PDF en plein écran ou télécharge-le pour le lire tranquillement.</p>
     </section>
 
     <section class="rk-insta">
       <div>
         <p class="rk-brand rk-brand--small">risky</p>
         <h2>Une idée reçue par semaine sur Instagram</h2>
-        <p>Des carrousels courts, tirés de ce traité, pour comprendre pour mieux choisir.</p>
+        <p>Des carrousels courts, tirés du traité. Comprendre pour mieux choisir.</p>
       </div>
       <a class="rk-btn rk-btn--anis" href="https://www.instagram.com/risky.asso/" target="_blank" rel="noopener">Suivre @risky.asso</a>
     </section>
-
   </div>
 </template>
