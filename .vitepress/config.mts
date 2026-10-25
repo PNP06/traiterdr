@@ -59,7 +59,11 @@ export default defineConfig({
   lastUpdated: false,
   ignoreDeadLinks: true,
   head: [
-    ['meta', { name: 'theme-color', content: '#0f766e' }],
+    ['meta', { name: 'theme-color', content: '#123a33' }],
+    ['link', { rel: 'preconnect', href: 'https://fonts.googleapis.com' }],
+    ['link', { rel: 'preconnect', href: 'https://fonts.gstatic.com', crossorigin: '' }],
+    ['link', { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css2?family=Poppins:wght@600;700;800&display=swap' }],
+    ['meta', { property: 'og:image', content: '/koala.webp' }],
     ['meta', { name: 'robots', content: 'index,follow' }],
     ['link', { rel: 'icon', href: '/risky-logo.png' }]
   ],
@@ -67,8 +71,37 @@ export default defineConfig({
     logo: '/risky-logo.png',
     siteTitle: 'Traité RDR',
     search: {
-      provider: 'local'
+      provider: 'local',
+      options: {
+        translations: {
+          button: { buttonText: 'Rechercher', buttonAriaLabel: 'Rechercher dans le traité' },
+          modal: {
+            displayDetails: 'Afficher la liste détaillée',
+            resetButtonTitle: 'Effacer la recherche',
+            backButtonTitle: 'Fermer la recherche',
+            noResultsText: 'Aucun résultat pour',
+            footer: {
+              selectText: 'pour ouvrir',
+              selectKeyAriaLabel: 'Entrée',
+              navigateText: 'pour naviguer',
+              navigateUpKeyAriaLabel: 'Flèche haut',
+              navigateDownKeyAriaLabel: 'Flèche bas',
+              closeText: 'pour fermer',
+              closeKeyAriaLabel: 'Échap'
+            }
+          }
+        }
+      }
     },
+    darkModeSwitchLabel: 'Apparence',
+    lightModeSwitchTitle: 'Passer en mode clair',
+    darkModeSwitchTitle: 'Passer en mode sombre',
+    sidebarMenuLabel: 'Menu',
+    returnToTopLabel: 'Retour en haut',
+    langMenuLabel: 'Langue',
+    socialLinks: [
+      { icon: 'instagram', link: 'https://www.instagram.com/risky.asso/', ariaLabel: 'Instagram @risky.asso' }
+    ],
     nav: [
       { text: 'Accueil', link: '/' },
       { text: 'Lire', link: '/lire' },
@@ -97,49 +130,10 @@ export default defineConfig({
           { text: 'Sommaire complet', link: '/sommaire' },
           { text: 'Galerie des figures', link: '/figures' },
           { text: 'Références', link: '/references' },
-          { text: 'Télécharger le PDF', link: '/pdf' }
-        ]
-      },
-      {
-        text: 'Présentations',
-        collapsed: false,
-        items: [
-          { text: 'Hydratation', link: '/prez-hydratation' }
-        ]
-      },
-      {
-        text: 'Entrer par partie',
-        collapsed: false,
-        items: [
-          { text: 'Cadre, sources et posture RDR', link: '/01_source_canonique/01_introduction_cadre_objectif_sources' },
-          { text: 'Croyances et esprit critique', link: '/01_source_canonique/02_mythes_croyances_heuristiques_biais_sophismes' },
-          { text: 'Preuves, science et causalité', link: '/01_source_canonique/04_comprendre_science_preuves_causalite' },
-          { text: 'Produits, effets et corps humain', link: '/01_source_canonique/09_cerveau_synapses_neurotransmetteurs_circuits' },
-          { text: 'Classifications des substances', link: '/01_source_canonique/13_classifications_substances' },
-          { text: 'Risques et situations critiques', link: '/01_source_canonique/14_risques_generiques_sommeil_juridique' },
-          { text: 'Interactions, testing et suites', link: '/01_source_canonique/18_interactions_melanges' }
-        ]
-      },
-      {
-        text: 'Parcours de lecture',
-        collapsed: false,
-        items: [
-          { text: 'Vue guidée des parcours', link: '/lire' },
-          { text: 'Lire depuis le début', link: '/01_source_canonique/01_introduction_cadre_objectif_sources' },
-          { text: 'Comprendre les croyances', link: '/01_source_canonique/02_mythes_croyances_heuristiques_biais_sophismes' },
-          { text: 'Comprendre les risques', link: '/01_source_canonique/08_gestion_des_risques' },
-          { text: 'Gérer une situation concrète', link: '/01_source_canonique/17_badtrip_overdose' },
-          { text: 'Lire les parties scientifiques', link: '/01_source_canonique/04_comprendre_science_preuves_causalite' },
-          { text: 'Retrouver une substance citée', link: '/substances' }
-        ]
-      },
-      {
-        text: 'Index secondaires',
-        collapsed: true,
-        items: [
+          { text: 'Substances citées', link: '/substances' },
           { text: 'Repères transversaux', link: '/themes' },
-          { text: 'Galerie des figures', link: '/figures' },
-          { text: 'Substances mentionnées', link: '/substances' }
+          { text: 'Présentation : hydratation', link: '/prez-hydratation' },
+          { text: 'Télécharger le PDF', link: '/pdf' }
         ]
       }
     ],
