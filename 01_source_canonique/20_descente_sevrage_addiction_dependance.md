@@ -8,11 +8,9 @@ Voir EM consult IEA. Donne critère de sevrage.
 
 Préciser role intervention brève
 
-## - Syndrome
-de sevrage et delirium tremens
+## Syndrome de sevrage et delirium tremens
 
-## Addiction et
-dépendance
+## Addiction et dépendance
 
 Avant d’attaquer le sujet, une prise de recul est nécessaire
 afin d’avoir une vision claire des risques. Lorsque l’on parle de drogue,
@@ -22,12 +20,7 @@ consommation de drogue. Sans être addict , il existe des risques lors de
 toute prise de drogue , liés à la toxicité, au badtrip ou à la vulnérabilité
 chimique par exemple. D’ailleurs, d’un point de vue collectif, la consommation
 à risque sans addiction cause davantage de dommages que l’addiction en termes
-de maladie et mortalité [414] .
-
-<figure class="doc-figure">
-  <img src="../05_assets_visuels/p297_figure_01_descente_sevrage_addiction_dependa.png" alt="Descente Sevrage Addiction Dependa">
-  <figcaption>Figure p. 297 : Descente Sevrage Addiction Dependa.</figcaption>
-</figure>
+de maladie et mortalité [[414]](/references#ref-414) .
 
 Il faut décorréler
 addiction et toxicité.
@@ -36,20 +29,18 @@ Un usage simple, quelle
 que soit la drogue , engendre des risques même si l’on ne devient pas
 addict.
 
-### Généralités sur
-l’addiction
+### Généralités sur l’addiction
 
 Les termes d’addiction, de dépendance ou de tolérance sont
 souvent utilisés dans le langage courant, souvent à tort.
 
 C’est bien normal, car en rentrant dans le détail, ces
 notions sont complexes et les différences parfois subtiles. Elles peuvent même
-varier en fonction des spécialités [415] ,
+varier en fonction des spécialités [[415]](/references#ref-415) ,
 car elles dépendent de la façon dont on aborde le problème et l’objectif
 recherché par le soignant.
 
-#### Introduction : Dépendance Physique et
-Psychologique
+#### Introduction : Dépendance Physique et Psychologique
 
 En 1998, le professeur ROQUES, directeur de
 l’unité des Sciences Pharmaceutiques et Biologiques a été saisi par le gouvernement
@@ -68,7 +59,7 @@ que le rapport différencie la dépendance physique et la dépendance psychique.
 | Toxicité générale | Forte | Très forte | Faible | Forte | Très faible | Très faible | Très forte |
 | Dangerosité sociale | Très forte | Très forte | Faible | Forte | Faible | Faible | (cancer) |
 
-Tableau 49. Facteurs de dangerosité des drogues (Rapport ROQUES, 1998) [416]
+Tableau 49. Facteurs de dangerosité des drogues (Rapport ROQUES, 1998) [[416]](/references#ref-416)
 
 L’étude présentée en partie 2 (comparaison en termes de
 dangerosité) est beaucoup plus complète et plus d’actualité.
@@ -88,7 +79,7 @@ question de volonté.
 Cependant, les observations cliniques ont démontré que cette
 distinction est peu pertinente, révélant une absence de différence
 significative entre les deux. De nos jours, l'opposition entre dépendance
-psychologique et dépendance physique n'est plus retenue [417] .
+psychologique et dépendance physique n'est plus retenue [[417]](/references#ref-417) .
 Un diagnostic psychiatrique de dépendance est établi, avec ou sans composante
 physique, selon la présence ou l'absence de signes de tolérance (nécessité
 d'augmenter la dose pour obtenir le même effet) et/ou de syndrome de sevrage à
@@ -104,7 +95,7 @@ sucre, etc.
 
 Néanmoins, il est important de noter que dépendance ne
 rime pas avec addiction . Comme illustré par le Dr Thomas Rathelot
-(STOPTABACCh) [418] ,
+(STOPTABACCh) [[418]](/references#ref-418) ,
 un patient peut devenir dépendant aux opiacés (antidouleur) après une opération
 chirurgicale sans pour autant développer une addiction ensuite. Il dépend de ses
 médicaments antidouleur pour fonctionner correctement le temps de son
@@ -113,11 +104,6 @@ rétablissement, et arrête ensuite progressivement.
 La question se pose alors : quelle est la différence
 essentielle ? Pour y répondre, il est d'abord nécessaire d'adopter une approche
 générale et simplifiée avant de se pencher sur les détails spécifiques.
-
-<figure class="doc-figure">
-  <img src="../05_assets_visuels/p298_figure_01_descente_sevrage_addiction_dependa.png" alt="Descente Sevrage Addiction Dependa">
-  <figcaption>Figure p. 298 : Descente Sevrage Addiction Dependa.</figcaption>
-</figure>
 
 Il n’existe plus de
 différence entre dépendance physique et psychologique.
@@ -141,16 +127,11 @@ La tolérance se constate que lors de la prise répétée
 de produit. Or, la répétition de prise de drogue est caractéristique l’addiction.
 Souvent, dans le langage courant, il y a confusion.
 
-<figure class="doc-figure">
-  <img src="../05_assets_visuels/p299_figure_01_descente_sevrage_addiction_dependa.png" alt="Descente Sevrage Addiction Dependa">
-  <figcaption>Figure p. 299 : Descente Sevrage Addiction Dependa.</figcaption>
-</figure>
-
 | Dans une approche simpliste des différents termes , <br> voici les étapes : <br> 1. <br> Je commence à fumer <br> 2. <br> J’ai une crise de craving , comme une énorme soif <br> 3. <br> J’en reprends, je m’habitue au geste : je développe une dépendance <br> 4. <br> À force d’en prendre, j’ai une tolérance : je dois en <br> prendre de plus en plus pour avoir les mêmes effets, <br> 5. Je <br> tousse, je n’ai plus les mêmes performances qu’avant, mais je n’arrive plus à <br> m’arrêter. J’ai besoin d’en prendre pour ne pas me sentir mal. J’ai <br> développé une addiction. |
 | --- |
 
 Une définition de l’addiction qui fait consensus est celle
-de Goodman [419] :
+de Goodman [[419]](/references#ref-419) :
 « un processus dans lequel est réalisé un comportement qui peut avoir
 pour fonction de procurer du plaisir et de soulager un malaise
 intérieur et qui se caractérise par l’échec répété de son contrôle et sa
@@ -180,16 +161,8 @@ l'importance d'une approche clinique et thérapeutique .
 Cela se voit même en imagerie médicale (cf. ci-dessous).
 
 <figure class="doc-figure">
-  <img src="../05_assets_visuels/p300_figure_01_descente_sevrage_addiction_dependa.png" alt="Descente Sevrage Addiction Dependa">
-  <figcaption>Figure p. 300 : Descente Sevrage Addiction Dependa.</figcaption>
-</figure>
-
-Figure 75.
-Gauche : cerveau sain, droite : cerveau addict à la cocaïne [420]
-
-<figure class="doc-figure">
-  <img src="../05_assets_visuels/p303_figure_01_descente_sevrage_addiction_dependa.png" alt="Descente Sevrage Addiction Dependa">
-  <figcaption>Figure p. 303 : Descente Sevrage Addiction Dependa.</figcaption>
+  <img src="../05_assets_visuels/p297_figure_01_descente_sevrage_addiction_dependa.png" alt="Figure 75. Cerveau sain et cerveau addict à la cocaïne">
+  <figcaption>Figure 75. Gauche : cerveau sain ; droite : cerveau addict à la cocaïne.</figcaption>
 </figure>
 
 Oui,
@@ -217,17 +190,9 @@ vache ? »). Pour les anciens addicts, la vue de la drogue leur
 donnait envie, malgré leur sevrage.
 
 <figure class="doc-figure">
-  <img src="../05_assets_visuels/p304_figure_01_descente_sevrage_addiction_dependa.png" alt="Descente Sevrage Addiction Dependa">
-  <figcaption>Figure p. 304 : Descente Sevrage Addiction Dependa.</figcaption>
+  <img src="../05_assets_visuels/p298_figure_01_descente_sevrage_addiction_dependa.png" alt="Figure 76. Amygdale suractivée face à une vidéo avec drogue">
+  <figcaption>Figure 76. Gauche : vidéo sans drogue ; droite : vidéo avec drogue, amygdale suractivée.</figcaption>
 </figure>
-
-<figure class="doc-figure">
-  <img src="../05_assets_visuels/p305_figure_01_descente_sevrage_addiction_dependa.png" alt="Descente Sevrage Addiction Dependa">
-  <figcaption>Figure p. 305 : Descente Sevrage Addiction Dependa.</figcaption>
-</figure>
-
-Figure 76. Gauche : vidéo sans drogue Droite : Vidéo avec drogue, l’amygdale est
-suractivée [421]
 
 Devenue abstinente, la personne reste malade car son cerveau
 conserve les traces. Il faut donc plutôt parler d’une maladie chronique en
@@ -238,8 +203,7 @@ substance, la tentation peut être importante malgré un arrêt long de la
 consommation. Mais l’addiction n’est pas une fatalité , et ces
 « pulsions » peuvent finir par se contrôler.
 
-### Comment devient-on
-addict ?
+### Comment devient-on addict ?
 
 Ce point est important à comprendre, car il
 permet d’orienter les politiques de préventions, mais surtout, il peut aider
@@ -250,11 +214,10 @@ de leur enfant sur son environnement « Tu traines qu’avec des fumeurs de shit
 De même, certains addicts pensent que c’est le facteur génétique qui explique
 tout et se disent que c’est la faute à pas de chance, qu’il n’y a rien faire…
 
-#### L’approche PIE : Produit Individu
-Environnement
+#### L’approche PIE : Produit Individu Environnement
 
 Dans les associations de réductions des
-risques et dans le traité d’addictologie de 2016 [422] ,
+risques et dans le traité d’addictologie de 2016 [[422]](/references#ref-422) ,
 il est expliqué que l’addiction est basée sur 3 piliers : l’individu,
 le produit lui-même et l’environnement.
 
@@ -263,22 +226,14 @@ le crack. Certains arrivent à fumer occasionnellement et pas d’autres : la
 substance elle-même ne suffit pas à expliquer l’addiction.
 
 <figure class="doc-figure">
-  <img src="../05_assets_visuels/p311_figure_01_descente_sevrage_addiction_dependa.png" alt="Descente Sevrage Addiction Dependa">
-  <figcaption>Figure p. 311 : Descente Sevrage Addiction Dependa.</figcaption>
+  <img src="../05_assets_visuels/p299_figure_01_descente_sevrage_addiction_dependa.png" alt="Figure 77. L'approche PIE">
+  <figcaption>Figure 77. L'approche PIE, extrait du traité d'addictologie (2016).</figcaption>
 </figure>
-
-Figure 77.
-L’approche PIE, extrait du traité d’addictologie (2016)
 
 C’est le produit de ces trois facteurs qui conduit à
 l’addiction. Dans le cas des drogues légales (alcool et tabac), les
 facteurs de risques liés au produit et à l’environnement sont colossaux, pour
 autant, tous les consommateurs ne sont pas addicts.
-
-<figure class="doc-figure">
-  <img src="../05_assets_visuels/p311_figure_02_descente_sevrage_addiction_dependa.png" alt="Descente Sevrage Addiction Dependa">
-  <figcaption>Figure p. 311 : Descente Sevrage Addiction Dependa.</figcaption>
-</figure>
 
 L’addiction ne peut être
 expliquée que par une cause, il y a forcément une composante individuelle, une
@@ -288,9 +243,9 @@ environnementale et une liée au produit
 
 La recherche ayant avancé dans différents
 domaines, le professeur Karila propose une approche en cinq grands facteurs de
-risques [423] qui
+risques [[423]](/references#ref-423) qui
 est une approche structurée de ce que l’on retrouve dans les approches d’autres
-psychiatres [424] .
+psychiatres [[424]](/references#ref-424) .
 
 Les facteurs sont le
 développement (l’enfance-adolescence), le comportement (caractère),
@@ -298,11 +253,9 @@ l’environnement, le facteur génétique et le facteur neurobiologique. Ici
 aussi, un seul facteur ne suffit pas à expliquer l’addiction .
 
 <figure class="doc-figure">
-  <img src="../05_assets_visuels/p311_figure_03_descente_sevrage_addiction_dependa.png" alt="Descente Sevrage Addiction Dependa">
-  <figcaption>Figure p. 311 : Descente Sevrage Addiction Dependa.</figcaption>
+  <img src="../05_assets_visuels/p300_figure_01_descente_sevrage_addiction_dependa.png" alt="Figure 78. Les cinq facteurs de risque de Karila">
+  <figcaption>Figure 78. Les cinq facteurs de risque, Pr Karila.</figcaption>
 </figure>
-
-Figure 78. Les 5 facteurs de risques. Pr Karila
 
 Le développement est le
 facteur de risque central . Il va regrouper trois points
@@ -335,17 +288,12 @@ troubles mentaux déjà présents ? Il y a parfois un lien étroit entre le
 fait d’avoir un trouble mental et l’addiction. Par exemple, l’alcoolisme peut
 être dû à l’« automédication » d’une dépression. Chez les jeunes,
 la présence d’un trouble psychiatrique donnerait deux fois plus de chances de
-développer une consommation excessive de substance [425] .
+développer une consommation excessive de substance [[425]](/references#ref-425) .
 Un trouble du sommeilest aussi un facteur de risque. Quand il y a addiction, il
 ya trouble du sommeil, et quand on a des troubles du sommeil il est fréquent de
 le traité avec des substances.
 
 C’est là un élément important :
-
-<figure class="doc-figure">
-  <img src="../05_assets_visuels/p312_figure_01_descente_sevrage_addiction_dependa.png" alt="Descente Sevrage Addiction Dependa">
-  <figcaption>Figure p. 312 : Descente Sevrage Addiction Dependa.</figcaption>
-</figure>
 
 Le
 traitement de l’addiction n’est pas uniquement l’arrêt du comportement
@@ -387,11 +335,6 @@ Ce sont des facteurs de risques, mais
 mais que je n’ai pas eu d’abus de substance durant ma maturation cérébrale, je
 me protège sur long terme.
 
-<figure class="doc-figure">
-  <img src="../05_assets_visuels/p312_figure_02_descente_sevrage_addiction_dependa.png" alt="Descente Sevrage Addiction Dependa">
-  <figcaption>Figure p. 312 : Descente Sevrage Addiction Dependa.</figcaption>
-</figure>
-
 Pour être addict, il faut
 que les 5 facteurs soient déséquilibrés . Une seule case n’explique pas
 l’addiction.
@@ -399,8 +342,7 @@ l’addiction.
 Ces facteurs permettent
 d’identifier sa vulnérabilité. Nous ne sommes donc pas égaux face à l’addiction.
 
-### Se repérer dans
-l’addiction
+### Se repérer dans l’addiction
 
 « Je bois tous les week-ends entre amis,
 mais jamais la semaine : suis-je addict ? » Prendre conscience
@@ -430,7 +372,7 @@ dans notre quotidien.
 La « bible » des
 Psychiatres (le DSM-5) parle de « trouble lié à l’usage ».
 Ce livre décrit l’ensemble des maladies psychiatriques et fait référence pour le
-diagnostic et le traitement des maladies. Il y est précisé 11 critères [426]
+diagnostic et le traitement des maladies. Il y est précisé 11 critères [[426]](/references#ref-426)
 pour définir l’addiction ( 4 critères portent
 sur la perte de contrôle ; 2 pharmacologiques ; 3 critères sur le dysfonctionnement social ;
  3 critères sur la prise de risque ) :
@@ -494,11 +436,6 @@ plus prononcée que le simple comptage du nombre de cigarettes consommées.
 L'évaluation par le professionnel de santé se concentre principalement sur les
 conséquences de cette consommation sur la vie quotidienne du patient.
 
-<figure class="doc-figure">
-  <img src="../05_assets_visuels/p318_figure_01_descente_sevrage_addiction_dependa.png" alt="Descente Sevrage Addiction Dependa">
-  <figcaption>Figure p. 318 : Descente Sevrage Addiction Dependa.</figcaption>
-</figure>
-
 Le trouble de l’usage est
 une maladie. Quels que soient votre score et l’objet de votre addiction, si
 vous n’êtes pas à l’aise : n’hésitez pas à faire le point avec un
@@ -514,7 +451,7 @@ L’évolution de l’addiction peut être observée
 par rapport au plaisir ressenti et aux dommages subis. Dans le dernier stade,
 l’addiction, la consommation perdure alors qu’il y a moins ou pas de plaisir et
 qu’il y a des dommages importants liés à la consommation. Cette approche est
-une adaptation de l’étude du professeur Karila. [427]
+une adaptation de l’étude du professeur Karila. [[427]](/references#ref-427)
 
 |  | Plaisir | Dommages | Exemples | Approche cérébrale |
 | --- | --- | --- | --- | --- |
@@ -528,11 +465,9 @@ Une façon plus simple d’aborder cette idée est par un
 graphique.
 
 <figure class="doc-figure">
-  <img src="../05_assets_visuels/p318_figure_02_descente_sevrage_addiction_dependa.png" alt="Descente Sevrage Addiction Dependa">
-  <figcaption>Figure p. 318 : Descente Sevrage Addiction Dependa.</figcaption>
+  <img src="../05_assets_visuels/p303_figure_01_descente_sevrage_addiction_dependa.png" alt="Figure 80. De l'usage à l'addiction">
+  <figcaption>Figure 80. De l'usage à l'addiction : notion de plaisir et dommage.</figcaption>
 </figure>
-
-Figure 80. De l’usage à l’addiction : notion de plaisir et dommage
 
 Chaque courbe représente une consommation. La verte, c’est
 l’usage simple, il n’y a pas eu de dommage à la consommation. La courbe jaune
@@ -555,11 +490,10 @@ Cette approche est simple, elle permet d’avoir un critère
 d’alerte pour se poser des questions. Ce n’est pas suffisant pour faire un
 diagnostic.
 
-#### L’approche mnémotechnique : les
-5 « C »
+#### L’approche mnémotechnique : les 5 « C »
 
-Cette approche du professeur Karila [428]
- [429]
+Cette approche du professeur Karila [[428]](/references#ref-428)
+ [[429]](/references#ref-429)
 basée sur cinq critères majeurs pour mieux repérer l’addiction.
 
 Si ces critères se
@@ -585,7 +519,10 @@ modifications progressives des circuits neuronaux, le stress et le contrôle des
 comportements. C’est une approche qui n’est pas axée sur le plaisir ou les
 conséquences, mais qui permet d’avoir une approche contenant plus de notions.
 
-Figure 81.Approche par Stade [430]
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p304_figure_01_descente_sevrage_addiction_dependa.png" alt="Figure 81. Approche par stade">
+  <figcaption>Figure 81. Approche par stade.</figcaption>
+</figure>
 
 Dans ce modèle, le stade 1 correspond à la vulnérabilité
 intrinsèque de la personne. Des facteurs biologiques et psychologiques ainsi
@@ -618,7 +555,10 @@ changements hormonaux qui ont des effets notables non seulement sur la
 reproduction mais aussi sur d'autres systèmes physiologiques, y compris le
 système nerveux central.
 
-Figure 82. Changement hormonal durant le cycle menstruel
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p305_figure_01_descente_sevrage_addiction_dependa.png" alt="Figure 82. Changement hormonal durant le cycle menstruel">
+  <figcaption>Figure 82. Changement hormonal durant le cycle menstruel.</figcaption>
+</figure>
 
 Phase folliculaire : Cette phase débute le premier
 jour des menstruations (règles) et se poursuit jusqu'à l'ovulation. Durant
@@ -649,8 +589,8 @@ hormones sont présents dans des nombres significatifs de neurones, et
 l'activation de ces récepteurs altère l'activité neuronale.
 
 Plusieurs études ont donc été réalisées pour identifier les
-impacts en fonction du cycle [431]
- [432] .
+impacts en fonction du cycle [[431]](/references#ref-431)
+ [[432]](/references#ref-432) .
 
 Dans une étude de 2010, lors de l'administration de doses
 variables de cocaïne fumée (du crack) (6, 12 ou 25 mg), il a été observé que
@@ -758,13 +698,13 @@ une mauvaise prise en charge de l’addiction peut entrainer des risques physiqu
 et psychiques.
 
 Dans les prises en charge en addictologie, il y a la
-présence de patient expert [433] .
+présence de patient expert [[433]](/references#ref-433) .
 Ces individus, qui ont eux-mêmes vécu l'expérience de la maladie addictive et
 des soins en addictologie, sont formés pour devenir des bénévoles en
-addictologie [434] .
+addictologie [[434]](/references#ref-434) .
 Leur mission principale est l'entraide entre pairs, le partage d'expériences et
 le fait de donner de l'espoir aux patients. Ils sont également en relation avec
-les équipes de soins à différents niveaux [435] .
+les équipes de soins à différents niveaux [[435]](/references#ref-435) .
 
 Les patients-experts interviennent activement dans les
 soins, rencontrant chaque patient hospitalisé à la demande de l'équipe. Ils
@@ -776,7 +716,7 @@ que les informations délivrées par un médecin.
 En somme, les patients-experts jouent un rôle essentiel dans
 le processus de rétablissement en addictologie, en aidant à faciliter le
 dialogue, à mieux comprendre les difficultés de chacun et à débloquer des
-situations qui impactent souvent tout le collectif de travail [436] .
+situations qui impactent souvent tout le collectif de travail [[436]](/references#ref-436) .
 
 #### L’intervention brève
 
@@ -788,7 +728,7 @@ préjudiciables.
 Cette stratégie pourrait sembler
 simpliste dans sa conception, mais son efficacité est prouvée par la recherche
 scientifique. Une revue exhaustive de la littérature scientifique a classé l'intervention
-brève en première place [437] ,
+brève en première place [[437]](/references#ref-437) ,
 surpassant 48 autres modalités de traitement , incluant les thérapies
 médicamenteuses.
 
@@ -800,45 +740,37 @@ dialogue est centré sur le patient, l'aidant à comprendre les risques associé
 pour réduire sa consommation ou adopter des comportements moins risqués.
 
 Pour comprendre ce qu’est une intervention brève, voici une
-check-list proposée par l’association Addiction France et l’HAS [438] dans
+check-list proposée par l’association Addiction France et l’HAS [[438]](/references#ref-438) dans
 le cas de consommation d’alcool:
 
-·
- Restituer les résultats du questionnaire de consommation :
+- Restituer les résultats du questionnaire de consommation :
 Informer le patient des résultats du questionnaire et leur signification.
 
-·
- Expliquer le risque et restituer le résultat du risque personnel
+- Expliquer le risque et restituer le résultat du risque personnel
 : Faire comprendre au patient les risques liés à sa consommation et lui donner
 une évaluation de son risque personnel.
 
-·
- Expliquer le verre standard (dans le cadre de l’alcool) : Décrire
+- Expliquer le verre standard (dans le cadre de l’alcool) : Décrire
 ce qu'est un verre standard et comment il permet d'estimer la quantité d'alcool
 consommée.
 
-·
- Discuter l'intérêt personnel de la réduction : Aborder les
+- Discuter l'intérêt personnel de la réduction : Aborder les
 avantages pour le patient de réduire sa consommation d'alcool (meilleure santé,
 relations sociales, économies, etc.).
 
-·
- Expliquer les méthodes utilisables pour réduire sa consommation :
+- Expliquer les méthodes utilisables pour réduire sa consommation :
 Présenter différentes stratégies pour diminuer la consommation, comme fixer des
 limites, éviter certaines situations, etc.
 
-·
- Proposer des objectifs et laisser le choix : Suggérer des
+- Proposer des objectifs et laisser le choix : Suggérer des
 objectifs de réduction de consommation et permettre au patient de choisir celui
 qui lui convient le mieux.
 
-·
- Donner la possibilité de réévaluer dans une autre consultation :
+- Donner la possibilité de réévaluer dans une autre consultation :
 Proposer un suivi pour évaluer les progrès et ajuster les objectifs si
 nécessaire.
 
-·
- Remettre une brochure : Fournir une brochure informative sur la
+- Remettre une brochure : Fournir une brochure informative sur la
 consommation d'alcool, les risques et les stratégies de réduction pour que le
 patient puisse s'y référer ultérieurement.
 
@@ -881,10 +813,10 @@ réussir le chalenge de nous éclairer sur les risques que l’on prend, sans
 braquer, ou motiver le changement, sans forcer et définir une stratégie
 thérapeutique avec nous. En effet, l’approche rationnelle « si vous
 continuez à fumer, vous allez mourir » ne fonctionne généralement pas.
-L’entretien motivationnel est théorisé et fait l’objet de formations dédiées [439] ,
+L’entretien motivationnel est théorisé et fait l’objet de formations dédiées [[439]](/references#ref-439) ,
 l’intervention du Dr Dansou dans « entretien motivationnel, le guide
 pratique » de la chaine Fréquence Médicale est une première approche
-intéressante [440] .
+intéressante [[440]](/references#ref-440) .
 
 La stratégie se définira sur
 plusieurs critères, dont quatre majeurs : définir l’objectif, évaluer les
@@ -899,7 +831,7 @@ Le syndrome de sevrage représente
 un réel danger-> il faut être accompagné pour arrêter
 
 L’entretien motivationnel s’appuie sur le modèle provenant
-de plusieurs théories sur le changement [441] ,
+de plusieurs théories sur le changement [[441]](/references#ref-441) ,
 qui décrit les étapes par lesquelles une personne présentant un comportement de
 dépendance progresse de manière séquentielle. Chaque étape reflète un état
 spécifique dans le processus de changement (voir tableau). Le rôle du
@@ -915,7 +847,7 @@ patient, en proposant des objectifs ciblés et des stratégies adaptées.
 | Maintien | Absence de <br> retour au comportement de dépendance. | Mise en place <br> de stratégies de prévention de la rechute. |
 | Rechute | Retour au comportement de <br> dépendance. | Valoriser les succès passés et aider à entamer de nouveau les étapes <br> précédentes. |
 
-Tableau 50. Etapes du changement motivationnel [442]
+Tableau 50. Etapes du changement motivationnel [[442]](/references#ref-442)
 
 #### Entre sevrage et « extra » (rechutes)
 
@@ -927,10 +859,10 @@ Ces rechutes ne signifiant pas toujours l’échec de la prise
 en charge, le terme « extra » est maintenant préféré par les
 professionnels de santé.
 
-Figure 85.
- Orange : parcours de traitement imaginé
- Vert : parcours typique d'un traitement
-de l'addiction
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p311_figure_01_descente_sevrage_addiction_dependa.png" alt="Figure 85. Parcours imaginé et parcours typique du traitement de l’addiction">
+  <figcaption>Figure 85. Orange : parcours de traitement imaginé ; vert : parcours typique d'un traitement de l'addiction.</figcaption>
+</figure>
 
 Rechuter
 (avoir un extra) n’est pas forcément un signe d’échec, soigner une addiction
@@ -946,14 +878,17 @@ L’exemple ci-après est un résumé de deux
 témoignages, il présente les étapes que peuvent passer les addicts lorsqu’il
 commence leur prise en charge.
 
-Figure 86. Cas d'une prise en charge
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p311_figure_03_descente_sevrage_addiction_dependa.png" alt="Figure 86. Cas d'une prise en charge, partie haute">
+  <img src="../05_assets_visuels/p312_figure_02_descente_sevrage_addiction_dependa.png" alt="Figure 86. Cas d'une prise en charge, partie basse">
+  <figcaption>Figure 86. Cas d'une prise en charge.</figcaption>
+</figure>
 
 Il
 ne faut JAMAIS pousser à la consommation . Vous ne savez pas quelle
 relation à l’autre avec la substance !
 
-#### Médicament : remplacer une addiction par une
-autre ?
+#### Médicament : remplacer une addiction par une autre ?
 
 Souvent, lorsque nous parlons de nouvelles
 thérapies à bases de médicaments ou de psychédéliques l’argument « Ouais,
@@ -993,17 +928,17 @@ zones de deal et donc éviter des habitudes et même des crises de craving.
 
 Bien que peu utilisé, il existe également des médicaments
 qui rendent la consommation d’alcool extrêmement désagréable. En somme, la
-gueule de bois sévère apparait avant l’ivresse [443] .
+gueule de bois sévère apparait avant l’ivresse [[443]](/references#ref-443) .
 
 Les
 traitements de substitution ne sont pas suffisants pour quitter l’addiction,
-mais permettent une amélioration de la qualité de vie [444] .
+mais permettent une amélioration de la qualité de vie [[444]](/references#ref-444) .
 
 Pour finir, les médicaments peuvent également être prescrits
 pour traiter les maladies créées par l’addiction ou pour soigner un trouble qui
 peut être une des causes de l’addiction (dépression, bipolarité, etc.).
 
-Montastruc [445]
+Montastruc [[445]](/references#ref-445)
 définit quelques critères pour les médicaments de substitution :
 
 1. Critère
@@ -1035,86 +970,69 @@ d’activité thérapeutique, essais cliniques comparatifs, et sécurité cliniq
 Bien que les addictions soient regroupées sous un même
 terme, les approches thérapeutiques diffèrent considérablement en fonction des
 modèles conceptuels. Chaque discipline propose une prise en charge spécifique,
-adaptée à sa conception de l'addiction dont certains exemples [446]
+adaptée à sa conception de l'addiction dont certains exemples [[446]](/references#ref-446)
 sont expliqués ci-après.
 
 Psychanalyse
 
-·
- L’addiction est vue comme une tentative d’automédication ,
+- L’addiction est vue comme une tentative d’automédication ,
 liée à une fragilité narcissique,
 
-·
- La thérapie explore les dimensions psychiques « autour » de
+- La thérapie explore les dimensions psychiques « autour » de
 l’addiction, encourageant le patient à trouver des alternatives à sa dépendance,
 
-·
- Une tendance addictive envers l’expérience analytique elle-même
+- Une tendance addictive envers l’expérience analytique elle-même
 est souvent observée, traduisant un déplacement de l'objet addictif.
 
 Approche systémique
 
-·
- L’addiction est influencée par les dynamiques relationnelles
+- L’addiction est influencée par les dynamiques relationnelles
 et les mythes familiaux,
 
-·
- Elle s’intéresse au système familial, en analysant les relations
+- Elle s’intéresse au système familial, en analysant les relations
 et dynamiques au sein du groupe,
 
-·
- Le thérapeute restructure les frontières familiales et identifie
+- Le thérapeute restructure les frontières familiales et identifie
 les mythes ou injonctions paradoxales qui maintiennent l'addiction,
 
-·
- Cette approche privilégie l’amélioration de la communication
+- Cette approche privilégie l’amélioration de la communication
 familiale avant d’aborder le sevrage.
 
 Thérapies cognitivo-comportementales (TCC)
 
-·
- L’addiction est maintenue par des schémas comportementaux et
+- L’addiction est maintenue par des schémas comportementaux et
 cognitifs répétitifs
 
-·
- Les TCC se concentrent sur le présent (« ici et maintenant »), en
+- Les TCC se concentrent sur le présent (« ici et maintenant »), en
 modifiant les comportements pathologiques par des exercices pratiques,
 
-·
- Elles identifient les stimuli déclencheurs et remplacent les
+- Elles identifient les stimuli déclencheurs et remplacent les
 comportements addictifs par des réponses plus adaptées,
 
-·
- La thérapie repose sur la restructuration cognitive,
+- La thérapie repose sur la restructuration cognitive,
 l’apprentissage de l’autocontrôle et le renforcement des capacités sociales.
 
 Approche neuroscientifique et pharmacologique
 
-·
- L’addiction est une maladie du cerveau , caractérisée par
+- L’addiction est une maladie du cerveau , caractérisée par
 des altérations des circuits cérébraux,
 
-·
- Utilisation des traitements pharmacologiques pour réduire les
+- Utilisation des traitements pharmacologiques pour réduire les
 envies (craving) et restaurer l’équilibre neurobiologique.
 
-Approche spirituelle et modèle en 12 étapes [447]
+Approche spirituelle et modèle en 12 étapes [[447]](/references#ref-447)
 (initialement Alcooliques Anonymes)
 
-·
- L’addiction est perçue comme une perte de contrôle liée à un
+- L’addiction est perçue comme une perte de contrôle liée à un
 vide spirituel ,
 
-·
- Les groupes d’entraide, comme les Alcooliques Anonymes, proposent
+- Les groupes d’entraide, comme les Alcooliques Anonymes, proposent
 un programme structuré en 12 étapes pour retrouver équilibre et sobriété,
 
-·
- Cette méthode repose sur la solidarité, la confession, et la
+- Cette méthode repose sur la solidarité, la confession, et la
 connexion avec une puissance supérieure (pas obligatoirement divine),
 
-·
- L’accompagnement communautaire joue un rôle clé dans la
+- L’accompagnement communautaire joue un rôle clé dans la
 motivation et le soutien moral des patients.
 
 ### Cas de l’alcool
@@ -1128,7 +1046,7 @@ de ceux ayant une consommation « modérée ».
 Cependant,
 les études épidémiologiques ont démontré qu'un grand nombre de conséquences
 psychologiques, sociales et physiques liées à la consommation d'alcool
-apparaissent bien avant d'atteindre le stade de l'alcoolodépendance [448] .
+apparaissent bien avant d'atteindre le stade de l'alcoolodépendance [[448]](/references#ref-448) .
 
 Cette prise de conscience souligne l'importance de ne pas
 aborder la consommation d'alcool uniquement sous l'angle de la dichotomie
@@ -1139,7 +1057,7 @@ et intensités, indépendamment de la dépendance en elle-même.
 ##### Les niveaux de consommations
 
 La Société Française d'Alcoologie et d'Addictologie propose
-une classification en cinq niveaux [449] .
+une classification en cinq niveaux [[449]](/references#ref-449) .
 
 Figure 88. Adaptation des niveaux de consommations d'alcool
 de la SFA
@@ -1325,9 +1243,11 @@ Les décisions vont donc se baser sur les deux courbes
 ci-après. Elle représente la mortalité par rapport à la consommation d’alcool,
 pour les femmes et les hommes.
 
-Figure 90. Mortalité vie entière pour les femmes et
-les hommes. La ligne bleue pleine représente le risque ; les lignes
-pointillées les risque pour 1/100 et 1/1000.
+<figure class="doc-figure">
+  <img src="../05_assets_visuels/p318_figure_01_descente_sevrage_addiction_dependa.png" alt="Figure 90. Mortalité vie entière attribuable à l’alcool chez les femmes">
+  <img src="../05_assets_visuels/p318_figure_02_descente_sevrage_addiction_dependa.png" alt="Figure 90. Mortalité vie entière attribuable à l’alcool chez les hommes">
+  <figcaption>Figure 90. Mortalité vie entière pour les femmes et les hommes ; ligne bleue pleine : risque ; lignes pointillées : risques pour 1/100 et 1/1000.</figcaption>
+</figure>
 
 Attention, ces courbes du rapport de Santé Publique
 France datent de 2016 et ne tiennent pas compte des avancées de l’INSERM (2021)
@@ -1368,16 +1288,16 @@ dans l’évaluation du risque lié à cette activité.
 
 Trois niveaux de risques peuvent être choisis :
 
--1 mort pour 1 million de consommateurs, cela
+- 1 mort pour 1 million de consommateurs, cela
 permettrait d’être en phase avec les autres risques gérés par les autorités
 sanitaires, cette option a été exclue, car cela se rapproche d’une consommation
 proche de 0,
 
--1 mort pour 1000 consommateurs, qui semble être le
+- 1 mort pour 1000 consommateurs, qui semble être le
 niveau de risque accepté par la population lorsqu’elle est libre de s’exposer,
 cela correspond à la première ligne rouge dans les graphiques précédents
 
--1 mort pour 100 consommateurs, qui n’est pas en
+- 1 mort pour 100 consommateurs, qui n’est pas en
 cohérence avec les autres risques, mais qui a été pris en référence dans
 d’autres pays pour l’alcool, cela correspond à la première ligne rouge dans les
 graphiques précédents.
@@ -1447,7 +1367,7 @@ la semaine sans consommation.
 Ces repères correspondent à un risque mortel de 1/500 pour
 les hommes et 1/100 pour les femmes, soit 5 fois plus.
 
-Les Canadiens ont un discours plus complet [450] . Cette approche est plus
+Les Canadiens ont un discours plus complet [[450]](/references#ref-450) . Cette approche est plus
 précise et permet de mieux estimer ses risques.
 
 « Les Repères canadiens sur l’alcool et la santé
@@ -1467,25 +1387,20 @@ Quelques points saillants des repères :
 Il existe un continuum de risque associé à la consommation
 hebdomadaire d’alcool : (leur verre standard est à 13,8g d’éthanol pur)
 
-·
- 0 verre par semaine – Offre de nombreux bénéfices, par
+- 0 verre par semaine – Offre de nombreux bénéfices, par
 exemple une meilleure santé et un meilleur sommeil.
 
-·
- 2 verres standards ou moins par semaine – Permet
+- 2 verres standards ou moins par semaine – Permet
 généralement d’éviter les conséquences de l’alcool pour vous-mêmes et pour les
 autres.
 
-·
- 3 à 6 verres standards par semaine – Augmente le risque de
+- 3 à 6 verres standards par semaine – Augmente le risque de
 développer plusieurs cancers, comme le cancer du sein et du côlon.
 
-·
- 7 verres standards ou plus par semaine – Augmente en plus
+- 7 verres standards ou plus par semaine – Augmente en plus
 votre risque d’avoir une maladie du cœur ou un AVC.
 
-·
- Au-delà de 7 verres standards par semaine – Augmente
+- Au-delà de 7 verres standards par semaine – Augmente
 radicalement le risque que ces conséquences surviennent.
 
 Consommer plus de 2 verres standards par occasion est
@@ -1504,25 +1419,20 @@ boire moins, c’est mieux . »
 L’équivalent de ces repères pour les verres-standards
 européens (10g d’éthanol pur et non 13,8g) sont :
 
-·
- 0 verre par semaine – Offre de nombreux bénéfices, une
+- 0 verre par semaine – Offre de nombreux bénéfices, une
 meilleure santé et par exemple un meilleur sommeil.
 
-·
- 3
+- 3
 verres standards ou moins par semaine – Permet généralement d’éviter les
 conséquences de l’alcool pour vous-mêmes et pour les autres.
 
-·
- 4 à 8 verres standards par semaine – Augmente le risque de
+- 4 à 8 verres standards par semaine – Augmente le risque de
 développer plusieurs cancers, comme le cancer du sein et du côlon.
 
-·
- 10 verres standards ou plus par semaine – Augmente en plus
+- 10 verres standards ou plus par semaine – Augmente en plus
 votre risque d’avoir une maladie du cœur ou un AVC.
 
-·
- Au-delà de 10 verres standards par semaine – Augmente
+- Au-delà de 10 verres standards par semaine – Augmente
 radicalement le risque que ces conséquences surviennent.
 
 #### Tests diagnostiques
@@ -1534,18 +1444,15 @@ le cadre de la prise en charge des personnes alcoolisées aux urgences lors
 d'intoxications alcooliques aiguës ou en médecine générale. En voici trois qui
 font référence :
 
-·
- AUDIT (Alcohol Use Disorders Identification Test) : Il s'agit
+- AUDIT (Alcohol Use Disorders Identification Test) : Il s'agit
 d'un questionnaire de 10 questions développé par l'Organisation mondiale de la
 santé (OMS) pour évaluer le type de consommation d'alcool.
 
-·
- DETA pour Diminuer Entourage Trop Alcool (CAGE en Anglais) :
+- DETA pour Diminuer Entourage Trop Alcool (CAGE en Anglais) :
 C'est un questionnaire simple de quatre questions qui vise à identifier un
 problème de consommation sans l’identifier finement .
 
-·
- FACE: c’est un questionnaire de cinq questions qui permet
+- FACE: c’est un questionnaire de cinq questions qui permet
 d’orienter le médecin réalisant le test.
 
 |  | Sensibilité | Spécificité |
@@ -1580,7 +1487,7 @@ y a donc 10% de risque que le test classe erronément une personne comme ayant
 un problème d'alcool, ce qui serait alors un faux positif.
 
 Pour illustrer ces principes, prenons une étude réalisée sur
-des patients admis aux urgences pour diverses raisons [451] . Chaque patient a été soumis
+des patients admis aux urgences pour diverses raisons [[451]](/references#ref-451) . Chaque patient a été soumis
 au test CAGE. Les résultats de cette étude, corroborés par d'autres études
 similaires, ont révélé que 30% des patients admis aux urgences avaient un
 problème de consommation d'alcool.
@@ -1683,56 +1590,48 @@ professionnel de la santé dans le cadre d'un dialogue avec le patient.
 
 Le questionnaire FACE est un outil recommandé par la Haute
 Autorité de Santé pour le repérage précoce et l'intervention brève par le corps
-médical concernant la consommation d'alcool [453] [454] .
+médical concernant la consommation d'alcool [[453]](/references#ref-453) [[454]](/references#ref-454) .
 
 Lorsqu'une consommation excessive ou une dépendance probable
 est identifiée, une intervention brève peut être mise en place. Pour comprendre
 ce qu’est une intervention brève, voici une check-list proposée par
 l’association Addiction France et l’HAS :
 
-·
- Restituer les résultats du questionnaire de consommation :
+- Restituer les résultats du questionnaire de consommation :
 Informer le patient des résultats du questionnaire FACE et de leur
 signification.
 
-·
- Expliquer le risque alcool et restituer le résultat du risque
+- Expliquer le risque alcool et restituer le résultat du risque
 personnel : Faire comprendre au patient les risques liés à sa consommation
 d'alcool et lui donner une évaluation de son risque personnel.
 
-·
- Expliquer le verre standard : Décrire ce qu'est un verre standard
+- Expliquer le verre standard : Décrire ce qu'est un verre standard
 et comment il permet d'estimer la quantité d'alcool consommée.
 
-·
- Discuter l'intérêt personnel de la réduction : Aborder les
+- Discuter l'intérêt personnel de la réduction : Aborder les
 avantages pour le patient de réduire sa consommation d'alcool (meilleure santé,
 relations sociales, économies, etc.).
 
-·
- Expliquer les méthodes utilisables pour réduire sa consommation :
+- Expliquer les méthodes utilisables pour réduire sa consommation :
 Présenter différentes stratégies pour diminuer la consommation d'alcool, comme
 fixer des limites, alterner avec des boissons non alcoolisées, éviter certaines
 situations, etc.
 
-·
- Proposer des objectifs et laisser le choix : Suggérer des
+- Proposer des objectifs et laisser le choix : Suggérer des
 objectifs de réduction de consommation et permettre au patient de choisir celui
 qui lui convient le mieux.
 
-·
- Donner la possibilité de réévaluer dans une autre consultation :
+- Donner la possibilité de réévaluer dans une autre consultation :
 Proposer un suivi pour évaluer les progrès et ajuster les objectifs si
 nécessaire.
 
-·
- Remettre une brochure : Fournir une brochure informative sur la
+- Remettre une brochure : Fournir une brochure informative sur la
 consommation d'alcool, les risques et les stratégies de réduction pour que le
 patient puisse s'y référer ultérieurement.
 
 L'intervention brève a pour objectif d'aider les patients à
 prendre conscience de leur consommation d'alcool et à adopter des comportements
-moins risqués. Bien que cela puisse sembler simple, une revue de la littérature [455] a classé l'intervention
+moins risqués. Bien que cela puisse sembler simple, une revue de la littérature [[455]](/references#ref-455) a classé l'intervention
 brève en première position en termes d'efficacité pour le traitement des
 comportements liés à l'alcool à risque ou problématiques, sur 48 modalités de
 traitement, et ce, devant les thérapies médicamenteuses. Les
@@ -1757,20 +1656,17 @@ Tableau 54 Questionnaire FACE
 L'interprétation du score total pour les hommes (H) et les
 femmes (F) est la suivante :
 
-·
- Homme moins de 5; Femme moins de 4 = Risque faible ou nul
+- Homme moins de 5; Femme moins de 4 = Risque faible ou nul
 
 o
  Renforcement des conduites favorables à la santé
 
-·
- Homme 5 à 8; Femme : 4 à 8 = Consommation excessive probable :
+- Homme 5 à 8; Femme : 4 à 8 = Consommation excessive probable :
 
 o
  Intervention brève
 
-·
- H et F plus de 8 = Dépendance probable
+- H et F plus de 8 = Dépendance probable
 
 o
  Proposer une consultation d'addictologie
@@ -1778,8 +1674,8 @@ o
 ##### AUDIT
 
 Le test AUDIT (Alcohol Use Disorders Identification Test)
-est un questionnaire recommandé par l'Organisation mondiale de la santé [456] (OMS) et
-validé en France [457]
+est un questionnaire recommandé par l'Organisation mondiale de la santé [[456]](/references#ref-456) (OMS) et
+validé en France [[457]](/references#ref-457)
 avec des scores un peu différents pour identifier l'alcoolodépendance et
 l'usage nocif de l'alcool. Cet autoquestionnaire, qui peut être complété en 3 à
 5 minutes, comporte 10 questions et explore la consommation d'alcool sur
@@ -1820,10 +1716,8 @@ Légende des réponses :
 Les seuils de scores du questionnaire AUDIT sont les
 suivants :
 
-·
- un score entre 6 pour les femmes (7 pour les hommes) jusqu’à 12
+- un score entre 6 pour les femmes (7 pour les hommes) jusqu’à 12
 correspond à une consommation nocive,
 
-·
- un score supérieur à 13 indique une alcoolodépendance
+- un score supérieur à 13 indique une alcoolodépendance
 probable.

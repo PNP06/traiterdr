@@ -1,304 +1,328 @@
 # Comprendre la science, preuves, causalité et méthode scientifique
 
-### 1. Ouverture : comprendre ce qu'est un argument scientifique
+## Comprendre la science
 
-Le traité part du constat qu'un argument est souvent présenté comme `scientifique`. Pour en comprendre la portée, il faut savoir ce qu'est la science, comment elle fonctionne, et comment interpréter les publications sur lesquelles le traité s'appuie.
+Souvent il est avancé qu’un argument qu’il est
+“scientifique”, mais pour en comprendre la portée, il est essentiel de savoir
+ce qu’est la science, comment elle fonctionne, et surtout comment interpréter
+les publications sur lesquelles ce livre s’appuie.
 
-Le chapitre annonce plusieurs points :
+Cette partie s’articulera autour de plusieurs points : la
+distinction entre science et recherche, une présentation des principes de la
+méthode scientifique et des niveaux de preuve, illustrée par des exemples
+concrets. Elle se conclura par un aperçu des outils statistiques utilisés dans
+les publications afin d’en faciliter la lecture et d’éviter les interprétations
+abusives.
 
-- distinction entre science et recherche ;
-- principes de la méthode scientifique ;
-- niveaux de preuve ;
-- exemples concrets ;
-- aperçu des outils statistiques utilisés dans les publications ;
-- prévention des interprétations abusives.
+Ces notions sont également appliquée dans le chapitre
+« Boire un verre de vin est bon pour la santé » avec une approche
+plus historique.
 
-Le traité signale que ces notions seront appliquées dans le chapitre `Boire un verre de vin est bon pour la santé`, avec une approche plus historique.
+### Science et recherche
 
-### 2. Science et recherche
+La science et la recherche sont liées mais il
+ne faut pas les confondre. La science c’est l’ensemble des connaissances
+établies et vérifiées à ce jour , tandis que la recherche est le
+processus par lequel de nouvelles connaissances sont produites.
 
-Le traité insiste sur la distinction entre science et recherche.
+Comme le souligne le physicien Étienne Klein [[34]](/references#ref-34) ,
+un Philosophe des sciences, il faudrait idéalement déclarer : « Nous savons
+que… et nous nous demandons si… » – la première partie faisant
+référence aux acquis de la science, la seconde aux questions ouvertes de la
+recherche.
 
-| Terme | Définition source | Fonction |
-|---|---|---|
-| Science | Ensemble des connaissances établies et vérifiées à ce jour. | Corpus stabilisé, testable, corrigible, utilisable. |
-| Recherche | Processus par lequel de nouvelles connaissances sont produites. | Exploration des questions ouvertes et réduction progressive de l'incertitude. |
+Autrement dit, les sciences
+représentent un corpus de savoirs testés et validés (par exemple : la
+Terre est ronde, l’atome existe, les espèces évoluent ), qu’il n’y a pas
+lieu de remettre en cause sans nouvelle preuve scientifique contraire solides. La
+recherche , elle, s’attaque aux questions non résolues découlant des
+limites de ces savoirs (par exemple : pourquoi l’antimatière a-t-elle
+quasiment disparu de l’univers ? existe-t-il une énergie noire ? ). C’est en
+explorant ces inconnues que la recherche fait progresser la science.
 
-Le physicien Étienne Klein est mobilisé pour formuler la distinction :
+Si
+l’on mélange ces deux plans, on risque de brouiller l’image de la science : le
+public peut avoir l’impression d’une cacophonie d’« experts » jamais d’accord,
+et ne plus savoir si la science « sait » ou « doute » et en venir à l’argument
+« dans les publications on trouve tout et son contraire » D’où
+l’importance de bien distinguer les connaissances scientifiques déjà solidement
+acquises des chantiers de recherche en cours, qui par nature comportent du
+doute et de l’incertitude.
 
-```text
-Nous savons que... et nous nous demandons si...
-```
+Science=
+Corpus de savoir validés par une méthode scientifique
 
-La première partie renvoie aux acquis de la science ; la seconde aux questions ouvertes de la recherche.
-
-Le traité donne des exemples de connaissances scientifiques stabilisées :
-
-- la Terre est ronde ;
-- l'atome existe ;
-- les espèces évoluent.
-
-Ces acquis ne doivent pas être remis en cause sans nouvelle preuve scientifique contraire solide.
-
-À l'inverse, la recherche s'attaque à des questions non résolues découlant des limites de ces savoirs : par exemple la disparition de l'antimatière dans l'univers ou l'existence d'une énergie noire.
-
-Le traité avertit que mélanger science et recherche brouille l'image de la science. Le public peut alors percevoir une cacophonie d'experts, ne plus savoir si la science `sait` ou `doute`, et conclure de façon erronée qu'`on trouve tout et son contraire` dans les publications.
-
-### 3. Comment une conclusion entre dans le corpus scientifique
-
-Le traité précise qu'une idée n'entre pas dans le corpus scientifique parce qu'une publication existe. Elle y entre progressivement lorsque plusieurs conditions convergent :
-
-- la reproductibilité des résultats a été testée ;
-- la robustesse a été évaluée avec des méthodes différentes : observationnelles, expérimentales, cliniques, toxicologiques, in vivo, in vitro, imagerie selon le sujet ;
-- les biais dominants ont été traqués : facteurs de confusion, fausse causalité, mauvaise sélection des participants, mesures imparfaites ;
-- les effets observés sont compatibles avec ce que l'on connaît du corps et du cerveau.
-
-Le traité ajoute une nuance importante : la cohérence biologique ne suffit pas, seule, à conclure avec certitude. Elle doit s'inscrire dans une convergence plus large.
-
-Une conclusion devient suffisamment stable pour être utilisée en prévention, en clinique ou dans des recommandations lorsque le niveau d'incertitude résiduelle est borné.
-
-Dans la phase intermédiaire entre recherche et science, des résultats apparemment contradictoires sont normaux. Ils ne signifient pas nécessairement que la science `se trompe`, mais que la recherche explore les conditions pertinentes : chez qui, à quelle dose, dans quel contexte, avec quelles co-consommations.
-
-### 4. Infographie p. 46 — `Science ≠ Recherche`
+Recherche=
+Processus par lequel est créé du savoir scientifique
 
 <figure class="doc-figure">
   <img src="../05_assets_visuels/p046_figure_01_science_vs_recherche.png" alt="Science versus recherche">
-  <figcaption>Infographie p. 46 : distinguer le corpus scientifique stabilisé des questions encore travaillées par la recherche.</figcaption>
+  <figcaption>Distinguer le corpus scientifique stabilisé des questions encore travaillées par la recherche.</figcaption>
 </figure>
 
-L'infographie oppose deux colonnes :
+Figure 1.
+Science et recherche
 
-- `Science` : connaissances établies, testées, vérifiées, stabilisées à ce jour ; corpus fiable, provisoire mais robuste ; exemples : Terre ronde, atome, évolution des espèces ;
-- `Recherche` : processus de production ; méthode et travail pour produire de nouvelles connaissances ; questions ouvertes, tests, incertitude, débats ; exemples : antimatière, énergie noire.
+Une idée ne devient pas “science” dès qu’un papier sort, ni
+même dès que plusieurs papiers vont dans le même sens. Elle entre dans le
+corpus quand, progressivement :
 
-Le visuel reprend la formule d'Étienne Klein et indique que science et recherche travaillent ensemble. Il signale aussi le risque de message brouillé lorsque les deux plans sont confondus : impression de cacophonie d'experts, impression que la science ne sait jamais, conclusion erronée `on trouve tout et son contraire`.
+Le tout converge vers une
+conclusion assez stable pour être utilisée (prévention, clinique,
+recommandations), avec un niveau d’incertitude résiduelle clairement borné.
 
-Conclusion du visuel :
+Dans cette phase intermédiaire, il est normal d’observer des
+résultats qui semblent se contredire : il ne s’agit pas forcément d’une
+“science qui se trompe”, mais d’une recherche qui explore , qui affine
+les conditions (“chez qui ? à quelle dose ? dans quel contexte ? avec quelles
+co-consommations ?”) et qui réduit progressivement l’incertitude.
 
-```text
-La science = ce qui est solide.
-La recherche = ce qui est en cours.
-```
+#### Exemple de la cigarette électronique
 
-### 5. Exemple de la cigarette électronique
+Le vapotage a constitué un bon
+exemple de phase intermédiaire entre recherche et science. Au départ,
+une question simple a été posée : la cigarette électronique réduit-elle le
+risque par rapport au tabac fumé, et quels risques propres expose-t-elle ?
 
-Le vapotage est présenté comme un exemple de phase intermédiaire entre recherche et science. La question initiale est double :
+Une réponse scientifique n’a pas
+pu être formulée immédiatement, car le recul a été faible et les méthodes
+utilisées ont produit des résultats partiels, parfois perçus comme
+contradictoires.
 
-1. la cigarette électronique réduit-elle le risque par rapport au tabac fumé ?
-2. à quels risques propres expose-t-elle ?
+Dans un premier temps, des
+résultats ont été obtenus par des approches différentes, chacune avec ses
+limites. D’un côté, des travaux toxicologiques et réglementaires ont montré que
+ les aérosols des cigarettes électroniques contiennent globalement moins de
+composés nocifs que ceux des cigarettes de tabac , tout en restant porteurs
+de substances irritantes ou toxiques selon les conditions d’usage, les liquides
+et les dispositifs [[35]](/references#ref-35) .
 
-Le traité explique qu'une réponse scientifique stable n'a pas pu être formulée immédiatement, car le recul était faible et les méthodes produisaient des résultats partiels, parfois perçus comme contradictoires.
+D’un autre côté, des études
+physiologiques et cliniques ont observé des effets respiratoires ou
+cardiovasculaires potentiels, mais la comparaison directe a été compliquée par
+la diversité des produits et par le fait que beaucoup d’usagers ont été d’anciens
+fumeurs (ce qui a brouillé l’interprétation des effets propres du vapotage).
 
-#### Données initiales et limites
+Enfin, une incertitude
+structurelle a persisté sur les conséquences à long terme, car l’usage massif
+est récent à l’échelle des maladies chroniques.
 
-Plusieurs types de données sont distingués :
+Progressivement, une conclusion plus stable et
+opérationnelle a été rendue possible par la convergence des données [[36]](/references#ref-36)
+:
 
-- travaux toxicologiques et réglementaires : les aérosols de cigarette électronique contiennent globalement moins de composés nocifs que la fumée de tabac, mais peuvent contenir des substances irritantes ou toxiques selon les conditions d'usage, les liquides et les dispositifs ;
-- études physiologiques et cliniques : elles ont observé des effets respiratoires ou cardiovasculaires potentiels, mais la comparaison directe est compliquée par la diversité des produits et par le fait que beaucoup d'usagers sont d'anciens fumeurs ;
-- incertitude de long terme : l'usage massif est récent à l'échelle des maladies chroniques.
+Ainsi, ce qui est entré dans le corpus n’a pas été un slogan
+(“inoffensif” ou “aussi dangereux que le tabac”), mais une formulation nuancée
+: le vapotage est généralement moins nocif que le tabac fumé quand il
+remplace totalement la combustion chez un fumeur, mais il n’est pas sans risque
+et ne devrait pas être initié chez les non-fumeurs, surtout les jeunes .
 
-#### Formulation convergente
+#### Exemple de la neurotoxicité de la MDMA
 
-Progressivement, une conclusion plus stable et opérationnelle est devenue possible :
+Il est admis que la MDMA augmente fortement la libération
+de sérotonine . Cette pharmacologie explique des effets aigus bien
+documentés : une augmentation dose-dépendante de la température centrale
+a été décrite chez l’humain, et les formes sévères observées en contexte
+récréatif ont été associées à l’ hyperthermie [[37]](/references#ref-37) .
 
-- une exposition à des substances nocives est confirmée, donc le vapotage n'est pas neutre ;
-- l'exposition à de nombreux toxiques est généralement moindre que celle liée à la fumée de tabac, ce qui soutient une réduction de risque en cas de substitution complète chez un fumeur ;
-- un intérêt possible pour l'arrêt du tabac est étayé, avec des synthèses montrant que les cigarettes électroniques nicotinées peuvent augmenter les taux de sevrage par rapport à certains comparateurs, sous réserve des biais et de la qualité des essais ;
-- l'enjeu jeunesse est consolidé : exposition inutile à la nicotine et risque de dépendance chez les non-fumeurs, en particulier les adolescents.
+Ces points reposent sur des mécanismes pharmacologiques
+cohérents et une convergence clinique, c’est dans le corpus scientifique.
 
-Le traité conclut que la formulation robuste n'est pas un slogan de type `inoffensif` ou `aussi dangereux que le tabac`, mais une formulation nuancée : le vapotage est généralement moins nocif que le tabac fumé lorsqu'il remplace totalement la combustion chez un fumeur, mais il n'est pas sans risque et ne devrait pas être initié chez les non-fumeurs, surtout les jeunes.
+La question “la MDMA abîme-t-elle
+durablement le système sérotoninergique chez l’humain ?” est restée longtemps
+incertaine, parce que les données ont été hétérogènes et parfois contradictoires
+selon les méthodes.
 
-### 6. Exemple de la neurotoxicité de la MDMA
+Des atteintes de marqueurs sérotoninergiques
+ont été mises en évidence dans plusieurs modèles animaux , mais la
+discussion a porté sur la transposition à l’Homme (dose, fréquence
+d’exposition, espèce) et sur le rôle des conditions expérimentales
+(température, stress) susceptibles d’amplifier les effets.
+Un signal préoccupant a donc été fourni, sans que l’extrapolation directe à
+l’usage récréatif humain ait pu être considérée comme fiable.
 
-Le traité distingue d'abord ce qui relève du corpus scientifique établi :
+Les études basées sur l’imagerie médicale mesurent
+indirectement des marqueurs comme le SERT (c’est le transporteur de la
+sérotonine dans le cerveau), pas les neurones eux-mêmes. Une baisse du SERT a
+souvent été observée chez des usagers, mais une remontée partielle après
+abstinence a aussi été décrite, ce qui laisse ouverte l’alternative entre
+dommage durable et adaptation réversible. De plus, la population sur laquelle
+était fait les examens médicaux ne consommait pas que de la MDMA [[38]](/references#ref-38) .
 
-- la MDMA augmente fortement la libération de sérotonine ;
-- cette pharmacologie explique des effets aigus documentés ;
-- une augmentation dose-dépendante de la température centrale a été décrite chez l'humain ;
-- les formes sévères observées en contexte récréatif ont été associées à l'hyperthermie.
+Les études en psychiatrie/psychologie montrent
+une association entre usage de MDMA (surtout usage important) et déficits
+cognitifs subtils, en particulier la mémoire, mais l’interprétation a été
+rendue difficile par la poly-consommation de drogue, les différences de mode de
+vie (sommeil, sorties), et des biais de sélection.
 
-Ces points reposent sur des mécanismes pharmacologiques cohérents et une convergence clinique.
+Autrement dit, un “bruit” méthodologique a été présent : une
+partie des effets observés a pu être attribuée à des facteurs corrélés à
+l’usage plutôt qu’à la MDMA seule.
 
-La question restée longtemps incertaine est différente :
+Quand plusieurs angles ont commencé à converger, une
+formulation plus robuste a pu être retenue :
 
-```text
-La MDMA abîme-t-elle durablement le système sérotoninergique chez l'humain ?
-```
+Cette convergence a permis de sortir du binaire «
+neurotoxique / pas neurotoxique » pour aller vers une position plus nuancée et
+robuste : le risque existe et dépend de la dose, de la répétition, du
+contexte et des co-consommations , et les conclusions doivent être formulées
+en bornant clairement l’incertitude résiduelle.
 
-Le traité explique que les données ont été hétérogènes et parfois contradictoires selon les méthodes.
+### La méthode Scientifique
 
-#### Modèles animaux
+La science ne se résume pas à des
+faits. Elle se définit d’abord comme une méthode : un ensemble de règles
+qui obligent une idée à se confronter au réel, puis à la critique d’autres
+équipes.
 
-Des atteintes de marqueurs sérotoninergiques ont été mises en évidence dans plusieurs modèles animaux. La discussion porte cependant sur la transposition à l'humain : dose, fréquence d'exposition, espèce, rôle de la température, rôle du stress expérimental.
+Cette méthode vise un objectif
+simple : produire des connaissances testables , corrigeables et plus
+fiables que l’intuition , même lorsque les humains (chercheurs inclus) sont
+soumis aux biais, aux routines et aux intérêts.
 
-Le signal est préoccupant, mais l'extrapolation directe à l'usage récréatif humain ne peut pas être considérée comme fiable sans réserve.
-
-#### Imagerie médicale
-
-Les études d'imagerie mesurent indirectement des marqueurs comme le SERT, transporteur de la sérotonine, et non les neurones eux-mêmes.
-
-Une baisse du SERT a souvent été observée chez des usagers, mais une remontée partielle après abstinence a aussi été décrite. Cette observation laisse ouverte l'alternative entre dommage durable et adaptation réversible. Le traité signale aussi que les populations étudiées ne consommaient pas uniquement de la MDMA.
-
-#### Études psychologiques et psychiatriques
-
-Les études en psychologie ou psychiatrie montrent une association entre usage de MDMA, surtout usage important, et déficits cognitifs subtils, notamment mnésiques. L'interprétation est compliquée par :
-
-- polyconsommation ;
-- sommeil ;
-- sorties et mode de vie ;
-- biais de sélection.
-
-Une partie des effets observés peut donc être attribuée à des facteurs corrélés à l'usage plutôt qu'à la MDMA seule.
-
-#### Formulation prudente retenue
-
-Lorsque plusieurs angles convergent, une formulation plus robuste devient possible :
-
-- un risque de perturbations prolongées de marqueurs sérotoninergiques et de certaines fonctions neuropsychologiques est plausible, surtout en cas d'usage important ;
-- l'ampleur, la réversibilité et les facteurs individuels restent discutés : dose cumulée, abstinence, vulnérabilités, co-consommations ;
-- les conditions de consommation jouent un rôle déterminant dans la gravité des complications aiguës : milieux chauds, foule, effort ou danse, hydratation inadaptée.
-
-Le traité recommande de sortir du binaire `neurotoxique / pas neurotoxique` pour retenir une position plus nuancée : le risque existe et dépend de la dose, de la répétition, du contexte et des co-consommations, avec incertitude résiduelle explicitement bornée.
-
-### 7. La méthode scientifique
-
-Le traité définit la science comme une méthode avant d'être un ensemble de faits. Cette méthode oblige une idée à se confronter au réel, puis à la critique d'autres équipes.
-
-L'objectif est de produire des connaissances :
-
-- testables ;
-- corrigeables ;
-- plus fiables que l'intuition ;
-- résistantes aux biais, routines et intérêts humains, y compris ceux des chercheurs.
-
-Le fil rouge utilisé est la question :
-
-```text
-Le cannabis abîme-t-il la mémoire ?
-```
-
-Cette question paraît simple, mais elle montre pourquoi la méthode compte plus que les slogans.
-
-### 8. Figure 2 — Étapes génériques de la méthode scientifique
+Pour rendre ce mécanisme concret, un même fil rouge peut
+être utilisé : la question très fréquente « le cannabis abîme-t-il la
+mémoire ? ». Elle paraît simple, mais elle montre pourquoi la méthode
+compte plus que les slogans.
 
 <figure class="doc-figure">
   <img src="../05_assets_visuels/p049_figure_01_etapes_methode_scientifique.png" alt="Étapes génériques de la méthode scientifique">
-  <figcaption>Figure p. 49 : étapes génériques permettant de transformer une question en hypothèse testable et confrontée aux données.</figcaption>
+  <figcaption>Étapes génériques permettant de transformer une question en hypothèse testable et confrontée aux données.</figcaption>
 </figure>
 
-La figure présente une séquence verticale :
+Figure 2.
+Etapes génériques de la méthode scientifique
 
-1. Question testable ;
-2. Concepts définis ;
-3. Plan d'étude adaptée ;
-4. Mesure de l'effet ;
-5. Résultats confrontés ;
-6. Correction collective.
+#### 1) Question testable
 
-### 9. Six étapes de la méthode scientifique
+Une démarche scientifique commence par une formulation qui
+peut être mise à l’épreuve.
 
-#### 9.1 Question testable
+Par exemple :
 
-Une démarche scientifique commence par une formulation qui peut être mise à l'épreuve. La phrase `le cannabis abîme la mémoire` est trop vague pour être testée. Une formulation scientifique impose des conditions : qui, quoi, quand, comment.
-
-Exemple conservé :
-
-```text
-Chez des adultes, une dose donnée de THC altère-t-elle la mémoire de travail dans les deux heures suivant l'administration, par rapport à un placebo ?
-```
+« Chez des adultes, une dose donnée de THC altère-t-elle
+la mémoire de travail dans les deux heures suivant l’administration, par
+rapport à un placebo ? »
 
 Une hypothèse devient alors possible :
 
-```text
-Le THC diminue la performance en mémoire de travail de manière dose-dépendante.
-```
+« Le THC diminue la performance en mémoire de travail de
+manière dose-dépendante. »
 
-Des prédictions en découlent : baisse mesurable au test, relation dose-effet, réversibilité partielle avec le temps, modulation par la tolérance. L'intérêt n'est pas l'hypothèse en elle-même, mais le fait qu'elle puisse être mise en défaut.
+Des prédictions en découlent : baisse mesurable au test,
+relation dose–effet, réversibilité partielle avec le temps, modulation par la
+tolérance.
 
-#### 9.2 Définir les concepts
+L’intérêt n’est pas l’hypothèse en elle-même, mais plutôt
+qu’elle puisse être mise en défaut .
 
-La méthode scientifique impose de définir ce qui est mesuré. Le mot `mémoire` recouvre plusieurs fonctions. Une conclusion globale reste impossible tant que les types de mémoire ne sont pas définis.
+#### 2) Définir les concepts
 
-Le traité distingue :
+La méthode scientifique impose de
+définir ce qui est mesuré. Le mot mémoire recouvre plusieurs fonctions,
+et une conclusion globale devient impossible tant que ces types ne sont pas
+définit. Il faut donc s’appuyer sur le corpus scientifique pour définir ce qui
+va être mesuré.
 
-- mémoire de travail : retenir ou manipuler une information sur quelques secondes ;
-- mémoire épisodique : mémorisation d'éléments appris ;
-- attention et vitesse de traitement : facteurs qui influencent les performances sans être la mémoire au sens strict.
+Dans l’exemple cannabis–mémoire, trois niveaux sont
+typiquement séparés :
 
-Règle : une affirmation du type `ça abîme la mémoire` n'est pas scientifique tant que la fonction cognitive et le critère de mesure ne sont pas précisés.
+Une règle découle de cette étape : une affirmation du type «
+ ça abîme la mémoire » n’est pas scientifique tant que la fonction
+cognitive et le critère de mesure n’ont pas été précisé.
 
-#### 9.3 Choisir un plan d'étude adapté
+#### 3) Choisir un plan d’étude adapté
 
-La méthode scientifique n'utilise pas un seul outil. Le plan d'étude dépend de la question.
+La méthode scientifique n’utilise pas un seul outil. Le plan
+d’étude est choisi en fonction de la question, et chaque plan a ses limites.
 
-Avec l'exemple cannabis-mémoire :
+Toujours avec l’exemple cannabis–mémoire :
 
-- pour un effet aigu, minutes ou heures, un protocole expérimental peut être utilisé : THC contre placebo, tests standardisés, conditions identiques ; la causalité est mieux approchée parce que l'exposition est contrôlée ;
-- pour un effet durable, mois ou années, des études observationnelles chez des consommateurs sont généralement utilisées ; la difficulté majeure est que les différences observées peuvent être liées à des facteurs associés : sommeil, santé mentale, contexte social, autres substances.
+Une idée doit être retenue : un résultat “observé” n’a pas
+le même statut selon qu’il provient d’un essai contrôlé ou d’une étude
+observationnelle. La méthode détermine le niveau d’inférence possible.
 
-Le traité insiste sur une idée : un résultat observé n'a pas le même statut selon qu'il provient d'un essai contrôlé ou d'une étude observationnelle. La méthode détermine le niveau d'inférence possible.
+#### 4) Mesurer et quantifier
 
-#### 9.4 Mesurer et quantifier
+La méthode scientifique oblige à remplacer les jugements
+binaires (oui/non) par des quantités :
 
-La méthode scientifique remplace les jugements binaires par des quantités :
+Dans l’exemple cannabis–mémoire, une baisse moyenne peut
+être modeste et néanmoins pertinente dans certaines situations (tâches
+complexes, conduite, examens). L’enjeu n’est pas seulement “est-ce que ça
+baisse”, mais dans quelles conditions, pour qui, et avec quelle amplitude .
 
-- taille d'effet : amplitude du changement ;
-- incertitude : intervalle de confiance ;
-- variabilité : effet moyen, maximum et minimum observés ;
-- conditions : dose, délai, tolérance, co-consommations.
+#### 5) Réplication et controverse organisée
 
-Dans l'exemple cannabis-mémoire, une baisse moyenne peut être modeste et rester pertinente dans certaines situations : tâches complexes, conduite, examens. L'enjeu n'est pas seulement de savoir si la performance baisse, mais dans quelles conditions, pour qui et avec quelle amplitude.
+La connaissance scientifique
+progresse par confrontation collective. Une étude, même bien faite, ne suffit
+pas.
 
-#### 9.5 Réplication et controverse organisée
+Il faut d’autres publications
+contradictoires, puis elles sont analysées : différences de population, de
+dose, de produit (THC/CBD), de délai depuis la prise, de mesures cognitives, de
+contrôle des biais.
 
-Une étude, même bien faite, ne suffit pas. La connaissance scientifique progresse par confrontation collective.
+Dans l’exemple cannabis–mémoire, des résultats hétérogènes
+peuvent être produits si :
 
-Les publications contradictoires doivent être analysées en fonction de : population, dose, produit THC/CBD, délai depuis la prise, mesures cognitives, contrôle des biais.
+La méthode scientifique ne “fait pas disparaître” ces
+variations ; elle les cartographie et cherche les conditions qui
+expliquent la convergence ou la divergence.
 
-Dans l'exemple cannabis-mémoire, des résultats hétérogènes peuvent apparaître si :
+#### 6) Biais et garde-fous
 
-- l'usage est occasionnel ou quotidien ;
-- le THC est élevé ou modulé par du CBD ;
-- la dernière prise date de quelques heures ou de plusieurs jours ;
-- l'alcool ou la nicotine sont co-consommés ;
-- la population étudiée est jeune, adulte ou vulnérable.
+Les chercheurs restent humains. Des biais cognitifs, des
+incitations de carrière, des conflits d’intérêts ou des erreurs méthodologiques
+peuvent infléchir les résultats. La force de la science réside donc dans des
+mécanismes d’objectivation collective :
 
-La méthode ne fait pas disparaître ces variations ; elle les cartographie et cherche les conditions qui expliquent la convergence ou la divergence.
+Dans l’exemple cannabis–mémoire, ces garde-fous servent à
+éviter des conclusions trop simples : une association ne doit pas être
+présentée comme une causalité, et un effet aigu ne doit pas être confondu avec
+un effet durable.
 
-#### 9.6 Biais et garde-fous
+#### Conclusion
 
-Les chercheurs restent humains. Les résultats peuvent être influencés par des biais cognitifs, des incitations de carrière, des conflits d'intérêts ou des erreurs méthodologiques.
+La science avance parce qu’elle
+oblige à mettre les idées à l’épreuve . Une affirmation n’y est pas
+acceptée parce qu’elle paraît évidente ou choquante, mais parce qu’elle peut
+être testée, mesurée, discutée et corrigée. Les résultats ne dépendent donc pas
+de la neutralité parfaite des chercheurs, mais d’un fonctionnement collectif
+qui limite progressivement les erreurs et les biais.
 
-La force de la science réside donc dans des mécanismes d'objectivation collective :
+Dans le domaine des drogues,
+cette méthode est particulièrement importante. Les discours y sont souvent
+tranchés : « ça détruit le cerveau », « ce n’est pas dangereux », « tout dépend
+des gens ». Ces phrases donnent une impression de clarté, mais elles sont peu
+utiles. Elles ne disent ni dans quelles conditions un risque apparaît,
+ni pour qui , ni à quel moment .
 
-- protocoles et critères prédéfinis pour limiter la sélection a posteriori ;
-- transparence méthodologique ;
-- contrôle des facteurs de confusion ;
-- analyses de sensibilité ;
-- réplications indépendantes ;
-- relecture critique ;
-- débats contradictoires.
+L’exemple du cannabis et de la
+mémoire l’illustre bien. Tant que l’on parle de “la mémoire” de manière
+générale, la discussion reste floue. La méthode scientifique impose de préciser
+: de quel type de mémoire s’agit-il ? chez des adolescents ou des adultes ?
+après une prise récente ou à distance ? avec quelle dose et quel produit ? Une
+fois ces questions posées, il devient possible d’obtenir des réponses
+partielles mais solides, plutôt que des opinions générales.
 
-Dans l'exemple cannabis-mémoire, ces garde-fous évitent deux confusions : présenter une association comme causalité, et confondre effet aigu avec effet durable.
+Ces réponses sont rarement
+absolues. Elles indiquent des tendances , des ordres de grandeur ,
+des conditions de risque . Une baisse de mémoire de travail après
+consommation de THC peut être modérée, transitoire, et sans conséquence dans
+certaines situations, mais devenir problématique dans d’autres, par exemple
+pour conduire, étudier ou effectuer une tâche exigeante. C’est cette mise en
+contexte qui manque souvent dans les débats publics.
 
-### 10. Conclusion du chapitre science
+La réduction des risques s’appuie
+directement sur cette manière de raisonner. Il ne s’agit pas de dire qu’une
+substance est “bonne” ou “mauvaise”, mais de comprendre quand et comment
+les risques augmentent ou diminuent : dose, fréquence, associations de
+substances, fatigue, stress, vulnérabilités individuelles. La méthode
+scientifique fournit alors des repères concrets pour ajuster les comportements,
+plutôt que des injonctions générales.
 
-Le traité conclut que la science avance parce qu'elle oblige à mettre les idées à l'épreuve. Une affirmation n'y est pas acceptée parce qu'elle paraît évidente ou choquante, mais parce qu'elle peut être testée, mesurée, discutée et corrigée.
-
-Les résultats ne dépendent donc pas d'une neutralité parfaite des chercheurs, mais d'un fonctionnement collectif qui limite progressivement les erreurs et les biais.
-
-Dans le domaine des drogues, la méthode est présentée comme particulièrement importante, car les discours sont souvent tranchés :
-
-- `ça détruit le cerveau` ;
-- `ce n'est pas dangereux` ;
-- `tout dépend des gens`.
-
-Ces phrases donnent une impression de clarté, mais elles sont peu utiles si elles ne disent pas dans quelles conditions un risque apparaît, pour qui et à quel moment.
-
-L'exemple du cannabis et de la mémoire illustre la nécessité de préciser : type de mémoire, adolescents ou adultes, prise récente ou à distance, dose, produit.
-
-Les réponses scientifiques sont rarement absolues. Elles indiquent des tendances, des ordres de grandeur et des conditions de risque. Une baisse de mémoire de travail après consommation de THC peut être modérée, transitoire et sans conséquence dans certaines situations, mais devenir problématique pour conduire, étudier ou effectuer une tâche exigeante.
-
-La réduction des risques s'appuie directement sur ce mode de raisonnement. Il ne s'agit pas de dire qu'une substance est `bonne` ou `mauvaise`, mais de comprendre quand et comment les risques augmentent ou diminuent : dose, fréquence, associations de substances, fatigue, stress, vulnérabilités individuelles.
-
-La méthode scientifique fournit alors des repères concrets pour ajuster les comportements plutôt que des injonctions générales. Le traité conclut que la science ne donne pas des certitudes définitives, mais des outils pour penser les risques de manière plus fine, réaliste et utile.
+En ce sens, la science ne donne
+pas des certitudes définitives. Elle fournit mieux : des outils pour penser les
+risques de manière plus fine, plus réaliste, et plus utile pour prendre des
+décisions éclairées.

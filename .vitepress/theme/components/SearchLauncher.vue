@@ -30,6 +30,6 @@ function openSearch() {
 
 <template>
   <button class="search-launcher" type="button" @click="openSearch">
-    Chercher par mots-cles
+    Rechercher une notion, un produit…
   </button>
 </template>

@@ -12,5 +12,7 @@ sources/prompt initial_files/
 # Node / VitePress local artifacts.
 node_modules/
 .vitepress/.temp/
+.vitepress/cache/
 .vitepress/dist/
+vitepress-dev*.log
 vitepress-preview*.log

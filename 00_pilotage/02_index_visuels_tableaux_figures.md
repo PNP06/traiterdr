@@ -48,8 +48,8 @@
 
 | Page | Type | Titre visible | Description | Donnees extraites | Importance RDR | Fichier cible | Statut |
 |---:|---|---|---|---|---|---|---|
-| 97 | image / figure | a confirmer | Visuel extrait depuis le PDF, dimensions 521x305. | Texte visible a controler dans l'image. | Conserve le support visuel du passage source. | `05_assets_visuels/p097_figure_01_ghb_drogue_du_viol_chemsex_3_mmc_r.png` | extrait ; a relire |
-| 97 | image / figure | a confirmer | Visuel extrait depuis le PDF, dimensions 433x323. | Texte visible a controler dans l'image. | Conserve le support visuel du passage source. | `05_assets_visuels/p097_figure_02_ghb_drogue_du_viol_chemsex_3_mmc_r.png` | extrait ; a relire |
+| 97 | image / figure | LSD | Visuel re-extrait depuis le rendu PDF, dimensions 696x440. | Structure chimique LSD lisible. | Conserve le support visuel du passage source. | `05_assets_visuels/p097_figure_01_ghb_drogue_du_viol_chemsex_3_mmc_r.png` | re-extrait ; affiche |
+| 97 | image / figure | 1cp-LSD | Visuel re-extrait depuis le rendu PDF, dimensions 580x440. | Structure chimique 1cp-LSD lisible. | Conserve le support visuel du passage source. | `05_assets_visuels/p097_figure_02_ghb_drogue_du_viol_chemsex_3_mmc_r.png` | re-extrait ; affiche |
 
 ## Bloc 9 - gestion des risques
 
@@ -186,9 +186,9 @@
 | 304 | image / figure | a confirmer | Visuel extrait depuis le PDF, dimensions 891x664. | Texte visible a controler dans l'image. | Conserve le support visuel du passage source. | `05_assets_visuels/p304_figure_01_descente_sevrage_addiction_dependa.png` | extrait ; a relire |
 | 305 | image / figure | a confirmer | Visuel extrait depuis le PDF, dimensions 865x447. | Texte visible a controler dans l'image. | Conserve le support visuel du passage source. | `05_assets_visuels/p305_figure_01_descente_sevrage_addiction_dependa.png` | extrait ; a relire |
 | 311 | image / figure | a confirmer | Visuel extrait depuis le PDF, dimensions 684x305. | Texte visible a controler dans l'image. | Conserve le support visuel du passage source. | `05_assets_visuels/p311_figure_01_descente_sevrage_addiction_dependa.png` | extrait ; a relire |
-| 311 | image / figure | a confirmer | Visuel extrait depuis le PDF, dimensions 1152x736. | Texte visible a controler dans l'image. | Conserve le support visuel du passage source. | `05_assets_visuels/p311_figure_02_descente_sevrage_addiction_dependa.png` | extrait ; a relire |
+| 311 | image / figure | artefact noir | Extraction noire dupliquee, dimensions 1152x736. | Aucun contenu utile visible. | Trace d'extraction conservee mais non publiee. | `05_assets_visuels/p311_figure_02_descente_sevrage_addiction_dependa.png` | artefact ; non affiche |
 | 311 | image / figure | a confirmer | Visuel extrait depuis le PDF, dimensions 1068x668. | Texte visible a controler dans l'image. | Conserve le support visuel du passage source. | `05_assets_visuels/p311_figure_03_descente_sevrage_addiction_dependa.png` | extrait ; a relire |
-| 312 | image / figure | a confirmer | Visuel extrait depuis le PDF, dimensions 1152x736. | Texte visible a controler dans l'image. | Conserve le support visuel du passage source. | `05_assets_visuels/p312_figure_01_descente_sevrage_addiction_dependa.png` | extrait ; a relire |
+| 312 | image / figure | artefact noir | Extraction noire dupliquee, dimensions 1152x736. | Aucun contenu utile visible. | Trace d'extraction conservee mais non publiee. | `05_assets_visuels/p312_figure_01_descente_sevrage_addiction_dependa.png` | artefact ; non affiche |
 | 312 | image / figure | a confirmer | Visuel extrait depuis le PDF, dimensions 1072x671. | Texte visible a controler dans l'image. | Conserve le support visuel du passage source. | `05_assets_visuels/p312_figure_02_descente_sevrage_addiction_dependa.png` | extrait ; a relire |
 | 318 | image / figure | a confirmer | Visuel extrait depuis le PDF, dimensions 867x518. | Texte visible a controler dans l'image. | Conserve le support visuel du passage source. | `05_assets_visuels/p318_figure_01_descente_sevrage_addiction_dependa.png` | extrait ; a relire |
 | 318 | image / figure | a confirmer | Visuel extrait depuis le PDF, dimensions 938x480. | Texte visible a controler dans l'image. | Conserve le support visuel du passage source. | `05_assets_visuels/p318_figure_02_descente_sevrage_addiction_dependa.png` | extrait ; a relire |
