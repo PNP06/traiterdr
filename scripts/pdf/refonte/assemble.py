@@ -75,7 +75,7 @@ assert len(doc) == AVANT + som_n + sum(i["pages"] for i in infos), "pagination i
 # Numéros de page : pages portant le pied de page courant uniquement
 def pied(page):
     r = page.rect
-    return "traité de rdr" in page.get_text(clip=fitz.Rect(0, r.height - 30 * 72 / 25.4, r.width, r.height)).lower()
+    return "risky : traité de réduction des risques" in page.get_text(clip=fitz.Rect(0, r.height - 30 * 72 / 25.4, r.width, r.height)).lower()
 
 corps = []
 for i, page in enumerate(doc):

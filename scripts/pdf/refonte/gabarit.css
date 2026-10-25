@@ -7,7 +7,7 @@
   size:A4; margin:22mm 20mm 24mm 22mm;
   @top-left{content:string(partie, start); font:700 7.5pt Poppins; letter-spacing:.1em; text-transform:uppercase; color:var(--sapin)}
   @top-right{content:string(fil, start); text-align:right; font:600 7.5pt Poppins; letter-spacing:.06em; color:var(--orange)}
-  @bottom-left{content:"Traité de RDR"; font:600 7pt Poppins; letter-spacing:.12em; text-transform:uppercase; color:var(--muted)}
+  @bottom-left{content:"Risky : Traité de réduction des risques et des dommages"; font:600 7pt Poppins; letter-spacing:.06em; color:var(--muted)}
   @footnote{border-top:1px solid var(--line); padding-top:2.5mm; margin-top:4mm}
 }
 @page opener{margin:0; @top-left{content:none} @top-right{content:none} @bottom-left{content:none} @bottom-right{content:none}}

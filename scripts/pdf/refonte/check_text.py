@@ -12,7 +12,7 @@ t = re.sub(r"<aside.*?</aside>", "", t, flags=re.S)
 t = re.sub(r'<a href="#fn\d+"[^>]*>.*?</a>', "", t, flags=re.S)
 t = html.unescape(re.sub(r"<[^>]+>", " ", t))
 p = subprocess.run(["pdftotext", pdf, "-"], capture_output=True, text=True).stdout
-p = "\n".join(l for l in p.split("\n") if not re.match(r"\s*(TRAITÉ RDR · TOME 1|TRAITÉ DE RDR)", l, re.I))
+p = "\n".join(l for l in p.split("\n") if not re.match(r"\s*(TRAITÉ RDR · TOME 1|RISKY : TRAITÉ DE RÉDUCTION DES RISQUES ET DES DOMMAGES)", l, re.I))
 def toks(s):
     s = s.replace("­", "")
     s = re.sub(r"(\w)-\n(\w)", r"\1\2", s)
