@@ -4,7 +4,7 @@
 
 ## La sexualité
 
-### Soumission et
+### Soumission et vulnérabilité
 vulnérabilité
 
 La soumission chimique est

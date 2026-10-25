@@ -1,6 +1,6 @@
 # Risques generiques, sommeil et juridique
 
-## Risques
+## Risques génériques
 génériques
 
 ## Trouble du sommeil
