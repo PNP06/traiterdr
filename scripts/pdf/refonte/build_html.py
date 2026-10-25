@@ -268,7 +268,7 @@ for h in full.find_all(["h1", "h2", "h3"]):
         for k, sp in enumerate(h.find_parent("section").select(".toc span")):
             sp.string = "%s.%d" % (lettre, k + 1)
         prefix(lettre + " ·")
-        h["data-partie"] = "%s · %s" % (lettre, titre)
+        h["data-partie"] = "Partie %s – %s" % (lettre, titre)
         h["data-fil"] = ""
     elif h.name == "h1":
         h["data-partie"] = ""

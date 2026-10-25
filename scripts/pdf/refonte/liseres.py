@@ -2,7 +2,7 @@
 
 À gauche : les chapitres de la partie. À droite : les sections du chapitre en cours.
 Chaque rail montre ce qui est passé (sapin), là où on est (orange, titre complet) et ce qui vient (gris),
-avec le texte écrit à 90° (de haut en bas). Le segment en cours est agrandi pour porter son titre complet ; les autres portent leur numéro (et leur titre à droite, quand il tient).
+avec le texte écrit à 90° (de haut en bas). Le segment en cours et ses deux voisins portent leur titre ; les autres, leur numéro.
 """
 import os
 import fitz
@@ -60,33 +60,47 @@ def coupe(texte, font, size, maxi):
     return texte.rstrip() + "…"
 
 
-def rail(page, items, cur, x_barre, x_texte, titres=True):
-    """items : titres ; cur : index de l'élément en cours (ou None)."""
+def rail(page, items, cur, x_barre, x_texte, cibles=None):
+    """items : titres ; cur : index de l'élément en cours (ou None) ; cibles : page (0-based) de chaque élément, pour les liens.
+
+    Le segment en cours et ses voisins (avant, après) sont agrandis pour porter leur titre ;
+    les autres gardent au moins la place de leur numéro.
+    """
     n = len(items)
     if not n:
         return
-    total = BAS - HAUT
+    total = BAS - HAUT - GAP * (n - 1)
     ft, fn = _fonts["titre"], _fonts["num"]
-    if cur is not None:
-        h_cur = min(ft.text_length(items[cur], CORPS_TITRE) + 4 * MM, total * 0.6)
-        h_cur = max(h_cur, total / n)
-        h_autre = (total - h_cur - GAP * (n - 1)) / (n - 1) if n > 1 else 0
-    else:
-        h_cur, h_autre = 0, (total - GAP * (n - 1)) / n
+    ref = cur if cur is not None else -1  # avant le premier chapitre : le suivant est le premier
+    grands = {k for k in (ref - 1, ref, ref + 1) if 0 <= k < n}
+    style = {k: ((ft, CORPS_TITRE) if k == cur else (fn, CORPS_NUM)) for k in range(n)}
+    besoin = {k: style[k][0].text_length(items[k], style[k][1]) + 3 * MM for k in grands}
+    mini = 7 * MM
+    petits = n - len(grands)
+    dispo = total - petits * mini
+    if sum(besoin.values()) > dispo:  # titres trop longs : on partage la place disponible
+        r = dispo / sum(besoin.values())
+        besoin = {k: v * r for k, v in besoin.items()}
+    reste = total - sum(besoin.values())
+    h_petit = reste / petits if petits else 0
+    if not petits and reste > 0:
+        besoin = {k: v + reste / len(besoin) for k, v in besoin.items()}
     y = HAUT
     for i, titre in enumerate(items):
-        h = h_cur if i == cur else h_autre
-        col = ORANGE if i == cur else (SAPIN if cur is not None and i < cur else PISTE)
+        h = besoin.get(i, h_petit)
+        col = ORANGE if i == cur else (SAPIN if i < ref else PISTE)
         page.draw_rect(fitz.Rect(x_barre, y, x_barre + LARGE, y + h), color=None, fill=col)
-        if i == cur:
-            txt, font, size, tcol = coupe(titre, ft, CORPS_TITRE, h - 2 * MM), ft, CORPS_TITRE, ORANGE
-        else:
-            font, size, tcol = fn, CORPS_NUM, (SAPIN if col == SAPIN else GRIS)
+        if cibles and i != cur:  # cliquer sur un segment ouvre le chapitre ou la section
+            page.insert_link({"kind": fitz.LINK_GOTO, "page": cibles[i], "to": fitz.Point(0, 0),
+                              "from": fitz.Rect(x_barre - 1.5 * MM, y, x_barre + LARGE + 4 * MM, y + h)})
+        font, size = style[i]
+        tcol = ORANGE if i == cur else (SAPIN if col == SAPIN else GRIS)
+        if i in grands:
             txt = coupe(titre, font, size, h - 1.5 * MM)
-            if font.text_length(numero(titre) or titre[:4], size) > h - 1.5 * MM:
+        else:
+            txt = numero(titre)
+            if font.text_length(txt, size) > h - 1.5 * MM:
                 txt = ""
-            elif not titres or len(txt) < len(numero(titre)) + 12:  # trop court pour un bout de titre lisible : numéro seul
-                txt = numero(titre)
         if txt:
             # texte écrit de haut en bas, à partir du haut du segment
             p = fitz.Point(x_texte, y + 0.6 * MM)
@@ -107,11 +121,11 @@ def dessine(doc, entries, pages_corps):
             continue
         chaps = part[2]
         cur = next((k for k, c in enumerate(chaps) if c[0] <= pn <= c[1]), None)
-        rail(page, [c[2] for c in chaps], cur, BORD, BORD + LARGE + ECART, titres=False)
+        rail(page, [c[2] for c in chaps], cur, BORD, BORD + LARGE + ECART, [c[0] - 1 for c in chaps])
         if cur is None:
             continue
         secs = chaps[cur][3]
         scur = next((k for k, s in enumerate(secs) if s[0] <= pn <= s[1]), None)
         if secs:
             xb = w - BORD - LARGE
-            rail(page, [s[2] for s in secs], scur, xb, xb - ECART - CORPS_TITRE * 0.75)
+            rail(page, [s[2] for s in secs], scur, xb, xb - ECART - CORPS_TITRE * 0.75, [s[0] - 1 for s in secs])
