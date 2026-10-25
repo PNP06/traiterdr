@@ -36,37 +36,29 @@ chaque risque, il faut attribuer un score de gravité et de probabilité.
 
 Échelle de gravité :
 
-·
- 1-Inconfort : Effets désagréables mais sans danger pour la santé
+- 1-Inconfort : Effets désagréables mais sans danger pour la santé
 
-·
- 2-Problèmes mineurs : Des problèmes de santé temporaires ou
+- 2-Problèmes mineurs : Des problèmes de santé temporaires ou
 réversibles
 
-·
- 3-Problèmes graves : Des problèmes de santé chroniques ou
+- 3-Problèmes graves : Des problèmes de santé chroniques ou
 irréversibles
 
-·
- 4-Potentiellement mortel : Des problèmes qui mettent en jeu le
+- 4-Potentiellement mortel : Des problèmes qui mettent en jeu le
 pronostic vital
 
 Échelle de probabilité :
 
-·
- 1-Rare : Les effets indésirables se produisent rarement (dans
+- 1-Rare : Les effets indésirables se produisent rarement (dans
 moins de 10 % des cas).
 
-·
- 2-Occasionnel : Les effets indésirables se produisent
+- 2-Occasionnel : Les effets indésirables se produisent
 occasionnellement (dans 10 à 25 % des cas).
 
-·
- 3-Fréquent : Les effets indésirables se produisent fréquemment
+- 3-Fréquent : Les effets indésirables se produisent fréquemment
 (dans 25 à 50 % des cas).
 
-·
- 4-Quasiment systématique : Les effets indésirables se produisent
+- 4-Quasiment systématique : Les effets indésirables se produisent
 dans la plupart des cas (dans plus de 50 % des cas).
 
 | Risque | Gravité | Probabilité | G x P | Commentaire |
@@ -151,20 +143,17 @@ solution de réhydratation peut être bénéfique.
 Pour réduire efficacement les risques, plusieurs types de
 barrières peuvent être mis en place :
 
-·
- Barrières de connaissance : ce sont des barrières efficaces. Elles
+- Barrières de connaissance : ce sont des barrières efficaces. Elles
 impliquent de connaître les effets de la substance, d’identifier les signes
 d’alerte, de connaître ses limites personnelles, etc.
 
-·
- Barrières matérielles : Elles consistent à fournir les outils ou
+- Barrières matérielles : Elles consistent à fournir les outils ou
 équipements nécessaires pour rendre la consommation plus sûre. Cela peut
 inclure des seringues stériles pour prévenir la transmission de maladies, des
 préservatifs pour prévenir les infections sexuellement transmissibles, des kits
 de tests de substances, etc.
 
-·
- Barrières comportementales : Elles visent à encourager des
+- Barrières comportementales : Elles visent à encourager des
 comportements plus sûrs lors de la consommation de substances. Cela peut
 impliquer des stratégies telles que la modération de la consommation,
 l'évitement de la conduite après consommation, ou l'utilisation de

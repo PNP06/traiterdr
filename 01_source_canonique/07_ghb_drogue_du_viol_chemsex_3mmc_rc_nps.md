@@ -3,7 +3,7 @@
 ## Drogue du zombie
 
 Dans la culture populaire
-contemporaine, la notion d'une "drogue du zombie" [127]
+contemporaine, la notion d'une "drogue du zombie" [[127]](/references#ref-127)
 qui déshumanise complètement ses utilisateurs a souvent été évoquée. Une
 variété de substances, de la flakka à l'Alpha-PVP, en passant par des drogues
 plus traditionnelles comme la kétamine, le fentanyl ou le spice, ont été
@@ -54,8 +54,8 @@ Il y a eu beaucoup de
 communication sur les abus liés à des substances misent à l’insu des victimes
 dans leurs verres. Généralement la communication se focalise sur
 « GHB : la drogue du viol ». Or, le GHB est avant tout un
-médicament détourné pour un usage récréatif [128]
-dans plus de 99% des consommations [129] ,
+médicament détourné pour un usage récréatif [[128]](/references#ref-128)
+dans plus de 99% des consommations [[129]](/references#ref-129) ,
 c’est plus que d’autres drogues.
 
 Le GHB agit principalement via
@@ -81,10 +81,10 @@ dose moyenne pour ressentir les effets, mais 2ml peut causer une somnolence,
 c’est une fenêtre récréative étroite . Autrement dit, 0,5 ml équivaudrait
 à un verre standard d’alcool. Une concentration plasmatique d’environ 100 mg/L
 provoque une euphorie et une désinhibition, tandis qu’une concentration de 500
-mg/L peut entraîner la mort par dépression cardio-respiratoire [130] .
+mg/L peut entraîner la mort par dépression cardio-respiratoire [[130]](/references#ref-130) .
 
 La demi-vie de la GBL est
-relativement courte, entre 20 minutes et 1 heure [131] .
+relativement courte, entre 20 minutes et 1 heure [[131]](/references#ref-131) .
 L'usage consiste donc à disposer d'une dose suffisante pour redoser et tenir
 toute la soirée. Cependant, la GBL est généralement conditionnée en flacons de
 50 mL à 1 L, ce qui expose le consommateur à une quantité importante de
@@ -100,7 +100,7 @@ consommation d’alcool avec.
 L’utilisation comme produit de
 soumissions n’est donc pas intéressante, en plus de la difficulté pour en
 trouver. Comme le dit Techno+ (une des plus importantes associations de
-réduction des risques) dans sa fiche sur le GHB [132] :
+réduction des risques) dans sa fiche sur le GHB [[132]](/references#ref-132) :
 
 « Le pervers qui ferait
 cela [ utiliser le GHB pour une soumission ] aurait plus de chance de se
@@ -114,7 +114,7 @@ Historiquement, le GHB est un
 médicament utilisé comme anesthésiant, aujourd’hui c’est un traitement contre
 les troubles du sommeil (Xyrem®) ou d’aide au sevrage alcoolique (Alcover®) du
 fait de sa plus faible toxicité aigüe et ses effets similaires – voir partie
-addiction (en Autriche et en Italie jusqu’en 2017) [133] .
+addiction (en Autriche et en Italie jusqu’en 2017) [[133]](/references#ref-133) .
 
 L’usage détourné a commencé dans
 les années 80 par les culturistes, car le GHB était vendu en complément
@@ -124,7 +124,7 @@ de soumission chimiques médiatisés et d’une reprise dans les films et série
 le terme « drogue du viol » est diffusé au grand public.
 
 Dans les années 2000, le GHB
-est consommé par des catégories socioprofessionnelles plutôt élevées [134]
+est consommé par des catégories socioprofessionnelles plutôt élevées [[134]](/references#ref-134)
 et le terme « d’ecstasy liquide » apparait, car en cadre festif il
 a des effets qui se rapprochent un peu de la MDMA (effet identique à la
 désinhibition et l’aspect chaleureux de l’alcool).
@@ -132,16 +132,16 @@ désinhibition et l’aspect chaleureux de l’alcool).
 En 2019, un rapport de
 l’Observatoire des Drogues et des tendances Addictives montre une utilisation
 plus diffuse en France, les utilisateurs considérant le GHB comme une
-alternative à l’alcool [135]
+alternative à l’alcool [[135]](/references#ref-135)
 avec une durée plus courte et moins d’effets secondaires, sans forcément
 maîtriser les risques (dosage, mélange, etc.).
 
 Cette substance est l’une des dernières à être utilisée
 pour des actes malveillants . Certains pensent que c’est la drogue idéale
 pour la soumission, car elle serait indétectable dans les urines et le sang,
-c’est faux : 12h dans les urines et 10h dans le sang [136]
+c’est faux : 12h dans les urines et 10h dans le sang [[136]](/references#ref-136)
  et surtout ce n’est pas le cas des cheveux où les traces peuvent être
-détectées très longtemps après [137] !
+détectées très longtemps après [[137]](/references#ref-137) !
 
 
 En somme,
@@ -189,9 +189,9 @@ visibilité suffisante pour contrer 3 décennies de désinformation sur le sujet
 Certaines associations utilisent
 la notion de « ghb = drogue du viol » comme accroche pour parler de
 consentement et de réduction des risques. D’autres s’attachent à communiquer
-plus clairement sur le sujet. Par exemple, « plus belle la nuit » [138]
+plus clairement sur le sujet. Par exemple, « plus belle la nuit » [[138]](/references#ref-138)
 y a consacré le premier épisode de sa chaine Youtube ou l’association
-« technoplus » qui en parle dans sa plaquette risques sur le GHB [139] :
+« technoplus » qui en parle dans sa plaquette risques sur le GHB [[139]](/references#ref-139) :
 
 « Cette image médiatique (ghb=drogue
 du viol) très forte est dangereuse pour 2 raisons :
@@ -220,7 +220,7 @@ extrêmes, prolongés dans le temps et dont le plaisir est exacerbé par les
 drogues.
 
 Traiter une addiction au chemsex dépasse une simple
-addiction aux drogues [140] ,
+addiction aux drogues [[140]](/references#ref-140) ,
 car la sexualité sans le contexte du chemsex peut devenir absente, et
 l'addiction au comportement de chercher un partenaire via les réseaux sociaux
 est aussi à traiter.
@@ -254,13 +254,13 @@ provoquent une sensation de connexion accrue avec soi-même et les autres).
 Elles proviennent initialement d'un arbuste originaire du Yémen et d'Éthiopie,
 le khat ( Catha edulis ). La première cathinone synthétique largement
 répandue fut la 4-MMC, aussi appelée méphédrone. Elle provoque un effet sur la
-sérotonine et la dopamine bien plus important que la MDMA [141] .
+sérotonine et la dopamine bien plus important que la MDMA [[141]](/references#ref-141) .
 Lors de sa commercialisation, cette drogue était en vente libre. Bien moins
 chère et avec une descente plus douce que la cocaïne, les consommateurs l'ont
 préférée à cette dernière. En addictologie, il a été observé que la méphédrone
 causait moins de décès que les amphétamines et la cocaïne durant le temps où
 elle était en vente libre, ce qui a conduit à une diminution du nombre total de
-décès liés aux drogues [142] .
+décès liés aux drogues [[142]](/references#ref-142) .
 
 La méphédrone a été interdite en 2010, ce qui a entraîné une
 remontée du nombre de décès liés à la consommation de cocaïne et
@@ -275,7 +275,7 @@ encore plus risquée, car un dosage adapté pour une cathinone peut être
 dangereux pour une autre. L'absence d'informations précises sur la composition
 des produits vendus augmente le risque de surdosage et d'effets indésirables
 graves. Certains consommateurs arrêtent leur consommation de cathinones car ils
-ne trouvent plus de 3-MMC sur le marché [143] .
+ne trouvent plus de 3-MMC sur le marché [[143]](/references#ref-143) .
 
 En cas de consommation de
 3-MMC : faire tester ses produits (voir partie « Tester ses produits ») et ne
@@ -295,7 +295,7 @@ drogues illégales.
 
 Pour expliquer les RC, il est
 nécessaire de revenir à la réglementation sur les drogues. Les substances
-interdites sont listées dans l’arrêté [144]
+interdites sont listées dans l’arrêté [[144]](/references#ref-144)
 du 22 février 1990. Il est disponible sur le site de Légifrance et
 contient, en annexe, les listes des substances illicites.
 
@@ -492,9 +492,9 @@ Dans les années 2005, il y a eu un cas d’erreur qui a
 causé plusieurs morts. Un laboratoire de RC a vendu du
 « bromodragonfly » (nom barbare), qui se dose en milligramme, à la
 place du 2C-BFly qui lui se dose en mg. Cela a conduit des utilisateurs à
-l’overdose et plusieurs décès ont été déclarés [145] .
+l’overdose et plusieurs décès ont été déclarés [[145]](/references#ref-145) .
 Encore aujourd’hui, il existe des erreurs d’étiquetage ou malfaçon dans ces
-sites accessible depuis le net classique [146] .
+sites accessible depuis le net classique [[146]](/references#ref-146) .
 
 Sur les darkmarkets (les eBay de la drogue du darknet), les
 avis des clients sont souvent obligatoires et les sites publient directement

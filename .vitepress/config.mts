@@ -52,6 +52,8 @@ export default defineConfig({
     '04_substances_mentions/**',
     'corpus-index.md',
     'README.md',
+    'AGENTS.md',
+    'llms.txt',
     'readme.md'
   ],
   lastUpdated: false,
@@ -94,6 +96,7 @@ export default defineConfig({
           { text: 'Passages à lire en premier', link: '/essentiels' },
           { text: 'Sommaire complet', link: '/sommaire' },
           { text: 'Galerie des figures', link: '/figures' },
+          { text: 'Références', link: '/references' },
           { text: 'Télécharger le PDF', link: '/pdf' }
         ]
       },

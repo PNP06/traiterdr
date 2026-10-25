@@ -1,6 +1,6 @@
 # Introduction, cadre, objectif et sources
 
-### Page imprimée 8 / PDF 9 — Note auteur, équipe et motivation initiale
+### Note auteur, équipe et motivation initiale
 
 Le bloc s'ouvre par une note de travail :
 
@@ -43,7 +43,7 @@ Les auteurs décrivent ensuite le parcours informationnel comme difficile pour l
 
 La logique centrale est que des clés scientifiques de base permettent de comprendre et d'ancrer des règles de réduction des risques. Sans compréhension de ce que les drogues induisent dans le corps, les décisions reposent sur des `on dit`, avec risque d'erreurs et de conséquences physiques ou mentales.
 
-### Page imprimée 9 / PDF 10 — Publics, évolution des consommations, prévention secondaire
+### Publics, évolution des consommations, prévention secondaire
 
 L'idée du livre est rattachée à une soirée avec des jeunes d'une vingtaine d'années. Le texte affirme que connaître ce à quoi l'on s'expose lors d'une consommation peut éviter des comportements problématiques. Il formule une intention intergénérationnelle : aider les jeunes, les enfants des auteurs et les familles à comprendre une dimension associée à l'adolescence, à la découverte de soi, à la recherche de sensations et au goût du risque.
 
@@ -74,7 +74,7 @@ Un visuel illustre les trois niveaux de prévention. Il oppose :
   <figcaption>Figure source p. 9 : distinction entre prévention primaire, prévention secondaire et prévention tertiaire.</figcaption>
 </figure>
 
-### Page imprimée 10 / PDF 11 — Non-moralisation, factualité et publics cibles
+### Non-moralisation, factualité et publics cibles
 
 Le texte explique que les usagers relevant d'un usage simple ne se reconnaissent ni dans la prévention primaire centrée sur l'abstinence, ni dans la prévention tertiaire centrée sur une pathologie addictive déjà constituée. Une large proportion de consommateurs serait donc sans cadre structuré d'information, s'appuyant sur des croyances personnelles, des conseils informels entre pairs, ou des messages de réduction des risques transmis de manière fragmentaire par certaines associations.
 
@@ -102,7 +102,7 @@ Le sous-titre `A qui s'adresse le livre` détaille les publics :
 | Associations spécialisées dans la réduction des risques et travailleurs sociaux | Appui au terrain, formation continue, référence pour supports de communication, renforcement des compétences en prévention et intervention. Le texte cite `CARRUD, CSAPA` tel qu'écrit dans la source. |
 | Cliniciens : addictologues, médecins généralistes, psychiatres, etc. | Compléter la formation initiale, enrichir l'approche clinique, actualiser les connaissances par rapport à l'état de l'art. |
 
-### Page imprimée 11 / PDF 12 — Scientifiques, journalistes et modes de lecture
+### Scientifiques, journalistes et modes de lecture
 
 La liste des publics continue avec :
 
@@ -126,7 +126,7 @@ Deux notes de bas de page sont associées à la comparaison de durée :
 1. URL La Provence sur le temps passé par les Français sur les réseaux sociaux.
 2. Note extraite comme `Multimédia | Combien de temps passent les Français sur les réseaux sociaux ? | La Provence`, avec la même URL dans l'extraction Pandoc. Cette note doit être relue, car son rattachement au `temps passé sur le trône` semble incohérent ou incomplet.
 
-### Page imprimée 12 / PDF 13 — Structure du livre, lecture efficace, approche scientifique et sources
+### Structure du livre, lecture efficace, approche scientifique et sources
 
 Le traité annonce trois grandes parties :
 
@@ -151,7 +151,7 @@ Le traité mentionne l'utilisation des ressources d'associations, principalement
 
 Source citée : `https://nuit-blanche.ch/`.
 
-### Page imprimée 13 / PDF 14 — Cadre juridique et principes Energy Control
+### Cadre juridique et principes Energy Control
 
 Le sous-titre `Cadre juridique` commence par rappeler que, légalement, la facilitation ou la provocation à l'usage sont interdites par l'article L.3421-4 du code de la santé publique. Il est aussi interdit de présenter les produits classés comme stupéfiants sous un jour favorable. Le texte précise que cette contrainte ne s'applique pas de la même manière à l'alcool et au tabac, en signalant `aucun problème, autre que moral, pour l'alcool et le tabac`.
 
@@ -175,7 +175,7 @@ Le texte présente ensuite les principes clés d'Energy Control, association int
 
 Source citée : `https://energycontrol.org/quienes-somos/`.
 
-### Page imprimée 14 / PDF 15 — Techno+, article L3411-8 et reconnaissance internationale
+### Techno+, article L3411-8 et reconnaissance internationale
 
 La page commence par le huitième principe Energy Control :
 
@@ -207,7 +207,7 @@ Le traité ajoute que la réduction des risques est de plus en plus acceptée, m
 
 Il signale enfin une avancée en mars 2024 : la Commission de l'ONU sur les stupéfiants aurait reconnu pour la première fois la RDR comme élément essentiel de santé publique lié à la consommation de produits psychotropes hors cadre médical. Le texte indique que la résolution a été votée le 22 mars par 70 % des 53 membres, avec comme opposants la Russie et la Chine, et qu'elle encourage les États à soutenir et financer les démarches de RDR ainsi qu'à réduire discrimination, exclusion et atteintes envers les usagers de stupéfiants.
 
-### Page imprimée 15 / PDF 16 — Avertissement légal et limites de responsabilité
+### Avertissement légal et limites de responsabilité
 
 La page poursuit la mention de la résolution de l'ONU et contient un encadré juridique/éthique. Le texte visible de l'encadré est conservé comme avertissement source :
 

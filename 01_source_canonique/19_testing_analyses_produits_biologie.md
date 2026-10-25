@@ -6,12 +6,10 @@ Contrairement aux produits pharmaceutiques, dont la quantité
 et la fabrication sont contrôlées, les produits illicites n’ont pas ce niveau
 de contrôle et engendrent deux incertitudes :
 
-·
- Une incertitude sur la quantité de produit actif, pouvant
+- Une incertitude sur la quantité de produit actif, pouvant
 conduire à des surdoses ;
 
-·
- Une incertitude sur la qualité , pouvant entraîner des
+- Une incertitude sur la qualité , pouvant entraîner des
 effets secondaires, par exemple liés aux produits de coupe.
 
 Cette partie présente les bases pour comprendre l’analyse
@@ -123,7 +121,7 @@ différentes.
 Il est également possible que le produit soit contaminé avec
 d’autres produits synthétisés par les chimistes. C’est ce qu’il s’est passé
 avec un dérivé de LSD légale, contaminé avec 8 autres produits synthétisés par
-le laboratoire [400] .
+le laboratoire [[400]](/references#ref-400) .
 Ici la contamination était à l’état de trace, et n’engendre aucuns effets
 secondaires ni de positivité aux tests biologiques.
 
@@ -238,7 +236,7 @@ tester ses produits dans les associations ou par correspondance, gratuitement
 
 #### Approche globale OFDT
 
-Publié annuellement par l'OFDT [401]
+Publié annuellement par l'OFDT [[401]](/references#ref-401)
 (Observatoire français des drogues et des toxicomanies), un rapport détaille
 les résultats acquis dans le cadre de son programme SINTES. Il est à noter que
 les échantillons collectés pour ce programme pourraient ne pas être pleinement
@@ -279,7 +277,7 @@ des services de drug checking opérant dans plusieurs pays européens. Le rappor
 d’analyses réalisées dans un cadre de réduction des risques , à partir de
 produits soumis volontairement par les usagers ou collectés dans des contextes
 d’usage variés (sites fixes, événements festifs, services mobiles, salles de
-consommation, envois postaux) [402]
+consommation, envois postaux) [[402]](/references#ref-402)
 
 Les données TEDI ne prétendent pas décrire l’ensemble du
 marché des drogues en Europe. Elles reflètent les produits analysés par les
@@ -351,7 +349,7 @@ La 3-MMC (3-méthylméthcathinone) est une cathinone de
 synthèse classiquement recherchée pour ses effets stimulants proches de ceux
 des amphétamines ou de la MDMA. Son apparition sur le marché français remonte
 aux années 2010, initialement dans des contextes spécifiques comme le chemsex,
-avant de se diffuser plus largement dans les milieux festifs et récréatifs [403] .
+avant de se diffuser plus largement dans les milieux festifs et récréatifs [[403]](/references#ref-403) .
 
 Les données issues d’analyses réalisées en France entre 2022
 et 2025 montrent que la majorité des produits vendus comme « 3-MMC » ne
@@ -360,7 +358,7 @@ molécule différente. Dans une base d’environ 1 184 échantillons présumés 
 3-MMC analysés par l’association Analyse Ton Prod’ Île-de-France, seulement
 23 % contenaient effectivement de la 3-MMC , tandis que une large part
 contenait de la 2-MMC, de la 3-CMC ou d’autres cathinones dont les profils
-pharmacologiques et les doses actives varient substantiellement [404] .
+pharmacologiques et les doses actives varient substantiellement [[404]](/references#ref-404) .
 
 Cette situation ne correspond pas simplement à une «
 adultération », mais à un glissement du marché des cathinones de synthèse
@@ -440,7 +438,7 @@ Pour aller plus loin : La MDMA a fait l’objet d’essais
 cliniques avancés en vue d’une utilisation comme médicament , dans le
 cadre du traitement du trouble de stress post-traumatique (PTSD) . Ces
 recherches ont été menées aux États-Unis par l’organisation MAPS
-(Multidisciplinary Association for Psychedelic Studies) [405] ,
+(Multidisciplinary Association for Psychedelic Studies) [[405]](/references#ref-405) ,
 selon des protocoles cliniques stricts validés par les autorités sanitaires.
 Dans ces essais, la MDMA était administrée dans un contexte médicalisé ,
 avec sélection rigoureuse des patients, environnement contrôlé, accompagnement
@@ -823,7 +821,7 @@ molécule détectée n'est pas celle attendue. Ce type de résultat peut donner 
 fausse impression de sécurité . L'Inserm a précisé dans un rapport
 d'expertise en 1998 que cette technique d'analyse ne tient pas compte des
 mesures de prévention habituelles, ce qui a conduit à l'interdiction des
-tests colorimétriques pour les associations [407]
+tests colorimétriques pour les associations [[407]](/references#ref-407)
 de Réduction des Risques et des Dommages (RDR).
 
 En somme, bien que la colorimétrie soit une méthode utile et

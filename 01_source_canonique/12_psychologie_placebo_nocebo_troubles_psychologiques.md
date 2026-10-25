@@ -34,34 +34,28 @@ d’étude en double aveugle pour évaluer l’effet analgésique postopératoir
 comparant des substances pharmacologiquement actives à des placebos (solution
 saline). En regroupant plusieurs études menées sur environ mille patients, il a
 estimé que l’effet placebo représentait environ 35 % de l’effet analgésique
-total [195] .
+total [[195]](/references#ref-195) .
 
-Pour aller plus loin, il existe deux types de placebo [196]
+Pour aller plus loin, il existe deux types de placebo [[196]](/references#ref-196)
 :
 
-·
- Le placebo pur , qui ne contient aucune substance active.
+- Le placebo pur , qui ne contient aucune substance active.
 
-·
- Le placebo impur , qui contient une substance active
+- Le placebo impur , qui contient une substance active
 biologiquement.
 
 Voici quelques exemples de placebo impur :
 
-·
- Prendre des comprimés de magnésium pour lutter contre une fatigue
+- Prendre des comprimés de magnésium pour lutter contre une fatigue
 liée au surmenage, sans présence de carence en magnésium.
 
-·
- Consommer de la vitamine C pour améliorer la concentration, sans
+- Consommer de la vitamine C pour améliorer la concentration, sans
 preuve d’efficacité.
 
-·
- Utiliser des gélules de gingembre pour soulager un mal de tête,
+- Utiliser des gélules de gingembre pour soulager un mal de tête,
 sans lien démontré entre cette substance et le soulagement recherché.
 
-·
- Améliorer l’état de santé d’une personne souffrant d’une angine
+- Améliorer l’état de santé d’une personne souffrant d’une angine
 virale avec des antibiotiques, alors que ces médicaments agissent uniquement
 sur les bactéries et non sur les virus. Le traitement antibiotique peut
 prévenir l’aggravation de l’angine en évitant une contamination bactérienne sur
@@ -73,7 +67,7 @@ principe actif. Cela peut se traduire par des maux de tête, des
 vomissements, etc. Le meilleur exemple est une étude sur le vaccin de la
 Covid-19 : deux groupes ont été séparés, le premier recevait effectivement le
 vaccin, le second un produit inerte. 35 % des personnes n'ayant pas
-reçu le vaccin ont présenté de réels effets secondaires [197] ...
+reçu le vaccin ont présenté de réels effets secondaires [[197]](/references#ref-197) ...
 sur un vaccin fictif. C’est un peu ce qui se passe lorsque certaines personnes
 ont l’impression d’avoir tous les effets secondaires lorsqu’ils lisent la
 notice d’un médicament.
@@ -82,12 +76,12 @@ notice d’un médicament.
 
 L'effet placebo, bien que d'origine psychologique, produit
 des effets biologiques mesurables. Que ce soit par l'activation de voies
-neuronales [198] ,
+neuronales [[198]](/references#ref-198) ,
 avec la libération de neurotransmetteurs comme la dopamine et les endorphines,
 ou la modification de l'activité de régions cérébrales clés liées à la
 récompense et à la douleur, ces effets se manifestent également à un niveau
 plus global dans le système nerveux central. Par exemple, des changements
-d'état cardiovasculaire peuvent être observés [199] .
+d'état cardiovasculaire peuvent être observés [[199]](/references#ref-199) .
 
 Ces effets sont donc réels non seulement d'un point de
 vue psychologique mais aussi biologique.
@@ -185,7 +179,7 @@ d’administration la plus couramment utilisée.
 Un autre exemple est la douleur associée au
 traitement :
 
-Étude structurante : Amanzio et Benedetti (1999) [200]
+Étude structurante : Amanzio et Benedetti (1999) [[200]](/references#ref-200)
 ont démontré que des volontaires conditionnés avec des analgésiques
 ressentaient une réduction significative de la douleur lorsqu'on leur
 administrait ensuite un placebo dans le même conditionnement (forme, couleur,
@@ -205,7 +199,7 @@ Exemple : Un dealer décrivant une drogue comme étant
 particulièrement puissante ou ayant des effets plus stimulants peut augmenter
 les attentes de l'utilisateur, amplifiant ainsi les effets perçus.
 
-Étude structurante : Une étude [201]
+Étude structurante : Une étude [[201]](/references#ref-201)
 a montré que les informations fournies par des pairs ou des sources en ligne
 peuvent modifier la perception des effets d'une substance, influençant ainsi
 l'expérience de l'utilisateur.
@@ -225,9 +219,9 @@ Inversement, quelqu'un qui croit fermement que la substance lui apportera
 détente et bien-être peut expérimenter ces sensations, même si la substance est
 inerte.
 
-Étude structurante : Les travaux d'Émile Coué [202]
+Étude structurante : Les travaux d'Émile Coué [[202]](/references#ref-202)
 ont montré que l'autosuggestion peut influencer significativement l'état mental
-et physique des individus. De plus, une autre étude [203]
+et physique des individus. De plus, une autre étude [[203]](/references#ref-203)
 a démontré que la suggestion concernant la caféine pouvait produire des effets
 sur la tension artérielle et l'éveil identiques, que les participants aient
 consommé un placebo ou de la caféine.
@@ -245,8 +239,7 @@ influencées.
 Les attentes sont les anticipations qui en résultent
 et qui modulent l'expérience réelle de l'individu.
 
-###### L'attente
-liée au mode d'administration
+###### L'attente liée au mode d'administration
 
 L' attente
  du patient vis-à-vis d'un traitement est fortement influencée par le mode
@@ -256,13 +249,12 @@ attentes envers les traitements douloureux car ils les considèrent comme étant
 plus élaborés ou puissants.
 
 Exemple : Dans
-une étude sur la migraine [204] ,
+une étude sur la migraine [[204]](/references#ref-204) ,
 il a été démontré que les patients rapportaient une plus grande amélioration
 des symptômes lorsqu'ils recevaient un placebo par injection plutôt que par
 voie orale.
 
-###### L'effet
-Hawthorne
+###### L'effet Hawthorne
 
 Ce phénomène décrit l'amélioration de l'état des individus simplement parce
 qu'ils savent qu'ils sont observés ou participent à une expérience. Dans le cas
@@ -273,7 +265,7 @@ Exemple : Un individu consommant une drogue lors d'une soirée où
 l'expérience est mise en avant peut ressentir des effets amplifiés en raison de
 l'attention accordée à l'événement.
 
-Étude structurante : Les expériences menées à l'usine Hawthorne [205]
+Étude structurante : Les expériences menées à l'usine Hawthorne [[205]](/references#ref-205)
 ont démontré que le simple fait de se sentir spécial ou observé peut influencer
 les performances et les perceptions des individus.
 
@@ -283,7 +275,7 @@ Les attentes positives peuvent réduire l'anxiété, augmentant
 ainsi les effets agréables d'une drogue. À l'inverse, des attentes négatives
 peuvent provoquer un effet nocebo, amplifiant les effets indésirables.
 
-Étude structurante : Colloca et Benedetti (2007) [206]
+Étude structurante : Colloca et Benedetti (2007) [[206]](/references#ref-206)
 ont montré que les attentes peuvent moduler la perception de la douleur et de
 l'anxiété chez les consommateurs de substances psychoactives.
 
@@ -294,7 +286,7 @@ dealers, les amis ou les communautés en ligne peuvent façonner les attentes de
 individus concernant les drogues. Leur conviction et leur manière de présenter
 une substance peuvent moduler l'expérience de l'utilisateur.
 
-Étude structurante : Ernst et al. (2005) ont démontré [207]
+Étude structurante : Ernst et al. (2005) ont démontré [[207]](/references#ref-207)
 que les adolescents sont plus susceptibles de ressentir des effets positifs
 lorsqu'ils consomment des substances dans un groupe où ces effets sont
 valorisés et attendus.
@@ -342,23 +334,20 @@ traiter le stress post-traumatique, un trouble particulièrement sévère.
 
 Dans le cadre de la thérapie, le protocole de thérapie
 assistée par la MDMA, tel que développé par la Multidisciplinary Association
-for Psychedelic Studies (MAPS) [208] [209] ,
+for Psychedelic Studies (MAPS) [[208]](/references#ref-208) [[209]](/references#ref-209) ,
 comprend généralement 12 à 13 sessions structurées comme suit :
 
-·
- Sessions préparatoires : 3 sessions initiales sans MDMA, chacune
+- Sessions préparatoires : 3 sessions initiales sans MDMA, chacune
 durant environ 90 minutes, visant à établir une relation de confiance entre le
 patient et les thérapeutes, et à préparer le patient à l'expérience
 thérapeutique.
 
-·
- Sessions avec MDMA : 2 à 3 sessions principales où la MDMA est
+- Sessions avec MDMA : 2 à 3 sessions principales où la MDMA est
 administrée. Chaque session dure entre 6 et 8 heures, permettant une
 exploration approfondie des souvenirs traumatiques dans un état modifié de
 conscience.
 
-·
- Sessions d'intégration : Après chaque session avec MDMA, 3 à 4
+- Sessions d'intégration : Après chaque session avec MDMA, 3 à 4
 sessions d'intégration de 90 minutes sont prévues pour aider le patient à
 assimiler et à intégrer les expériences vécues lors des sessions sous MDMA.
 
@@ -370,7 +359,7 @@ traitement du TSPT (Trouble du Stress Post-Traumatique), en se basant sur les
 
 | Thérapie/Traitement | Réduction <br> des symptômes significative (%) | Participants <br> ne répondant plus aux critères de TSPT après la thérapie (%) |
 | --- | --- | --- |
-| Thérapies <br> classiques (EMDR, TCC) | 25 % [210] |  |
+| Thérapies <br> classiques (EMDR, TCC) | 25 % [[210]](/references#ref-210) |  |
 | Placebo avec thérapie <br> (Étude MAPS) | 60 % | 32 % dans MAPP1, <br> 47,6 % dans MAPP2 |
 | MDMA avec <br> thérapie (Étude MAPS) | 88 % | 67 % dans MAPP1, 71,2 % dans MAPP2 |
 
@@ -411,7 +400,7 @@ peut jouer un rôle significatif dans les effets ressentis.
 La dépression légère est un trouble souvent pris en charge
 par les médecins généralistes, sans nécessiter systématiquement un suivi chez
 le psychiatre, surtout dans le contexte actuel de pénurie de spécialistes. La
-dépression légère est définie par la Haute Autorité de Santé [211]
+dépression légère est définie par la Haute Autorité de Santé [[211]](/references#ref-211)
 comme un "retentissement
 modéré sur le fonctionnement, perturbé par les symptômes. Cela entraîne
 quelques difficultés à poursuivre les activités ordinaires et sociales, bien
@@ -420,7 +409,7 @@ Ce niveau de dépression est donc relativement fréquent. En médecine général
 le traitement le plus courant pour la dépression est la fluoxétine
 (commercialisée sous le nom de Prozac). De nombreuses études ont été réalisées
 sur cette molécule, notamment une étude intéressante comparant son efficacité
-dans les cas de dépression légère [212] .
+dans les cas de dépression légère [[212]](/references#ref-212) .
 
 <figure class="doc-figure">
   <img src="../05_assets_visuels/p147_figure_01_psychologie_placebo_nocebo_trouble.png" alt="Figure 32. Comparaison placebo et fluoxétine sur dépression légère">
@@ -439,7 +428,7 @@ les effets du traitement et du placebo restant globalement proches.
 L'effet placebo dans les dépressions légères est
 particulièrement intéressant. Sur le plan médical, il est important de rester
 prudent : dans les dépressions, surtout sur plusieurs années, les
-antidépresseurs montrent un taux de survie significativement plus élevé [213] .
+antidépresseurs montrent un taux de survie significativement plus élevé [[213]](/references#ref-213) .
 L'objectif ici n'est pas de prétendre que le placebo est miraculeux et
 fonctionne pour tout le monde, tout le temps, mais de souligner que le placebo
 peut être efficace dans le traitement de certains états psychologiques
@@ -454,7 +443,7 @@ la molécule elle-même et celui induit par l'attente psychologique.
 ##### L’influence du médecin
 
 L’étude 'Doctors and Patients: the Role of Clinicians in the
-Placebo Effect' [214]
+Placebo Effect' [[214]](/references#ref-214)
 explore en profondeur comment l’attitude des médecins, en particulier leur
 niveau d’empathie, influence l’efficacité de l’effet placebo chez les patients.
 Cette recherche montre l’importance du comportement des professionnels de santé
@@ -490,28 +479,28 @@ attentes peuvent jouer un rôle central dans l'expérience perçue.
 Contrairement au milieu hospitalier, où les médecins disposent de placebos
 conditionnés en médicament, le médecin de ville doit s’adapter et trouver des
 alternatives qui puissent remplir cette fonction. Souvent, il s’agit de
-placebos impurs. Plusieurs solutions [215]
+placebos impurs. Plusieurs solutions [[215]](/references#ref-215)
 sont envisageables en médecine générale pour la dépression légère ou modérée,
 et certaines ont été étudiées avec des résultats encourageants.
 
-Le magnésium [216] ,
+Le magnésium [[216]](/references#ref-216) ,
 par exemple, a montré des effets significatifs dans la réduction des symptômes
 dépressifs, parfois proches de ceux d’un antidépresseur léger. Cette option est
 d’autant plus intéressante qu’elle est perçue comme naturelle et accessible.
-Les oméga-3 [217] ,
+Les oméga-3 [[217]](/references#ref-217) ,
 en particulier les formulations riches en EPA, offrent également un bénéfice
 modéré sur la dépression, bien que leur effet soit un peu moins puissant que
 celui du magnésium. Ces compléments, souvent associés à une bonne hygiène de
 vie, peuvent renforcer le sentiment de prendre en main sa santé, un aspect clé
 dans l’amélioration du bien-être mental.
 
-En homéopathie [218] ,
+En homéopathie [[218]](/references#ref-218) ,
 bien que les résultats soient variables et que certaines études présentent des
 biais, certaines recherches montrent des gains placebos intéressants.
 Cependant, contrairement aux placebo impurs, l’homéopathie convient surtout aux
 patients qui croient déjà en ses bienfaits.
 
-L’exercice physique [219] ,
+L’exercice physique [[219]](/references#ref-219) ,
 quant à lui, représente une option particulièrement attrayante. Des pratiques
 comme la marche, le jogging, le yoga, et l’entraînement en force ont tous
 montré des effets positifs modérés sur la dépression. En plus de leurs
@@ -565,7 +554,7 @@ essentiel pour soutenir une prise en charge équilibrée.
 
 En pratique hospitalière, l'utilisation du placebo est
 fréquente, puisque près des deux tiers des professionnels de médecine
-polyvalente ayant répondu à une enquête INSERM sur ce sujet [220] .
+polyvalente ayant répondu à une enquête INSERM sur ce sujet [[220]](/references#ref-220) .
 En milieu hospitalier, l’utilisation du placebo a donné des résultats
 encourageants, notamment dans les services de médecine polyvalente. Près de
 deux tiers des professionnels de santé interrogés affirment utiliser des
@@ -640,7 +629,7 @@ sexuelles. Cependant, de nombreux effets de l'alcool à faibles doses, sont
 davantage dus aux attentes de l'individu qu'à l'effet pharmacologique de
 l’alcool. Cet effet a fait l’objet d’une étude.
 
-Une expérience [221]
+Une expérience [[221]](/references#ref-221)
 à utiliser un protocole de recherche en 2x2 pour étudier l'effet de l'attente
 sur le comportement des participants en lien avec la consommation d'alcool.
 Dans ce protocole, les participants sont répartis en quatre groupes :
@@ -673,7 +662,7 @@ d'alcool consommée est minime.
 Il est difficile de faire entendre aux consommateurs que ces
 effets sont en grande partie influencés par le placebo et le nocebo, car cet
 effet est très fort. Notamment pour certaines drogues faisant l’objet de
-pratiques culturelles courantes comme l’œnologie [222] ,
+pratiques culturelles courantes comme l’œnologie [[222]](/references#ref-222) ,
 pour laquelle plusieurs études montrent l’omniprésence de l’effet placebo. Les
 croyances personnelles et les attentes peuvent surpasser les propriétés
 pharmacologiques réelles de la substance, rendant complexe la distinction entre
@@ -685,7 +674,7 @@ lequel l’effet placebo rentre en jeu.
 
 #### Point sur le microdosage
 
-Le microdosage [223] ,
+Le microdosage [[223]](/references#ref-223) ,
 ou «   micro-dosing   », consiste à consommer
 des quantités très faibles de substances psychédéliques, en dessous du seuil de
 perception d'effets hallucinogènes.
@@ -701,21 +690,21 @@ hallucinatoires majeurs. Malgré les restrictions imposées par la DEA en
 
 Depuis les années 2010, le microdosage a gagné en
 popularité, notamment pour chercher des gains subtils en concentration et en
-bien-être quotidien, souvent dans un contexte professionnel [224] .
+bien-être quotidien, souvent dans un contexte professionnel [[224]](/references#ref-224) .
 
 Les consommateurs rapportent généralement une augmentation
 modérée mais tangible de la clarté mentale, de l'humeur et de la gestion
 émotionnelle.
 
 Les protocoles les plus répandus, comme ceux proposés
-par Fadiman et Paul Stamets [225] ,
+par Fadiman et Paul Stamets [[225]](/references#ref-225) ,
 impliquent des cycles de prises régulières avec des périodes d'abstinence pour
 limiter les risques de tolérance. Cette pratique a été repopularisée par les
 acteurs de la high-tech dans la Silicon Valley ces dernières
 années, engendrant un marché florissant incluant des consultants spécialisés.
 
 Cependant, les recherches actuelles sur le microdosage
-présentent des défis méthodologiques significatifs [226] . La
+présentent des défis méthodologiques significatifs [[226]](/references#ref-226) . La
 majorité des études reposent sur des données autodéclarées, sans groupes
 témoins adéquats, ce qui complique l'évaluation objective des effets. Même les
 études les plus récentes alertent sur les biais d’attente.
@@ -741,7 +730,7 @@ restaurer une tolérance de base.
 D'autre part, les psychédéliques comme la psilocybine
 agissent sur les récepteurs de la sérotonine , tout comme certains
 médicaments. Des études ont montré que l'usage répété de médicaments agissant
-sur la sérotonine pouvait entraîner des risques cardiaques [227] ,
+sur la sérotonine pouvait entraîner des risques cardiaques [[227]](/references#ref-227) ,
 notamment par épaississement des valves cardiaques. Le microdosage, même avec
 de faibles doses, pourrait ainsi exposer les utilisateurs à des effets
 secondaires différents d’usage récréatif classique.
@@ -796,20 +785,17 @@ mécanismes de l'effet placebo peuvent être utilisés pour diminuer les dommage
 associés à la consommation, en modulant par exemple la perception de la
 douleur, du mal-être ou des effets indésirables.
 
-·
- Information et éducation des usagers : En informant les
+- Information et éducation des usagers : En informant les
 consommateurs sur le rôle des attentes et du conditionnement, on les aide à
 comprendre que leur état d'esprit peut influencer leur expérience. Ils peuvent
 ainsi adopter des attitudes plus positives et gérer leur consommation de manière
 plus consciente, en diminuant la probabilité d’un badtrip par exemple.
 
-·
- Réduction des doses consommées : Savoir que les attentes
+- Réduction des doses consommées : Savoir que les attentes
 positives peuvent amplifier les effets perçus permet aux usagers de réduire les
 doses, en travaillant la préparation de sa prise (le « Set »).
 
-·
- Gestion de l'effet nocebo : En évitant de focaliser sur
+- Gestion de l'effet nocebo : En évitant de focaliser sur
 les effets négatifs potentiels et en cultivant un environnement rassurant, il
 est possible de diminuer l'incidence des expériences désagréables ou
 anxiogènes.
@@ -822,24 +808,20 @@ peut ici améliorer l'efficacité des traitements d'addiction en renforçant la
 réponse positive au traitement et en augmentant les chances de succès du
 sevrage.
 
-·
- Relation thérapeutique de confiance : Le lien entre le
+- Relation thérapeutique de confiance : Le lien entre le
 professionnel de santé et le patient est essentiel. Une communication positive,
 empathique et encourageante peut renforcer les attentes bénéfiques du patient
 vis-à-vis du traitement.
 
-·
- Présentation positive des traitements : En mettant
+- Présentation positive des traitements : En mettant
 l'accent sur les bénéfices attendus et en minimisant les appréhensions, on peut
 amplifier l'effet thérapeutique.
 
-·
- Prise en compte de l'effet nocebo : Il est important de
+- Prise en compte de l'effet nocebo : Il est important de
 présenter les effets secondaires possibles sans alarmisme, pour éviter de
 susciter des attentes négatives qui pourraient amplifier ces effets.
 
-·
- Introduction d’un placebo : L’ajout d’un placebo dans le
+- Introduction d’un placebo : L’ajout d’un placebo dans le
 traitement peut améliorer les symptômes psychologique du sevrage.
 
 ##### Intégration dans les programmes de RDR
@@ -871,7 +853,7 @@ sociabilité de manière durable.
 La consommation de drogues est
 souvent mise en cause comme facteur déclenchant de troubles psychologiques.
 Toutefois, cette vision simpliste ne rend pas justice à la complexité de la
-relation entre l'usage de substances et les troubles mentaux [228] .
+relation entre l'usage de substances et les troubles mentaux [[228]](/references#ref-228) .
 Il est important de comprendre que la causalité n'est pas toujours linéaire.
 Nombre de personnes souffrant de troubles psychologiques se tournent vers les
 drogues comme forme d'automédication pour atténuer leurs symptômes.
@@ -887,7 +869,7 @@ dégénérer en usage abusif, et des complications de santé plus graves, y comp
 des troubles psychotiques.
 
 Un autre exemple peut être illustré par la relation entre
-l'alcool et la dépression [229] .
+l'alcool et la dépression [[229]](/references#ref-229) .
 L'alcool, en tant que dépresseur du système nerveux central, peut procurer un
 soulagement temporaire des symptômes de tristesse, d'anxiété et de stress
 associés à la dépression. Néanmoins, une consommation excessive d'alcool peut
@@ -909,7 +891,7 @@ jusqu'alors non diagnostiqué. Cependant, l'usage de ces psychédéliques n'est
 pas la cause directe du trouble mental. Une large étude sur 130 000
 adultes aux USA a échoué à trouver des preuves entre l’usages de psychédéliques
 (LSD, Psilocybine et mescaline) et les troubles mentaux/ pensées suicidaires .
- [230]
+ [[230]](/references#ref-230)
 
 Pour illustrer davantage, prenons le cas d'un adolescent qui
 consomme beaucoup de cannabis et qui, plus tard, est diagnostiqué avec une
@@ -922,7 +904,7 @@ l'aggravation de son trouble.
 La problématique est donc semblable à la question de l'œuf
 et de la poule : quel trouble est la cause de l’autre ?
 
-Depuis 1987 [231] ,
+Depuis 1987 [[231]](/references#ref-231) ,
 la reconnaissance des troubles liés à la consommation de substances s'est
 solidifiée dans le domaine de la psychiatrie, se positionnant au même niveau
 que d'autres troubles mentaux comme l'anxiété, la dépression ou la
@@ -965,12 +947,12 @@ en psychiatrie, des « cases » diagnostiques restent utilisées comme outils
 réglementaires et méthodologiques (par exemple, les lignes directrices EMA
 et FDA cadrent explicitement le développement de médicaments “dans” le trouble
 dépressif caractérisé, avec des exigences d’essais calibrés pour cette
-indication) [232] .
+indication) [[232]](/references#ref-232) .
 
 Cependant, cette standardisation
 ne reflète pas au cabinet médical : la généralisation des essais à des patients
 “réels” (polypathologies, trajectoires mêlées, consommations) est reconnue
-comme imparfaite [233] ,
+comme imparfaite [[233]](/references#ref-233) ,
 notamment en psychiatrie.
 
 En pratique, une évolution nette
@@ -983,25 +965,22 @@ continuité des soins, articulation physique–psychiatrique–addictologique).
 Cette logique est portée par des
 recommandations et cadres de services qui demandent des dispositifs intégrés et
 coordonnés pour les troubles mentaux et les usages de substances, plutôt que
-des parcours fragmentés [234] .
+des parcours fragmentés [[234]](/references#ref-234) .
 
 #### Zoom sur le lien Cannabis et Schizophrénie
 
 La professeure de psychiatrie
-Hélène Verdoux a publié un article [235]
+Hélène Verdoux a publié un article [[235]](/references#ref-235)
 sur le lien entre cannabis et la schizophrénie, avec les idées clefs suivantes
 :
 
-·
- Le cannabis agit comme une loupe sur une vulnérabilité
+- Le cannabis agit comme une loupe sur une vulnérabilité
 préexistante à la schizophrénie.
 
-·
- Elle peut s’exprimer, par exemple, si une personne a des phases
+- Elle peut s’exprimer, par exemple, si une personne a des phases
 psychotiques (perte de réalité, crises, etc) durant la prise de substance.
 
-·
- Dans ce cas, c’est un signe de vulnérabilité qui montre un risque
+- Dans ce cas, c’est un signe de vulnérabilité qui montre un risque
 d’évolution vers un trouble chronique, et ce risque va augmenter avec la
 précocité de l’usage (âge à partir duquel la consommation a commencé, avec une
 aggravation importante du risque durant la maturation cérébrale — voir partie
@@ -1009,14 +988,12 @@ dédiée) et l’intensité de la consommation.
 
 La Dr Verdoux ajoute qu’en l’état des connaissances :
 
-·
- le cannabis n ’explique pas à lui seul l ’apparition
+- le cannabis n ’explique pas à lui seul l ’apparition
 de la schizophr énie , mais son usage peut déclencher un déséquilibre
 neurobiologique chronique (un peu comme la goutte d’eau qui fait déborder le
 vase).
 
-·
- le risque de schizophrénie est très clairement augmenté chez les
+- le risque de schizophrénie est très clairement augmenté chez les
 personnes présentant des symptômes psychotiques lors de la consommation de
 cannabis.
 
@@ -1027,7 +1004,7 @@ tous les adolescents comme à risque.
 
 Trois voies principales
 peuvent contribuer à la comorbidité entre les troubles liés à l'utilisation de
-substances et les maladies mentales [236]
+substances et les maladies mentales [[236]](/references#ref-236)
 :
 
 1.

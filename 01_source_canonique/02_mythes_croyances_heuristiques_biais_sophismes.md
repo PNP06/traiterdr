@@ -1,10 +1,10 @@
 # Mythes, croyances, heuristiques, biais et sophismes
 
-### Page imprimée 16 / PDF 17 — Ouverture du chapitre `Mythes`
+### Ouverture du chapitre `Mythes`
 
 La page introduit le chapitre par un titre seul : `Mythes`. Elle sert de page de séparation et ne contient pas de contenu argumentatif autonome.
 
-### Page imprimée 17 / PDF 18 — Pourquoi déconstruire les mythes
+### Pourquoi déconstruire les mythes
 
 Le traité indique qu'il faut déconstruire certains mythes populaires pour aborder les risques liés aux substances psychoactives de manière plus objective et dépassionnée. Les idées reçues sont décrites comme des approximations ou interprétations erronées qui freinent l'accès à une compréhension scientifique.
 
@@ -19,7 +19,7 @@ Les mythes sont décrits comme des filtres cognitifs. Ils déforment la percepti
 
 Le traité annonce ensuite plusieurs mythes qui seront traités plus loin : mois sans alcool/tabac, rentabilité alcool/tabac pour l'État, effet du prix, verre de vin, addiction au sucre, naturalité, rester bloqué, contamination par contact, addiction dès la première prise, drogue du zombie, drogue du viol, chemsex et nouvelles drogues de synthèse.
 
-### Page imprimée 18 / PDF 19 — Croyances et risques
+### Croyances et risques
 
 Le traité définit les croyances factuellement erronées comme des croyances qui ne se forment pas seulement par hasard. Elles s'appuient sur des mécanismes psychologiques et cognitifs décrits dans la littérature ou dans les enseignements de science de la décision.
 
@@ -46,7 +46,7 @@ Dans le champ des drogues, le sujet n'est pas seulement informatif. Des dimensio
 
 Le chapitre annonce une méthode pratique en six questions pour corriger une croyance de manière factuelle et psychologiquement acceptable. Cette méthode est toutefois développée dans le bloc suivant avec les mécanismes de protection psychologique.
 
-### Pages imprimées 18-20 / PDF 19-21 — Heuristiques
+### Heuristiques
 
 <figure class="doc-figure">
   <img src="../05_assets_visuels/p020_figure_01_heuristiques.png" alt="Heuristiques : règles rapides utiles mais parfois trompeuses">
@@ -90,7 +90,7 @@ La parade proposée consiste à préciser le sujet :
 
 Règle source à conserver : lorsqu'une phrase sur une drogue ne contient ni dose, ni fréquence, ni effet, elle ne constitue pas une évaluation ; elle exprime surtout une impression de bon sens.
 
-### Pages imprimées 21-22 / PDF 22-23 — Biais cognitifs
+### Biais cognitifs
 
 <figure class="doc-figure">
   <img src="../05_assets_visuels/p022_figure_01_biais_cognitifs.png" alt="Biais cognitifs : distorsions systématiques du jugement">
@@ -131,7 +131,7 @@ Le traité propose quatre axes :
 
 Formule source à conserver : contrer les biais demande de `penser contre soi-même`, en examinant honnêtement la thèse opposée avec le même niveau d'exigence.
 
-### Pages imprimées 23-28 / PDF 24-29 — Sophismes
+### Sophismes
 
 <figure class="doc-figure">
   <img src="../05_assets_visuels/p028_figure_01_sophismes.png" alt="Sophismes : quand le donc dérape">

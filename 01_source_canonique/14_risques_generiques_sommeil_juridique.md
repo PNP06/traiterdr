@@ -1,7 +1,6 @@
 # Risques generiques, sommeil et juridique
 
 ## Risques génériques
-génériques
 
 ## Trouble du sommeil
 
@@ -12,7 +11,7 @@ de réaliser que l'alcool nuit en réalité au sommeil réparateur.
 
 Des études menées sur des adultes
 en bonne santé ont révélé que la consommation d'alcool a un effet négatif sur
-le sommeil paradoxal, même si la durée totale passée au lit reste inchangée [269] .
+le sommeil paradoxal, même si la durée totale passée au lit reste inchangée [[269]](/references#ref-269) .
 
 Le sommeil paradoxal, également
 connu sous le nom de sommeil REM (Rapid Eye Movement), est caractérisé par une
@@ -28,7 +27,7 @@ Les chercheurs ont conclu que, bien
 que l'alcool puisse exercer des effets sédatifs à court terme, il
 perturbe le sommeil sur une période plus longue . Ces effets sont
 proportionnels à la dose d'alcool consommée. Toutefois, même à faible dose, il
-y a un retard dans l'atteinte du sommeil paradoxal [270] .
+y a un retard dans l'atteinte du sommeil paradoxal [[270]](/references#ref-270) .
 
 L’alcool favorise
 l’endormissement mais diminue la qualité du sommeil
@@ -38,7 +37,7 @@ l’endormissement mais diminue la qualité du sommeil
 Depuis 1971, la consommation de
 drogues est passible d'une peine d'emprisonnement d'un an et d'une amende de
 3700€. Cependant, en réalité, peu de poursuites étaient engagées pour simple
-consommation. Avec l'introduction de l'amende forfaitaire délictuelle en 2019 [271] ,
+consommation. Avec l'introduction de l'amende forfaitaire délictuelle en 2019 [[271]](/references#ref-271) ,
 il est devenu plus facile de sanctionner les usagers, évitant ainsi de passer
 par les tribunaux.
 
@@ -80,10 +79,10 @@ cette amende, il ne doit pas la payer. Une demande de consignation du montant
 de l'amende est alors requise. Un juge est saisi, mais l'État demande
 généralement une majoration de l'amende en cas de contestation devant le juge.
 En cas d'absence de réponse dans les 3 mois, l'usager a la possibilité de
-saisir le Défenseur des droits (comme l’ODDU [272] )
+saisir le Défenseur des droits (comme l’ODDU [[272]](/references#ref-272) )
 
 Voici un extrait de la dépêche du ministre de la Justice aux
-procureurs du 31 aout 2020 [273] :
+procureurs du 31 aout 2020 [[273]](/references#ref-273) :
 
 « La procédure de l'amende forfaitaire a
 principalement vocation à se substituer aux situations qui, jusqu'alors, donnaient
@@ -130,7 +129,7 @@ sanitaire, cela pourrait signifier que ces trois produits sont socialement plus
 acceptables.
 
 Concernant les quantités, un point particulièrement
-intéressant concerne la MDMA. Actuellement, les comprimés sur le marché [274]
+intéressant concerne la MDMA. Actuellement, les comprimés sur le marché [[274]](/references#ref-274)
 contiennent en moyenne environ 150 mg de MDMA , tandis que les poudres
 présentent une pureté moyenne de 70%. Ainsi, 5 comprimés contiennent environ
 750 mg (environ 7 doses) de MDMA, et 5 grammes de poudre renferment environ 3,5
@@ -138,11 +137,11 @@ grammes de MDMA (environ 30 doses). Pour le cannabis la forme (résine, tête,
 huile) n’est pas précisée.
 
 La Ligue de Défense des Droits de l'Homme a engagé une
-procédure [275] ,
+procédure [[275]](/references#ref-275) ,
 cosigné avec le collectif Police contre la prohibition et Médecins du monde,
 auprès du Conseil Constitutionnel, faisant valoir des violations de principes
 constitutionnels clés : le principe de séparation des pouvoirs ; la distinction
 entre les autorités en charge de l'action publique et celles dédiées au
 jugement ; le principe d'égalité devant la loi ; le droit à un procès équitable
 et à l'individualisation des peines. D’autres associations ont saisi le
-conseil constitutionnel sans succès [276] .
+conseil constitutionnel sans succès [[276]](/references#ref-276) .

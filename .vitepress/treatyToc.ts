@@ -92,15 +92,15 @@ function slugify(text: string) {
 
 export const treatyTocSections: TreatyTocSection[] = [
   section('Ouverture', 0, source(files.front), [
-    item('SUIVI', 0, heading(files.front, 'Page imprimée 0 / PDF 1 - Suivi éditorial et page titre')),
-    item('Remerciements', 7, heading(files.front, 'Page imprimée 7 / PDF 8 - Remerciements')),
+    item('SUIVI', 0, heading(files.front, 'Suivi éditorial et page titre')),
+    item('Remerciements', 7, heading(files.front, 'Remerciements')),
     item('Introduction', 8, source(files.intro))
   ]),
   section('Mythes', 16, source(files.croyances), [
-    item('Création des croyances', 18, heading(files.croyances, 'Page imprimée 18 / PDF 19 — Croyances et risques')),
-    item('Heuristique', 18, heading(files.croyances, 'Pages imprimées 18-20 / PDF 19-21 — Heuristiques'), 2),
-    item('Biais', 21, heading(files.croyances, 'Pages imprimées 21-22 / PDF 22-23 — Biais cognitifs'), 2),
-    item('Sophisme', 23, heading(files.croyances, 'Pages imprimées 23-28 / PDF 24-29 — Sophismes'), 2),
+    item('Création des croyances', 18, heading(files.croyances, 'Croyances et risques')),
+    item('Heuristique', 18, heading(files.croyances, 'Heuristiques'), 2),
+    item('Biais', 21, heading(files.croyances, 'Biais cognitifs'), 2),
+    item('Sophisme', 23, heading(files.croyances, 'Sophismes'), 2),
     item('Mécanisme de protection psychologique', 29, heading(files.protections, '1. Pourquoi la logique ne suffit pas'), 2),
     item('Approche en réduction des risques', 34, heading(files.protections, '8. Approche en réduction des risques'), 2),
     item('Conclusion', 42, heading(files.protections, '12. Conclusion'), 2),

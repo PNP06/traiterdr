@@ -38,10 +38,10 @@ aujourd’hui. Affirmer par exemple que la dépression est due uniquement à
 l'activation de certaines zones cérébrales est erroné. Cela explique (notamment)
 pourquoi l'IRM n'est pas utilisée pour le diagnostic en psychiatrie.
 
-Le constructivisme [147]
+Le constructivisme [[147]](/references#ref-147)
 qui considère le cerveau comme un organe dépendant des sensations, du contexte
 et du corps dans son ensemble. Pour illustrer ce point de vue, prenons
-l'exemple du striatum, la « zone du plaisir ». Certains affirment [148]
+l'exemple du striatum, la « zone du plaisir ». Certains affirment [[148]](/references#ref-148)
 que cette région cérébrale expliquerait notre inaction face au changement
 climatique en privilégiant des comportements guidés par le plaisir.
 
@@ -67,7 +67,7 @@ remise en question par la communauté scientifique. Le Royal College de Londres
 a retiré toute mention de cette théorie de son site internet.
 
 De même, une revue exhaustive de la littérature
-scientifique menée par l'University College de Londres [149] conclut qu'il
+scientifique menée par l'University College de Londres [[149]](/references#ref-149) conclut qu'il
 n'existe pas de preuves solides établissant un lien direct entre les niveaux de
 sérotonine et la dépression.
 
@@ -225,7 +225,7 @@ C’est un
 mécanisme assez doux : le bien-être n’est pas forcé, il est prolongé.
 
 3. Empêcher
-la dégradation [151]
+la dégradation [[151]](/references#ref-151)
  –
 Il est possible de bloquer la protéine qui dégrade le neurotransmetteur. Pour
 qu’il agisse plus longtemps.
@@ -274,7 +274,7 @@ sérotonine se fixe de façon indifférenciée sur tous les récepteurs.
 Certaines molécules
 hallucinogènes vont surtout se fixer sur les récepteurs dits
 « 5-HT2A » (utile si vous cherchez un bon mot de passe J ). C’est la suractivation de ce type de
-récepteurs qui engendre des effets hallucinogènes [152] .
+récepteurs qui engendre des effets hallucinogènes [[152]](/references#ref-152) .
 
 #### Point sur les interactions
 
@@ -322,7 +322,7 @@ mélanges.
 #### Les messagers
 
 Il y a donc différents messagers et autant de systèmes à
-hacker. Voici les principaux, pour vous donner une idée [153] .
+hacker. Voici les principaux, pour vous donner une idée [[153]](/references#ref-153) .
 
 | Neurotransmetteurs | Image | Action | Exemple de drogue qui agit dessus |
 | --- | --- | --- | --- |
@@ -339,7 +339,7 @@ hacker. Voici les principaux, pour vous donner une idée [153] .
 Tableau 14.
 Tableau des neurotransmetteurs
 
-C’est extrêmement résumé [154] .
+C’est extrêmement résumé [[154]](/references#ref-154) .
 Un même neurotransmetteur dans le cerveau peut avoir différents rôles. Plus
 encore, ces neurotransmetteurs ont des rôles dans le reste de l’organisme. Par
 exemple, l’acétylcholine sert dans le mécanisme de contraction des muscles.
@@ -424,12 +424,12 @@ En plus d’avoir des actions spécifiques (sur
 des récepteurs), l’alcool a une action non spécifique (généralisée). En effet,
 il perturbe l’équilibre des membranes ce qui modifie de nombreuses fonctions
 cellulaires et systèmes de neurotransmetteurs. Cette action non spécifique est
-à l’origine de son pouvoir désinfectant [155] :
+à l’origine de son pouvoir désinfectant [[155]](/references#ref-155) :
 concentré, il détruit les membranes des bactéries et les virus.
 
 Pour en revenir aux effets sur le cerveau, l’alcool impact
-de façon direct ou indirect l’ensemble des neurotransmetteurs [156]
- [157] .
+de façon direct ou indirect l’ensemble des neurotransmetteurs [[156]](/references#ref-156)
+ [[157]](/references#ref-157) .
 
 Figure 15.
 Systèmes impactés par l'alcool
@@ -482,8 +482,7 @@ GBL, Benzodiazépines, anesthésiant) ou d’autres dépresseurs.
 Il faut être transparent sur
 sa consommation d’alcool avec ses médecins, surtout en cas d’opération.
 
-##### Acétylcholine : pourquoi l’alcool
-« appelle » le tabac ?
+##### Acétylcholine : pourquoi l’alcool « appelle » le tabac ?
 
 L’alcool active certains récepteurs de l’acétylcholine, les
 mêmes que la nicotine. L'acétylcholine intervient dans le contrôle des
@@ -500,7 +499,7 @@ Dans l’idée ce serait comme tirer une taffe de cigarette.
 
 La deuxième considère que l’envie
 de fumer apparaît pour stimuler le cerveau (afin de contrer l’effet de
-l’alcool) [158] .
+l’alcool) [[158]](/references#ref-158) .
 
 La troisième est liée à
 l’activation du circuit de récompense par les deux drogues. Lorsque
@@ -508,7 +507,7 @@ l’activation de ce circuit à lieu, il pousse à consommer tous types de
 substances.
 
 Les trois théories ne sont pas vraiment démontrées.
-Cependant les études permettent de retirer plusieurs points intéressants [159] :
+Cependant les études permettent de retirer plusieurs points intéressants [[159]](/references#ref-159) :
 
 -Les fumeurs sont 4 fois plus susceptibles
 d’être addictes à l’alcool,
@@ -620,7 +619,7 @@ pour ressentir un plaisir intense
 2- Le circuit
 de la mémoire enregistre « drogue = plaisir +++ », et cela
 s’accentue au fur et à mesure que l’on en consomme. Le phénomène s’appelle la
-mémoire pathologique [161] .
+mémoire pathologique [[161]](/references#ref-161) .
 Même après un arrêt de la consommation durant un temps long, le cerveau
 garde cette association.
 

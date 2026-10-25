@@ -43,7 +43,7 @@ un jour et sans raison apparente, expérimenter un bad trip avec la même dose.
 ##### Exemples
 
 Pour illustrer les propos précédents, voici un témoignage d’un
-recueil par l'association Plus Belle la Nuit [344] ,
+recueil par l'association Plus Belle la Nuit [[344]](/references#ref-344) ,
 dans le cadre des bad trip au cannabis, disponible sur Instagram :
 
 « Salut, je vous écris suite à votre story par rapport à
@@ -192,23 +192,18 @@ de l’expérience !
 Quelques questions peuvent être utiles pour cadrer le
 débriefing :
 
-·
- Exprimer ses ressentis,
+- Exprimer ses ressentis,
 
-·
- Retour sur les quantités prises : est-ce que prendre moins
+- Retour sur les quantités prises : est-ce que prendre moins
 aurait pu être mieux ?
 
-·
- Quelles pratiques de réduction des risques a été mis en place,
+- Quelles pratiques de réduction des risques a été mis en place,
 lesquelles pourraient l’être ?
 
-·
- Balayer les risques génériques : hydratation, hyperthermie,
+- Balayer les risques génériques : hydratation, hyperthermie,
 nausées, etc,
 
-·
- Comment améliorer le set and setting,
+- Comment améliorer le set and setting,
 
 Même en consommant seul, il est intéressant de se poser ces
 questions.
@@ -251,7 +246,7 @@ souvent prévus par les personnes habituées à l'usage de substances
 psychédéliques pour arrêter leur trip, pour ceux qui y ont accès.
 
 En ce qui concerne l'efficacité des benzodiazépines pour
-arrêter les bad trips, une analyse réalisée sur le site www.mixtures.info [345]
+arrêter les bad trips, une analyse réalisée sur le site www.mixtures.info [[345]](/references#ref-345)
 a révélé qu'il n'y a pas d'études spécifiques sur l'interaction entre les
 benzodiazépines et les psychédéliques lors d'un bad trip, mais certaines
 sources médicales recommandent leur utilisation chez les patients ayant des
@@ -313,7 +308,7 @@ and setting
 #### Gérer un badtrip
 
 Cette partie contient des suggestions avec une analyse,
-ensuite un visuel est proposé pour aider durant le badtrip [346] .
+ensuite un visuel est proposé pour aider durant le badtrip [[346]](/references#ref-346) .
 Ces suggestions sont présentées pour un témoin d’un bad trip, mais la victime
 pourrait aussi utiliser ces notions.
 
@@ -321,16 +316,13 @@ Les suggestions qui suivent pourraient être utiles pour
 gérer un bad trip. Cependant, il est essentiel de contacter les services
 d'urgence dans les situations suivantes :
 
-·
- Les effets persistent pendant une période prolongée (plus
+- Les effets persistent pendant une période prolongée (plus
 de 48 heures)
 
-·
- La personne met en danger sa propre sécurité ou celle des
+- La personne met en danger sa propre sécurité ou celle des
 autres
 
-·
- En tant que témoin, vous ne vous sentez pas en mesure de
+- En tant que témoin, vous ne vous sentez pas en mesure de
 gérer le bad trip de quelqu'un d'autre.
 
 Si vous ne vous sentez pas à l’aise pour gérer mais que
@@ -543,7 +535,7 @@ lien de causalité. Si le décès est causé par une déshydrations qui elle-mê
 est causé par des amphétamines, est ce que l’amphétamine est la cause du
 décès ? Si oui, alors est qu’une personne qui se noie parce qu’elle a
 perdu le contrôle à cause du cannabis peut aussi être considéré comme un décès
-par overdose ? Les statistiques sont donc à prendre avec des pincettes [347] .
+par overdose ? Les statistiques sont donc à prendre avec des pincettes [[347]](/references#ref-347) .
 
 L'Observatoire Français des Drogues et des Toxicomanies
 (OFDT) et l'Agence Nationale de Sécurité du Médicament et des produits de santé
@@ -557,7 +549,7 @@ relatives des overdoses.
 Selon ces statistiques, les opioïdes et les opiacés ,
 qui comprennent des substances telles que la morphine, la codéine, le Tramadol,
 le fentanyl, la méthadone et l'héroïne, sont responsables d'environ 70% des
-overdoses mortelles dont la moitié par le Tramadol [348] .
+overdoses mortelles dont la moitié par le Tramadol [[348]](/references#ref-348) .
 
 Les 30% restants se répartissent entre la cocaïne (17%),
 le cannabis (5%) et les amphétamines (5%).
@@ -582,7 +574,7 @@ antidote : la naloxone. Ces décès sont donc évitables.
 
 Pour autant, ces statistiques présentes des limites. Par
 exemple, les décès par overdose alcooliques sont nettement sous-estimés au
-niveau international pour deux raisons principales selon une meta-analyse [349] .
+niveau international pour deux raisons principales selon une meta-analyse [[349]](/references#ref-349) .
 Tout d'abord, les troubles liés à la consommation d'alcool sont souvent
 stigmatisés, ce qui conduit à des certificats de décès mentionnant des
 catégories plus neutres , telles que les maladies cardiaques, comme cause de
@@ -615,7 +607,7 @@ sensibilité différente, elle varie notamment en fonction de
 l’accoutumance/tolérance de la substance.
 
 La dose létale est donc souvent
-définie comme la dose conduisant à la mort de 50% des sujets [350] .
+définie comme la dose conduisant à la mort de 50% des sujets [[350]](/references#ref-350) .
 Elle se note DL50 et s’exprime souvent en masse de produit sur la masse
 corporelle (mg/kg) pour un type de prise (orale, intraveineux, etc.).
 
@@ -627,7 +619,7 @@ quelque sorte), des expérimentations animales que l’on extrapole aux humains
 (c’est extrêmement difficile) et désormais sur la base de simulations
 informatiques également.
 
-##### Exemple : La dose létale de la nicotine [351]
+##### Exemple : La dose létale de la nicotine [[351]](/references#ref-351)
 
 L’agence nationale de sécurité
 sanitaire (ANSES) s’est penchée sur le sujet et a pris en compte les études
@@ -652,7 +644,7 @@ substances : plus la DL50 est élevée, moins la substance est toxique. Pour
 ce faire, Il est possible de se contenter des DL50 pour un même animal.
 
 C’est le principe d’une échelle
-de toxicité connue : l’échelle de Hodge et Sterner [352] ,
+de toxicité connue : l’échelle de Hodge et Sterner [[352]](/references#ref-352) ,
 basée sur des DL50 sur le Rat.
 
 | Échelle de Hodge <br> et Sterner sur le rat pour une dose orale | Exemples |  |  |
@@ -661,7 +653,7 @@ basée sur des DL50 sur le Rat.
 | 1 | Extrêmement toxique | 1 ou moins | Cyanure : 0,5 |
 | 2 | Hautement toxique | 1 à 50 | Nicotine : 50 |
 | 3 | Modérément toxique | 50 à 500 | Caféine : 192 |
-| 4 | Légèrement toxique | 500 à 5000 | THC (principe actif <br> du cannabis) : 700 à 1400 [353] |
+| 4 | Légèrement toxique | 500 à 5000 | THC (principe actif <br> du cannabis) : 700 à 1400 [[353]](/references#ref-353) |
 | 5 | Presque pas toxique | 5000 à 15 000 | Vitamine C : <br> 11 900 |
 | 6 | Relativement <br> inoffensive | Plus de <br> 15 000 | L'eau : 90 000 |
 
@@ -692,7 +684,7 @@ comparée à la dose usuelle à la dose létale.
 Autrement dit, elle donne une
 indication sur la marge de sécurité entre la dose efficace et la dose mortelle.
 
-Par exemple, la cocaïne a une DL50 estimée de 82.5mg/kg [354] ,soit
+Par exemple, la cocaïne a une DL50 estimée de 82.5mg/kg [[354]](/references#ref-354) ,soit
  8 grammes pour une personne de 100 kg. Une trace (un rail)
 contient environ 0,125 g, ce qui signifie que pour atteindre la DL50, il
 faudrait environ 64 rails pour cette personne. En revanche, pour la même
@@ -814,15 +806,12 @@ l'élimination d'une substance.
 Le Cas 1 illustre l'application des règles de
 réduction des risques où une substance est reconsommée deux fois :
 
-·
- Chaque dose individuelle est bien en dessous du seuil d'overdose.
+- Chaque dose individuelle est bien en dessous du seuil d'overdose.
 
-·
- Chaque nouvelle prise est effectuée après une élimination
+- Chaque nouvelle prise est effectuée après une élimination
 significative de la dose précédente.
 
-·
- Même en cumulant toutes les prises, la dose totale reste
+- Même en cumulant toutes les prises, la dose totale reste
 inférieure à la dose susceptible de provoquer une overdose.
 
 Le Cas 2 représente un scénario extrêmement courant :
@@ -880,19 +869,19 @@ substance avant de ressentir pleinement les effets de la première dose.
 
 Pour prévenir les overdoses, il est recommandé de :
 
-· Tester
+- Tester
 le produit
 
-· Limiter
+- Limiter
  la quantité consommée
 
-· Fractionner
+- Fractionner
 les prises
 
-· Ne
+- Ne
 jamais reconsommer avant la fin de la montée
 
-· S'informer
+- S'informer
  sur des éléments clés comme le temps de montée, la dose létale 50 (DL50),
 les doses moyennes et la demi-vie de la substance.
 
@@ -905,11 +894,11 @@ Les overdoses mortelles liées à l'alcool sont une
 réalité reconnue dans les critères de mortalité internationaux. Son nom,
 qu’elle soit mortelle ou non est l’intoxication éthylique aigue : IEA.
 
-Une méta-analyse internationale [358] sur l'alcool a examiné les
+Une méta-analyse internationale [[358]](/references#ref-358) sur l'alcool a examiné les
 décès par IEA liée à l'alcool, et a établi qu'une concentration d'alcool dans
 le sang supérieur à 3 g/l doit être considérée comme potentiellement
 mortelle . Il est possible de voir dans les médias des cas qui dépassent ce
-taux [359] ,
+taux [[359]](/references#ref-359) ,
 cela est souvent dû à une tolérance particulière de l'individu.
 
 Les décès par overdose alcooliques sont nettement
@@ -964,7 +953,7 @@ le sexe.
 | >4 g/l et plus | Perte de connaissance <br> Coma/Mort | Arrêt respiratoire |
 
 Tableau 36. Effets en fonction de la concentration
-dans le sang (sans tolérance) [360]
+dans le sang (sans tolérance) [[360]](/references#ref-360)
 
 Cette approche est simplifiée car elle dépend de beaucoup de
 facteurs, mais cela permet déjà d’avoir une bonne idée.
@@ -1082,7 +1071,7 @@ pour traiter les surdoses d'alcool. La prise en charge des IEA se concentre
 donc sur la gestion des complications associées, en attendant que l'organisme
 élimine l'alcool.
 
-Une enquête publiée par Santé Publique France [362] en
+Une enquête publiée par Santé Publique France [[362]](/references#ref-362) en
 Nouvelle-Aquitaine, portant sur les intoxications éthyliques aiguës (IEA)
 survenues de 2016 à 2021, révèle que ces dernières représentent 1% de la
 totalité des passages aux urgences (avec un impact significatif sur l'activité
@@ -1109,7 +1098,7 @@ facilitation de la transmission du GABA, un neurotransmetteur inhibiteur, et en
 diminution de la transmission du glutamate, un neurotransmetteur excitateur.
 Ces actions perturbent la fonction respiratoire et peuvent provoquer un arrêt
 respiratoire. Ce mécanisme est renforcé par le fait que l'alcool dilate les
-veines et les artères, ce qui peut entraver le passage de l'air par le nez [363] .
+veines et les artères, ce qui peut entraver le passage de l'air par le nez [[363]](/references#ref-363) .
 
 Plusieurs effets de l'alcool sur l'organisme
 peuvent aussi être mortels ou grave s'ils ne sont pas correctement gérés.
@@ -1120,9 +1109,9 @@ particulièrement détaillés dans la section consacrée aux risques communs à
 toutes les drogues.
 
 Pour mieux comprendre les complications liées à
-l'intoxication éthylique aiguë, il est possible de se référer à une thèse [364] portant
+l'intoxication éthylique aiguë, il est possible de se référer à une thèse [[364]](/references#ref-364) portant
 sur la prise en charge des IEA aux urgences qui résume les connaissances sur
-les complications potentielles complété par une publication l’IEA [365] . Pour
+les complications potentielles complété par une publication l’IEA [[365]](/references#ref-365) . Pour
 identifier lesquelles doivent être prévenus aux plus tôt lorsque nous sommes
 face à une IEA, des critères de gravité et de moyens d’action sont ajoutés. Ce
 dernier permettra d’identifier les actions à réaliser en considérant que le
@@ -1161,7 +1150,7 @@ sous alcool, il est possible que la victime ne s’en rende pas compte.
 Étant donné la multitude de complications possibles liées à
 l'intoxication alcoolique, les référentiels de médecine d'urgence, en
 particulier le consensus de la Commission de Veille Scientifique de la Société
-Française de Médecine d'Urgence, mis à jour en 2003 [366] , catégorisent les IEA. Ces
+Française de Médecine d'Urgence, mis à jour en 2003 [[366]](/references#ref-366) , catégorisent les IEA. Ces
 catégories permettent aux personnels de santé de déjà prendre une décision sur
 l’hospitalisation suite au passage aux urgences et ensuite des critères de
 gravité pour « jauger » l’IEA.
@@ -1177,8 +1166,7 @@ instructions appropriées pour le suivi et les soins ultérieurs.
 
 ###### Classifications génériques des IEA :
 
-·
- Intoxication éthylique simple : Elle se compose de
+- Intoxication éthylique simple : Elle se compose de
 trois phases distinctes,
 
 o
@@ -1194,8 +1182,7 @@ o
  Phase de coma profond : Coma profond, souvent accompagné
 de bradycardie et d'hypotension.
 
-·
- Intoxication éthylique pathologique : Elle englobe
+- Intoxication éthylique pathologique : Elle englobe
 divers types d'ivresses,
 
 o
@@ -1232,25 +1219,21 @@ chaque cas doit être évaluer en fonction de la gravité.
 
 ###### Critères de gravité :
 
-·
- Gravité liée à l'intoxication elle-même : Coma,
+- Gravité liée à l'intoxication elle-même : Coma,
 manifestations excito-motrices, délires et hallucinations sont des signes d'une
 intoxication grave, qu'il s'agisse de la troisième phase d'une intoxication
 éthylique simple ou d'une ivresse pathologique.
 
-·
- Gravité liée aux complications : L’ensemble des
+- Gravité liée aux complications : L’ensemble des
 complications possibles du tableau précédent, la consommation d’autres
 substances avec l’alcool. Dans ces cas, il courant de parler d’une IEA
 « compliquée ».
 
-·
- Gravité liée à l'association à d'autres pathologies : La
+- Gravité liée à l'association à d'autres pathologies : La
 présence de traumatismes crâniens, de polytraumatismes, d'autres intoxications
 ou d'infections.
 
-·
- Gravité liée au terrain : Le terrain sur lequel se produit
+- Gravité liée au terrain : Le terrain sur lequel se produit
 l'IEA, c'est-à-dire les facteurs individuels et environnementaux (age, santé
 générale, mentale etc), joue un rôle crucial dans la gravité de l'intoxication.
 
@@ -1260,27 +1243,20 @@ La SFMU conseille de surveiller attentivement et/ou
 d'hospitaliser toute personne présentant une intoxication éthylique aiguë
 répondant à l'un des critères suivants:
 
-·
- Perturbation des fonctions relationnelles ;
+- Perturbation des fonctions relationnelles ;
 
-·
- Présence de complications ;
+- Présence de complications ;
 
-·
- Existence de lésions associées ;
+- Existence de lésions associées ;
 
-·
- Alcoolémie supérieure à 3 g/L ;
+- Alcoolémie supérieure à 3 g/L ;
 
-·
- Absence de surveillance fiable à domicile ou résidence
+- Absence de surveillance fiable à domicile ou résidence
 éloignée d'un centre hospitalier ;
 
-·
- Intoxication éthylique pathologique ;
+- Intoxication éthylique pathologique ;
 
-·
- Présence d'une pathologie psychiatrique associée.
+- Présence d'une pathologie psychiatrique associée.
 
 ##### Agir face à une IEA
 
@@ -1299,24 +1275,21 @@ En
 cas de doute, se rappeler une chose : appelez immédiatement le 15 ou le 112.
 
 La première étape cruciale consiste à évaluer l'état de
-conscience de l'individu. L'échelle de Glasgow [367] , largement reconnue, est
+conscience de l'individu. L'échelle de Glasgow [[367]](/references#ref-367) , largement reconnue, est
 généralement utilisée pour mesurer cet état de conscience. Elle se base sur
 trois éléments clés : l'ouverture des yeux, la réponse verbale et la réponse
 motrice. Cette dernière concerne la réaction de la personne à la douleur. Dans
 le cadre d'une intervention d'urgence, il est préférable de garder les choses
-simples [368] .
+simples [[368]](/references#ref-368) .
 
 Pour évaluer la conscience, trois actions doivent être
 entreprises :
 
-·
- Demandez à la personne de prononcer des mots .
+- Demandez à la personne de prononcer des mots .
 
-·
- Demandez-lui d'ouvrir les yeux.
+- Demandez-lui d'ouvrir les yeux.
 
-·
- Demandez-lui de vous serrer la main .
+- Demandez-lui de vous serrer la main .
 
 Il est évident qu'avant de prendre toute autre mesure, il
 est essentiel d'assurer la sécurité de la personne concernée. Que celle-ci se
@@ -1356,18 +1329,15 @@ de vomissements, prévenant ainsi l'étouffement et les pneumopathies. Il est
 si la personne est dehors sur le sol par temps froid !
 
 Si la personne est consciente, essayez de la réhydrater
-en utilisant une Solution de Réhydratation Orale (SRO). La Croix-Rouge [369] a proposé
+en utilisant une Solution de Réhydratation Orale (SRO). La Croix-Rouge [[369]](/references#ref-369) a proposé
 une méthode pour préparer cette solution chez soi (Il n’y pas besoin d’être
 précis) :
 
-·
- 1 litre d'eau,
+- 1 litre d'eau,
 
-·
- 4 cuillères à café de sucre
+- 4 cuillères à café de sucre
 
-·
- 1demi-cuillère à café de sel.
+- 1demi-cuillère à café de sel.
 
 La surveillance doit porter sur la conscience et les signes
 d'AVC (risque accru). Bien que d'autres complications soient plus probables,
@@ -1375,17 +1345,13 @@ surveiller les signes d'AVC incite à rester en contact avec la victime.
 
 L'Assurance Maladie précise quatre signes d'AVC :
 
-·
- Une déformation de la bouche ;
+- Une déformation de la bouche ;
 
-·
- Une faiblesse ou un engourdissement soudain d'un côté du visage ;
+- Une faiblesse ou un engourdissement soudain d'un côté du visage ;
 
-·
- Une perte de force ou un engourdissement du bras ou d'une jambe ;
+- Une perte de force ou un engourdissement du bras ou d'une jambe ;
 
-·
- Une difficulté d'élocution ou de compréhension.
+- Une difficulté d'élocution ou de compréhension.
 
 Certains de ces signes peuvent être liés à l'ivresse
 (difficulté d'élocution, etc.).

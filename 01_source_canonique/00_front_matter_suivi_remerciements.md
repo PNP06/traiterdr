@@ -1,6 +1,6 @@
 # Front matter, suivi, table des matières et remerciements
 
-### Page imprimée 0 / PDF 1 - Suivi éditorial et page titre
+### Suivi éditorial et page titre
 
 Le document s'ouvre par un titre de suivi et un tableau de statut :
 
@@ -33,7 +33,7 @@ Le positionnement éditorial est formulé en quatre axes :
 | Objectif éducatif | Éduquer un large éventail de lecteurs en leur donnant les outils nécessaires pour comprendre et gérer les risques associés à la consommation de drogues. |
 | Fondement scientifique | Reposer sur des bases scientifiques rigoureuses et porter une attention particulière à la validité des informations présentées. |
 
-### Page imprimée 1 / PDF 2 - Suivi des modifications, dédicace et image
+### Suivi des modifications, dédicace et image
 
 L'en-tête visible indique `SUIVI / Création des croyances` et `Traité de réduction des risques`.
 
@@ -52,7 +52,7 @@ Dédicace conservée :
 
 Le nom `David Devesa Velasco` apparaît en bas de page.
 
-### Page imprimée 2 / PDF 3 - Citation placée en exergue
+### Citation placée en exergue
 
 L'en-tête visible indique encore `SUIVI / Création des croyances` et `Traité de réduction des risques`.
 
@@ -65,11 +65,11 @@ Citation conservée :
 
 Cette citation installe la posture du traité : reconnaître l'existence sociale des drogues, puis discuter les réponses permettant de réduire les consommations dangereuses et les risques.
 
-### Page imprimée 3 / PDF 4 - Page de transition
+### Page de transition
 
 La page comporte l'en-tête `SUIVI / Création des croyances`, le titre courant `Traité de réduction des risques` et le numéro imprimé `3`. Aucun contenu substantiel supplémentaire n'a été détecté dans le texte extrait.
 
-### Pages imprimées 4-7 / PDF 5-8 - Table des matières
+### Table des matières
 
 La table des matières donne la structure complète du tome 1. Elle est conservée comme outil de couverture et de navigation documentaire.
 
@@ -220,7 +220,7 @@ La table des matières donne la structure complète du tome 1. Elle est conserv�
 | Cancer | 327 | 328 | `01_source_canonique/21_cancer.md` |
 | Fonctionnement des cellules | 327 | 328 | `01_source_canonique/21_cancer.md` |
 
-### Page imprimée 7 / PDF 8 - Remerciements
+### Remerciements
 
 Après la fin de la table des matières, la page contient les remerciements suivants :
 

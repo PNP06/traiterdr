@@ -3,7 +3,7 @@
 ## Allergie et crise d’anaphylaxie
 
 Sur l’allergie aux drogues, les études conclues souvent au
-manque de données [304] ,
+manque de données [[304]](/references#ref-304) ,
 aux besoins du développement de tests spécifiques et souligne que bien que ces
 réactions soient rares, elles peuvent être fatale.
 
@@ -19,7 +19,7 @@ Même des drogues
 non allergènes de base, telles que le GBL ou le GHB (similaires à des
 neurotransmetteurs naturels), peuvent être contaminées ou coupées avec d'autres
 substances, et les drogues « naturelles » contiennent une multitude
-de substances, c’est le cas par exemple pour l’allergie à l’alcool [305] (agent de collage,
+de substances, c’est le cas par exemple pour l’allergie à l’alcool [[305]](/references#ref-305) (agent de collage,
 particules, etc). Cela s'applique aussi aux produits de coupe de la cocaïne.
 Les tests effectués par les associations de réduction des risques drogues
 visent à identifier ces risques. De plus, il existe un risque d'interaction
@@ -47,7 +47,7 @@ options de traitement est proposée.
 
 ### Le mécanisme allergique
 
-L'allergie [306]
+L'allergie [[306]](/references#ref-306)
 est une réaction immunitaire démesurée de notre corps face à des substances
 étrangères habituellement inoffensives, telles que le pollen, certains aliments
 ou la poussière. Cette surréaction est déclenchée par une série d'événements
@@ -156,7 +156,7 @@ athlètes.
 #### La répartition de l’eau dans le corps humain
 
 Le corps est composé d'environ 60
-% d'eau [307] .
+% d'eau [[307]](/references#ref-307) .
 Cette eau se répartit entre différents compartiments :
 
 -l'eau présente dans les cellules, permettant aux
@@ -205,7 +205,7 @@ C'est l'hyponatrémie : "hypo" pour moins, et
 rappel, le sang fait partie du compartiment eau extracellulaire. Donc, si moins
 de sel dans le sang, il y a moins de sel sur l'ensemble du compartiment.
 
-L'apport en minéraux, surtout le sodium [308] ,
+L'apport en minéraux, surtout le sodium [[308]](/references#ref-308) ,
 joue donc un rôle clé dans l'hydratation , car cela régule l'hydratation des
 cellules. L'apport d'eau pure n'est pas suffisant pour s'hydrater.
 
@@ -257,36 +257,29 @@ l'alimentation.
 Plusieurs points sont importants pour établir des règles de
 prévention des risques :
 
-·
- La vitesse d'absorption d'eau par l'organisme est limitée
+- La vitesse d'absorption d'eau par l'organisme est limitée
 (environ 1,2 l/h alors que le débit de sueur à l'effort peut monter à 2 l/h),
 
-·
- La sensation de soif est un mauvais indicateur [309]
+- La sensation de soif est un mauvais indicateur [[309]](/references#ref-309)
 de l'hydratation car elle n'apparaît que lors d'une concentration en sel dans
 le sang déjà supérieur à la normale. Autrement dit, la soif apparaît un peu
 trop tard.
 
-·
- Boire une trop grande quantité d'eau peut favoriser le
+- Boire une trop grande quantité d'eau peut favoriser le
 vomissement.
 
-·
- Boire une quantité d'eau trop froide peut créer des maux de
+- Boire une quantité d'eau trop froide peut créer des maux de
 ventre voire des malaises vagaux.
 
 L'apport en eau dans une journée se calcule en fonction du
-poids de corps [310] ,
+poids de corps [[310]](/references#ref-310) ,
 il se fait en plusieurs étapes :
 
-·
- Retirer 20 à son poids,
+- Retirer 20 à son poids,
 
-·
- Multiplier par 15,
+- Multiplier par 15,
 
-·
- Ajouter 1500.
+- Ajouter 1500.
 
 Dans le cadre d'une alimentation normale, environ 1 litre
 d'eau est apporté par l'alimentation.
@@ -306,7 +299,7 @@ journée. Hors activité physique et consommation de substances psychoactive
 
 Ce tableau représente l’apport pour une journée hors
 activité physique particulière. À titre indicatif, il est conseillé de boire 1
-ml de liquide par Kcal d’énergie consommée [311] .
+ml de liquide par Kcal d’énergie consommée [[311]](/references#ref-311) .
 Par exemple, pour un footing de 30 minutes, il faudrait boire au moins 416 ml,
 soit environ une petite bouteille d’eau.
 
@@ -357,18 +350,15 @@ Le schéma précédent permet d'avoir une vision générale des
 mécanismes de l'hydratation. Sur cette base, voici ce qui peut conduire à la
 déshydratation lors de consommations :
 
-·
- Hacker le cerveau en modifiant les comportements (moins de
+- Hacker le cerveau en modifiant les comportements (moins de
 sensation de soif et oubli de boire), c'est le cas de beaucoup de drogues,
 (Moins d’apport)
 
-·
- Hacker le cerveau pour libérer moins de vasopressine : les
+- Hacker le cerveau pour libérer moins de vasopressine : les
 reins évacuent un maximum d'eau. C'est le cas de l'alcool, de la caféine et des
 dépresseurs en général, (Plus d’élimination)
 
-·
- Augmenter le débit de sueur (en créant une hyperthermie),
+- Augmenter le débit de sueur (en créant une hyperthermie),
 c'est le cas pour les stimulants notamment. À cela s'ajoute le fait de danser
 toute la nuit dans un environnement chaud comme une boîte de nuit. Sachant que
 le débit de sueur peut être supérieur au débit d'absorption de l'eau, il peut
@@ -376,8 +366,7 @@ le débit de sueur peut être supérieur au débit d'absorption de l'eau, il peu
 lui seul, hors consommation, suffit à pouvoir créer des déshydratations, (Plus
 d’élimination)
 
-·
- Faire vomir , c'est souvent le cas lors des surdoses, (Plus
+- Faire vomir , c'est souvent le cas lors des surdoses, (Plus
 d’élimination)
 
 Le fait que la déshydratation soit un risque majeur n'est
@@ -408,7 +397,7 @@ réhydratation (vendue en pharmacie) ne se justifie pas en prévention. (MSDMANU
 
 
 INFO :
-Les bars et boites sont dans l’obligation [312]
+Les bars et boites sont dans l’obligation [[312]](/references#ref-312)
 de vous donner à boire si vous le demandez : « Ces établissements
 doivent donner accès à leurs clients à une eau potable fraîche ou tempérée,
 correspondant à un usage de boisson. »
@@ -498,12 +487,12 @@ les urgences
 En prévention, l'eau plate suffit. Si la déshydratation
 apparaît, il existe des solutions de réhydratation. Vendues en pharmacie, ce
 sont des Solutions de Réhydratation Orales – SRO. Elles contiennent un mélange
-de sels minéraux (qui servent à réhydrater) et de sucre. Le sucre [313] ou les
-hydrates de carbone [314]
+de sels minéraux (qui servent à réhydrater) et de sucre. Le sucre [[313]](/references#ref-313) ou les
+hydrates de carbone [[314]](/references#ref-314)
 dans l’eau permettent une absorption 30% plus rapide que l’eau seule .
 
 Il est aussi possible de la réaliser soi-même avec 1 litre
-d'eau, 6 cuillères à café de sucre, 1 cuillère à café de sel [315] .
+d'eau, 6 cuillères à café de sucre, 1 cuillère à café de sel [[315]](/references#ref-315) .
 
 En
 résumé pour Agir face à la déshydratation :
@@ -531,12 +520,12 @@ par les associations, mais fait l’objet d’un suivi particulier auprès des
 personnes âgés en été. Parfois, ce phénomène fait l’objet de publications
 scientifiques (cas cliniques). Par exemple, deux personnes qui avaient consommé
 de la MDMA et, conscientes des risques de déshydratation, ont bu de l’eau en
-excès jusqu'au décès [316] .
+excès jusqu'au décès [[316]](/references#ref-316) .
 Une étude néerlandaise portant sur des patients intoxiqués à la MDMA admis en
 unité de soins intensifs a révélé que 20 % d'entre eux étaient admis en raison
-d'une hyponatrémie [317] .
+d'une hyponatrémie [[317]](/references#ref-317) .
 
-Certains médicaments [318]
+Certains médicaments [[318]](/references#ref-318)
 peuvent également favoriser ce trouble : Traitements de l’hypertension,
 Tramadol, Inhibiteur de la pompe à protons (anti-acide) ou les antidépresseurs.
 
@@ -555,7 +544,7 @@ mesure de sodium (symbole chimique : Na) dans le sang.
 
 Dans l’hyperhydratation, c’est la concentration de sodium
 qui est en jeu, elle peut donc se produire même sans boire un volume d’eau
-démesuré [319] .
+démesuré [[319]](/references#ref-319) .
 
 ###### Prévention
 
@@ -563,18 +552,15 @@ Pour prévenir ce problème, il faut assurer un équilibre
 entre l'apport en eau et en sel. Afin d'identifier les moyens de prévention,
 voici comment causer une hyponatrémie :
 
-·
- Hacker le cerveau en modifiant les comportements (perte de la
+- Hacker le cerveau en modifiant les comportements (perte de la
 sensation de faim, envie irrépressible de boire), c'est le cas de beaucoup de
 drogues, (moins d’apport en sel et plus d’apport en eau)
 
-·
- Hacker le cerveau pour libérer plus de vasopressine. L'eau ne
+- Hacker le cerveau pour libérer plus de vasopressine. L'eau ne
 s'évacue plus par l'urine et le sodium du corps est donc dilué dans un plus
 grand volume d'eau,
 
-·
- Augmenter le débit de sueur (en créant une hyperthermie). La
+- Augmenter le débit de sueur (en créant une hyperthermie). La
 sueur contient du sodium, ce moyen va donc permettre de diminuer le sel présent
 dans le corps.
 
@@ -584,7 +570,7 @@ sans problème. Toutefois, en cas de carence alimentaire ou d'une alimentation
 inadéquate, ou de consommations de substances, la consommation de 2 ou 3 litres
 d'eau peut devenir problématique. 2 ou 3 litres sont rapidement atteints en
 soirée ou lors d'un environnement chaud. Ce mécanisme est le syndrome du
-"tea-toast" [320] ,
+"tea-toast" [[320]](/references#ref-320) ,
 qui touche beaucoup de personnes âgées en été ; et de sportifs mal préparés.
 
 Dans le contexte d'une consommation de substances, voici à
@@ -619,7 +605,7 @@ mortelle.
 |  | Hyperhydratation : hyponatrémie |
 | --- | --- |
 | Symptômes | Premiers symptômes : <br> -Nausée / vomissements <br> -Dégout de l’eau <br> -Malaise <br> Hypernatrémie aigue : <br> -Maux de tête intense, <br> -Obnubilation (absence de réactions) <br> -Confusion <br> -Œdèmes |
-| Mécanisme simplifié | Moins de sodium à la <br> quantité d’eau dans les cellules augmente (Œdème) à cerveau compressé dans la <br> boite crânienne (engagement cérébral) à circulation sanguine bloquée à mort <br> cérébrale par manque d’oxygène [321] . |
+| Mécanisme simplifié | Moins de sodium à la <br> quantité d’eau dans les cellules augmente (Œdème) à cerveau compressé dans la <br> boite crânienne (engagement cérébral) à circulation sanguine bloquée à mort <br> cérébrale par manque d’oxygène [[321]](/references#ref-321) . |
 
 Figure 42.Tableau de l'hyperhydratation (hyponatrémie)
 
@@ -644,7 +630,7 @@ en eau (appelé restriction hydrique) et à favoriser l'apport en sel. Si
 l'apport en sel est trop rapide, dans de très rares cas, il peut y avoir une
 atteinte du tronc cérébral avec un risque de tétraplégie (c'est la myélinolyse
 centro-pontine). Lors du traitement, les urgences vont donc apporter du sel
-progressivement sur les 48 premières heures [322]
+progressivement sur les 48 premières heures [[322]](/references#ref-322)
 du traitement.
 
 En résumé pour Agir face
@@ -674,7 +660,7 @@ déshydratation, l’hyperthermie est le risque majeur de la prise de stimulants
 
 Une corrélation directe a même été établie entre le risque
 de mortalité et l'augmentation de la température corporelle lors de
-consommation [323] .
+consommation [[323]](/references#ref-323) .
 
 La température interne normale de l'humain se situe autour
 de 37°C, avec une variation tolérable de ±0,5°C. Des températures en deçà de
@@ -723,7 +709,7 @@ activité intensive dans un milieu chaud peut conduire à des hyperthermies .
 Cela a été le cas pour 12 personnes hospitalisées lors du Future Music Festival
 en 2014. Si les médias ont immédiatement titré « 3 personnes décédées suite à
 une surconsommation de drogues », les autopsies ont montré qu'il n'y avait pas
-de substances illicites impliquées mais des hyperthermies sévères [325] .
+de substances illicites impliquées mais des hyperthermies sévères [[325]](/references#ref-325) .
 
 #### Mécanismes de régulation de la température
 
@@ -771,7 +757,7 @@ protéger les équipements spatiaux des extrêmes thermiques, la couverture de
 survie est également utile pour se protéger des hyperthermies (coup de chaleur)
 et des hypothermies (refroidissement excessif du corps).
 
-La couverture de survie [327]
+La couverture de survie [[327]](/references#ref-327)
 est recouverte d'une fine couche d'aluminium vaporisé d’un coté qui réfléchit
 environ 90% des rayonnements qu'elle rencontre. Pour maximiser son efficacité,
 l'orientation de la couverture est clef :
@@ -806,7 +792,7 @@ refroidissement efficace. Pour que la sueur puisse s'évaporer, et donc emporte
 avec elle de la chaleur corporelle, l'humidité ambiante ne doit pas être trop
 élevée : dans ce cas l’atmosphère ne peut plus accueillir d’eau en plus. Pour
 une humidité de l’air de 5% la température qui est invivable est 44,4°C. Si
-l’humidité monte à 85%, la température vivable tombe à 37,8°C [328] .
+l’humidité monte à 85%, la température vivable tombe à 37,8°C [[328]](/references#ref-328) .
 
 Il y a un lien important entre déshydratation et
 hyperthermie. Le débit de transpiration peut atteindre jusqu'à 2 litres par
@@ -837,7 +823,7 @@ diminue la sudation.
 La convection contribue également à la notion de température
 ressentie en météorologie, qui prend en compte l'impact du vent sur la
 sensation de froid. Par exemple, une température de l'air de 4°C peut, avec un
-vent de 65 km/h, produire une sensation de froid équivalente à -12°C [329] .
+vent de 65 km/h, produire une sensation de froid équivalente à -12°C [[329]](/references#ref-329) .
 Prendre en compte uniquement la température météo ne permet pas de bien
 anticiper le risque d’hyper ou hypothermie.
 
@@ -861,7 +847,7 @@ connaissance et s'effondre sur le sol, particulièrement froid, la conduction de
 la chaleur du corps vers ce sol peut s'intensifier. Sans la capacité de
 percevoir correctement le froid ou de réagir à la situation, le risque
 d'hypothermie augmente significativement. En milieu urbain, l'alcool est la
-principale cause de mortalité par hypothermie [330] .
+principale cause de mortalité par hypothermie [[330]](/references#ref-330) .
 
 Résumé :
 
@@ -897,7 +883,7 @@ pour contrer les effets du froid.
 
 Toutefois, si le frissonnement se prolonge sur une période
 étendue, typiquement entre quatre à cinq heures, il peut conduire à un
-épuisement [331] .
+épuisement [[331]](/references#ref-331) .
 
 Augmentation du métabolisme
 
@@ -905,8 +891,7 @@ En réponse au froid, le corps peut augmenter son métabolisme
 basal, c'est-à-dire l'énergie dépensée au repos pour maintenir les fonctions
 vitales, par l'intermédiaire de deux mécanismes principaux :
 
-·
- Stimulation du système nerveux sympathique : Ce système,
+- Stimulation du système nerveux sympathique : Ce système,
 qui régule les processus physiologiques associés à l'activité, la peur, et la
 fuite, favorise la libération de noradrénaline. Cette hormone accélère le
 métabolisme des sucres dans le foie et les muscles, augmentant ainsi la
@@ -914,8 +899,7 @@ production de chaleur. Le système nerveux sympathique joue un rôle crucial
 dans l'adaptation du corps aux variations de température, permettant une
 réaction rapide en cas de besoin.
 
-·
- Réponse hormonale : Le cerveau sécrète une molécule qui
+- Réponse hormonale : Le cerveau sécrète une molécule qui
 stimule la thyroïde pour libérer une hormone facilitant la dissociation entre
 l'oxygène et l'hémoglobine dans le sang. Cela rend l'oxygène "plus
 actif", favorisant les réactions chimiques produisant de la chaleur. Ce
@@ -950,8 +934,7 @@ surface de la peau, permettant ainsi l'échange thermique avec l'extérieur. La
 régulation de ce transfert de chaleur est assurée par deux processus opposés,
 contrôlés par le système nerveux :
 
-·
- Vasodilatation : Sous l'influence du système nerveux
+- Vasodilatation : Sous l'influence du système nerveux
 parasympathique, les vaisseaux sanguins se dilatent, augmentant le flux sanguin
 vers la peau et facilitant ainsi la dissipation de la chaleur. Ce phénomène
 rend la peau rouge et chaude, et il est particulièrement visible après un
@@ -961,8 +944,7 @@ d’alcool,
 Le sang à plus de place, la pression
 artérielle diminue et le cœur s’accélère,
 
-·
- Vasoconstriction : À l'inverse, le système nerveux
+- Vasoconstriction : À l'inverse, le système nerveux
 sympathique peut provoquer une contraction des vaisseaux sanguins, réduisant le
 flux sanguin vers la surface de la peau. Cette réaction aide à conserver la
 chaleur au niveau des organes vitaux lorsque le corps est exposé au froid. Lors
@@ -977,7 +959,7 @@ en fonction des besoins thermiques du corps. La vasoconstriction et la
 vasodilatation vont donc avoir un impact important sur le rythme cardiaque et
 sur la pression artérielle.
 
-La noyade blanche [332] ,
+La noyade blanche [[332]](/references#ref-332) ,
 ou « hydrocution », illustre bien ce lien et est un risque important lors
 de consommation en été près d’un plan d’eau. Lorsque la température corporelle
 est élevée, il y a vasodilatation. Le rythme cardiaque augmente également et
@@ -1039,7 +1021,7 @@ automatiquement des réactions pour rétablir l'équilibre.
 
 Cependant, des recherches plus récentes ont révélé que le
 processus de thermorégulation implique plusieurs zones du cerveau, y compris la
-moelle épinière, le tronc cérébral et l'hypothalamus lui-même [333] .
+moelle épinière, le tronc cérébral et l'hypothalamus lui-même [[333]](/references#ref-333) .
 Cette découverte suggère l'existence de multiples "thermostats" dans
 le système nerveux central, chacun avec ses propres paramètres de réglage qui
 peuvent varier dans certaines limites. De plus, des récepteurs thermiques
@@ -1053,7 +1035,7 @@ capables de déréguler ces thermostats. C’est donc un facteur de risque
 important. Certaines drogues comme les barbituriques ou l’alcool sont capables
 de déréguler ces thermostats. C’est donc un facteur de risque important.
 
-Par exemple, dans le cas de consommation de MDMA [334] ,
+Par exemple, dans le cas de consommation de MDMA [[334]](/references#ref-334) ,
 cette substance agit sur la sérotonine et a des propriétés d'augmentation de la
 température. Prise seule, les risques sont gérables et font l'objet de
 recherches cliniques pour une utilisation thérapeutique. Cependant, lors d'une
@@ -1082,18 +1064,15 @@ thermorégulation.
   <figcaption>Figure 47. Bilan de la régulation de la température.</figcaption>
 </figure>
 
-·
- La chaleur du corps est principalement produite par le
+- La chaleur du corps est principalement produite par le
 métabolisme. En activité physique, c’est surtout le métabolisme des muscles qui
 génère le plus d'énergie.
 
-·
- Le corps peut ajuster la quantité d'énergie produite et dissipée
+- Le corps peut ajuster la quantité d'énergie produite et dissipée
 grâce à plusieurs mécanismes physiologiques, tels que la variation du
 métabolisme, les frissons, la dilatation périphérique, et la transpiration.
 
-·
- Le corps doit également composer avec des facteurs qu'il ne
+- Le corps doit également composer avec des facteurs qu'il ne
 contrôle pas, comme la conduction, la radiation, la convection et l'humidité.
 Si ces paramètres bloquent la libération de chaleur ou, au contraire, en
 extraient trop, le corps peut ne plus réussir à compenser
@@ -1106,7 +1085,7 @@ Une hypothermie est considérée lorsque la température du
 corps est en dessous ou égale à 35°C. Il est important de noter que
 l'hypothermie ne survient pas uniquement en cas de températures très froides ;
 une ambiance thermique de 20°C peut, dans certains cas, produire une
-hypothermie aussi [335] .
+hypothermie aussi [[335]](/references#ref-335) .
 
 ##### Prévention
 
@@ -1115,26 +1094,20 @@ mécanismes de régulation de la température. Sur cette base, voici ce qui peut
 conduire à une hypothermie (en plus d'une température ambiante particulièrement
 froide) :
 
-·
- Influencer le cerveau pour modifier les comportements (réduire la
+- Influencer le cerveau pour modifier les comportements (réduire la
 sensation de froid), comme c'est le cas avec beaucoup de drogues.
 
-·
- Influencer le cerveau pour causer de l'ataxie (diminution de
+- Influencer le cerveau pour causer de l'ataxie (diminution de
 l'activité physique), notamment avec les dissociatifs et les dépresseurs.
 
-·
- Influencer le cerveau pour réduire l'activité métabolique.
+- Influencer le cerveau pour réduire l'activité métabolique.
 
-·
- Influencer le système nerveux autonome pour induire une
+- Influencer le système nerveux autonome pour induire une
 vasodilatation même dans un environnement froid.
 
-·
- Influencer le système nerveux autonome pour empêcher le frisson.
+- Influencer le système nerveux autonome pour empêcher le frisson.
 
-·
- Être en contact avec des éléments froids (conduction) ou être
+- Être en contact avec des éléments froids (conduction) ou être
 mouillé (évaporation).
 
 L'hypothermie est l'un des risques majeurs lors de
@@ -1168,7 +1141,7 @@ détecter les autres symptômes.
 | Modérée (32° à 30/28°) | Fin du frisson avec plutôt des <br> tremblements, sensation de bien-être, diminution de la fréquence cardiaque, <br> pseudo obnubilation comateuse. Déshydratation | Ne pas bouger trop <br> brutalement , réagir, parler, se <br> réchauffer lentement par tous les moyens et appel des secours. | Ne pas masser ou frictionner <br> ni réchauffer trop rapidement. |
 | Sévère, grave et profonde <br> (< 30/ 28°) | Coma, ralentissement des <br> fonctions vitales, Vasoconstriction massive (pouvant aller jusqu’à la <br> nécrose) <br> Baisse du rythme cardiaque <br> jusqu’à l’arrêt | C’est une urgence vitale, une <br> affaire de spécialistes avec réchauffement progressif souvent de 1° par <br> heure. |  |
 
-Figure 48 .Approche graduée de l'hypothermie [336]
+Figure 48 .Approche graduée de l'hypothermie [[336]](/references#ref-336)
 
 Le ralentissement cérébral causé par l'hypothermie va
 provoquer l'arrêt de la production de la vasopressine, une hormone réduisant la
@@ -1239,12 +1212,12 @@ génériques, nous reprendrons ici quelques notions de base et mettrons l'accent
 sur les données relatives à l'alcool en particulier. Lors de la consommation
 d'alcool, l'hypothermie peut rapidement devenir un risque majeur .
 
-Une étude [337]
+Une étude [[337]](/references#ref-337)
 menée à l'Hôpital Reinier de Graaf aux Pays-Bas sur des adolescents intoxiqués
 à l'alcool entre 2000 et 2010 a démontré que la réduction de la conscience
 (45%) et l'hypothermie (43,1%) étaient les complications médicales aiguës les
 plus courantes en cas d'intoxication alcoolique. En milieu urbain, l'alcool est
-la principale cause de mortalité par hypothermie [338] .
+la principale cause de mortalité par hypothermie [[338]](/references#ref-338) .
 
 L'alcool peut induire l'hypothermie de plusieurs manières :
 
@@ -1265,18 +1238,18 @@ adéquates pour se protéger du froid. Au contraire, la sensation fausse de
 chaleur ressentie peut conduire à chercher du frais
 
 La cause généralement citée dans les médias est la
-vasodilatation, pourtant c’est largement remis en question [339] . Les sources utilisées pour
+vasodilatation, pourtant c’est largement remis en question [[339]](/references#ref-339) . Les sources utilisées pour
 cette partie ne sont pas en phase pour définir lequel de ces mécanismes est
 majoritaire pour expliquer l’hypothermie lors de la consommation d’alcool. Il
 faut retenir que c’est multifactoriel.
 
 Il est important de noter que l'hypothermie ne survient pas
-uniquement dans des conditions de grand froid. Une étude [340] sur les adolescents
+uniquement dans des conditions de grand froid. Une étude [[340]](/references#ref-340) sur les adolescents
 néerlandais intoxiqués à l'alcool a révélé des températures corporelles
 légèrement plus basses en hiver par rapport à l'été. L'hypothermie était plus
 fréquente en hiver (26,6% des cas) que pendant l'été (18,0% des cas).
 
-Des études [341]
+Des études [[341]](/references#ref-341)
 contrôlées menées sur des sujets sains ont montré qu'une consommation de 2 à 3
 unités d'alcool à des températures ambiantes de 21 à 33 °C provoque une baisse
 de la température corporelle de 0,2 à 0,3 °C.
@@ -1298,7 +1271,7 @@ corporelle dépasse 40°C. Historiquement, il existait deux types d'hyperthermie
 (coup de chaleur) : le classique et le coup de chaleur à l'effort. Aujourd'hui,
 cette distinction n'est plus d'actualité. Les conséquences sont les mêmes
 quelle que soit la cause : médicaments, effort physique intense (qui représente
-une cause de mortalité chez les jeunes athlètes [342] )
+une cause de mortalité chez les jeunes athlètes [[342]](/references#ref-342) )
 ou exposition à la chaleur (les symptômes sévères apparaissent après 2 ou 3
 jours).
 
@@ -1317,20 +1290,16 @@ mécanismes de régulation de la température. Sur cette base, voici ce qui peut
 conduire à une hyperthermie (en plus d'une température particulièrement élevée)
 :
 
-·
- Influencer le cerveau pour modifier les comportements (moins de
+- Influencer le cerveau pour modifier les comportements (moins de
 sensation de chaud), comme c'est le cas avec beaucoup de drogues.
 
-·
- Influencer le cerveau pour augmenter l'activité du métabolisme
+- Influencer le cerveau pour augmenter l'activité du métabolisme
 (c'est le cas des stimulants).
 
-·
- Influencer le système nerveux autonome pour créer une
+- Influencer le système nerveux autonome pour créer une
 vasoconstriction même dans un environnement chaud.
 
-·
- Être en contact avec des éléments chauds (conduction).
+- Être en contact avec des éléments chauds (conduction).
 
 Pour prévenir l'hyperthermie, il faut anticiper des moyens
 de se refroidir (aspersion d'eau, par exemple). L'objectif principal est la
@@ -1357,7 +1326,7 @@ faut faire une pause en cas d’observation de changement de comportement,
 d’épuisement ou de douleurs physiques.
 
 L'immersion dans l'eau froide se présente comme la
-méthode la plus évidente, ayant les taux de mortalité les plus faibles [343] et étant
+méthode la plus évidente, ayant les taux de mortalité les plus faibles [[343]](/references#ref-343) et étant
 le traitement de choix disponible. Cependant, l'immersion ne doit pas être
 réalisée de manière brusque pour éviter la vasoconstriction (voir la
 section sur la vasoconstriction pour plus de détails) et ne doit pas
