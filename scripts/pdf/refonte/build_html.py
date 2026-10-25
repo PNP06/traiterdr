@@ -1,6 +1,6 @@
 """Transforme la sortie pandoc du traité en HTML paginable (paged.js) avec le gabarit.
 
-Usage : python3 build_html.py prep.html traite.html [corrections.json]
+Usage : python3 build_html.py prep.html traite.html [corrections.tsv]
 
 - titres Word : Titre 1 = partie (page d'ouverture), Titre 2 = chapitre (nouvelle page),
   Titre 3 et suivants = sections ; les paragraphes courts entièrement en gras/italique/souligné
@@ -8,7 +8,7 @@ Usage : python3 build_html.py prep.html traite.html [corrections.json]
 - notes Word -> notes en bas de page ;
 - paragraphes encadrés -> encadrés koala ; légendes -> sous la figure ou le tableau ;
 - [[SCHEMA:id]] -> schemas/<id>.svg ou .png s'il existe, sinon cadre « schéma à reprendre » ;
-- corrections.json : liste de corrections d'orthographe validées {"avant": ..., "apres": ...}.
+- corrections.tsv : corrections d'orthographe et de grammaire (avant<TAB>après).
 """
 import json, os, re, sys
 from bs4 import BeautifulSoup, NavigableString, Tag
@@ -18,7 +18,18 @@ CORR = sys.argv[3] if len(sys.argv) > 3 else None
 HERE = os.path.dirname(os.path.abspath(__file__))
 FRONT = {"Remerciements"}
 
-soup = BeautifulSoup(open(SRC, encoding="utf8").read(), "html.parser")
+CORRECTIONS = []
+if CORR and os.path.exists(CORR):
+    for ligne in open(CORR, encoding="utf8"):
+        if ligne.strip() and not ligne.startswith("#"):
+            CORRECTIONS.append(tuple(ligne.rstrip("\n").split("\t")))
+brut = open(SRC, encoding="utf8").read()
+for avant, apres in CORRECTIONS:
+    if avant.startswith("html:"):
+        if avant[5:] not in brut:
+            print("correction non appliquée :", avant, file=sys.stderr)
+        brut = brut.replace(avant[5:], apres)
+soup = BeautifulSoup(brut, "html.parser")
 
 # 1. Notes : contenu de la note à l'endroit de l'appel
 notes = {}
@@ -177,15 +188,27 @@ for el in list(soup.find_all(["h1", "h2", "h3", "h4", "h5", "h6", "p"])):
         for u in el.find_all(["u", "em", "strong"]):
             u.unwrap()
 
-# 7. Corrections d'orthographe validées
-if CORR and os.path.exists(CORR):
-    for c in json.load(open(CORR, encoding="utf8")):
+# 7. Corrections d'orthographe et de grammaire (corrections.tsv : avant<TAB>après)
+#    un « avant » d'un seul mot est remplacé en mot entier ; sinon le passage exact
+def corriger(arbre, signaler=True):
+    for avant, apres in CORRECTIONS:
+        if avant.startswith("html:"):
+            continue
+        # les espaces du Word peuvent être des retours à la ligne dans le HTML de pandoc
+        corps = r"\s+".join(re.escape(m) for m in avant.strip().split(" "))
+        fin = r"(?!\w)" if re.match(r"\w", avant.strip()[-1]) else ""
+        debut = r"(?<!\w)" if re.match(r"\w", avant[0]) else ""
+        motif = re.compile(debut + corps + fin)
         n = 0
-        for t in soup.find_all(string=lambda s: c["avant"] in s):
-            t.replace_with(t.replace(c["avant"], c["apres"]))
+        for s in arbre.find_all(string=motif):
+            if s.find_parent(["style", "script"]):
+                continue
+            s.replace_with(motif.sub(apres.strip(), s))
             n += 1
-        if n == 0:
-            print("correction non appliquée :", c["avant"], file=sys.stderr)
+        if n == 0 and signaler:
+            print("correction non appliquée :", avant, file=sys.stderr)
+
+corriger(soup, signaler=False)
 
 # 8. Ouvertures de parties, chapitres, sommaire
 KOALA = '<div class="koala"><img src="koala.jpg" alt=""></div>'
@@ -199,6 +222,7 @@ for i, h in enumerate(heads):
     if h.name == "div":
         f = h["data-f"]
         rep = BeautifulSoup(open(os.path.join(HERE, "remplacements", f + ".html"), encoding="utf8").read(), "html.parser")
+        corriger(rep, signaler=False)
         for x in rep.find_all(["h1", "h3"]):
             x["id"] = x.get("id") or "%s-%d" % (f, len(toc))
             toc.append((1 if x.name == "h1" else 3, x.get_text(" ", strip=True), x["id"]))
@@ -309,6 +333,10 @@ for leg in full.find_all(["figcaption", "p", "div"]):
     leg.insert(0, b)
 print("légendes numérotées", cpt)
 html = str(full)
+texte_final = re.sub(r"\s+", " ", BeautifulSoup(html, "html.parser").get_text(" "))
+for avant, apres in CORRECTIONS:
+    if not avant.startswith("html:") and re.sub(r"\s+", " ", apres.strip()) not in texte_final:
+        print("correction non retrouvée :", avant, "->", apres, file=sys.stderr)
 open(OUT, "w", encoding="utf8").write(html)
 print("titres", len(toc), "notes", len(notes), "encadrés", len(soup.find_all("div", class_="encadre")),
       "figures", len(soup.find_all("figure")), "tableaux", len(soup.find_all("table")))

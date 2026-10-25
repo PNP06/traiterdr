@@ -11,7 +11,8 @@ t = open(src, encoding="utf8").read()
 t = re.sub(r"<aside.*?</aside>", "", t, flags=re.S)
 t = re.sub(r'<a href="#fn\d+"[^>]*>.*?</a>', "", t, flags=re.S)
 t = html.unescape(re.sub(r"<[^>]+>", " ", t))
-p = subprocess.run(["pdftotext", pdf, "-"], capture_output=True, text=True).stdout
+# texte du corps seulement : les fils d'Ariane des marges (liseres.py) sont exclus (A4, 15 mm de chaque côté)
+p = subprocess.run(["pdftotext", "-x", "43", "-y", "0", "-W", "510", "-H", "842", pdf, "-"], capture_output=True, text=True).stdout
 p = "\n".join(l for l in p.split("\n") if not re.match(r"\s*(TRAITÉ RDR · TOME 1|RISKY : TRAITÉ DE RÉDUCTION DES RISQUES ET DES DOMMAGES)", l, re.I))
 def toks(s):
     s = s.replace("­", "")
