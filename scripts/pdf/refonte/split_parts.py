@@ -19,6 +19,9 @@ for c in chunks[1:]:
         merged[-1] += c
     else:
         merged.append(c)
+avant = 0  # notes des parties précédentes : la numérotation continue d'une partie à l'autre
 for i, c in enumerate(merged):
-    open(os.path.join(out, "%02d.html" % i), "w", encoding="utf8").write(head + "<body>" + c + "</body></html>")
+    style = '<style>:root{--pagedjs-footnotes-count:%d !important}</style>' % avant
+    open(os.path.join(out, "%02d.html" % i), "w", encoding="utf8").write(head.replace("</head>", style + "</head>") + "<body>" + c + "</body></html>")
+    avant += c.count('class="fn"')
     print("%02d" % i, len(c), re.search(r'<h1[^>]*>([^<]*)', c).group(1) if "<h1" in c else "")
