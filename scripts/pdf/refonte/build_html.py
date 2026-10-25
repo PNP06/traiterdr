@@ -221,10 +221,10 @@ for i, h in enumerate(heads):
                 break
             if nxt.name == "h2":
                 subs.append(nxt.get_text(" ", strip=True))
-        items = "".join('<div><span>%02d</span>%s</div>' % (k + 1, s) for k, s in enumerate(subs[:12]))
+        items = "".join('<div><span>%02d</span>%s</div>' % (k + 1, s) for k, s in enumerate(subs))
         opener = BeautifulSoup('<section class="opener"><div class="glow"></div>%s<div class="part">TRAITÉ RDR · <b>TOME 1</b></div>'
-                               '<div class="num">%s</div><h1 id="%s">%s</h1><div class="toc">%s</div>%s</section>'
-                               % (LOGO, n, hid, title, items, KOALA), "html.parser")
+                               '<div class="num">%s</div><h1 id="%s">%s</h1><div class="toc%s">%s</div>%s</section>'
+                               % (LOGO, n, hid, title, " dense" if len(subs) > 10 else "", items, KOALA), "html.parser")
         h.replace_with(opener)
         toc.append((1, title, hid))
         chap_in_part = 0

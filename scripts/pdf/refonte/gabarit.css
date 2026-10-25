@@ -34,6 +34,7 @@ sup,sub{line-height:0}
 .opener h1 .no{display:none}
 .opener .sub{position:absolute; left:22mm; right:80mm; top:146mm; font-weight:500; font-size:13pt; line-height:1.45; opacity:.9}
 .opener .toc{position:absolute; left:22mm; right:85mm; bottom:28mm; display:grid; gap:2mm; font-weight:600; font-size:9.6pt; line-height:1.3}
+.opener .toc.dense{font-size:8.6pt; gap:1.2mm; bottom:22mm}
 .opener .toc span{display:inline-block; width:10mm; color:var(--orange); font-weight:800}
 .opener .koala{position:absolute; right:20mm; bottom:26mm; width:52mm; height:52mm; border-radius:50%; overflow:hidden; border:4pt solid var(--orange)}
 .opener .koala img{width:150%; margin:-10% 0 0 -24%}

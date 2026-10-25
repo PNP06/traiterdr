@@ -1,0 +1,33 @@
+<svg viewBox="0 0 680 390" xmlns="http://www.w3.org/2000/svg" font-family="Poppins">
+<g stroke="#E8794F" stroke-width="2.5" fill="none" stroke-linecap="round">
+<path d="M340 66 V86 M170 86 H510 M170 86 V104 M510 86 V104"/>
+<path d="M510 166 V186 M400 186 H620 M400 186 V204 M620 186 V204"/>
+<path d="M400 266 V286 M290 286 H510 M290 286 V304 M510 286 V304"/>
+</g>
+<g text-anchor="middle">
+<rect x="230" y="10" width="220" height="56" rx="14" fill="#123A33"/>
+<text x="340" y="45" fill="#F6EFE2" font-size="17" font-weight="800">Système nerveux</text>
+<g font-size="15" font-weight="800" fill="#123A33">
+<rect x="80" y="104" width="180" height="62" rx="12" fill="#F6EFE2" stroke="#123A33" stroke-width="2"/>
+<text x="170" y="131">Central</text>
+<rect x="420" y="104" width="180" height="62" rx="12" fill="#F6EFE2" stroke="#123A33" stroke-width="2"/>
+<text x="510" y="131">Périphérique</text>
+<rect x="310" y="204" width="180" height="62" rx="12" fill="#F6EFE2" stroke="#123A33" stroke-width="2"/>
+<text x="400" y="231">Autonome</text>
+<rect x="530" y="204" width="140" height="62" rx="12" fill="#F6EFE2" stroke="#123A33" stroke-width="2"/>
+<text x="600" y="231">Somatique</text>
+<rect x="200" y="304" width="180" height="62" rx="12" fill="#5B3FCF"/>
+<text x="290" y="331" fill="#F6EFE2">Sympathique</text>
+<rect x="420" y="304" width="180" height="62" rx="12" fill="#5B3FCF"/>
+<text x="510" y="331" fill="#F6EFE2">Parasympathique</text>
+</g>
+<g font-size="12" font-weight="600" fill="#E8794F">
+<text x="170" y="153">Interaction extérieure</text>
+<text x="510" y="153">Gestion du corps</text>
+<text x="400" y="253">Processus internes</text>
+<text x="600" y="253">Gestion des muscles</text>
+<text x="290" y="353" fill="#D8F25C">Stress</text>
+<text x="510" y="353" fill="#D8F25C">Repos</text>
+</g>
+</g>
+</svg>

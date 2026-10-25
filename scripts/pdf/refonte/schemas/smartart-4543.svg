@@ -1,0 +1,28 @@
+<svg viewBox="0 0 680 330" xmlns="http://www.w3.org/2000/svg" font-family="Poppins">
+<defs><marker id="fl4543" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0 0L10 5L0 10z" fill="#E8794F"/></marker></defs>
+<g stroke="#E8794F" stroke-width="3" fill="none"><path d="M340 92 V112" marker-end="url(#fl4543)"/><path d="M340 202 V222" marker-end="url(#fl4543)"/></g>
+<g font-weight="700">
+<rect x="10" y="10" width="660" height="82" rx="14" fill="#F6EFE2"/>
+<text x="26" y="36" font-size="15" font-weight="800" fill="#123A33">Phase 1 · <tspan fill="#E8794F">Mal-être</tspan></text>
+<g font-size="13" fill="#123A33" text-anchor="middle">
+<rect x="26" y="48" width="200" height="32" rx="8" fill="#fff"/><text x="126" y="69">Nausées, vomissements</text>
+<rect x="240" y="48" width="200" height="32" rx="8" fill="#fff"/><text x="340" y="69">Diarrhées</text>
+<rect x="454" y="48" width="200" height="32" rx="8" fill="#fff"/><text x="554" y="69">Agitation</text>
+</g>
+<rect x="10" y="120" width="660" height="82" rx="14" fill="#E8794F"/>
+<text x="26" y="146" font-size="15" font-weight="800" fill="#fff">Phase 2 · Perte de connaissance</text>
+<g font-size="12" fill="#123A33" text-anchor="middle">
+<rect x="26" y="158" width="118" height="32" rx="8" fill="#fff"/><text x="85" y="179">Convulsions</text>
+<rect x="152" y="158" width="122" height="32" rx="8" fill="#fff"/><text x="213" y="179">Trouble cardiaque</text>
+<rect x="282" y="158" width="128" height="32" rx="8" fill="#fff"/><text x="346" y="179">Trouble respiratoire</text>
+<rect x="418" y="158" width="118" height="32" rx="8" fill="#fff"/><text x="477" y="179">Trouble thermique</text>
+<rect x="544" y="158" width="110" height="32" rx="8" fill="#fff"/><text x="599" y="179">Déshydratation</text>
+</g>
+<rect x="10" y="230" width="660" height="82" rx="14" fill="#123A33"/>
+<text x="26" y="256" font-size="15" font-weight="800" fill="#D8F25C">Phase 3 · Défaillance cardio-respiratoire</text>
+<g font-size="13" fill="#123A33" text-anchor="middle">
+<rect x="26" y="268" width="307" height="32" rx="8" fill="#fff"/><text x="179" y="289">Arrêt respiratoire</text>
+<rect x="347" y="268" width="307" height="32" rx="8" fill="#fff"/><text x="500" y="289">Arrêt cardiaque</text>
+</g>
+</g>
+</svg>
