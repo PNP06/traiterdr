@@ -5,10 +5,12 @@ Usage : python3 assemble.py dossier_parties/ couverture.pdf version.pdf sortie.p
 - met bout à bout couverture, page de version et les parties rendues (00.pdf, 01.pdf…) ;
 - compose le sommaire avec les vrais numéros de page et l'insère après la citation d'ouverture ;
 - numérote les pages (sauf couverture, version, dédicace, citation et pages d'ouverture) ;
+- dessine les fils d'Ariane verticaux des marges (liseres.py) ;
 - ajoute les signets et les métadonnées.
 """
 import glob, json, os, subprocess, sys
 import fitz
+import liseres
 
 DIR, COVER, VERSION, OUT = sys.argv[1:5]
 HERE = os.path.dirname(os.path.abspath(__file__))
@@ -71,13 +73,23 @@ for p in parts[1:]:
 assert len(doc) == AVANT + som_n + sum(i["pages"] for i in infos), "pagination incohérente"
 
 # Numéros de page : pages portant le pied de page courant uniquement
+def pied(page):
+    r = page.rect
+    return "traité de rdr" in page.get_text(clip=fitz.Rect(0, r.height - 30 * 72 / 25.4, r.width, r.height)).lower()
+
+corps = []
 for i, page in enumerate(doc):
     if i < AVANT + DEBUT:
         continue
-    if "risky · comprendre pour mieux choisir" not in page.get_text().lower() and i >= AVANT + DEBUT + som_n:
+    if not pied(page) and i >= AVANT + DEBUT + som_n:
         continue
+    if i >= AVANT + DEBUT + som_n:
+        corps.append(i)
     page.insert_text((page.rect.width - 20 * 72 / 25.4 - 12, page.rect.height - 24 * 72 / 25.4 + 26),
                      str(i + 1 - AVANT), fontname="hebo", fontsize=9, color=(0x12 / 255, 0x3A / 255, 0x33 / 255))
+
+# Fils d'Ariane verticaux dans les marges (partie à gauche, chapitre à droite)
+liseres.dessine(doc, entries, corps)
 
 # Signets (numéro imprimé = page PDF - 2)
 toc = [[1, "Couverture", 1], [1, "Version et parties en cours", 2], [1, "Sommaire", AVANT + DEBUT + 1]]
