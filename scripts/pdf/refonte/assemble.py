@@ -44,7 +44,7 @@ def render_sommaire(entries, path):
 .sommaire .t3{font-size:8.8pt; color:var(--muted); padding-left:9mm}
 .sommaire .t3 b{font-weight:500; color:var(--muted)}
 """
-    html = tpl.replace("{{CSS}}", css).replace("{{CORPS}}", '<section class="sommaire" style="break-before:auto"><h1>Sommaire</h1><ol>%s</ol></section>' % items)
+    html = tpl.replace("{{CSS}}", css).replace("{{CORPS}}", '<section class="sommaire" style="break-before:auto" data-partie="" data-fil="Sommaire"><h1>Sommaire</h1><ol>%s</ol></section>' % items)
     open(path + ".html", "w", encoding="utf8").write(html)
     subprocess.run(["node", os.path.join(HERE, "render.cjs"), path + ".html"], check=True)
     return fitz.open(path + ".pdf")

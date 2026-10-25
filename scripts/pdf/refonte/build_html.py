@@ -97,6 +97,9 @@ for p in soup.find_all("p"):
         first.replace_with(first[1:])
 
 # 4. Images -> figures ; légendes rattachées
+for bq in soup.find_all("blockquote"):
+    if bq.find("img") and not bq.get_text(strip=True):  # image simplement en retrait dans Word
+        bq.unwrap()
 for img in soup.find_all("img"):
     img.attrs.pop("style", None)
     img.attrs.pop("width", None)
@@ -104,7 +107,7 @@ for img in soup.find_all("img"):
     if img.find_parent(["td", "th"]):
         continue
     p = img.find_parent("p")
-    holder = p if p is not None and not p.get_text(strip=True) else None
+    holder = p if p is not None and p.get_text(strip=True) in ("", "-", "–") else None
     fig = soup.new_tag("figure")
     (holder or img).insert_before(fig)
     fig.append(img.extract())
@@ -244,6 +247,68 @@ html = tpl.replace("{{CSS}}", open(os.path.join(HERE, "gabarit.css"), encoding="
           .replace("{{CORPS}}", front + "".join(som) + str(soup))
 for f, rep in remplacements.items():
     html = html.replace('<div class="remplace" data-f="%s"></div>' % f, rep)
+
+# 9. Numérotation A, A.1, A.1.4 et fil d'Ariane des en-têtes :
+#    à gauche la partie, à droite chapitre › section (data-partie, data-fil)
+full = BeautifulSoup(html, "html.parser")
+lettre, chap, sec, fil_chap = None, 0, 0, ""
+for h in full.find_all(["h1", "h2", "h3"]):
+    if h.find_parent("section", class_="sommaire"):
+        continue
+    def prefix(no):
+        sp = full.new_tag("span", attrs={"class": "no"})
+        sp.string = no
+        h.insert(0, " ")
+        h.insert(0, sp)
+    titre = re.sub(r"\s+", " ", h.get_text(" ", strip=True))
+    if h.name == "h1" and h.find_parent("section", class_="opener"):
+        lettre = chr(ord("A") + (0 if lettre is None else ord(lettre) - ord("A") + 1))
+        chap, sec, fil_chap = 0, 0, ""
+        h.find_parent("section").find("div", class_="num").string = lettre
+        for k, sp in enumerate(h.find_parent("section").select(".toc span")):
+            sp.string = "%s.%d" % (lettre, k + 1)
+        prefix(lettre + " ·")
+        h["data-partie"] = "%s · %s" % (lettre, titre)
+        h["data-fil"] = ""
+    elif h.name == "h1":
+        h["data-partie"] = ""
+        h["data-fil"] = titre
+    elif lettre is None:
+        continue
+    elif h.name == "h2":
+        chap += 1
+        sec = 0
+        no = "%s.%d" % (lettre, chap)
+        prefix(no)
+        h["data-num"] = "PARTIE %s" % lettre
+        fil_chap = "%s %s" % (no, titre)
+        h["data-fil"] = fil_chap
+    else:
+        nxt = h.find_next(["h1", "h2"])
+        if not chap and nxt is not None and nxt.name == "h2":
+            # introduction de partie, avant le premier chapitre : pas de numéro
+            h["data-fil"] = titre
+            continue
+        sec += 1
+        no = "%s.%d.%d" % (lettre, chap, sec) if chap else "%s.%d" % (lettre, sec)
+        prefix(no)
+        h["data-fil"] = ("%s  ›  %s %s" % (fil_chap, no, titre)) if fil_chap else "%s %s" % (no, titre)
+# 10. Légendes : les numéros Word (champs SEQ) sont perdus à la conversion, on renumérote dans l'ordre du livre
+cpt = {"Figure": 0, "Tableau": 0}
+for leg in full.find_all(["figcaption", "p", "div"]):
+    if leg.name != "figcaption" and "legende" not in leg.get("class", []):
+        continue
+    s = leg.find(string=re.compile(r"\S"))
+    m = s and re.match(r"\s*(Figure|Tableau)\s*\d*\s*\.?\s*", s)
+    if not m:
+        continue
+    cpt[m.group(1)] += 1
+    s.replace_with(s[m.end():])
+    b = full.new_tag("b")
+    b.string = "%s %d. " % (m.group(1), cpt[m.group(1)])
+    leg.insert(0, b)
+print("légendes numérotées", cpt)
+html = str(full)
 open(OUT, "w", encoding="utf8").write(html)
 print("titres", len(toc), "notes", len(notes), "encadrés", len(soup.find_all("div", class_="encadre")),
       "figures", len(soup.find_all("figure")), "tableaux", len(soup.find_all("table")))

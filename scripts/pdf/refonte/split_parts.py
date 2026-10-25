@@ -15,7 +15,7 @@ chunks = re.split(r'(?=<section class="opener">)', body)
 # l'introduction reste avec le début du livre
 merged = [chunks[0]]
 for c in chunks[1:]:
-    if '<div class="num">00</div>' in c:
+    if '<div class="num">A</div>' in c:
         merged[-1] += c
     else:
         merged.append(c)

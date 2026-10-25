@@ -5,8 +5,8 @@
 }
 @page{
   size:A4; margin:22mm 20mm 24mm 22mm;
-  @top-left{content:"Traité RDR · Tome 1"; font:600 7.5pt Poppins; letter-spacing:.12em; text-transform:uppercase; color:var(--muted)}
-  @top-right{content:string(chap); font:600 7.5pt Poppins; letter-spacing:.12em; text-transform:uppercase; color:var(--orange)}
+  @top-left{content:string(partie, start); font:700 7.5pt Poppins; letter-spacing:.1em; text-transform:uppercase; color:var(--sapin)}
+  @top-right{content:string(fil, start); text-align:right; font:600 7.5pt Poppins; letter-spacing:.06em; color:var(--orange)}
   @bottom-left{content:"risky · comprendre pour mieux choisir"; font:600 7pt Poppins; letter-spacing:.12em; text-transform:uppercase; color:var(--muted)}
   @footnote{border-top:1px solid var(--line); padding-top:2.5mm; margin-top:4mm}
 }
@@ -30,18 +30,19 @@ sup,sub{line-height:0}
 .opener .part{position:absolute; top:24mm; right:20mm; font-weight:600; font-size:9pt; letter-spacing:.14em}
 .opener .part b{color:var(--orange)}
 .opener .num{position:absolute; left:22mm; top:78mm; font-weight:800; font-size:110pt; line-height:.8; color:var(--anis); letter-spacing:-.05em}
-.opener h1{position:absolute; left:22mm; right:20mm; top:122mm; margin:0; font-weight:800; font-size:40pt; line-height:1.02; letter-spacing:-.03em; string-set:chap content(text)}
+.opener h1{position:absolute; left:22mm; right:20mm; top:122mm; margin:0; font-weight:800; font-size:40pt; line-height:1.02; letter-spacing:-.03em}
+.opener h1 .no{display:none}
 .opener .sub{position:absolute; left:22mm; right:80mm; top:146mm; font-weight:500; font-size:13pt; line-height:1.45; opacity:.9}
 .opener .toc{position:absolute; left:22mm; right:85mm; bottom:28mm; display:grid; gap:2mm; font-weight:600; font-size:9.6pt; line-height:1.3}
-.opener .toc span{display:inline-block; width:7mm; color:var(--orange); font-weight:800}
+.opener .toc span{display:inline-block; width:10mm; color:var(--orange); font-weight:800}
 .opener .koala{position:absolute; right:20mm; bottom:26mm; width:52mm; height:52mm; border-radius:50%; overflow:hidden; border:4pt solid var(--orange)}
 .opener .koala img{width:150%; margin:-10% 0 0 -24%}
 
 /* Titres */
 h1,h2,h3,h4,h5,h6{font-family:Poppins; break-after:avoid; break-inside:avoid}
-h2.chap{break-before:page; font-weight:800; font-size:24pt; line-height:1.08; letter-spacing:-.03em; color:var(--sapin); margin:0 0 6mm; string-set:chap content(text)}
+h2.chap{break-before:page; font-weight:800; font-size:24pt; line-height:1.08; letter-spacing:-.03em; color:var(--sapin); margin:0 0 6mm; }
 h2.chap::before{content:attr(data-num); display:block; font-size:9pt; letter-spacing:.16em; color:var(--orange); margin-bottom:2mm}
-h1.front{break-before:page; font-weight:800; font-size:24pt; color:var(--sapin); margin:0 0 6mm; string-set:chap content(text)}
+h1.front{break-before:page; font-weight:800; font-size:24pt; color:var(--sapin); margin:0 0 6mm}
 h3,.h3{font-weight:800; font-size:16pt; line-height:1.15; letter-spacing:-.02em; color:var(--violet); margin:8mm 0 3mm}
 h3::before,.h3::before{content:""; display:block; width:12mm; height:3pt; border-radius:2pt; background:var(--orange); margin-bottom:2.5mm}
 h4,.h4{font-weight:800; font-size:12.5pt; line-height:1.2; color:var(--sapin); margin:6mm 0 2.2mm}
@@ -93,7 +94,7 @@ td img{max-width:100%; height:auto}
 ::footnote-call{font-size:65%; vertical-align:super; line-height:0; font-weight:700; color:var(--orange)}
 
 /* Sommaire */
-.sommaire{break-before:page; string-set:chap "Sommaire"}
+.sommaire{break-before:page}
 .sommaire h1{font-family:Poppins; font-weight:800; font-size:24pt; color:var(--sapin); margin:0 0 6mm}
 .sommaire ol{list-style:none; padding:0; margin:0}
 .sommaire li{margin:0}
@@ -125,3 +126,13 @@ ol.principes li::before{content:counter(pr); position:absolute; left:0; top:-.3m
 blockquote .src{font-family:Poppins; font-weight:700; font-size:7.5pt; letter-spacing:.12em; text-transform:uppercase; color:var(--orange); margin-bottom:2mm}
 .encadre .lbl{font-family:Poppins; font-weight:800; font-size:7.5pt; letter-spacing:.14em; color:var(--orange); margin-bottom:2mm}
 sup.sep{font-size:65%; color:var(--orange)}
+
+/* Numérotation des titres et fil d'Ariane (en-têtes) */
+[data-partie]{string-set:partie attr(data-partie)}
+[data-fil]{string-set:fil attr(data-fil)}
+.no{color:var(--orange); font-weight:800; margin-right:.15em}
+h2.chap .no{color:var(--orange)}
+.pagedjs_margin-top{grid-template-columns:36% 0 64% !important}
+.pagedjs_margin-top-left,.pagedjs_margin-top-right{overflow:hidden}
+.pagedjs_margin-top-left .pagedjs_margin-content{white-space:nowrap; overflow:hidden; text-overflow:ellipsis}
+.pagedjs_margin-top-right .pagedjs_margin-content{white-space:nowrap; overflow:hidden; text-overflow:ellipsis}

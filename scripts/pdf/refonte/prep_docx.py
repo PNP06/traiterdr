@@ -5,11 +5,12 @@
 - SmartArt, graphique et figure en zone de texte -> repère [[SCHEMA:id]], remplacé ensuite par un schéma redessiné ;
 - tout ce qui précède les Remerciements (suivi interne, titres alternatifs, sommaire Word, dédicace)
   est retiré : le gabarit recompose la dédicace, la citation et le sommaire ;
-- notes « A faire » retirées.
+- notes « A faire » retirées ;
+- images EMF/WMF (ignorées par pandoc et Chromium) converties en PNG avec LibreOffice.
 
 Usage : python3 prep_docx.py traite.docx traite-prep.docx
 """
-import re, sys, zipfile
+import os, re, subprocess, sys, tempfile, zipfile
 from lxml import etree
 
 SRC, OUT = sys.argv[1:3]
@@ -72,7 +73,7 @@ for i, el in enumerate(children):
             body.remove(el); stats["retires"] += 1
             continue
     norm = re.sub(r"\s+", " ", t).strip()
-    if norm in NOTES_DE_TRAVAIL:
+    if norm in NOTES_DE_TRAVAIL and el.find(".//w:drawing", NS) is None and el.find(".//w:pict", NS) is None:
         body.remove(el); stats["retires"] += 1
         continue
     if norm in EN_COURS:
@@ -101,13 +102,37 @@ for i, el in enumerate(children):
 
 styles = styles.replace("</w:styles>",
     '<w:style w:type="paragraph" w:customStyle="1" w:styleId="Encadre"><w:name w:val="Encadre"/><w:basedOn w:val="Normal"/></w:style></w:styles>')
+def to_png(name, data):
+    from PIL import Image, ImageChops
+    with tempfile.TemporaryDirectory() as d:
+        src = os.path.join(d, os.path.basename(name))
+        open(src, "wb").write(data)
+        subprocess.run(["soffice", "--headless", "--convert-to", "png", "--outdir", d, src],
+                       check=True, capture_output=True, timeout=300)
+        im = Image.open(os.path.splitext(src)[0] + ".png").convert("RGB")
+        box = ImageChops.difference(im, Image.new("RGB", im.size, "white")).getbbox()
+        if box:
+            im = im.crop(box)
+        out = os.path.join(d, "out.png")
+        im.save(out)
+        return open(out, "rb").read()
+
+vector = [i.filename for i in zin.infolist() if re.search(r"\.(emf|wmf)$", i.filename, re.I)]
 zout = zipfile.ZipFile(OUT, "w", zipfile.ZIP_DEFLATED)
 for item in zin.infolist():
     data = zin.read(item.filename)
+    if item.filename in vector:
+        data = to_png(item.filename, data)
+        item = zipfile.ZipInfo(re.sub(r"\.(emf|wmf)$", ".png", item.filename, flags=re.I), item.date_time)
+    elif item.filename == "word/_rels/document.xml.rels":
+        data = re.sub(rb'(Target="media/[^"]+)\.(emf|wmf)"', rb'\1.png"', data, flags=re.I)
+    elif item.filename == "[Content_Types].xml" and b'Extension="png"' not in data:
+        data = data.replace(b"<Default ", b'<Default Extension="png" ContentType="image/png"/><Default ', 1)
     if item.filename == "word/document.xml":
         data = etree.tostring(root, xml_declaration=True, encoding="UTF-8", standalone=True)
     elif item.filename == "word/styles.xml":
         data = styles.encode("utf8")
     zout.writestr(item, data)
 zout.close()
+stats["images converties"] = len(vector)
 print(stats)
