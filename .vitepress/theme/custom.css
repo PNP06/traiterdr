@@ -527,6 +527,12 @@
   align-items: center;
 }
 
+.pdf-download-panel .meta {
+  margin-top: 6px;
+  font-size: 0.85rem;
+  color: var(--vp-c-text-2);
+}
+
 .pdf-download-actions {
   display: flex;
   flex-wrap: wrap;

@@ -115,5 +115,5 @@ Le traite peut se lire dans l'ordre, mais tout le monde n'arrive pas avec la mem
   <a href="/sommaire">Sommaire complet</a>
   <a href="/essentiels">Passages a lire en premier</a>
   <a href="/figures">Voir les figures utiles</a>
-  <a href="/traite-rdr.pdf">Telecharger le PDF</a>
+  <a href="/traite-rdr.pdf">Télécharger le PDF</a>
 </div>

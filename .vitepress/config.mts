@@ -109,6 +109,7 @@ export default defineConfig({
   cleanUrls: true,
   srcExclude: [
     'sources/**',
+    'scripts/**',
     '00_pilotage/**',
     '02_themes_transversaux/**',
     '03_derives_culturerdr/**',
@@ -157,7 +158,7 @@ export default defineConfig({
           { text: 'Passages a lire en premier', link: '/essentiels' },
           { text: 'Sommaire complet', link: '/sommaire' },
           { text: 'Galerie des figures', link: '/figures' },
-          { text: 'Telecharger le PDF', link: '/pdf' }
+          { text: 'Télécharger le PDF', link: '/pdf' }
         ]
       },
       {
