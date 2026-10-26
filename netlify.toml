@@ -50,3 +50,8 @@
   from = "/references"
   to = "/"
   status = 301
+
+[[headers]]
+  for = "/*.epub"
+  [headers.values]
+    Content-Type = "application/epub+zip"

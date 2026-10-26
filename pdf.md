@@ -11,8 +11,13 @@ La version PDF est la version complète du traité, à télécharger et à garde
   <div class="pdf-download-actions">
     <a href="/traite-rdr.pdf" download>Télécharger le PDF</a>
     <a href="/traite-rdr.pdf">Ouvrir dans le navigateur</a>
+    <a href="/traite-rdr.epub" download>Télécharger pour liseuse (EPUB)</a>
   </div>
 </div>
+
+## Lire sur liseuse
+
+La version EPUB reprend le même texte que le PDF, mais il s'adapte à la taille de l'écran et à la police choisie. Elle marche sur Kobo, Apple Livres, Google Play Livres et Kindle (envoie le fichier avec « Envoyer vers Kindle »). Les notes s'ouvrent d'un clic et le sommaire permet de sauter d'un chapitre à l'autre. Les grands tableaux et schémas restent plus lisibles sur le PDF.
 
 ## Quand utiliser le PDF
 
