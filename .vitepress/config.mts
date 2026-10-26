@@ -51,6 +51,7 @@ export default defineConfig({
     ],
     nav: [
       { text: 'Le traité', link: '/#lire' },
+      { text: 'Rechercher', link: '/recherche' },
       { text: 'Télécharger le PDF', link: '/traite-rdr.pdf', target: '_blank' }
     ],
     outline: {
