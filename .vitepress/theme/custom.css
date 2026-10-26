@@ -3512,6 +3512,36 @@
 }
 
 @media (max-width: 640px) {
+  /* les trois boutons du haut doivent tenir dans le premier écran du téléphone */
+  .rk-hero-inner {
+    gap: 14px;
+    padding: 24px 16px 36px;
+  }
+
+  .rk-hero-koala {
+    width: 76px;
+  }
+
+  .rk-hero-koala img {
+    border-width: 3px;
+  }
+
+  .rk-lead {
+    margin-top: 14px;
+    font-size: 1.05rem;
+  }
+
+  .rk-actions {
+    gap: 10px;
+    margin-top: 20px;
+  }
+
+  .rk-actions .rk-btn {
+    min-height: 42px;
+    padding: 0 16px;
+    font-size: 0.95rem;
+  }
+
   .rk-section {
     padding: 44px 16px 0;
   }
