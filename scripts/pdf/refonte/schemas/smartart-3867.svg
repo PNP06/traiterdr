@@ -1,0 +1,21 @@
+<svg viewBox="0 0 680 330" xmlns="http://www.w3.org/2000/svg" font-family="Poppins">
+<g stroke="#E8794F" stroke-width="2.5" fill="none" stroke-linecap="round">
+<path d="M340 72 V92 M180 92 H470 M180 92 V112 M470 92 V112"/>
+<path d="M400 184 V284 M400 220 H420 M400 284 H420"/>
+</g>
+<g text-anchor="middle" font-weight="800">
+<rect x="250" y="12" width="180" height="60" rx="14" fill="#123A33"/>
+<text x="340" y="50" fill="#D8F25C" font-size="22">60 % d'eau</text>
+<rect x="90" y="112" width="180" height="72" rx="12" fill="#F6EFE2" stroke="#123A33" stroke-width="2"/>
+<text x="180" y="144" fill="#123A33" font-size="20">40 %</text>
+<text x="180" y="168" fill="#123A33" font-size="13" font-weight="600">dans les cellules</text>
+<rect x="380" y="112" width="180" height="72" rx="12" fill="#F6EFE2" stroke="#123A33" stroke-width="2"/>
+<text x="470" y="144" fill="#123A33" font-size="20">20 %</text>
+<text x="470" y="168" fill="#123A33" font-size="13" font-weight="600">en dehors des cellules</text>
+<rect x="420" y="196" width="230" height="48" rx="12" fill="#5B3FCF"/>
+<text x="535" y="226" fill="#F6EFE2" font-size="15"><tspan font-size="17">5 %</tspan> sang</text>
+<rect x="420" y="260" width="230" height="48" rx="12" fill="#5B3FCF"/>
+<text x="535" y="290" fill="#F6EFE2" font-size="15"><tspan font-size="17">15 %</tspan> entre les cellules</text>
+</g>
+</svg>
+<figcaption>Figure . Répartition de l'eau du corps</figcaption>

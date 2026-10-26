@@ -7,6 +7,7 @@ export default defineConfig({
   cleanUrls: true,
   srcExclude: [
     'sources/**',
+    'scripts/**',
     '00_pilotage/**',
     '02_themes_transversaux/**',
     '03_derives_culturerdr/**',

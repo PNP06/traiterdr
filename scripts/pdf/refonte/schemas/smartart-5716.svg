@@ -1,0 +1,27 @@
+<svg viewBox="0 0 680 320" xmlns="http://www.w3.org/2000/svg" font-family="Poppins">
+<rect x="10" y="10" width="660" height="52" rx="12" fill="#F6EFE2"/>
+<rect x="10" y="10" width="210" height="52" rx="12" fill="#123A33"/>
+<circle cx="40" cy="36" r="15" fill="#E8794F"/><text x="40" y="42" text-anchor="middle" font-size="16" font-weight="800" fill="#fff">C</text>
+<text x="66" y="42" font-size="16" font-weight="800" fill="#F6EFE2">Contrôle</text>
+<text x="240" y="41" font-size="14" font-weight="600" fill="#123A33">Perte de contrôle</text>
+<rect x="10" y="72" width="660" height="52" rx="12" fill="#F6EFE2"/>
+<rect x="10" y="72" width="210" height="52" rx="12" fill="#123A33"/>
+<circle cx="40" cy="98" r="15" fill="#E8794F"/><text x="40" y="104" text-anchor="middle" font-size="16" font-weight="800" fill="#fff">C</text>
+<text x="66" y="104" font-size="16" font-weight="800" fill="#F6EFE2">Craving</text>
+<text x="240" y="103" font-size="14" font-weight="600" fill="#123A33">J’ai une « faim » irrépressible de la substance</text>
+<rect x="10" y="134" width="660" height="52" rx="12" fill="#F6EFE2"/>
+<rect x="10" y="134" width="210" height="52" rx="12" fill="#123A33"/>
+<circle cx="40" cy="160" r="15" fill="#E8794F"/><text x="40" y="166" text-anchor="middle" font-size="16" font-weight="800" fill="#fff">C</text>
+<text x="66" y="166" font-size="16" font-weight="800" fill="#F6EFE2">Compulsif</text>
+<text x="240" y="165" font-size="14" font-weight="600" fill="#123A33">Je cède au craving</text>
+<rect x="10" y="196" width="660" height="52" rx="12" fill="#F6EFE2"/>
+<rect x="10" y="196" width="210" height="52" rx="12" fill="#123A33"/>
+<circle cx="40" cy="222" r="15" fill="#E8794F"/><text x="40" y="228" text-anchor="middle" font-size="16" font-weight="800" fill="#fff">C</text>
+<text x="66" y="228" font-size="16" font-weight="800" fill="#F6EFE2">Continu</text>
+<text x="240" y="227" font-size="14" font-weight="600" fill="#123A33">J’en prends continuellement</text>
+<rect x="10" y="258" width="660" height="52" rx="12" fill="#F6EFE2"/>
+<rect x="10" y="258" width="210" height="52" rx="12" fill="#123A33"/>
+<circle cx="40" cy="284" r="15" fill="#E8794F"/><text x="40" y="290" text-anchor="middle" font-size="16" font-weight="800" fill="#fff">C</text>
+<text x="66" y="290" font-size="16" font-weight="800" fill="#F6EFE2">Conséquences</text>
+<text x="240" y="289" font-size="14" font-weight="600" fill="#123A33"><tspan x="240" dy="-8">Conséquences sur ma vie psychologique,</tspan><tspan x="240" dy="17">physique et sociale/affective</tspan></text>
+</svg>
