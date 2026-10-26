@@ -46,6 +46,7 @@ const parts = [
           <div class="rk-actions">
             <a class="rk-btn rk-btn--anis" href="#lire">Lire le traité</a>
             <a class="rk-btn rk-btn--ghost" :href="pdf" download>Télécharger le PDF</a>
+            <a class="rk-btn rk-btn--ghost" :href="epub" download>Version liseuse</a>
           </div>
         </div>
         <div class="rk-hero-koala" aria-hidden="true">
