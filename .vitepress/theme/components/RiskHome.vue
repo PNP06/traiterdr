@@ -10,6 +10,17 @@ const questions = [
   'Quelle drogue fait le plus de dégâts ?'
 ]
 
+const raccourcis = [
+  { label: 'Overdose et secours', href: '/recherche?theme=overdose' },
+  { label: 'Mélanges', href: '/recherche?theme=melanges' },
+  { label: 'Chaleur et hydratation', href: '/recherche?theme=chaleur' },
+  { label: 'Sexualité et consentement', href: '/recherche?theme=sexualite' },
+  { label: 'Alcool', href: '/recherche?produit=alcool' },
+  { label: 'GHB', href: '/recherche?produit=ghb' },
+  { label: 'Cannabis', href: '/recherche?produit=cannabis' },
+  { label: 'MDMA', href: '/recherche?produit=mdma' }
+]
+
 const parts = [
   { title: 'Bien raisonner', text: 'Mythes, heuristiques, biais, sophismes : pourquoi on se trompe sur les drogues, et comment corriger une croyance sans braquer.' },
   { title: 'Comprendre la science', text: 'Ce qu’est une preuve, la différence entre corrélation et causalité, comment lire une étude.' },
@@ -57,6 +68,20 @@ const parts = [
           et des associations de réduction des risques. Il ne dit pas quoi faire : il donne de quoi
           choisir en connaissance de cause.
         </p>
+      </div>
+    </section>
+
+    <section class="rk-section rk-cherche">
+      <p class="rk-pill">Chercher</p>
+      <h2>Une question précise ? <mark>Cherche-la</mark></h2>
+      <form class="rk-champ" action="/recherche" method="get" role="search">
+        <label for="rk-accueil-q" class="rk-sr">Mot-clé</label>
+        <input id="rk-accueil-q" name="q" type="search" placeholder="Ex. : hydratation, GHB, placebo…">
+        <button class="rk-btn rk-btn--sapin" type="submit">Rechercher</button>
+      </form>
+      <div class="rk-pastilles">
+        <a v-for="r in raccourcis" :key="r.href" :href="r.href">{{ r.label }}</a>
+        <a href="/recherche" class="rk-pastille-tout">Tous les thèmes →</a>
       </div>
     </section>
 

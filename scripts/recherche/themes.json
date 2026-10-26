@@ -1,0 +1,442 @@
+{
+  "themes": [
+    {
+      "id": "rdr",
+      "label": "Comprendre la RDR",
+      "sections": [
+        "A",
+        "B.1.5",
+        "C"
+      ],
+      "mots": [
+        "réduction des risques",
+        "prévention"
+      ]
+    },
+    {
+      "id": "mythes",
+      "label": "Idées reçues",
+      "sections": [
+        "B.3",
+        "B.4",
+        "B.5",
+        "B.6",
+        "B.7",
+        "B.8",
+        "B.9",
+        "B.10",
+        "B.11",
+        "B.12",
+        "B.13",
+        "B.14",
+        "B.15"
+      ],
+      "mots": [
+        "mythe*",
+        "idée reçue",
+        "idées reçues"
+      ]
+    },
+    {
+      "id": "biais",
+      "label": "Biais et esprit critique",
+      "sections": [
+        "B.1.1",
+        "B.1.2",
+        "B.1.3",
+        "B.1.4",
+        "B.1.6"
+      ],
+      "mots": [
+        "biais",
+        "heuristique*",
+        "sophisme*"
+      ]
+    },
+    {
+      "id": "science",
+      "label": "Science et preuves",
+      "sections": [
+        "B.2",
+        "B.6.1"
+      ],
+      "mots": [
+        "causalité",
+        "corrélation",
+        "méta-analyse",
+        "étude randomisée",
+        "niveau de preuve"
+      ]
+    },
+    {
+      "id": "cerveau",
+      "label": "Cerveau et neurotransmetteurs",
+      "sections": [
+        "D.1.1",
+        "D.1.2",
+        "D.1.3",
+        "D.2"
+      ],
+      "mots": [
+        "neurotransmetteur*",
+        "dopamine",
+        "sérotonine",
+        "synapse*",
+        "récepteur*"
+      ]
+    },
+    {
+      "id": "tolerance",
+      "label": "Tolérance et cerveau des 15-25 ans",
+      "sections": [
+        "D.1.4",
+        "D.1.5"
+      ],
+      "mots": [
+        "tolérance",
+        "accoutumance",
+        "tachyphylaxie",
+        "adolescen*"
+      ]
+    },
+    {
+      "id": "corps",
+      "label": "Ce que devient une drogue dans le corps",
+      "sections": [
+        "D.3"
+      ],
+      "mots": [
+        "absorption",
+        "métabolisme",
+        "demi-vie",
+        "élimination",
+        "voie d'administration"
+      ]
+    },
+    {
+      "id": "psycho",
+      "label": "Placebo et santé mentale",
+      "sections": [
+        "D.4",
+        "B.9"
+      ],
+      "mots": [
+        "placebo",
+        "nocebo",
+        "anxiété",
+        "dépression",
+        "psychose",
+        "schizophrénie"
+      ]
+    },
+    {
+      "id": "classer",
+      "label": "Classer les drogues et leurs dangers",
+      "sections": [
+        "E"
+      ],
+      "mots": [
+        "classification*",
+        "dangerosité",
+        "dommages",
+        "toxicité aiguë"
+      ]
+    },
+    {
+      "id": "loi",
+      "label": "Loi et risques juridiques",
+      "sections": [
+        "A.7",
+        "E.3.1",
+        "F.2",
+        "B.15.1",
+        "B.15.5"
+      ],
+      "mots": [
+        "amende",
+        "juridique",
+        "stupéfiant",
+        "pénal",
+        "législation"
+      ]
+    },
+    {
+      "id": "sexualite",
+      "label": "Sexualité et consentement",
+      "sections": [
+        "G.1",
+        "B.13",
+        "B.14"
+      ],
+      "mots": [
+        "consentement",
+        "sexualité",
+        "soumission chimique",
+        "chemsex",
+        "vulnérabilité"
+      ]
+    },
+    {
+      "id": "chaleur",
+      "label": "Chaleur, hydratation, convulsions",
+      "sections": [
+        "G.2",
+        "G.3",
+        "G.4",
+        "G.5"
+      ],
+      "mots": [
+        "hydratation",
+        "hyperthermie",
+        "hypothermie",
+        "coup de chaleur",
+        "convulsion*",
+        "hyponatrémie",
+        "allergie"
+      ]
+    },
+    {
+      "id": "badtrip",
+      "label": "Badtrip et mal-être",
+      "sections": [
+        "G.6",
+        "B.9.1"
+      ],
+      "mots": [
+        "badtrip",
+        "bad trip",
+        "crise d'angoisse",
+        "attaque de panique",
+        "set and setting"
+      ]
+    },
+    {
+      "id": "overdose",
+      "label": "Overdose et secours",
+      "sections": [
+        "G.7"
+      ],
+      "mots": [
+        "overdose",
+        "surdose",
+        "intoxication",
+        "naloxone",
+        "position latérale de sécurité",
+        "appeler le 15",
+        "secours"
+      ]
+    },
+    {
+      "id": "melanges",
+      "label": "Mélanges et interactions",
+      "sections": [
+        "G.8"
+      ],
+      "mots": [
+        "interaction*",
+        "mélange*",
+        "polyconsommation",
+        "syndrome sérotoninergique"
+      ]
+    },
+    {
+      "id": "analyses",
+      "label": "Analyser ses produits",
+      "sections": [
+        "G.9",
+        "B.15"
+      ],
+      "mots": [
+        "analyse* de produit*",
+        "drug checking",
+        "réactif*",
+        "produit de coupe",
+        "pureté"
+      ]
+    },
+    {
+      "id": "apres",
+      "label": "Sommeil, descente, sevrage",
+      "sections": [
+        "F.1",
+        "H.1",
+        "H.2"
+      ],
+      "mots": [
+        "sommeil",
+        "descente",
+        "sevrage",
+        "delirium tremens"
+      ]
+    },
+    {
+      "id": "addiction",
+      "label": "Addiction et dépendance",
+      "sections": [
+        "H.3",
+        "B.11",
+        "B.7"
+      ],
+      "mots": [
+        "addiction",
+        "dépendance",
+        "craving",
+        "usage problématique"
+      ]
+    },
+    {
+      "id": "cancer",
+      "label": "Cancer et risques à long terme",
+      "sections": [
+        "H.4"
+      ],
+      "mots": [
+        "cancer",
+        "cancérogène*",
+        "tumeur*"
+      ]
+    },
+    {
+      "id": "sante-publique",
+      "label": "Santé publique, prix, taxes",
+      "sections": [
+        "B.3",
+        "B.4",
+        "B.5"
+      ],
+      "mots": [
+        "santé publique",
+        "taxe*",
+        "coût social",
+        "prix"
+      ]
+    }
+  ],
+  "produits": [
+    {
+      "id": "alcool",
+      "label": "Alcool",
+      "mots": [
+        "alcool",
+        "éthanol",
+        "alcoolémie",
+        "vin",
+        "bière"
+      ]
+    },
+    {
+      "id": "tabac",
+      "label": "Tabac et nicotine",
+      "mots": [
+        "tabac",
+        "nicotine",
+        "cigarette*"
+      ]
+    },
+    {
+      "id": "cannabis",
+      "label": "Cannabis",
+      "mots": [
+        "cannabis",
+        "THC",
+        "CBD",
+        "cannabinoïde*"
+      ]
+    },
+    {
+      "id": "mdma",
+      "label": "MDMA, ecstasy",
+      "mots": [
+        "MDMA",
+        "ecstasy"
+      ]
+    },
+    {
+      "id": "cocaine",
+      "label": "Cocaïne",
+      "mots": [
+        "cocaïne",
+        "crack"
+      ]
+    },
+    {
+      "id": "ketamine",
+      "label": "Kétamine",
+      "mots": [
+        "kétamine"
+      ]
+    },
+    {
+      "id": "ghb",
+      "label": "GHB, GBL",
+      "mots": [
+        "GHB",
+        "GBL"
+      ]
+    },
+    {
+      "id": "psychedeliques",
+      "label": "LSD, champignons",
+      "mots": [
+        "LSD",
+        "psilocybine",
+        "champignon*",
+        "psychédélique*"
+      ]
+    },
+    {
+      "id": "cathinones",
+      "label": "3-MMC, cathinones",
+      "mots": [
+        "3-MMC",
+        "cathinone*"
+      ]
+    },
+    {
+      "id": "opioides",
+      "label": "Opioïdes",
+      "mots": [
+        "opioïde*",
+        "héroïne",
+        "morphine",
+        "fentanyl",
+        "méthadone"
+      ]
+    },
+    {
+      "id": "benzos",
+      "label": "Benzodiazépines",
+      "mots": [
+        "benzodiazépine*",
+        "benzo*",
+        "Xanax"
+      ]
+    },
+    {
+      "id": "rc",
+      "label": "RC, nouveaux produits",
+      "mots": [
+        "research chemical",
+        "NPS",
+        "nouveaux produits de synthèse",
+        "RC"
+      ]
+    },
+    {
+      "id": "amphetamines",
+      "label": "Amphétamines",
+      "mots": [
+        "amphétamine*",
+        "speed",
+        "méthamphétamine"
+      ]
+    },
+    {
+      "id": "protoxyde",
+      "label": "Protoxyde d'azote",
+      "mots": [
+        "protoxyde"
+      ]
+    }
+  ]
+}

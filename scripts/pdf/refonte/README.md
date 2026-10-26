@@ -10,3 +10,5 @@ Source : le fichier Word du traité (non versionné). Chaîne :
 6. `python3 check_text.py prep.html traite.pdf` : liste les suites de mots du Word absentes du PDF (les tableaux sortent souvent en faux positifs, l'ordre des cellules change).
 
 Plan de travail et journal : `Traité/00_pilotage/14_plan_refonte_pdf.md`.
+
+Après chaque nouveau PDF publié dans `public/traite-rdr.pdf`, relancer `python3 scripts/recherche/build_index.py` pour mettre à jour la page Rechercher.
