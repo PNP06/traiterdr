@@ -3934,3 +3934,8 @@ li.rk-question:hover {
     flex-wrap: wrap;
   }
 }
+
+.rk-epub-note {
+  margin: -6px 0 18px;
+  font-size: 0.92rem;
+}

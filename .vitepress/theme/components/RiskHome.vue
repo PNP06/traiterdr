@@ -1,5 +1,6 @@
 <script setup lang="ts">
 const pdf = '/traite-rdr.pdf'
+const epub = '/traite-rdr.epub'
 
 const questions = [
   'Un verre de vin par jour, c’est bon pour la santé ?',
@@ -111,7 +112,9 @@ const parts = [
       <div class="rk-reader-actions">
         <a class="rk-btn rk-btn--sapin" :href="pdf" target="_blank" rel="noopener">Ouvrir en plein écran</a>
         <a class="rk-btn rk-btn--line" :href="pdf" download>Télécharger le PDF</a>
+        <a class="rk-btn rk-btn--line" :href="epub" download>Télécharger pour liseuse</a>
       </div>
+      <p class="rk-sub rk-epub-note">Version liseuse (EPUB) : Kobo, Kindle, Apple Livres, Google Play Livres. Le texte s'adapte à l'écran, les notes s'ouvrent d'un clic.</p>
       <div class="rk-pdf">
         <iframe :src="`${pdf}#view=FitH`" title="Traité de réduction des risques (PDF)" loading="lazy"></iframe>
       </div>

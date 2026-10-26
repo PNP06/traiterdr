@@ -1,0 +1,68 @@
+/* Version liseuse : la police et la taille du texte restent celles choisies sur la liseuse */
+body { margin: 0 4%; line-height: 1.45; }
+p { margin: 0 0 .6em; text-align: justify; hyphens: auto; -webkit-hyphens: auto; }
+a { color: #123A33; }
+h1, h2, h3, h4, h5, h6 { font-family: sans-serif; text-align: left; line-height: 1.2; page-break-after: avoid; break-after: avoid; hyphens: none; }
+h1 { font-size: 1.7em; margin: 1.2em 0 .8em; color: #123A33; }
+h2 { font-size: 1.45em; margin: 1em 0 .7em; color: #123A33; }
+h3 { font-size: 1.2em; margin: 1.4em 0 .5em; color: #5B3FCF; border-top: 3px solid #E8794F; padding-top: .3em; }
+h4 { font-size: 1.05em; margin: 1.2em 0 .4em; color: #123A33; }
+h5 { font-size: 1em; margin: 1em 0 .3em; color: #5B3FCF; }
+h6, .h7 { font-size: 1em; margin: 1em 0 .3em; font-style: italic; color: #123A33; }
+.no { color: #E8794F; }
+
+/* Ouvertures de partie */
+section.partie { page-break-before: always; padding-top: 2em; }
+.partie-num { font-family: sans-serif; font-weight: bold; letter-spacing: .15em; text-transform: uppercase; color: #E8794F; margin: 0; }
+section.partie h1 { font-size: 2.2em; margin-top: .2em; }
+.partie-toc { list-style: none; padding: 0; margin: 1.5em 0; }
+.partie-toc li { margin: 0 0 .5em; font-family: sans-serif; }
+.partie-toc a { text-decoration: none; }
+
+/* Encadrés, citations */
+.encadre { background: #F6EFE2; border-left: 4px solid #E8794F; padding: .7em .9em; margin: 1em 0; color: #123A33; }
+.encadre.fin { background: #123A33; color: #F6EFE2; }
+.encadre.fin a, .encadre.fin strong { color: #D8F25C; }
+.encadre p:last-child { margin-bottom: 0; }
+.encadre .lbl, blockquote .src { font-family: sans-serif; font-weight: bold; font-size: .75em; letter-spacing: .12em; text-transform: uppercase; color: #E8794F; }
+blockquote { margin: 1em 0; padding: 0 0 0 1em; border-left: 3px solid #5B3FCF; font-style: italic; }
+.key { background: #F6EFE2; border-left: 4px solid #E8794F; padding: .6em .9em; margin: 1em 0; font-weight: bold; color: #123A33; }
+.lead { font-size: 1.05em; }
+.list, .arrows { padding-left: 1.2em; }
+.arrows { list-style: "→ "; }
+
+/* Figures et tableaux */
+figure { margin: 1.2em 0; text-align: center; page-break-inside: avoid; }
+figure img, figure svg { max-width: 100%; height: auto; }
+figure img { width: 100%; }
+figcaption, .legende { font-size: .85em; color: #4a5a57; text-align: center; margin-top: .4em; }
+table { border-collapse: collapse; width: 100%; font-size: .8em; margin: 1em 0; }
+th, td { border: 1px solid #b9c4c1; padding: .3em .4em; vertical-align: top; text-align: left; }
+tr.header, th { background: #123A33; color: #F6EFE2; }
+td p, th p { text-align: left; margin: 0 0 .3em; hyphens: auto; }
+td img { max-width: 100%; height: auto; }
+.schema-a-faire { border: 1px dashed #E8794F; padding: .5em; text-align: center; font-size: .85em; }
+
+/* Notes */
+sup a.appel { text-decoration: none; font-size: .75em; padding: 0 .1em; }
+section.notes { margin-top: 2em; border-top: 1px solid #b9c4c1; font-size: .85em; }
+h2.notes-titre { font-size: 1.1em; }
+aside p { text-align: left; }
+
+/* Pages liminaires */
+.couverture { text-align: center; margin: 0; padding: 0; }
+.couverture img { max-width: 100%; max-height: 100%; }
+.dedicace, .citation { page-break-before: always; padding-top: 3em; text-align: center; font-style: italic; }
+.citation blockquote { border: 0; font-size: 1.15em; padding: 0; }
+.auteur { font-size: .85em; font-style: normal; }
+.version .ver { font-family: sans-serif; font-weight: bold; color: #E8794F; letter-spacing: .08em; }
+.version ul { padding-left: 1.2em; }
+.liseuse { font-size: .85em; color: #4a5a57; }
+nav ol { list-style: none; padding-left: 1em; }
+nav > ol { padding-left: 0; }
+nav li { margin: .3em 0; }
+nav a { text-decoration: none; }
+span.figure { display: block; margin: 1em 0; text-align: center; }
+span.figure img { max-width: 100%; height: auto; }
+span.legende { display: block; }
+aside p { overflow-wrap: anywhere; word-break: break-word; }
