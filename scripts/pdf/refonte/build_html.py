@@ -12,6 +12,7 @@ Usage : python3 build_html.py prep.html traite.html [corrections.tsv]
 """
 import json, os, re, sys
 import fitz
+from PIL import Image
 from bs4 import BeautifulSoup, NavigableString, Tag
 
 SRC, OUT = sys.argv[1:3]
@@ -113,7 +114,22 @@ for bq in soup.find_all("blockquote"):
     if bq.find("img") and not bq.get_text(strip=True):  # image simplement en retrait dans Word
         bq.unwrap()
 for img in soup.find_all("img"):
+    # taille choisie dans Word (largeur du texte Word : 170 mm, ici 168 mm), hauteur limitée à 200 mm
+    m = re.search(r"width:([\d.]+)in;height:([\d.]+)in", img.get("style", ""))
     img.attrs.pop("style", None)
+    if m:
+        l, h = (float(x) * 25.4 * 168 / 170 for x in m.groups())
+        if not img.find_parent(["td", "th"]) and l < 90:
+            # figure réduite dans Word : on la remonte à 90 mm si l'image est assez fine pour ça (150 dpi)
+            try:
+                px = Image.open(img["src"]).width
+                l2 = min(90, px * 25.4 / 150)
+                h, l = h * max(l, l2) / l, max(l, l2)
+            except OSError:
+                pass
+        if h > 200:
+            l = l * 200 / h
+        img["style"] = "width:%.1fmm" % l
     img.attrs.pop("width", None)
     img.attrs.pop("height", None)
     if img.find_parent(["td", "th"]):
