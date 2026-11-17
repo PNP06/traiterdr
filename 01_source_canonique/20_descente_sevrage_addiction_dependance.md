@@ -667,8 +667,8 @@ existent. Voici un récapitulatif.
 | --- | --- | --- |
 | Psychologue | C’est un scientifique qui analyse <br> l’état mental et accompagne son client avec différentes méthodes. On ne parle <br> pas ici de patient. | Bac + 5 en psychologie |
 | Psychiatre | C’est un médecin qui traite les <br> troubles psychologiques. Il peut donc prescrire des médicaments. Il a une <br> approche psychologique et médicale. | Médecine |
-| Psychothérapeute | C’est une fonction, cela <br> signifie « soigner par la parole » les psychologues et les <br> psychiatres sont également psychothérapeute | Sans être psychologue ou <br> psychiatre il faut avoir Bac+5 et une formation complémentaire |
-| Psychanalyste | C’est une fonction. Cela <br> signifie utiliser la psychanalyse, technique développée par Freud. | Être psychologue ou <br> psychiatre et avoir suivi une psychanalyse soi-même |
+| Psychothérapeute | C’est un titre protégé par la loi <br> depuis 2010. Cela signifie « soigner par la parole ». Seuls les professionnels <br> inscrits sur un registre officiel (numéro RPPS) peuvent le porter. Les psychiatres <br> l’obtiennent sans formation supplémentaire, les autres médecins et les psychologues <br> avec une formation allégée. | Être médecin ou avoir un master <br> de psychologie ou de psychanalyse, puis suivre une formation en psychopathologie <br> clinique (400 h et un stage de 5 mois) |
+| Psychanalyste | C’est un titre non protégé : <br> n’importe qui peut se dire psychanalyste. Cela signifie utiliser la psychanalyse, <br> technique développée par Freud. | Aucun diplôme exigé par la loi. <br> Les écoles de psychanalyse demandent en général d’avoir suivi soi-même une <br> psychanalyse. Certains psychanalystes sont aussi psychiatres ou psychologues : <br> à vérifier. |
 | Addictologue | C’est une fonction et non un <br> métier | Médecin généraliste ou <br> psychiatre ayant une spécialisation complémentaire en addictologie |
 | Éducateur spécialisé | Au cœur de l’accompagnement <br> des patients. Ils aident les personnes à retrouver leurs autonomies, et <br> développer leur socialisation et leur insertion | Diplôme d’état d’éducateur spécialisé (bac + 3). |
 
