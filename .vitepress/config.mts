@@ -35,7 +35,10 @@ export default defineConfig({
     ['link', { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css2?family=Poppins:wght@600;700;800&display=swap' }],
     ['meta', { property: 'og:image', content: '/koala.webp' }],
     ['meta', { name: 'robots', content: 'index,follow' }],
-    ['link', { rel: 'icon', href: '/risky-logo.png' }]
+    ['link', { rel: 'icon', href: '/risky-logo.png' }],
+    // Pied de page commun aux projets DDlab : © David Devesa et lien vers les mentions légales
+    ['meta', { name: 'author', content: 'David Devesa' }],
+    ['script', { src: 'https://ddlab.fr/pied.js', defer: '' }]
   ],
   themeConfig: {
     logo: '/risky-logo.png',

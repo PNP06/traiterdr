@@ -1,0 +1,9 @@
+# Repris de netlify.toml : le site tient sur une page, les anciennes pages renvoient vers l'accueil.
+/01_source_canonique/* /#lire 301
+/lire /#lire 301
+/sommaire /#lire 301
+/essentiels / 301
+/figures / 301
+/substances / 301
+/themes / 301
+/references / 301
